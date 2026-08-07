@@ -1,10 +1,7 @@
-آخرین آپدیت: 2026-08-07 12:27:35 UTC
+آخرین آپدیت: 2026-08-07 13:50:18 UTC
 کانال: @azadi_az_inja_migzare
 ========================================
 
-[2026-07-23T00:15:30+00:00] (id:10359)
-https://github.com/WhiteDNS/WhiteDNS-Android/releases/tag/v1.5.1c-rc15
-----------------------------------------
 [2026-07-23T00:16:20+00:00] (id:10360)
 CottenDns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiYyIsInNlcnZlciI6eyJkb21haW4iOiJjLmJhbWFrLnh5eiIsImVuY3J5cHRpb25fa2V5IjoiMmRkZWI5ZGYyYzJiYTRkMyIsImVuY3J5cHRpb25fbWV0aG9kIjozLCJzZXJ2ZXJfdHlwZSI6ImNvdHRlbmRucyJ9fX0
 
@@ -101,4 +98,7 @@ https://raw.githubusercontent.com/JavidnamanIran-at-Telegram/sing-box_sub/refs/h
 ----------------------------------------
 [2026-08-06T23:25:59+00:00] (id:10378)
 https://www.youtube.com/watch?v=VYfQePhgEUU
+----------------------------------------
+[2026-08-07T13:19:50+00:00] (id:10379)
+https://youtu.be/filwdiPKN90?si=O-hvgeNw43t4BUmR
 ----------------------------------------
