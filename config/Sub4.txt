@@ -290,3 +290,7 @@ trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos#%F0%
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@fuckfangbinxing.pusytroller.gq:2095?encryption=none&security=none&type=ws#%F0%9F%A7%8587@oneclickvpnkeys
 trojan://ND91608427@44.246.163.102:443?fp=chrome&sni=fleet-bonefish.rooster465.autos#%F0%9F%A7%8588@oneclickvpnkeys
 trojan://ND91608427@ace-starling.rooster465.autos:443#%F0%9F%A7%8590@oneclickvpnkeys
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.240.40:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.240.40:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
+vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%40vmesskhodam
+ss://YWVzLTI1Ni1nY206Wm1ReE9EQXpOREExT0RWaE9UbGtPV0V4TVRGbE1qVTFaV0poTTJReA@188.213.196.222:9138#%40vmesskhodam
