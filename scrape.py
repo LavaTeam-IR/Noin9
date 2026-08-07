@@ -4,25 +4,33 @@
 https://t.me/s/<channel_username>
 بدون نیاز به بات یا اکانت شخصی.
 
-برای هر کانال:
-  - یک فایل <channel>.txt با ۲۰ پیام متنی آخر (هر بار کامل بازنویسی می‌شه)
-  - یک پوشه media/<channel>/ با فایل‌های مدیای ۲۰ پیام آخر (قدیمی‌ها پاک می‌شن)
+خروجی:
+  - media/<channel>.txt : فقط ۲۰ پیام متنی عادی آخر (هر بار کامل بازنویسی می‌شه)
+  - config/Sub1.txt, Sub2.txt, ... : خط‌هایی که با پیشوندهای کانفیگ VPN شروع بشن
+    (هیچ‌وقت پاک نمی‌شن، فقط اضافه می‌شن، تکراری حذف می‌شه، هر فایل حداکثر ۶۰۰ خط)
 """
 
 import os
 import re
 import time
-import mimetypes
 import requests
 from bs4 import BeautifulSoup
 
 CHANNELS_FILE = "channels.txt"
 MEDIA_DIR = "media"
+CONFIG_DIR = "config"
 LAST_N = 20
+MAX_PER_CONFIG_FILE = 600
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 }
+
+CONFIG_PREFIXES = (
+    "vmess://", "vless://", "trojan://", "ss://", "shadowsocks://",
+    "wg://", "wireguard://", "warp://", "reality://",
+)
 
 
 def load_channels(path):
@@ -36,13 +44,6 @@ def clean_text(el):
     text = el.get_text()
     text = re.sub(r"\n{3,}", "\n\n", text).strip()
     return text
-
-
-def extract_bg_url(style):
-    if not style:
-        return None
-    m = re.search(r"url\((['\"]?)(.*?)\1\)", style)
-    return m.group(2) if m else None
 
 
 def parse_messages(html, n=LAST_N):
@@ -64,28 +65,7 @@ def parse_messages(html, n=LAST_N):
         text_el = block.select_one(".tgme_widget_message_text")
         text = clean_text(text_el) if text_el else ""
 
-        media = []
-
-        photo_el = block.select_one(".tgme_widget_message_photo_wrap")
-        if photo_el:
-            url = extract_bg_url(photo_el.get("style"))
-            if url:
-                media.append(("photo", url))
-
-        video_el = block.select_one("video.tgme_widget_message_video")
-        if video_el and video_el.get("src"):
-            media.append(("video", video_el.get("src")))
-
-        doc_el = block.select_one("a.tgme_widget_message_document_wrap")
-        if doc_el and doc_el.get("href"):
-            media.append(("document", doc_el.get("href")))
-
-        parsed.append({
-            "id": msg_id,
-            "date": date_str,
-            "text": text,
-            "media": media,
-        })
+        parsed.append({"id": msg_id, "date": date_str, "text": text})
 
     return parsed
 
@@ -97,65 +77,84 @@ def fetch_channel_html(channel):
     return resp.text
 
 
-def download_media(channel, messages):
-    channel_dir = os.path.join(MEDIA_DIR, channel)
-    os.makedirs(channel_dir, exist_ok=True)
-
-    kept_ids = set()
-
-    for msg in messages:
-        if not msg["media"]:
-            continue
-        for idx, (kind, url) in enumerate(msg["media"]):
-            file_id = f"{msg['id']}_{idx}"
-            kept_ids.add(file_id)
-
-            # اگه فایلی با همین آیدی از قبل هست، دوباره دانلود نکن
-            existing = [f for f in os.listdir(channel_dir) if f.startswith(file_id + ".")]
-            if existing:
-                continue
-
-            try:
-                r = requests.get(url, headers=HEADERS, timeout=30)
-                r.raise_for_status()
-                ext = mimetypes.guess_extension(r.headers.get("Content-Type", "").split(";")[0].strip()) or ".bin"
-                if ext == ".jpe":
-                    ext = ".jpg"
-                path = os.path.join(channel_dir, f"{file_id}{ext}")
-                with open(path, "wb") as f:
-                    f.write(r.content)
-            except requests.RequestException as e:
-                print(f"  [!] خطا در دانلود مدیای پیام {msg['id']} از @{channel}: {e}")
-
-    # پاکسازی فایل‌های قدیمی که دیگه جزو ۲۰ پیام آخر نیستن
-    for fname in os.listdir(channel_dir):
-        file_id = fname.rsplit(".", 1)[0]
-        if file_id not in kept_ids:
-            os.remove(os.path.join(channel_dir, fname))
+def split_message(msg):
+    """پیام رو به دو دسته تقسیم می‌کنه: خط‌های کانفیگ و بقیه‌ی متن.
+    اگه پیام حداقل یک خط کانفیگ داشته باشه، کل پیام «کانفیگ» حساب می‌شه
+    و از فایل متنی عادی حذف می‌شه."""
+    lines = msg["text"].splitlines()
+    config_lines = [ln.strip() for ln in lines if ln.strip().lower().startswith(CONFIG_PREFIXES)]
+    return config_lines
 
 
-def write_text_file(channel, messages):
+def write_media_text(channel, normal_messages):
     lines = [f"آخرین آپدیت: {time.strftime('%Y-%m-%d %H:%M:%S UTC', time.gmtime())}",
              f"کانال: @{channel}", "=" * 40, ""]
 
-    if not messages:
+    if not normal_messages:
         lines.append("[پیامی یافت نشد یا کانال خصوصی/نامعتبر است]")
     else:
-        for msg in messages:
+        for msg in normal_messages:
             lines.append(f"[{msg['date']}] (id:{msg['id']})")
-            lines.append(msg["text"] if msg["text"] else "(بدون متن / فقط رسانه)")
-            if msg["media"]:
-                kinds = ", ".join(k for k, _ in msg["media"])
-                lines.append(f"[پیوست: {kinds}]")
+            lines.append(msg["text"] if msg["text"] else "(بدون متن)")
             lines.append("-" * 40)
 
-    with open(f"{channel}.txt", "w", encoding="utf-8") as f:
+    os.makedirs(MEDIA_DIR, exist_ok=True)
+    with open(os.path.join(MEDIA_DIR, f"{channel}.txt"), "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
+
+
+def load_existing_configs():
+    os.makedirs(CONFIG_DIR, exist_ok=True)
+    files = sorted(
+        [f for f in os.listdir(CONFIG_DIR) if re.match(r"^Sub\d+\.txt$", f)],
+        key=lambda x: int(re.search(r"\d+", x).group())
+    )
+    existing = set()
+    for fname in files:
+        with open(os.path.join(CONFIG_DIR, fname), "r", encoding="utf-8") as fh:
+            for line in fh:
+                line = line.strip()
+                if line:
+                    existing.add(line)
+    return existing, files
+
+
+def append_new_configs(new_configs, existing_set, files):
+    to_add = []
+    for cfg in new_configs:
+        if cfg not in existing_set:
+            existing_set.add(cfg)
+            to_add.append(cfg)
+    if not to_add:
+        return 0
+
+    if files:
+        last_num = int(re.search(r"\d+", files[-1]).group())
+        path = os.path.join(CONFIG_DIR, files[-1])
+        with open(path, "r", encoding="utf-8") as fh:
+            current_count = sum(1 for line in fh if line.strip())
+    else:
+        last_num = 1
+        path = os.path.join(CONFIG_DIR, f"Sub{last_num}.txt")
+        current_count = 0
+
+    for cfg in to_add:
+        if current_count >= MAX_PER_CONFIG_FILE:
+            last_num += 1
+            path = os.path.join(CONFIG_DIR, f"Sub{last_num}.txt")
+            current_count = 0
+        with open(path, "a", encoding="utf-8") as fh:
+            fh.write(cfg + "\n")
+        current_count += 1
+
+    return len(to_add)
 
 
 def main():
     channels = load_channels(CHANNELS_FILE)
-    os.makedirs(MEDIA_DIR, exist_ok=True)
+    existing_configs, config_files = load_existing_configs()
+
+    all_new_configs = []
 
     for channel in channels:
         print(f"در حال پردازش @{channel} ...")
@@ -166,10 +165,18 @@ def main():
             print(f"  [!] خطا در دریافت @{channel}: {e}")
             messages = []
 
-        write_text_file(channel, messages)
-        if messages:
-            download_media(channel, messages)
+        normal_messages = []
+        for msg in messages:
+            config_lines = split_message(msg)
+            if config_lines:
+                all_new_configs.extend(config_lines)
+            else:
+                normal_messages.append(msg)
 
+        write_media_text(channel, normal_messages)
+
+    added = append_new_configs(all_new_configs, existing_configs, config_files)
+    print(f"{added} کانفیگ جدید اضافه شد.")
     print("تمام شد.")
 
 
