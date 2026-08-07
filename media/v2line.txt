@@ -1,0 +1,139 @@
+آخرین آپدیت: 2026-08-07 11:53:12 UTC
+کانال: @v2line
+========================================
+
+[2024-10-27T05:30:39+00:00] (id:926)
+#usage_report  v2Line Free Services Usage Report From October 12 to October 19, 2024  Connected Users: +1,540,000 people Data Transfer: +136,660 GB  Most Traffic From Countries: 1. Turkmenistan 2. Russian Federation 3. Iran 4. Indonesia 5. Myanmar  Most Traffic…
+----------------------------------------
+[2024-11-03T05:31:14+00:00] (id:944)
+#usage_report  v2Line Free Services Usage Report From October 19 to October 26, 2024  Connected Users: +1,325,000 people Data Transfer: +112,140 GB  Most Traffic From Countries: 1. Russian Federation 2. Iran 3. Indonesia 4. Myanmar 5. Kenya  Most Traffic To…
+----------------------------------------
+[2024-11-10T05:31:04+00:00] (id:962)
+#usage_report  v2Line Free Services Usage Report From October 26 to November 2, 2024  Connected Users: +1,430,000 people Data Transfer: +113,200 GB  Most Traffic From Countries: 1. Russian Federation 2. Iran 3. Kenya 4. Indonesia 5. Myanmar  Most Traffic To…
+----------------------------------------
+[2024-11-25T08:45:01+00:00] (id:990)
+❌ #Incident
+
+Dear v2Line Users,
+Greetings
+
+Unfortunately, since yesterday, we have been experiencing severe DDoS attacks, which have affected all of our servers.
+
+Our technical team is actively working to assess the situation and restore services to normal. We will notify you as soon as the situation stabilizes.
+
+We sincerely apologize for this interruption in our services and appreciate your patience during this time.
+
+Best regards
+v2Line Team
+🧡 t.me/v2Line
+----------------------------------------
+[2024-11-26T00:31:22+00:00] (id:991)
+❌ #Incident  Dear v2Line Users, Greetings  Unfortunately, since yesterday, we have been experiencing severe DDoS attacks, which have affected all of our servers.  Our technical team is actively working to assess the situation and restore services to normal.…
+----------------------------------------
+[2024-11-27T17:31:19+00:00] (id:995)
+😄 #Incident  Dear v2Line Users,  As we mentioned in our previous message, our network was under DDoS attacks. Fortunately, the attacks have largely been repelled, and the network status is currently being closely monitored and analyzed by our technical team.…
+----------------------------------------
+[2024-11-28T20:30:35+00:00] (id:996)
+(بدون متن)
+----------------------------------------
+[2024-11-28T20:30:38+00:00] (id:997)
+(بدون متن)
+----------------------------------------
+[2024-11-28T21:30:01+00:00] (id:998)
+Based on the survey (so far), why is a proxy located in Almaty, Kazakhstan 🇰🇿 needed and important for you?
+
+Please write in the comments.
+----------------------------------------
+[2024-12-01T03:30:47+00:00] (id:999)
+✅ v2Line is completely Free!                     
+
+Do we have to pay to use v2Line services?
+🔵 Using all v2Line services is completely free and does not involve any costs. We have always been committed to providing our services for free and have no interest in imposing restrictions on them.
+
+Where does v2Line's funding come from?
+🪫 Currently, all infrastructure and network maintenance costs for v2Line are covered by advertising revenue. However, this amount is limited, and with the daily increase in v2Line users, we are compelled to upgrade the network and expand our infrastructure.
+
+How can users help?
+🔋 You, the users, can support the v2Line project as volunteers and help keep it alive.
+
+Ways to contribute? 🤝 
+1. Donate Telegram Stars. ⭐️
+
+2. Donate Cryptocurrencies.
+
+💲USDT, 🔴TRX, 🪙TON, etc.
+(By clicking the below button)
+https://donate.v2line.org
+
+Thanks for your trust. ❤️ 
+
+Best regards,  
+v2Line Team
+🧡 t.me/v2Line
+----------------------------------------
+[2024-12-15T06:31:03+00:00] (id:1013)
+#usage_report  v2Line Free Services Usage Report From November 2 to November 9, 2024  Connected Users: +1,470,000 people Data Transfer: +102,000 GB  Most Traffic From Countries: 1. Russian Federation 2. Iran 3. Indonesia 4. Myanmar 5. Ukraine  Most Traffic…
+----------------------------------------
+[2024-12-17T10:31:58+00:00] (id:1015)
+📣 ❌ #Incident
+
+Dear v2Line Users,
+Greetings
+
+Based on reports received from some users, our technical team is currently investigating the cause of connection issues originating from source countries.
+
+We sincerely apologize for this interruption in our services and appreciate your patience during this time.
+
+Best regards,
+v2Line Team
+🧡 t.me/v2Line
+----------------------------------------
+[2024-12-20T16:02:19+00:00] (id:1016)
+📣 ❌ #Incident  Dear v2Line Users, Greetings  Based on reports received from some users, our technical team is currently investigating the cause of connection issues originating from source countries.  We sincerely apologize for this interruption in our services…
+----------------------------------------
+[2024-12-22T12:00:02+00:00] (id:1018)
+🟡 Due to significant and major changes in the proxies, all Advanced proxies have been placed in Beta status. Therefore, some issues may arise. Our technical team is working to troubleshoot these problems, and some will be resolved in upcoming versions.
+
+We appreciate your patience and continued support.
+
+Best regards,
+v2Line Team
+🧡 t.me/v2Line
+----------------------------------------
+[2025-01-08T01:02:39+00:00] (id:1071)
+v2Line is still alive!
+Coming soon...
+
+🧡 t.me/v2Line
+----------------------------------------
+[2025-01-09T22:29:11+00:00] (id:1075)
+(بدون متن)
+----------------------------------------
+[2025-03-03T02:02:00+00:00] (id:1129)
+(بدون متن)
+----------------------------------------
+[2025-04-28T07:10:30+00:00] (id:1218)
+(بدون متن)
+----------------------------------------
+[2025-06-16T18:30:25+00:00] (id:1228)
+#announcement
+
+🇮🇷 Capacity Upgrade of the Outline Premium Network in Iran
+
+Due to the increasing internet restrictions in Iran, the capacity of the Outline Premium service has been upgraded.
+
+The service can only be purchased through the official bot: @OutlineVpnBot.
+
+In light of reported fraud incidents, we strongly advise against making any payments to unknown individuals, websites, or bots.
+
+If you have any questions or encounter any issues, please contact our support team via the bot.
+
+Best regards,
+Outline Network Support Team
+@OutlineVpnPremium
+@OutlineVpnBot
+English ● Русский ● فارسی
+----------------------------------------
+[2025-10-07T23:35:16+00:00] (id:1263)
+(بدون متن)
+----------------------------------------
