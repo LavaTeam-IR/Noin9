@@ -1,14 +1,7 @@
-آخرین آپدیت: 2026-08-08 05:04:55 UTC
+آخرین آپدیت: 2026-08-08 05:52:46 UTC
 کانال: @oneclickvpnkeys
 ========================================
 
-[2026-08-06T20:07:21+00:00] (id:25899)
-Воспользуйся бесплатной подпиской на Август и оставайся на связи:
-
-➡️ПОДПИСКА ЗДЕСЬ /Subscribe for August and stay connected
-
-@oneclickvpnkeys
-----------------------------------------
 [2026-08-06T20:07:49+00:00] (id:25900)
 🤍
 ----------------------------------------
@@ -48,9 +41,6 @@ Run the test and find the optimal configuration for you.
 [2026-08-07T22:15:02+00:00] (id:25917)
 (بدون متن)
 ----------------------------------------
-[2026-08-08T02:57:34+00:00] (id:25918)
-(بدون متن)
-----------------------------------------
 [2026-08-08T05:03:38+00:00] (id:25920)
 🇮🇷 Files for app:
 
@@ -59,4 +49,26 @@ Run the test and find the optimal configuration for you.
 ➡️ Singbox (Windows)
 
 🐎@oneclickvpnkeys
+----------------------------------------
+[2026-08-08T05:52:23+00:00] (id:25924)
+‼️Following updates are done to the bak-file:
+- inactive servers/groups are removed
+- new group #🐻@vcpbak with 47 servers is created
+➖➖➖➖➖➖➖➖
+⭐️47 servers⭐️
+➖➖➖➖➖➖➖➖
+🟢To be able to use it just restore bak-file from below
+
+🇷🇺 Обновление бэкапа
+-нерабочие удалены и добавлены 47 новых серверов
+/восстанавливаем бэкап файлом снизу
+➖➖➖➖➖➖➖➖
+Password/Пароль:  
+🔥 @vcpbak 
+➖➖➖➖➖➖➖➖
+‼️if password doesn't match?🎃
+-check typing
+-install latest original version from play store
+➖➖➖➖➖➖➖➖ 
+💚@vcpbak
 ----------------------------------------
