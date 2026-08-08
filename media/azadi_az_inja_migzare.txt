@@ -1,12 +1,7 @@
-آخرین آپدیت: 2026-08-08 21:48:37 UTC
+آخرین آپدیت: 2026-08-08 22:12:45 UTC
 کانال: @azadi_az_inja_migzare
 ========================================
 
-[2026-07-23T00:16:20+00:00] (id:10360)
-CottenDns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiYyIsInNlcnZlciI6eyJkb21haW4iOiJjLmJhbWFrLnh5eiIsImVuY3J5cHRpb25fa2V5IjoiMmRkZWI5ZGYyYzJiYTRkMyIsImVuY3J5cHRpb25fbWV0aG9kIjozLCJzZXJ2ZXJfdHlwZSI6ImNvdHRlbmRucyJ9fX0
-
-کانفیگ برای اپ جدید وایت دی ان اس
-----------------------------------------
 [2026-07-23T19:04:35+00:00] (id:10361)
 https://github.com/TaJirax/WhiteDNS-Android/releases/tag/v1.5.1c-rc17
 ----------------------------------------
