@@ -1,23 +1,7 @@
-آخرین آپدیت: 2026-08-09 15:17:59 UTC
+آخرین آپدیت: 2026-08-09 15:51:22 UTC
 کانال: @vmesskhodam
 ========================================
 
-[2026-08-07T15:46:01+00:00] (id:10231)
-tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-
-tg://proxy?server=www.royaclinic.co.uk&port=80&secret=ee16d9de136dc406c9e8be41422a71dbfb2d7777772e7961686f6f2e636f6d2e2d
-
-tg://proxy?server=bastani.mikham.co.uk&port=8443&secret=104462821249bd7ac519130220c25d09
-
-tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-
-tg://proxy?server=93.113.230.242&port=443&secret=dd3dd937dd5a1748b47505d32759b12c35
-
-tg://proxy?server=offers.wrenshire.co.uk&port=7980&secret=79e344818749bd7ac519130220c25d09
-
-tg://proxy?server=sherek.mashgh.co.uk&port=144&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-🤍@vmesskhodam
-----------------------------------------
 [2026-08-08T16:26:01+00:00] (id:10242)
 https://t.me/proxy?server=me.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
