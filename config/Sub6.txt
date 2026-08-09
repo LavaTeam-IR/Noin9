@@ -1,0 +1,1 @@
+vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@arc.montago-shop.ir:443?encryption=none&security=reality&sni=play.google.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d&type=tcp&headerType=none#%40proxy_kafee
