@@ -223,3 +223,7 @@ vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&e
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.105.52:13868?security=reality&encryption=none&pbk=XxzDVidmyjuPnBKrFDwCpowaIdLth4-kJsqrDvdPPx8&host=&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=e852dc#%40vmesskhodam
 vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@201.51.1.11:40443?security=reality&encryption=none&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&host=&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=69d4#%40vmesskhodam
 vless://9765ab3b-ac48-4fc8-9e89-0e580bf521c7@91.228.227.231:58909?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%40vmesskhodam
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.220.207.127:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@v2ray_configs_pools-join-us-on-Telegram
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.158:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#@v2ray_configs_pools-join-us-on-Telegram
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.159.218.51:443?path=%2F&security=tls&encryption=none&type=ws&sni=vj.ylks.link#@v2ray_configs_pools-join-us-on-Telegram
+vless://26afda57-1f31-4e97-b7d2-52431ac189bd@www.speedtest.net:80?host=ch1.dontbow.store.&path=/melo/is/needed&security=none&type=ws#@v2ray_configs_pools-join-us-on-Telegram
