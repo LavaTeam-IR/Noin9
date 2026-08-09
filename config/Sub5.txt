@@ -372,3 +372,4 @@ vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reali
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#@v2rayng3
 vless://9f7dbec4-35b7-4edd-84d2-47c780308cf2@xn--zn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2rayng3
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#@v2rayng3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0WVFEdFlRbEVyRWJZeSs2SU5IK2RjTk9FeGM2c2JsMmxFaUEvMTV6aGZJPQ@e2.cover20.ir:30874?type=tcp#@v2rayng3
