@@ -1,62 +1,7 @@
-آخرین آپدیت: 2026-08-09 10:49:26 UTC
+آخرین آپدیت: 2026-08-09 11:17:20 UTC
 کانال: @oneclickvpnkeys
 ========================================
 
-[2026-08-08T05:03:38+00:00] (id:25920)
-🇮🇷 Files for app:
-
-➡️ Singbox (Android)
-➡️ Singbox (iOS)
-➡️ Singbox (Windows)
-
-🐎@oneclickvpnkeys
-----------------------------------------
-[2026-08-08T05:52:23+00:00] (id:25924)
-‼️Following updates are done to the bak-file:
-- inactive servers/groups are removed
-- new group #🐻@vcpbak with 47 servers is created
-➖➖➖➖➖➖➖➖
-⭐️47 servers⭐️
-➖➖➖➖➖➖➖➖
-🟢To be able to use it just restore bak-file from below
-
-🇷🇺 Обновление бэкапа
--нерабочие удалены и добавлены 47 новых серверов
-/восстанавливаем бэкап файлом снизу
-➖➖➖➖➖➖➖➖
-Password/Пароль:  
-🔥 @vcpbak 
-➖➖➖➖➖➖➖➖
-‼️if password doesn't match?🎃
--check typing
--install latest original version from play store
-➖➖➖➖➖➖➖➖ 
-💚@vcpbak
-----------------------------------------
-[2026-08-08T17:48:30+00:00] (id:25929)
-🇮🇷 File for app:
-
-➡️ Singbox (Android)
-➡️ Singbox (iOS)
-➡️ Singbox (Windows)
-
-🐎@oneclickvpnkeys
-----------------------------------------
-[2026-08-08T20:41:18+00:00] (id:25931)
-✔️ Обновлены конфиги в подписке.
-➡️ПОДПИСКА
-
-➡️Subscription is updated!
-Run the test and find the optimal configuration for you.
-
-👈اشتراک به روز شد!
-تست را اجرا کنید و پیکربندی بهینه را برای شما پیدا کنید.
-
-🤩 @oneclickvpnkeys
-----------------------------------------
-[2026-08-08T20:41:55+00:00] (id:25932)
-😴
-----------------------------------------
 [2026-08-08T21:01:59+00:00] (id:25933)
 🔥 Нужен быстрый VPN?
 
@@ -109,4 +54,26 @@ Download link👇
 📥 Thron (Windows)
 ➖➖➖➖➖
 ✔️@ONECLICKVPNKEYS
+----------------------------------------
+[2026-08-09T11:12:33+00:00] (id:25942)
+Gaming config
+Files for app:
+WG_Tunnel (Android)
+Amnezia(iOS)
+Amnezia (Android)
+Amnezia(Windows)
+
+🏇🏇🏇🏇🏇
+@vcpbak
+----------------------------------------
+[2026-08-09T11:12:44+00:00] (id:25944)
+Gaming config
+Files for app:
+WG_Tunnel (Android)
+Amnezia(iOS)
+Amnezia (Android)
+Amnezia(Windows)
+
+🏇🏇🏇🏇🏇
+@vcpbak
 ----------------------------------------
