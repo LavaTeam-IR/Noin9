@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-08-10 06:03:08 UTC
+آخرین آپدیت: 2026-08-10 07:59:06 UTC
 کانال: @v2raycollector
 ========================================
 
@@ -130,4 +130,24 @@
 🇫🇮 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ
 
 🆔 @ZPrxy
+----------------------------------------
+[2026-08-10T06:10:17+00:00] (id:2473)
+obfs4 194.247.182.114:443 C7A993F4767B9A62D554C3089AAC358E1F7677BD cert=uwgXz5kvB7jTOajOlZRvEIrxlbbJE2Ssax7WcJBx3AbcNjaC2BSB4hApbhtGRDiGpYy1EA iat-mode=0
+obfs4 86.94.218.55:9085 F228C0A440F33D338C8A38C9313BE5587533CD2B cert=V8AyoWV9aTUBEO1J/fcjfOkYnok9Mu7879SanOtWh7janoDmHlSdlh8IuWYTRMFVt64cEw iat-mode=0
+obfs4 198.245.60.50:443 752CF7825B3B9EA6A98C83AC41F7099D67007EA5 cert=xpmQtKUqQ/6v5X7ijgYE/f03+l2/EuQ1dexjyUhh16wQlu/cpXUGalmhDIlhuiQPNEKmKw iat-mode=0
+obfs4 45.89.66.228:443 B5D838D09ABB77A2B90B03A8DC421ADDF51BF688 cert=c/tIPzO/3OwklQiRwL5HKtF7Y5ZlB2FfAiDKmZ71GI0RVBUMewYwN0YNTzb/MDRjA+ECMA iat-mode=0
+obfs4 47.36.122.155:8443 808E86271077E90D4F2795FD5FF9E5D2975F9EDE cert=43KGgMq2zn8BUuw6sau0jRvrqykD7biVvO4NOPU2HecVqCvj82NibIad4lwKyCY26s9kSw iat-mode=0
+obfs4 94.142.141.7:443 F74ACA037D03D5C8B1F6BB1D0BD88C52BB3C6C41 cert=bGTJKsQJjFfm0THS/oZaAnKAdW7fO8bjwCnvCdxrm340Xa6QKVduT9K3e9J+fFezHYPTWg iat-mode=0
+obfs4 194.67.207.56:80 6603DAF295FA724D06CC704BECB8073D53B89B35 cert=lM/qQSy6KJzPawQDSv42rT2dQUMjK9fxpdMZHR7aeLZXEMJdlIifXkYS3Tym4HZV/CgmVw iat-mode=0
+obfs4 220.134.160.116:51077 FF581715F26227BDBEB72FD77C2CE08666943CB4 cert=k1ncF8oIl6NaIlw5nkbsybPivQJrvu3J9cqJycWPsU0PzVdhjfd0rCm5DyTqtcxj2M5ldg iat-mode=0
+obfs4 79.7.195.173:25658 9A2B7493025187AD1700A8F197564C302A833A9E cert=OhrGEg4w8HMCslwvbHcn1hIkX/qtstdDNkja+cZSVXvIJCu2YkLDYZo6YHoeIh7w90NlHQ iat-mode=0
+سرور جدید🇺🇸🇩🇪🇨🇦🇳🇱🇮🇹🇹🇼
+
+لینک دانلود گوگل پلی
+
+لینک دانلود گیتهاب
+
+نحوه اتصال 1 | 2
+
+تنظیمات اتصال
 ----------------------------------------
