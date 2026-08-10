@@ -1,12 +1,12 @@
-آخرین آپدیت: 2026-08-10 12:28:40 UTC
+آخرین آپدیت: 2026-08-10 13:57:36 UTC
 کانال: @V2ray_Collector
 ========================================
 
-[2026-08-04T13:43:03+00:00] (id:1345)
-Mexico 🇲🇽
-hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@23.95.75.151:8080?sni=hopp-us.yyuyy.com&security=tls#@V2ray_Collector
+[2026-08-10T13:14:02+00:00] (id:1365)
+Romania 🇷🇴
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.121:8443?sni=grape-zet-ro-turbo.bumbleshrimp.com#@V2ray_Collector
 
-✨ More keys, more chances to connect. Subscribe to @OutlineReleasedKey for extra updates.
+🔁 More updates mean better availability. Add @OutlineReleasedKey to your subscriptions.
 
 🔸 Official source: @V2ray_Collector
 
