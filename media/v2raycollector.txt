@@ -1,42 +1,7 @@
-آخرین آپدیت: 2026-08-11 05:40:03 UTC
+آخرین آپدیت: 2026-08-11 06:35:48 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-08-10T12:26:01+00:00] (id:2483)
-Argo bridge
-پل آرگو
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzN0KgjAYANB32XXQMsgWeKES+Yk/2Y+pd9NGLd0qly6L
-3j3vD+eLetYqfpdoNZugBx2aOz2jFWKDrytBcGlEfenCAuo1
-D1z/U2S+UWTAY+7fqGzU2YjaQIxmDwqk01cy4fEtweEcW2iC
-FL9I+upaNpbhOnHBi0yybR4iLrH9gmqnyWXabd3TO6dNHGDv
-sIeN+dY6rQubO+n1dK2cg172+YIs8yPFzywRKi0EK8mUzaLu
-86xbEcJgWxb6/QGRbkSr
------END ARGO VPN BRIDGE BLOCK-----
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwVzd1ugjAYgOF76elM6BQ1mHiAWE0bBzJUfs4KUv2mQC0r
-Fc3ufXr+5nmfqCtVC02NZp8DJHl/bfgRzVDZM1NUDs6Hfpd7
-dEIvBDYee2QJG2YJhQCY4rGENHF1Xh0wBQPF2umPr9Zfhg8R
-zudogFo41fxXq/JFfpHQo15sjcfrCTv72N6NFoEsbnutcIol
-8Td6m+jAuJWqb7WdubBIv7f33bQU1zv7iSPC8r3lGBFZo0as
-OjtuFRO2JPzDmPfu7x9On0PQ
------END ARGO VPN BRIDGE BLOCK-----
-----------------------------------------
-[2026-08-10T14:00:25+00:00] (id:2484)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/05/19
-🇬🇧 2026/08/10
-🕒 17:30:19
-
-🇸🇪 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🇷🇺 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇫🇮 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇺🇸 ᴘʀᴏxʏ
-🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇨🇦 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇨🇭 ᴘʀᴏxʏ | 🇺🇸 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy
-----------------------------------------
 [2026-08-10T16:00:16+00:00] (id:2486)
 (بدون متن)
 ----------------------------------------
@@ -214,4 +179,37 @@ https://t.me/proxy?server=sdfree.mahanam.info&port=443&secret=ee1603010200010001
 🏳️ ᴘʀᴏxʏ | 🇵🇱 ᴘʀᴏxʏ | 🇭🇰 ᴘʀᴏxʏ
 
 🆔 @ZPrxy
+----------------------------------------
+[2026-08-11T06:00:21+00:00] (id:2503)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/05/20
+🇬🇧 2026/08/11
+🕒 09:30:14
+
+🇷🇺 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇺🇸 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+
+🆔 @ZPrxy
+----------------------------------------
+[2026-08-11T06:05:12+00:00] (id:2504)
+Argo bridge
+پل آرگو
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzE1ygjAYANC7ZO0i2iJTZ1iQyGAiP8UOouwCAflQkpYI
+FR3vru8A74HGqjegFVrNZ+hXTBctJFqhauL/ZfeFi0U0FpQt
+2dmDgPJ7fuCL/MAgBt5XityO3c4KOusiKTNMkbFUCcRtgsMP
+7KAZMnBS4jr01bsMvYQyr55P3+Cne6yVVa45SG5v/LbUuMgz
+yMLtFBEbfxIRnV0gbvNnrZu73Z1aU4s0Nj6p3UbrzPvZB1xK
+PhTETwdq6sRx0PMFVBBD/g==
+-----END ARGO VPN BRIDGE BLOCK-----
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzd1ugjAYgOF76SkmmyxOa+KBMHGtijbTQDlrC8oH4ydQ
+qnXx3sf5m+f9QybremhqtJxOUCvsbyNStESZpXdV4Xfphkb6
+5JOUG9j79JnE1E1iAkeghldBIaNZyWM1cBdrAndQW2zTsQ+/
+2PPKVis0QT3caqGHLhvZw4b5xMuD8PbBZZGWNpqfmAymHsk5
+Uc3lB670W0XHtNKlujT9GrxucQbraKiLcFg8HrvE6XSR7xID
+Ar/NWHvC23PsCeO063H3+gfC2UZX
+-----END ARGO VPN BRIDGE BLOCK-----
 ----------------------------------------
