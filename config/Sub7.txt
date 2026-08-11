@@ -356,3 +356,5 @@ trojan://glsYVTidVX@95.163.176.238:27972?security=reality&sni=www.amazon.com&fp=
 trojan://h4WUJtGovf@95.163.176.238:59634?security=reality&sni=www.oracle.com&fp=chrome&pbk=v5cuqmAGUPcUHGnx11YsgE80iC2tcRYRho-0kXbtS2w&sid=6c65a4b78e544321&spx=%2F&type=tcp&headerType=none#V2RAY_CONFIGS_POOL
 vless://ddb2c86f-2a07-4aaf-86dd-8ccc0f4b8c7a@95.163.176.238:55059?encryption=none&security=reality&sni=www.oracle.com&fp=chrome&pbk=Q5exK3qkGM7ktAsdQw6gR_b52HoaKDzWvpf2HrnXNBw&sid=c5d3a757&spx=%2F&type=tcp&headerType=none#V2RAY_CONFIGS_POOL
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#x   vless://3536e1fa-0850…
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBc2pDQ2UrZ1JTdHd0ZEFZQ20wc1dmcElJbU43RW5sbGYzVUQyb051SWU0PQ@e1.cover20.ir:51570?type=tcp#@v2rayng3
+vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@172.67.190.141:8880?path=%2Fpyip&encryption=none&type=ws&host=tiny-feather-4c41.227.workers.dev&security=none#@v2rayng3
