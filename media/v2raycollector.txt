@@ -1,80 +1,7 @@
-آخرین آپدیت: 2026-08-12 19:41:45 UTC
+آخرین آپدیت: 2026-08-12 20:22:52 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-08-12T06:10:16+00:00] (id:2538)
-Telegram Proxy
-
-https://t.me/proxy?server=daemi.net.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=daemi-asli.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=daemi-asli.karshenasi.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
-
-https://t.me/proxy?server=genuismind.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=most.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=manavi.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=seems.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=molavi.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=takhasos.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=saadi.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=shir.pesar.hedoit.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=biaberim.estakhr.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=syntax.lamari.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=jounob-iran-dar-ghalb-mast.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=neshane-rah.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=sal.mahanam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=nasaji.estakhr.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=symbol.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=sdfree.mahanam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=mohandes.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=goodman.lamari.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=panel-portal.managep.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=melat.managep.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=lowpressure.simbol.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
-
-https://t.me/proxy?server=lowpressure.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-----------------------------------------
-[2026-08-12T07:07:01+00:00] (id:2539)
-Argo bridge
-پل ارگو
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzMFugjAAANB/6VUPwBCDCQeDrLRRTI1O5q2ldWttwVAp
-FrN/n/eX9wJO9FZ2LViFc3CnXneUgxUQHo+NSQMWVY7lKEG3
-Qm5zPF1qHF1qJPcSPzm8x/x8MMKg4TtKH0iOsoGp529fbch0
-JVkG5sDKn5Y+hl68211xyhEUbEkbVSXx2XaOVFCp0hLmiSa8
-F8Yw5WDSWqv4aS2Ldfh7XcDPcTn6spyCeDF4SjCr9dds89TH
-sHAfSmjXo7AJMvD3D93XRqA=
------END ARGO VPN BRIDGE BLOCK-----
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzN1ugjAYANB36TWJBRGsiRcTkbVWHTix5a5Upo3uExXk
-Z/Hd5/3J+UPP4v4wV0AT20Kl6i5XdUATVHSs0b8E5876mQfU
-o+fQ8ID1mWBOJqjZGGYrJwENupYOqahpjI5Id3jb9Tzuf+Lp
-FFnoYY6gqvpevMtVKAMaB3ve6hQLSQaKw3dp1/k2hGUJctNn
-w9Ot8+bH3hNp6CYNPX0sdwmOYPaJyW1rRyueNPwMhRpj35Ut
-G7WuP6rE5atesBS9/gE3lUMN
------END ARGO VPN BRIDGE BLOCK-----
-----------------------------------------
 [2026-08-12T08:00:11+00:00] (id:2541)
 (بدون متن)
 ----------------------------------------
@@ -249,6 +176,24 @@ OpenVPN.ovpn
 🇳🇱 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
 🇩🇪 ᴘʀᴏxʏ | 🇬🇧 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+
+🆔 @ZPrxy
+----------------------------------------
+[2026-08-12T20:00:10+00:00] (id:2559)
+(بدون متن)
+----------------------------------------
+[2026-08-12T20:00:21+00:00] (id:2560)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/05/21
+🇬🇧 2026/08/12
+🕒 23:30:14
+
+🇫🇮 ᴘʀᴏxʏ | 🇸🇰 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇸🇪 ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇬🇧 ᴘʀᴏxʏ | 🇫🇷 ᴘʀᴏxʏ
+🇷🇺 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇷🇺 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
 
 🆔 @ZPrxy
 ----------------------------------------
