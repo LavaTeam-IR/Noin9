@@ -1,80 +1,7 @@
-آخرین آپدیت: 2026-08-11 23:37:38 UTC
+آخرین آپدیت: 2026-08-12 00:41:10 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-08-11T08:16:36+00:00] (id:2508)
-⚠️ هشدار مهم امنیتی برای کاربران پنل زئوس 🔒
-
-با توجه به بررسی‌هایی که انجام دادیم، ربات تلگرامی که باهاش پنل زئوس می‌سازید امن نیست و تمام توکن‌های شمارو ذخیره میکنه و میتونه هر وقت دلش خواست هم ورکر و هم پنل رو حذف کنه 🗑️ و بدون هیچ دلیلی هم میتونه این کارو انجام بده و تهش هم کلی فحش بارتون کنه 💣
-
-همونطوری که توی عکس می‌بینید، این ربات اصلی خود زئوس هستش 👁️ توجه شمارو به این متن که خود ربات فرستاده جلب میکنم:
-
-"پنل‌های و ورکر‌های شما به دلیل تخلف به صورت کامل حذف شد" 
-
-هیچ پنلی، تاکید می‌کنم، هیچ پنلی حق نداره توکن‌های کلودفلر شمارو سیو کنه 🚫
-
-حق با bpb بود ✅
-
-حالا دیدی چرا بعضیا از حرفش ناراحت شدن و بهش گارد گرفتن؟ 🤔
-
-پ.ن: الان یه سریا میان میگن خب شما هم توکن میگیرید. باید بگم که بعد از حرف های bpb همه نصب رفته سمت نصب کننده آنلاین ما که اوپن سورس هم هست میتونید کد هاش رو بررسی کنید که جایی توکن ها استور نمیشه
-----------------------------------------
-[2026-08-11T08:19:03+00:00] (id:2509)
-با به وب ساده داخل گیت میشه توکن جرفت و پنل ساخت و توکنم ذخیره نشه این که توکن بگیری و بعدش با طرف حال نکردی پنلشو ریمو کنی نشون میده داره همه  توکنا ذخیره میکنه
-----------------------------------------
-[2026-08-11T08:47:02+00:00] (id:2510)
-Telegram Proxy
-
-https://t.me/proxy?server=daemi.net.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=daemi-asli.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=daemi-asli.karshenasi.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
-
-https://t.me/proxy?server=genuismind.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=most.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=manavi.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=seems.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=molavi.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=takhasos.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=saadi.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=shir.pesar.hedoit.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=biaberim.estakhr.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=syntax.lamari.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=jounob-iran-dar-ghalb-mast.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=neshane-rah.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=sal.mahanam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=nasaji.estakhr.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=symbol.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=sdfree.mahanam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=mohandes.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=goodman.lamari.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=panel-portal.managep.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=melat.managep.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=lowpressure.simbol.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
-
-https://t.me/proxy?server=lowpressure.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-----------------------------------------
 [2026-08-11T10:00:20+00:00] (id:2511)
 🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
 ❏❏❏❏❏❏❏❏❏❏❏❏❏❏
@@ -229,6 +156,20 @@ slipnet-enc://ATxmV8yzokKkhvNioV7YEcDJryoMTb+EB8MWBdUGwoYM8iirWssanYJlhCqSDDOMxo
 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇹🇷 ᴘʀᴏxʏ
 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
+
+🆔 @ZPrxy
+----------------------------------------
+[2026-08-12T00:00:09+00:00] (id:2529)
+(بدون متن)
+----------------------------------------
+[2026-08-12T00:00:20+00:00] (id:2530)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/05/21
+🇬🇧 2026/08/12
+🕒 03:30:14
+
+🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇹🇷 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
 
 🆔 @ZPrxy
 ----------------------------------------
