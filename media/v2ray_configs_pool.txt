@@ -1,10 +1,7 @@
-آخرین آپدیت: 2026-08-12 18:31:43 UTC
+آخرین آپدیت: 2026-08-12 19:42:17 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-12T18:00:29+00:00] (id:5238668)
-https://t.me/proxy?server=beest-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
-----------------------------------------
 [2026-08-12T18:00:41+00:00] (id:5238669)
 https://t.me/proxy?server=opeenhostings.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 ----------------------------------------
