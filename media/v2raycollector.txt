@@ -1,10 +1,7 @@
-آخرین آپدیت: 2026-08-12 12:02:19 UTC
+آخرین آپدیت: 2026-08-12 13:28:59 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-08-12T00:00:09+00:00] (id:2529)
-(بدون متن)
-----------------------------------------
 [2026-08-12T00:00:20+00:00] (id:2530)
 🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
 ❏❏❏❏❏❏❏❏❏❏❏❏❏❏
@@ -232,4 +229,9 @@ obfs4 185.97.73.181:9025 B1623B3BC764CDEFAF2AB9FB0A5E924B1C3A9F09 cert=KqiDYliNX
 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
 
 🆔 @ZPrxy
+----------------------------------------
+[2026-08-12T13:08:01+00:00] (id:2549)
+Webtunnel Slipnet
+
+slipnet-enc://AaQQB9qxBCa7WT05fVRecOPZHZ9FoySvQcr+w55A5wrbnvZVfjykfqi8BcS/L8R17koIaSG2MAZq+J6n3Os1mzG3aGjG8H7h3XQsSndfKcI2fxZY/kAe6+R371f5/oGIRN/NxCxYitPaE8u+BdnotxPa+daxzO54efFDsv2bHfx3QprxDmFstAjqIO6d0kkb6cbHAZol7rbEkdCd96UnMwmd6EOqiCb4fOGrz5f3wfDLoOPEa4BERG2b9mzUZ4ZFNg/xXb5ZgTODyTdYSam3EZSXHNzZtIVnSzXXOU69+2mN1Qv1I0H4UGB13y/YAGXZ76eLDDkB4VuMS478nDzPex1hOj9R5Q1sHXKT8DDhD0nwOcDLW5sbYLfye60rdcYSnkLs6SlwkctmXrf7p9IxvI5Ad82ZwMZbRlvZY6nIIsWNwD+z26jeGhMuvZ7OGJ9E81A6kDHUtU7/opbQqLFRC95d7CYnVwJKsA6xbbWQkwXZX0r6075/4ThgrxJdy1A/t/ZCdnE8ZTTGh7RKbIF538xS5/APUsEoje89WVE0yuazJ2NFzKbNpjlRW+A9zn1393qhbqwPYqwzxOboVPjQP2xKBQN6SyUSpGHK2OQyFwTW6qYUIUPx7hAyAk9uS6i0EtgBkVHfk51+u5uOsqC3PgjROLCkH2Y7IyYCc2yvgUplv+UIQBSxS6/p10WlRRz6A6ST/Lj3YAY63TgehkL8lClbDzAqqw5GEL1IbbXGFZUg/zUlVb+aR9C40C/PBtEFl2FyhysNI5mDsr56wQ3YjEucndSxsiFrl9REE+Pvpvx4oXIpYxoX54zOm17LPRJCj92/BYWfdOSmb5aanEkv5VPgiqYSFqADZzuvxG2B8atAL+dZnssk3OyH5UzRHcI5IUI5LTNAvRNpagxhX6RND9h6QkArbv3fxor7tROXg5yoswd+6NgWIwBKh6LMbup0OxF57AvpEb8JdIXmd9ASuINmMCZ/TRAdARrPvHj6e9QivxJKyv9oa0Zh
 ----------------------------------------
