@@ -1,19 +1,7 @@
-آخرین آپدیت: 2026-08-12 06:23:30 UTC
+آخرین آپدیت: 2026-08-12 07:59:14 UTC
 کانال: @proxy_kafee
 ========================================
 
-[2026-08-10T20:12:35+00:00] (id:45804)
-کانفیگ sing box جدید 
-📱دانلود برنامه sing box
-
-لینک گیت هاب 
-
-@singbox1
-
-#singbox
-
-همه اپراتورها
-----------------------------------------
 [2026-08-10T20:30:33+00:00] (id:45806)
 #openvpn
 #کانفیگ #config
@@ -223,4 +211,16 @@ https://t.me/proxy?server=Transfero.becbord.co.uk&port=7070&secret=eeNEgYdJvXrFG
 https://t.me/proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 
 @proxy_kafee
+----------------------------------------
+[2026-08-12T07:38:08+00:00] (id:45825)
+کانفیگ sing box جدید 
+📱دانلود برنامه sing box
+
+لینک گیت هاب 
+
+@singbox1
+
+#singbox
+
+همه اپراتورها
 ----------------------------------------

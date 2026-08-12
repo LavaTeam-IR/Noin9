@@ -1,24 +1,7 @@
-آخرین آپدیت: 2026-08-12 06:23:19 UTC
+آخرین آپدیت: 2026-08-12 07:58:53 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-08-10T09:46:00+00:00] (id:16526)
-(بدون متن)
-----------------------------------------
-[2026-08-10T09:46:15+00:00] (id:16527)
-🚀 نسخه جدید Bettbox
-Bettbox v1.18.9
- یه کلاینت مدرن و سبک برای Mihomo (Clash Meta)
-اگه دنبال یه جایگزین سریع و خوش‌دست برای کلاینت‌های Mihomo هستی، Bettbox یکی از بهترین گزینه‌هاست.
-این پروژه بر پایه نسخه‌های اولیه FlClash بازسازی شده، ولی تقریباً همه‌چیزش بهینه‌تر شده؛ از رابط کاربری گرفته تا مصرف باتری و عملکرد کلی. هدفش هم ساده‌ست: روان‌تر کار کنه، کمتر باتری مصرف کنه و بدون دردسر همیشه پایدار بمونه.
-🔹 پروتکل‌های پشتیبانی‌شده: 
-• VLESS (Reality / XHTTP) • VMess • Trojan • Shadowsocks (R / 2022 / ShadowTLS / Restls) • Hysteria 1 & 2 • TUIC • WireGuard • Tailscale • OpenVPN • SSH • AnyTLS • Snell (v1 تا v5) • Masque • TrustTunnel • Gost-Relay • HTTP / SOCKS و چندین پروتکل دیگه.
-دانلود  برای  مک   ویندوز  لینوکس  اندروید
-https://github.com/appshubcc/Bettbox/releases/tag/v1.18.9
-@ShadowProxy66
-عملکردش بهتر از FlClash هس میتونید از منابعی که قبلا گذاشتم لینک ساب بردارید و استفاده کنید یا از کانفیگهای کلش که چنل میذارم استفاده کنید
-آموزش استفادش هم مث FlClash هستش
-----------------------------------------
 [2026-08-10T09:49:39+00:00] (id:16528)
 ‌
 Bettbox-1.18.9-android-universal.apk
@@ -111,4 +94,26 @@ V2rayNg -V2flyNg -V2rayTun -Happ -npv
 V2rayNg -V2flyNg -V2rayTun -Happ -npv
 
 🔅@ShadowProxy66
+----------------------------------------
+[2026-08-12T07:13:37+00:00] (id:16546)
+(بدون متن)
+----------------------------------------
+[2026-08-12T07:14:03+00:00] (id:16547)
+1.PROXY 2.PROXY 3.PROXY
+4.PROXY 5.PROXY 6.PROXY
+7.PROXY 8.PROXY 9.PROXY
+10.PROXY11.PROXY12.PROXY
+13.PROXY14.PROXY15.PROXY
+16.PROXY17.PROXY18.PROXY
+19.PROXY20.PROXY21.PROXY
+22.PROXY23.PROXY24.PROXY
+25.PROXY26.PROXY27.PROXY
+28.PROXY29.PROXY30.PROXY
+31.PROXY32.PROXY33.PROXY
+34.PROXY35.PROXY36.PROXY
+37.PROXY38.PROXY39.PROXY
+40.PROXY41.PROXY42.PROXY
+----------------------------------------
+[2026-08-12T07:19:09+00:00] (id:16548)
+(بدون متن)
 ----------------------------------------
