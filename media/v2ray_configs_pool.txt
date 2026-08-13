@@ -1,28 +1,24 @@
-آخرین آپدیت: 2026-08-13 18:31:32 UTC
+آخرین آپدیت: 2026-08-13 19:37:35 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-13T16:35:45+00:00] (id:5238755)
-https://t.me/proxy?server=king.mitivpn.co.uk&port=25565&secret=dd104462821249bd7ac519130220c25d09
+[2026-08-13T19:22:36+00:00] (id:5238788)
+https://t.me/proxy?server=185.204.171.178&port=443&secret=b66278a57abcbcb0ad930388febf0b21
 ----------------------------------------
-[2026-08-13T16:46:16+00:00] (id:5238761)
-https://t.me/proxy?server=sherek.mashgh.co.uk&port=144&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
+[2026-08-13T19:22:59+00:00] (id:5238790)
+https://t.me/proxy?server=tassian.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 ----------------------------------------
-[2026-08-13T16:46:27+00:00] (id:5238762)
-https://t.me/proxy?server=www.qavi-qodrati.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e7777772e7961686f6f2e636f6d
+[2026-08-13T19:23:09+00:00] (id:5238791)
+https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 ----------------------------------------
-[2026-08-13T16:46:38+00:00] (id:5238763)
-https://t.me/proxy?server=manavi.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+[2026-08-13T19:23:20+00:00] (id:5238792)
+https://t.me/proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 ----------------------------------------
-[2026-08-13T16:46:49+00:00] (id:5238764)
-https://t.me/proxy?server=46.225.255.65&port=8443&secret=dd104462821249bd7ac519130220c25d09
+[2026-08-13T19:23:29+00:00] (id:5238793)
+https://t.me/proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 ----------------------------------------
-[2026-08-13T16:52:15+00:00] (id:5238765)
-https://t.me/proxy?server=88.99.30.71&port=8443&secret=dd104462821249bd7ac519130220c25d09
-----------------------------------------
-[2026-08-13T16:52:25+00:00] (id:5238766)
-https://t.me/proxy?server=download.brettanderson.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
-----------------------------------------
-[2026-08-13T17:00:28+00:00] (id:5238767)
-https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+[2026-08-13T19:31:33+00:00] (id:5238802)
+🐫 SEE NOT SEE
+
+شتر دیدی ندیدی
 ----------------------------------------
