@@ -1,27 +1,7 @@
-آخرین آپدیت: 2026-08-13 04:31:46 UTC
+آخرین آپدیت: 2026-08-13 06:02:30 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-08-12T13:08:01+00:00] (id:2549)
-Webtunnel Slipnet
-
-slipnet-enc://AaQQB9qxBCa7WT05fVRecOPZHZ9FoySvQcr+w55A5wrbnvZVfjykfqi8BcS/L8R17koIaSG2MAZq+J6n3Os1mzG3aGjG8H7h3XQsSndfKcI2fxZY/kAe6+R371f5/oGIRN/NxCxYitPaE8u+BdnotxPa+daxzO54efFDsv2bHfx3QprxDmFstAjqIO6d0kkb6cbHAZol7rbEkdCd96UnMwmd6EOqiCb4fOGrz5f3wfDLoOPEa4BERG2b9mzUZ4ZFNg/xXb5ZgTODyTdYSam3EZSXHNzZtIVnSzXXOU69+2mN1Qv1I0H4UGB13y/YAGXZ76eLDDkB4VuMS478nDzPex1hOj9R5Q1sHXKT8DDhD0nwOcDLW5sbYLfye60rdcYSnkLs6SlwkctmXrf7p9IxvI5Ad82ZwMZbRlvZY6nIIsWNwD+z26jeGhMuvZ7OGJ9E81A6kDHUtU7/opbQqLFRC95d7CYnVwJKsA6xbbWQkwXZX0r6075/4ThgrxJdy1A/t/ZCdnE8ZTTGh7RKbIF538xS5/APUsEoje89WVE0yuazJ2NFzKbNpjlRW+A9zn1393qhbqwPYqwzxOboVPjQP2xKBQN6SyUSpGHK2OQyFwTW6qYUIUPx7hAyAk9uS6i0EtgBkVHfk51+u5uOsqC3PgjROLCkH2Y7IyYCc2yvgUplv+UIQBSxS6/p10WlRRz6A6ST/Lj3YAY63TgehkL8lClbDzAqqw5GEL1IbbXGFZUg/zUlVb+aR9C40C/PBtEFl2FyhysNI5mDsr56wQ3YjEucndSxsiFrl9REE+Pvpvx4oXIpYxoX54zOm17LPRJCj92/BYWfdOSmb5aanEkv5VPgiqYSFqADZzuvxG2B8atAL+dZnssk3OyH5UzRHcI5IUI5LTNAvRNpagxhX6RND9h6QkArbv3fxor7tROXg5yoswd+6NgWIwBKh6LMbup0OxF57AvpEb8JdIXmd9ASuINmMCZ/TRAdARrPvHj6e9QivxJKyv9oa0Zh
-----------------------------------------
-[2026-08-12T14:00:23+00:00] (id:2550)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/05/21
-🇬🇧 2026/08/12
-🕒 17:30:14
-
-🇰🇷 ᴘʀᴏxʏ | 🇱🇻 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇬🇧 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇱🇹 ᴘʀᴏxʏ
-
-🆔 @ZPrxy
-----------------------------------------
 [2026-08-12T15:02:02+00:00] (id:2551)
 OpenVPN.ovpn
 ----------------------------------------
@@ -155,4 +135,38 @@ OpenVPN.ovpn
 ----------------------------------------
 [2026-08-13T04:00:48+00:00] (id:2568)
 (بدون متن)
+----------------------------------------
+[2026-08-13T05:59:41+00:00] (id:2569)
+Argo bridge 
+پل آرگو
+
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzEkOgjAUANC7dIuJoKjBxIUi6q8TRZBhVwaloEwVSDXe
+Xfcv74O6pOGsLNBcGaCKikdJYzRHicB99NTkcHTqQh2mkBvs
+oON34OFR4AE7M5zFO6unXpUenn9zAQ7FqosKws4ZkY9jeYEG
+iLN7QV9tk/zLo+HoQNZWyd1M6W5hPLRxbaSNMtmJSrIu0rZV
+e6cJNq6ptnUubAL3K32rDvjhzDUfKcE1hlrSbNe3I6EpPtn2
+yyQuzQ3L93yBvj+kc0Sx
+-----END ARGO VPN BRIDGE BLOCK-----
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzMuOgjAUANB/6VYT8eo0YsKCR6dTFATf465QhlxHwJRX
+wMy/j/uT8yJdpmusSrKeT8lTDo9KKrIm2eD3aWEaCYRd4goq
+fhluXX+8XX24XQXu0K+SxRkk9O03mI3AHlNuDuptQy8ef2LL
+IlNSY17KptXZuwzYyRUeMB0FF2Mojkab2qlXZI3Kl2E0cWGM
++Lgx4KvTuLsH3EZmL/dc5XtJ2dZzlOlM4tnqjpR+HGyqH3LW
+z8tnDPVnxKvcIn//8npB+Q==
+-----END ARGO VPN BRIDGE BLOCK-----
+----------------------------------------
+[2026-08-13T06:00:21+00:00] (id:2570)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/05/22
+🇬🇧 2026/08/13
+🕒 09:30:15
+
+🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇹🇷 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
+🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇱🇹 ᴘʀᴏxʏ
+
+🆔 @ZPrxy
 ----------------------------------------
