@@ -1,13 +1,7 @@
-آخرین آپدیت: 2026-08-13 06:02:57 UTC
+آخرین آپدیت: 2026-08-13 07:47:59 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-08-10T10:15:04+00:00] (id:16534)
-clash-340-config.yaml
-----------------------------------------
-[2026-08-10T13:12:21+00:00] (id:16535)
-(بدون متن)
-----------------------------------------
 [2026-08-10T13:12:28+00:00] (id:16536)
 721 کانفیگ کلش متصل با همه اپراتورها
 
@@ -138,4 +132,24 @@ karing & V2rayNg & Outline ...
 V2rayNg -V2flyNg -V2rayTun -Happ -npv
 
 🔅@ShadowProxy66
+----------------------------------------
+[2026-08-13T07:25:27+00:00] (id:16554)
+(بدون متن)
+----------------------------------------
+[2026-08-13T07:25:57+00:00] (id:16555)
+1.PROXY 2.PROXY 3.PROXY
+4.PROXY 5.PROXY 6.PROXY
+7.PROXY 8.PROXY 9.PROXY
+10.PROXY11.PROXY12.PROXY
+13.PROXY14.PROXY15.PROXY
+16.PROXY17.PROXY18.PROXY
+19.PROXY20.PROXY21.PROXY
+22.PROXY23.PROXY24.PROXY
+25.PROXY26.PROXY27.PROXY
+28.PROXY29.PROXY30.PROXY
+31.PROXY32.PROXY33.PROXY
+34.PROXY35.PROXY36.PROXY
+37.PROXY38.PROXY39.PROXY
+40.PROXY41.PROXY42.PROXY
+43.PROXY44.PROXY45.PROXY
 ----------------------------------------
