@@ -1,19 +1,7 @@
-آخرین آپدیت: 2026-08-13 14:33:51 UTC
+آخرین آپدیت: 2026-08-13 15:33:10 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-08-13T04:00:20+00:00] (id:2566)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/05/22
-🇬🇧 2026/08/13
-🕒 07:30:14
-
-🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-
-🆔 @ZPrxy
-----------------------------------------
 [2026-08-13T04:00:48+00:00] (id:2568)
 (بدون متن)
 ----------------------------------------
@@ -249,4 +237,37 @@ https://t.me/proxy?server=lowpressure.simbol.info&port=443&secret=ee160301020001
 🇹🇷 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
 
 🆔 @ZPrxy
+----------------------------------------
+[2026-08-13T15:05:26+00:00] (id:2586)
+Telegram Proxy 
+
+https://t.me/proxy?server=gold.lavazemi4.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=194.60.228.66&port=8880&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=admetrics.uadapp.meshzen.ir&port=443&secret=ee1603010200010001fc030386e24c3add7777772e73616d73756e672e636f6d
+
+https://t.me/proxy?server=www.dripglow.ir.&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
+
+https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=noone.lavazemi1.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=look.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=65.109.147.34&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=49.13.225.191&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=93.113.230.242&port=443&secret=dd3dd937dd5a1748b47505d32759b12c35
+
+https://t.me/proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=pesar.kocholo.co.uk.&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=love.roseprox.xyz&port=8443&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e636c6f7564666c6172652e636f6d
+
+https://t.me/proxy?server=iran.vanitydomain.co.uk.&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 ----------------------------------------
