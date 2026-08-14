@@ -1,12 +1,7 @@
-آخرین آپدیت: 2026-08-14 12:10:29 UTC
+آخرین آپدیت: 2026-08-14 13:41:01 UTC
 کانال: @oneclickvpnkeys
 ========================================
 
-[2026-08-13T06:02:56+00:00] (id:26018)
-🌟🌟🌟🌟🌟🌟 🌟🌟🌟🌟
-😀😀😀😀😀😀❤️
-🐴 @oneclickvpnkeys
-----------------------------------------
 [2026-08-13T11:09:25+00:00] (id:26023)
 😀😀😀😀➡️SUB for August 
 
@@ -20,8 +15,6 @@ Next post is for apps:  📶 v2rayng, Streisand or Happ
 more configs here:
 ➡️ SUB 🇷🇺🇮🇷🇹🇲🇨🇳
 fragment👇fragment 👇
-
-💓 See for yourself: 👀 Most signals fail on risk rules—here’s the 1 filter I use before any FX entry. | InsideAds
 ----------------------------------------
 [2026-08-13T12:53:39+00:00] (id:26025)
 {"dns":{"hosts":{"domain:googleapis.cn":"googleapis.com"},"servers":["8.8.8.8"]},"inbounds":[{"port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls","fakedns"],"enabled":true,"routeOnly":false},"tag":"socks"},{"port":10809,"protocol":"http","settings":{"userLevel":8},"tag":"http"}],"log":{"loglevel":"warning"},"outbounds":[{"mux":{"concurrency":8,"enabled":true,"xudpConcurrency":8,"xudpProxyUDP443":"reject"},"protocol":"vless","settings":{"vnext":[{"address":"meshbuzz.bond","port":443,"users":[{"encryption":"none","id":"8a6729c4-81d4-4b05-8747-3fffc17b6a64","level":8}]}]},"streamSettings":{"network":"ws","security":"tls","sockopt":{"dialerProxy":"fragment"},"tlsSettings":{"allowInsecure":false,"alpn":["h2"],"fingerprint":"firefox","serverName":"KsJdXnCa13.hAsAnGoT.CoM","show":false},"wsSettings":{"headers":{"Host":"KsJdXnCa13.hAsAnGoT.CoM"},"path":"/mashdi"}},"tag":"proxy"},{"protocol":"freedom","settings":{"domainStrategy":"UseIP"},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"},{"protocol":"freedom","settings":{"fragment":{"interval":"0","length":"5","packets":"tlshello"},"noises":[{"delay":"10-16","packet":"10-20","type":"rand"}]},"streamSettings":{"network":"tcp","sockopt":{"TcpNoDelay":true,"mark":255}},"tag":"fragment"}],"policy":{"levels":{"8":{"connIdle":300,"downlinkOnly":1,"handshake":4,"uplinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"remarks":"🛗@oneclickvpnkeys","routing":{"domainStrategy":"AsIs","rules":[{"ip":["8.8.8.8"],"outboundTag":"proxy","port":"53","type":"field"},{"ip":["223.5.5.5"],"outboundTag":"direct","port":"53","type":"field"},{"domain":["geosite:private"],"outboundTag":"direct","type":"field"},{"ip":["geoip:private"],"outboundTag":"direct","type":"field"}]}}
@@ -45,5 +38,16 @@ Run the test and find the optimal configuration for you.
 😁😊😊😊😁😊😊😊 😊😊😊
 🐴@oneckickvpnkeys
 
-🏆 Join faster: Ready to optimize your trading budget? 📊 Discover how to effectively segment your audience today! 🚀 | InsideAds
+🚨 Don't miss out: Unlock the secrets of successful trading! 📊 Dive into real-time signals that make a difference. 🔍💎 | InsideAds
+----------------------------------------
+[2026-08-14T12:10:57+00:00] (id:26040)
+Next post is for apps:  📶 v2rayng, Streisand or Happ
+more configs here:
+➡️ SUB 🇷🇺🇮🇷🇹🇲🇨🇳
+fragment👇fragment 👇
+
+👀 Take a look 👉: What if your next trade could change everything? Check out our live market insights! 🚀📈 | InsideAds
+----------------------------------------
+[2026-08-14T12:11:22+00:00] (id:26041)
+{"dns":{"hosts":{"domain:googleapis.cn":"googleapis.com"},"servers":["8.8.8.8"]},"inbounds":[{"port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls","fakedns"],"enabled":true,"routeOnly":false},"tag":"socks"},{"port":10809,"protocol":"http","settings":{"userLevel":8},"tag":"http"}],"log":{"loglevel":"warning"},"outbounds":[{"mux":{"concurrency":8,"enabled":true,"xudpConcurrency":8,"xudpProxyUDP443":"reject"},"protocol":"vless","settings":{"vnext":[{"address":"meshbuzz.bond","port":443,"users":[{"encryption":"none","id":"8a6729c4-81d4-4b05-8747-3fffc17b6a64","level":8}]}]},"streamSettings":{"network":"ws","security":"tls","sockopt":{"dialerProxy":"fragment"},"tlsSettings":{"allowInsecure":false,"alpn":["h2"],"fingerprint":"firefox","serverName":"IxQiGnIu14.jUmBeRlAnD.CoM","show":false},"wsSettings":{"headers":{"Host":"IxQiGnIu14.jUmBeRlAnD.CoM"},"path":"/mashdi"}},"tag":"proxy"},{"protocol":"freedom","settings":{"domainStrategy":"UseIP"},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"},{"protocol":"freedom","settings":{"fragment":{"interval":"0","length":"5","packets":"tlshello"},"noises":[{"delay":"10-16","packet":"10-20","type":"rand"}]},"streamSettings":{"network":"tcp","sockopt":{"TcpNoDelay":true,"mark":255}},"tag":"fragment"}],"policy":{"levels":{"8":{"connIdle":300,"downlinkOnly":1,"handshake":4,"uplinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"remarks":"🐴@oneclickvpnkeys","routing":{"domainStrategy":"AsIs","rules":[{"ip":["8.8.8.8"],"outboundTag":"proxy","port":"53","type":"field"},{"ip":["223.5.5.5"],"outboundTag":"direct","port":"53","type":"field"},{"domain":["geosite:private"],"outboundTag":"direct","type":"field"},{"ip":["geoip:private"],"outboundTag":"direct","type":"field"}]}}
 ----------------------------------------
