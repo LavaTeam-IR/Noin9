@@ -1,23 +1,7 @@
-آخرین آپدیت: 2026-08-14 10:41:44 UTC
+آخرین آپدیت: 2026-08-14 11:28:33 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-08-12T07:14:03+00:00] (id:16547)
-1.PROXY 2.PROXY 3.PROXY
-4.PROXY 5.PROXY 6.PROXY
-7.PROXY 8.PROXY 9.PROXY
-10.PROXY11.PROXY12.PROXY
-13.PROXY14.PROXY15.PROXY
-16.PROXY17.PROXY18.PROXY
-19.PROXY20.PROXY21.PROXY
-22.PROXY23.PROXY24.PROXY
-25.PROXY26.PROXY27.PROXY
-28.PROXY29.PROXY30.PROXY
-31.PROXY32.PROXY33.PROXY
-34.PROXY35.PROXY36.PROXY
-37.PROXY38.PROXY39.PROXY
-40.PROXY41.PROXY42.PROXY
-----------------------------------------
 [2026-08-12T07:19:09+00:00] (id:16548)
 (بدون متن)
 ----------------------------------------
@@ -145,28 +129,35 @@ V2rayNg -V2flyNg -V2rayTun -Happ -npv
 پروتکل‌های پشتیبانی‌شده:  
 VLESS VMESS Trojan Shadowsocks Xray SSH OpenVPN WireGuard IKEv2 L2TP ...
 
-1. vpnjantit.com 
-2. jagoanssh.com 
-3. racevpn.com 
-4. serverssh.net 
-5. akunssh.net 
-6. bestvpnssh.com 
-7. freevmess.com 
-8. vpnhack.com 
-9. hidessh.com 
-10. greenssh.com 
-11. sshslowdns.com 
-12. dewassh.net 
-13. openvpn-ssh.com 
-14. sshocean.com 
-15. opentunnel.net 
-16. cyberssh.com 
-17. sshdropbear.net 
-18. vpnudp.com 
-19. freevpn.us 
-20. librevpn.org 
-21. ssh-free.com
-
+1. vpnjantit.com  
+2. jagoanssh.com  
+3. racevpn.com  
+4. serverssh.net  
+5. akunssh.net  
+6. cybertunnel.org  
+7. neossh.com  
+8. bestvpnssh.com  
+9. netq.me  
+10. freevmess.com  
+11. vpnhack.com  
+12. hidessh.com  
+13. greenssh.com  
+14. sshslowdns.com  
+15. sshocean.com  
+16. dewassh.net  
+17. openvpn-ssh.com  
+18. sshnew.com  
+19. opentunnel.net  
+20. bluessh.net  
+21. cyberssh.com  
+22. sshdropbear.net  
+23. vpnudp.com  
+24. freevpn.us  
+25. librevpn.org  
+26. ssh-free.com
 #سایت #ssh
 ⭐️@ShadowProxy66
+----------------------------------------
+[2026-08-14T11:01:01+00:00] (id:16567)
+🔥 سایت‌های رایگان SSH و VPN سرور (آپدیت مرداد ۱۴۰۵)  سایت‌هایی که کانفیگ رایگان موقت (۳ روزه، ۷ روزه و ۳۰ روزه) ارائه میدن:  پروتکل‌های پشتیبانی‌شده:   VLESS VMESS Trojan Shadowsocks Xray SSH OpenVPN WireGuard IKEv2 L2TP ...  1. vpnjantit.com   2. jagoanssh.com …
 ----------------------------------------
