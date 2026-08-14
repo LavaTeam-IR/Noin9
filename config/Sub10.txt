@@ -238,3 +238,9 @@ vless://35066ccf-e303-4b0e-993b-aa2c2cef9c87@147.90.9.105:2443?encryption=none&f
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.226.177:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node15.mxvpn.dev&type=tcp#%F0%9F%9B%8E%EF%B8%8F28@oneclickvpnkeys
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@rush-72frf.meeopp.site:443?encryption=auto&path=rush-72frf.meeopp.site&security=tls&sni=rush-72frf.meeopp.site&type=ws#%F0%9F%9B%8E%EF%B8%8F29@oneclickvpnkeys
 vless://f20db72d-58c3-4789-9225-03a8cfc2e2c3@nl.hexflowdata.net:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5CybC33jkhMjECeE_99l3PQ_agwiBkawOXwGDgXjTn4&security=reality&sid=cc3355&sni=nl.hexflowdata.net&type=tcp#%F0%9F%9B%8E%EF%B8%8F30@oneclickvpnkeys
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.158.7.204:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.240.71:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.158.7.204:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.240.71:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTdFp3TDd5dUdKTDcwbTM5RDFVcXV2cnFmMzJwRkF2dw@turkey.zelnora.ir:1080#%40ghand_sheken
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40ghand_sheken
