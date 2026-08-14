@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-08-14 11:28:33 UTC
+آخرین آپدیت: 2026-08-14 12:10:23 UTC
 کانال: @shadowproxy66
 ========================================
 
@@ -153,8 +153,7 @@ VLESS VMESS Trojan Shadowsocks Xray SSH OpenVPN WireGuard IKEv2 L2TP ...
 22. sshdropbear.net  
 23. vpnudp.com  
 24. freevpn.us  
-25. librevpn.org  
-26. ssh-free.com
+25. librevpn.org
 #سایت #ssh
 ⭐️@ShadowProxy66
 ----------------------------------------
