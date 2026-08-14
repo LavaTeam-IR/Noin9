@@ -1,22 +1,7 @@
-آخرین آپدیت: 2026-08-14 16:26:23 UTC
+آخرین آپدیت: 2026-08-14 17:28:35 UTC
 کانال: @proxy_kafee
 ========================================
 
-[2026-08-13T05:54:35+00:00] (id:45838)
-⭐️ پروکسی متصل و پرسرعت
-
-https://t.me/proxy?server=46.62.247.86&port=443&secret=dd79e7010200010007f0030386e24c3add
-
-https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=noone.lavazemi1.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=new2.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-صبح بخیر♥️
-
-@proxy_kafee
-----------------------------------------
 [2026-08-13T07:46:28+00:00] (id:45839)
 #v2ray #nvp
 #v2box
@@ -264,4 +249,16 @@ lay configs رو بزنید و بعد از اسکن Sort by ping رو بزنید
 ----------------------------------------
 [2026-08-14T16:05:09+00:00] (id:45858)
 WINE_proxy_kafee-1.txt
+----------------------------------------
+[2026-08-14T17:07:36+00:00] (id:45859)
+دانلود برنامه از گوگل پلی
+دانلود اپلیکیشن wg
+
+(آموزش گذاشتن فایل در برنامه) اول ذخیره کنید بعد داخل برنامه اجرا کنید
+
+اگر وصل نشد رو اینجا کلیک کنید 
+
+@proxy_kafee
+
+#وایگراد
 ----------------------------------------
