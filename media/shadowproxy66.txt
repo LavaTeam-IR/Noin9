@@ -1,46 +1,7 @@
-آخرین آپدیت: 2026-08-14 21:02:01 UTC
+آخرین آپدیت: 2026-08-14 21:34:32 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-08-14T10:34:56+00:00] (id:16565)
-(بدون متن)
-----------------------------------------
-[2026-08-14T10:35:50+00:00] (id:16566)
-🔥 سایت‌های رایگان SSH و VPN سرور (آپدیت مرداد ۱۴۰۵)
-
-سایت‌هایی که کانفیگ رایگان موقت (۳ روزه، ۷ روزه و ۳۰ روزه) ارائه میدن:
-
-پروتکل‌های پشتیبانی‌شده:  
-VLESS VMESS Trojan Shadowsocks Xray SSH OpenVPN WireGuard IKEv2 L2TP ...
-
-1. vpnjantit.com  
-2. jagoanssh.com  
-3. racevpn.com  
-4. serverssh.net  
-5. akunssh.net  
-6. cybertunnel.org  
-7. neossh.com  
-8. bestvpnssh.com  
-9. netq.me  
-10. freevmess.com  
-11. vpnhack.com  
-12. hidessh.com  
-13. greenssh.com  
-14. sshslowdns.com  
-15. sshocean.com  
-16. dewassh.net  
-17. openvpn-ssh.com  
-18. sshnew.com  
-19. opentunnel.net  
-20. bluessh.net  
-21. cyberssh.com  
-22. sshdropbear.net  
-23. vpnudp.com  
-24. freevpn.us  
-25. librevpn.org
-#سایت #ssh
-⭐️@ShadowProxy66
-----------------------------------------
 [2026-08-14T11:01:01+00:00] (id:16567)
 🔥 سایت‌های رایگان SSH و VPN سرور (آپدیت مرداد ۱۴۰۵)  سایت‌هایی که کانفیگ رایگان موقت (۳ روزه، ۷ روزه و ۳۰ روزه) ارائه میدن:  پروتکل‌های پشتیبانی‌شده:   VLESS VMESS Trojan Shadowsocks Xray SSH OpenVPN WireGuard IKEv2 L2TP ...  1. vpnjantit.com   2. jagoanssh.com …
 ----------------------------------------
@@ -108,4 +69,18 @@ MCI
 https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/mci_top100.txt
 
 #sub
+----------------------------------------
+[2026-08-14T21:07:31+00:00] (id:16585)
+(بدون متن)
+----------------------------------------
+[2026-08-14T21:08:08+00:00] (id:16586)
+📶 138 کانفیگ V2ray تست شده با نت مخابرات🟤
+
+📍بقیه اپراتورها خودشون تست کنند
+
+🪧(فایل رو باز کنید محتویات رو کپی کنید و در کلاینت مورد نظر پیست کنید وصل نشد کلاینتهای دیگه تست کنید)
+
+V2rayNg -V2flyNg -V2rayTun -Happ -npv
+
+🔅@ShadowProxy66
 ----------------------------------------
