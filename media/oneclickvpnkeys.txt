@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-08-14 18:25:52 UTC
+آخرین آپدیت: 2026-08-14 19:28:13 UTC
 کانال: @oneclickvpnkeys
 ========================================
 
@@ -37,16 +37,12 @@ Run the test and find the optimal configuration for you.
 [2026-08-14T07:15:38+00:00] (id:26037)
 😁😊😊😊😁😊😊😊 😊😊😊
 🐴@oneckickvpnkeys
-
-🚨 Don't miss out: Unlock the secrets of successful trading! 📊 Dive into real-time signals that make a difference. 🔍💎 | InsideAds
 ----------------------------------------
 [2026-08-14T12:10:57+00:00] (id:26040)
 Next post is for apps:  📶 v2rayng, Streisand or Happ
 more configs here:
 ➡️ SUB 🇷🇺🇮🇷🇹🇲🇨🇳
 fragment👇fragment 👇
-
-👀 Take a look 👉: What if your next trade could change everything? Check out our live market insights! 🚀📈 | InsideAds
 ----------------------------------------
 [2026-08-14T12:11:22+00:00] (id:26041)
 {"dns":{"hosts":{"domain:googleapis.cn":"googleapis.com"},"servers":["8.8.8.8"]},"inbounds":[{"port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls","fakedns"],"enabled":true,"routeOnly":false},"tag":"socks"},{"port":10809,"protocol":"http","settings":{"userLevel":8},"tag":"http"}],"log":{"loglevel":"warning"},"outbounds":[{"mux":{"concurrency":8,"enabled":true,"xudpConcurrency":8,"xudpProxyUDP443":"reject"},"protocol":"vless","settings":{"vnext":[{"address":"meshbuzz.bond","port":443,"users":[{"encryption":"none","id":"8a6729c4-81d4-4b05-8747-3fffc17b6a64","level":8}]}]},"streamSettings":{"network":"ws","security":"tls","sockopt":{"dialerProxy":"fragment"},"tlsSettings":{"allowInsecure":false,"alpn":["h2"],"fingerprint":"firefox","serverName":"IxQiGnIu14.jUmBeRlAnD.CoM","show":false},"wsSettings":{"headers":{"Host":"IxQiGnIu14.jUmBeRlAnD.CoM"},"path":"/mashdi"}},"tag":"proxy"},{"protocol":"freedom","settings":{"domainStrategy":"UseIP"},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"},{"protocol":"freedom","settings":{"fragment":{"interval":"0","length":"5","packets":"tlshello"},"noises":[{"delay":"10-16","packet":"10-20","type":"rand"}]},"streamSettings":{"network":"tcp","sockopt":{"TcpNoDelay":true,"mark":255}},"tag":"fragment"}],"policy":{"levels":{"8":{"connIdle":300,"downlinkOnly":1,"handshake":4,"uplinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"remarks":"🐴@oneclickvpnkeys","routing":{"domainStrategy":"AsIs","rules":[{"ip":["8.8.8.8"],"outboundTag":"proxy","port":"53","type":"field"},{"ip":["223.5.5.5"],"outboundTag":"direct","port":"53","type":"field"},{"domain":["geosite:private"],"outboundTag":"direct","type":"field"},{"ip":["geoip:private"],"outboundTag":"direct","type":"field"}]}}
@@ -71,20 +67,4 @@ https://t.me/proxy?server=russia.mtproto.pics&port=443&secret=dd47c45aae7505146a
 https://t.me/proxy?server=russia.mtproto.pics&port=443&secret=ee47c45aae7505146a5707741697dc34ef7275737369612e6d7470726f746f2e70696373
 
 💎@oneclickvpnkeys
-----------------------------------------
-[2026-08-14T17:00:00+00:00] (id:26044)
-Pozitrum.com — современный криптокошелёк
-
-✅ Храни и управляй BTC + USDT в одном месте
-✅ Покупка и продажа крипты на платформе через партнёрские обменники – возможность оплаты наличкой в большинстве крупных городов
-✅ Надёжная защита (2FA + многоуровневая безопасность)
-✅ ИИ-прогнозы цен BTC, ETH и XRP
-✅ Для бизнеса: принимай биткоин-платежи через счета-фактуры
-✅ Полностью анонимно — без лишнего сбора персональных данных и без блокировок по запросам органов ЕС
-
-держатель лицензии FinCEN MSB рег. Вирджиния, США
-
-Посмотреть
-
-💪 Become a member: 👀 Most signals fail on risk rules—here’s the 1 filter I use before any FX entry. | InsideAds
 ----------------------------------------
