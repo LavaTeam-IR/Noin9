@@ -1,21 +1,7 @@
-آخرین آپدیت: 2026-08-14 20:04:40 UTC
+آخرین آپدیت: 2026-08-14 20:40:06 UTC
 کانال: @oneclickvpnkeys
 ========================================
 
-[2026-08-13T11:09:25+00:00] (id:26023)
-😀😀😀😀➡️SUB for August 
-
-💜Подписка это удобство, свобода от поиска по постам канала,  в течении месяца. Плюс дополнительно включено те , что не идут в посты на канал. 
-А так ваше дело отбирать подбирать работающие) мы предлагаем, но не настаиваем. Большая часть и так   в полном доступе на канале💜
-😀😀😀😀😀😀🐴
-💎@oneclickvpnkeys
-----------------------------------------
-[2026-08-13T12:53:29+00:00] (id:26024)
-Next post is for apps:  📶 v2rayng, Streisand or Happ
-more configs here:
-➡️ SUB 🇷🇺🇮🇷🇹🇲🇨🇳
-fragment👇fragment 👇
-----------------------------------------
 [2026-08-13T12:53:39+00:00] (id:26025)
 {"dns":{"hosts":{"domain:googleapis.cn":"googleapis.com"},"servers":["8.8.8.8"]},"inbounds":[{"port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls","fakedns"],"enabled":true,"routeOnly":false},"tag":"socks"},{"port":10809,"protocol":"http","settings":{"userLevel":8},"tag":"http"}],"log":{"loglevel":"warning"},"outbounds":[{"mux":{"concurrency":8,"enabled":true,"xudpConcurrency":8,"xudpProxyUDP443":"reject"},"protocol":"vless","settings":{"vnext":[{"address":"meshbuzz.bond","port":443,"users":[{"encryption":"none","id":"8a6729c4-81d4-4b05-8747-3fffc17b6a64","level":8}]}]},"streamSettings":{"network":"ws","security":"tls","sockopt":{"dialerProxy":"fragment"},"tlsSettings":{"allowInsecure":false,"alpn":["h2"],"fingerprint":"firefox","serverName":"KsJdXnCa13.hAsAnGoT.CoM","show":false},"wsSettings":{"headers":{"Host":"KsJdXnCa13.hAsAnGoT.CoM"},"path":"/mashdi"}},"tag":"proxy"},{"protocol":"freedom","settings":{"domainStrategy":"UseIP"},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"},{"protocol":"freedom","settings":{"fragment":{"interval":"0","length":"5","packets":"tlshello"},"noises":[{"delay":"10-16","packet":"10-20","type":"rand"}]},"streamSettings":{"network":"tcp","sockopt":{"TcpNoDelay":true,"mark":255}},"tag":"fragment"}],"policy":{"levels":{"8":{"connIdle":300,"downlinkOnly":1,"handshake":4,"uplinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"remarks":"🛗@oneclickvpnkeys","routing":{"domainStrategy":"AsIs","rules":[{"ip":["8.8.8.8"],"outboundTag":"proxy","port":"53","type":"field"},{"ip":["223.5.5.5"],"outboundTag":"direct","port":"53","type":"field"},{"domain":["geosite:private"],"outboundTag":"direct","type":"field"},{"ip":["geoip:private"],"outboundTag":"direct","type":"field"}]}}
 ----------------------------------------
@@ -67,4 +53,21 @@ https://t.me/proxy?server=russia.mtproto.pics&port=443&secret=dd47c45aae7505146a
 https://t.me/proxy?server=russia.mtproto.pics&port=443&secret=ee47c45aae7505146a5707741697dc34ef7275737369612e6d7470726f746f2e70696373
 
 💎@oneclickvpnkeys
+----------------------------------------
+[2026-08-14T20:16:59+00:00] (id:26047)
+✔️ Обновлены конфиги в подписке.
+➡️ПОДПИСКА
+
+➡️Subscription is updated!
+Run the test and find the optimal configuration for you.
+
+👈اشتراک به روز شد!
+تست را اجرا کنید و پیکربندی بهینه را برای شما پیدا کنید.
+
+🤩 @oneclickvpnkeys
+
+🏆 Join faster: 👀 Most signals fail on risk rules—here’s the 1 filter I use before any FX entry. | InsideAds
+----------------------------------------
+[2026-08-14T20:17:23+00:00] (id:26048)
+🤩
 ----------------------------------------
