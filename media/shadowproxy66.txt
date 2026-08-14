@@ -1,21 +1,7 @@
-آخرین آپدیت: 2026-08-14 09:44:54 UTC
+آخرین آپدیت: 2026-08-14 10:41:44 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-08-11T20:46:05+00:00] (id:16545)
-📶 202 کانفیگ V2ray تست شده با نت مخابرات🟤
-
-📍بقیه اپراتورها خودشون تست کنند
-
-🪧(فایل رو باز کنید محتویات رو کپی کنید و در کلاینت مورد نظر پیست کنید وصل نشد کلاینتهای دیگه تست کنید)
-
-V2rayNg -V2flyNg -V2rayTun -Happ -npv
-
-🔅@ShadowProxy66
-----------------------------------------
-[2026-08-12T07:13:37+00:00] (id:16546)
-(بدون متن)
-----------------------------------------
 [2026-08-12T07:14:03+00:00] (id:16547)
 1.PROXY 2.PROXY 3.PROXY
 4.PROXY 5.PROXY 6.PROXY
@@ -147,4 +133,40 @@ V2rayNg -V2flyNg -V2rayTun -Happ -npv
 V2rayNg -V2flyNg -V2rayTun -Happ -npv
 
 🔅@ShadowProxy66
+----------------------------------------
+[2026-08-14T10:34:56+00:00] (id:16565)
+(بدون متن)
+----------------------------------------
+[2026-08-14T10:35:50+00:00] (id:16566)
+🔥 سایت‌های رایگان SSH و VPN سرور (آپدیت مرداد ۱۴۰۵)
+
+سایت‌هایی که کانفیگ رایگان موقت (۳ روزه، ۷ روزه و ۳۰ روزه) ارائه میدن:
+
+پروتکل‌های پشتیبانی‌شده:  
+VLESS VMESS Trojan Shadowsocks Xray SSH OpenVPN WireGuard IKEv2 L2TP ...
+
+1. vpnjantit.com 
+2. jagoanssh.com 
+3. racevpn.com 
+4. serverssh.net 
+5. akunssh.net 
+6. bestvpnssh.com 
+7. freevmess.com 
+8. vpnhack.com 
+9. hidessh.com 
+10. greenssh.com 
+11. sshslowdns.com 
+12. dewassh.net 
+13. openvpn-ssh.com 
+14. sshocean.com 
+15. opentunnel.net 
+16. cyberssh.com 
+17. sshdropbear.net 
+18. vpnudp.com 
+19. freevpn.us 
+20. librevpn.org 
+21. ssh-free.com
+
+#سایت #ssh
+⭐️@ShadowProxy66
 ----------------------------------------
