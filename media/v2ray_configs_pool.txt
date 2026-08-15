@@ -1,63 +1,7 @@
-آخرین آپدیت: 2026-08-15 20:23:09 UTC
+آخرین آپدیت: 2026-08-15 20:45:27 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-15T17:26:48+00:00] (id:5239031)
-✍️با  اینکه کانفیگ های کانال با تغییر نام پخش بشه مشکلی ندارم 
-
-هدف کمک به کاربران جهت دسترسی به نت آزاد است
-
- نام کانفیگ مهم نیست!!!!
-----------------------------------------
-[2026-08-15T17:36:15+00:00] (id:5239032)
-همزمان  دو نفر لینک های ساب را خواسته اند 
-
-این هم لینک های ساب  تقدیم به دوستان 👇👇👇
-
-دقت کنید بعضی از لینک های ساب برای کلش است من با کد  لینک ساب کلش را به لینک سابV2RAY تبدیل کردم
-
-https://windowsv1.com/s/?token=fc1deabe522293afd7cdefc9bc71981d
-
-https://appurl.ppacc.cc/api/v1/client/subscribe?token=574cd874fff765d3641d5adb3e72935a
-
-https://www.louwangzhiyu.org/api/v1/client/subscribe?token=88da017a4aa397cc97089adeedcff51d
-
-https://qijiavpn.salnc.kuaivpn.app/api/v1/client/subscribe?token=983bc7baa0a9134f0a1ae66dd5e99574
-
-https://www.ziyoufly.com/feed/3e4woqHCqe85lonh.Z0KLrfrrofDcf6FCF6oMVgO4a9pxyM40q4oD7jxkrOGcMANL6GHW3alVgk0sH9tgggv2dp2ZbrrPu_LvINEnYKKqx24YB6-ZnVvFjGXzDfaplQ
-
-https://mzyglc.xyz/api/v1/client/subscribe?token=8168d96fdc6b11666c2876070bb7a12b
-
-https://hk40.240104.xyz/?sni=hk40.240104.xyz#%F0%9F%87%AD%F0%9F%87%B0HK
-
-https://xhtoken.huyun.nl/api/xiongtoken/f7249d0ad90ef0f3e49bfea4eb2e4b8b
-
-https://area.chinadevelop21.org/cdn/baidu?token=972e87402d5d27ae1c975167dc8fe91d
-
-https://svip.ttyun.eu.org/x/wnnAxleYMYw
-
-https://ss88.beifengyuns.top/s/ddc32faaf6aa5b5125c752750e03ea2d
-
-https://download.8886698.xyz/api/v1/client/subscribe?token=8f554686a899ff98a7cd50aedaec98eb
-
-https://www.ziyoufly.com/feed/2bCOFAn9LiJ9lktM.RHGvDeXvLRZbIMScSw3vmakAAjyHben7PaSba0Mn-AXHe96wX6kzawROSJ2ksLlQugyzFHuu9w2bkBylAnwSvl7dpSkninYflUR673aT6d5KMw
-
-https://sub.jjz125abpay.top/subscribe/236208a4131ace19c1b8aff02aa7c37f
-
-https://liangxin.xyz/api/v1/liangxin?OwO=037cc188deb29328dc08c523ae7355bf#%E8%89%AF%E5%BF%83%E4%BA%91
-
-https://uuidleishen.xn--cjz291d.co/leishen/0b6788922fa7e7c598aebc67a6b5d5db
-
-https://svip.ttyun.eu.org/x/A6SSx0wLck?t=auto
-
-https://145zz.acyunsa.sbs/api/v1/client/subscribe?token=f8c0fe887a7bb55577b13507c6fdf18e
-
-https://p3z9s943pd6vv0jx.yuji.homes
-
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-
-https://83232441.xyz/sub/425d71f6-5c81-4ccc-829d-ab278118b170
-----------------------------------------
 [2026-08-15T18:00:52+00:00] (id:5239034)
 آدیداس و دیزنی با همکاری هم دیگه، کتونی راپونزل طراحی کردند. 
 
@@ -94,6 +38,8 @@ https://83232441.xyz/sub/425d71f6-5c81-4ccc-829d-ab278118b170
 شوربختانه بعضی از ایرانی ها خرد و اندیشه را فریز کرده اند 😔
 
 سود تضمینی محاله!!!!!!!!!
+
+#سنجش_هوش_ایرانی_ها
 ----------------------------------------
 [2026-08-15T19:53:55+00:00] (id:5239046)
 https://t.me/proxy?server=mmd.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -112,4 +58,15 @@ https://t.me/proxy?server=91.107.160.196&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=194.60.228.4&port=2096&secret=dd79e344818749bd7ac519130220c25d09
 
 https://t.me/proxy?server=198.13.158.28&port=8080&secret=3XnnAQIAAQAH8AMDhuJMOt0
+----------------------------------------
+[2026-08-15T20:36:41+00:00] (id:5239052)
+ادامه داستان .......
+----------------------------------------
+[2026-08-15T20:37:21+00:00] (id:5239053)
+طرف کلیپ رکورد کرده راه افتاده در سطح شهر بصورت رندوم گوشی ملت را میگیره بعد از چند ثانیه میگه شما N دلار سود کردید  ملت شریف و با هوش ایران هم باور میکنند و فوری کلمه "کوفت" را کامنت میکنند😅  سه ثانیه فکر نمیکنند که یک ربات بدون سرمایه روی چه حسابی باید N…
+----------------------------------------
+[2026-08-15T20:41:29+00:00] (id:5239054)
+https://t.me/proxy?server=65.21.205.41&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+
+پروکسی با سرعت نور✈️✈️
 ----------------------------------------
