@@ -131,3 +131,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=realit
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#@v2rayng3
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#@v2rayng3
 vless://97ee39cc-cb22-42fd-9476-0c1a5f5a9621@5.75.197.25:1000?headerType=none&security=none&type=tcp&encryption=none#@v2eayng3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1cE96VTQyRkNDM0lrOVViSXltWEU0OUpoeWZiUnRaV0lqakFDWjd6OURFPQ@e1.cover20.ir:51570?type=tcp#@v2rayng3
