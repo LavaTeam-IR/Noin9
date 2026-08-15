@@ -294,3 +294,10 @@ vless://2cc05a95-3581-435b-bda1-6d27ae1d9af6@199.232.78.159:443?encryption=none&
 vless://699dde7d-4a08-4dd0-b081-7a87407a23fc@3.68.4.250:443?encryption=none&security=none&type=tcp&headerType=none#🔷🆔@v2ray_configs_pool🔷
 vless://39ad12ba-914a-4aa1-a825-3ee4db7c0a52@89.167.12.115:22579?encryption=none&security=none&type=tcp&headerType=none&path=%2F#🔷🆔@v2ray_configs_pool🔷
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://efc23e98-f747-17d3-47c5-13717cb4a884@212.87.199.95:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.datadoghq.com&fp=chrome&pbk=PBnTKkMwNAC6DtiVg4SYWqaV_3dJWWZPdFb7UQbvvUo&type=tcp&headerType=none#🔷🆔@v2ray_configs_pool🔷
+trojan://bbe734f4-3b51-40d6-8bf7-1c9216eba283@185.246.131.170:443?type=ws&host=amp-api-edge.apps.apple.com&path=%2F#🔷🆔@v2ray_configs_pool🔷
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.61:10901?#🔷🆔@v2ray_configs_pool🔷
+vless://ba067060-535b-0002-b592-2e8b50823ebd@46.8.210.139:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=smartcaptcha.yandexcloud.net&fp=firefox&pbk=DM3bRAvFPKomKjjmatlS2dH5VYZnUkPHw0BmA40kI2k&sid=0f4daaf87f9dff&type=tcp&headerType=none#🔷🆔@v2ray_configs_pool🔷
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDM3XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGQzNyIsICJhZGQiOiAiNDMuMTMyLjE5Mi4xNiIsICJwb3J0IjogIjk1MjciLCAiaWQiOiAiYWU4NjJlMWQtM2I4Yy00NDNhLTAyN2ItMzdjNmM2OWVmNDNjIiwgImFpZCI6ICIwIiwgInNjeSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImluc2VjdXJlIjogIjAiLCAidmNuIjogIiIsICJwY3MiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#%40vmesskhodam
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.227.195:22222?security=none&encryption=none&headerType=none&type=tcp#%40vmesskhodam
