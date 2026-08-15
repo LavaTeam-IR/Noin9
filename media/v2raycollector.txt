@@ -1,14 +1,7 @@
-آخرین آپدیت: 2026-08-15 21:48:38 UTC
+آخرین آپدیت: 2026-08-15 22:00:35 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-08-15T09:12:10+00:00] (id:2643)
-🇮🇹 کانفیگ اینجکتور
-
-اندروید
-
-ایفون
-----------------------------------------
 [2026-08-15T09:12:11+00:00] (id:2644)
 obfs4 82.65.223.6:46153 4F5E3F43B44C3C327B84CF6BF91ED2EC12A2379C cert=ma7Oco8I+SeB+QcCmd95L1XwfXnY1XdWXKcu3YMiRXP1QiwjTnNP30wmP48pKfthmBcudA iat-mode=0
 obfs4 162.120.71.95:8002 1B6EE31C6257D9D2BCC84FB0CD429EA34F35CBA4 cert=4x/9kYVcEpQi9g57F/VSn16YV4qUCRGZk6TrM37u+t58mzr6hl2YhLpaZ+QZq/Vf7qo7Uw iat-mode=0
@@ -204,4 +197,18 @@ Android: https://t.me/patt_channel_x/91?single
 Windows: https://t.me/patt_channel_x/101?single
 
 Android/Windows/Mac/iOS/Linux: Use Xray-core custom-json-config and change/add --> address, finalMask, fingerprint, cipherSuites
+----------------------------------------
+[2026-08-15T22:00:32+00:00] (id:2663)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/05/25
+🇬🇧 2026/08/16
+🕒 01:30:27
+
+🇳🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
+🇫🇮 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇭🇰 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+
+🆔 @ZPrxy
 ----------------------------------------
