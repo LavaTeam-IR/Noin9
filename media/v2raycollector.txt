@@ -1,45 +1,7 @@
-آخرین آپدیت: 2026-08-14 23:50:49 UTC
+آخرین آپدیت: 2026-08-15 00:25:34 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-08-14T08:00:36+00:00] (id:2608)
-(بدون متن)
-----------------------------------------
-[2026-08-14T08:23:01+00:00] (id:2609)
-Argo vpn
-پل ارگو
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzMuOgjAUANB/6VYTgUSlJi5IRbjM2AkzPoAdhQK1gA5W
-sBj/Xfcn54l63t3EpUUrc4quqa4vaY5WiOtgyBpsMIv2jMAC
-pCu+STAmUWAlEYgfETxYu1Ws2d1jCysQg8g8rPOPpZtwLML1
-Gk3RTZRtqu4d/5Q7NyYQEihnUo6/ZoUxx1nkN/Y10sr2DXU6
-Wq656Ty8X8iYl44DlUNLk+BD6NlLerRTCUo19Vknnvbr4ms+
-HiYVFP2D/g3/DL3eU3xEEA==
------END ARGO VPN BRIDGE BLOCK-----
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwVzEuOgjAAANC7dKuJtTgoJi6aitqGjwEZsLsWiGlRUECq
-Try7zvol7w8MZduppgbL6RhcxfPciAIsQflkJr84UKJgkITa
-tHKVR9iLZwzxjKpQMS22kS7Qw5Lxj5YI/ruRFoNUNzBYBw4Y
-g06datHf2/Jb+m5CKJnv+SI+GHyKcGxmSe73x24mePq7Gzmd
-NarUYIdkm143BisXW23lhYO8tGntaz8yN9sT+7yECT7GbLMo
-5rxH4eTuOhFegfcH1cRCRA==
------END ARGO VPN BRIDGE BLOCK-----
-----------------------------------------
-[2026-08-14T10:00:20+00:00] (id:2610)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/05/23
-🇬🇧 2026/08/14
-🕒 13:30:14
-
-🇩🇪 ᴘʀᴏxʏ | 🇨🇦 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
-🇷🇺 ᴘʀᴏxʏ | 🇵🇱 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🇵🇱 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy
-----------------------------------------
 [2026-08-14T10:13:03+00:00] (id:2611)
 (بدون متن)
 ----------------------------------------
@@ -220,4 +182,19 @@ https://t.me/proxy?server=194.60.228.22&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 🇳🇱 ᴘʀᴏxʏ
 
 🆔 @ZPrxy
+----------------------------------------
+[2026-08-15T00:00:19+00:00] (id:2628)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/05/24
+🇬🇧 2026/08/15
+🕒 03:30:13
+
+🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇹🇷 ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇵🇱 ᴘʀᴏxʏ
+
+🆔 @ZPrxy
+----------------------------------------
+[2026-08-15T00:00:28+00:00] (id:2630)
+(بدون متن)
 ----------------------------------------
