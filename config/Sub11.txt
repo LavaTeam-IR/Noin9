@@ -284,3 +284,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388?#%40Daily
 vless://699dde7d-4a08-4dd0-b081-7a87407a23fc@3.68.4.250:443?encryption=none&security=none&type=tcp&headerType=none#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443?#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443?#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#Channel%20id%3A%20%40v2ray_configs_pools%20%F0%9F%87%BF%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#Channel%20id%3A%20%40v2ray_configs_pools%20%F0%9F%87%B5%F0%9F%87%B1
+vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#Channel%20id%3A%20%40v2ray_configs_pools%20%F0%9F%87%AB%F0%9F%87%B7
