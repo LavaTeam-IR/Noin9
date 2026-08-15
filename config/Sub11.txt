@@ -293,3 +293,4 @@ vless://cd60668d-28d0-4070-8179-47ad0d151dd5@82.202.247.181:443?encryption=none&
 vless://2cc05a95-3581-435b-bda1-6d27ae1d9af6@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=SvnTeamChannel.global.ssl.fastly.net&path=%2F#🔷🆔@v2ray_configs_pool🔷
 vless://699dde7d-4a08-4dd0-b081-7a87407a23fc@3.68.4.250:443?encryption=none&security=none&type=tcp&headerType=none#🔷🆔@v2ray_configs_pool🔷
 vless://39ad12ba-914a-4aa1-a825-3ee4db7c0a52@89.167.12.115:22579?encryption=none&security=none&type=tcp&headerType=none&path=%2F#🔷🆔@v2ray_configs_pool🔷
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
