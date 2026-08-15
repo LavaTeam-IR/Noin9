@@ -301,3 +301,5 @@ vless://ba067060-535b-0002-b592-2e8b50823ebd@46.8.210.139:443?encryption=none&fl
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDM3XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGQzNyIsICJhZGQiOiAiNDMuMTMyLjE5Mi4xNiIsICJwb3J0IjogIjk1MjciLCAiaWQiOiAiYWU4NjJlMWQtM2I4Yy00NDNhLTAyN2ItMzdjNmM2OWVmNDNjIiwgImFpZCI6ICIwIiwgInNjeSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImluc2VjdXJlIjogIjAiLCAidmNuIjogIiIsICJwY3MiOiAiIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#%40vmesskhodam
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.227.195:22222?security=none&encryption=none&headerType=none&type=tcp#%40vmesskhodam
+vless://855d82bc-8cc6-4037-8da5-df0412f3c063@212.227.235.66:2053?encryption=none&fp=&pbk=6huZliKELOkP6l-eOIFe7PKP5MCGK2p5KzUeXRiMi00&security=reality&sid=13e0569248e98a05&sni=www.apple.com&type=tcp#@V2ray_Collector
+trojan://AE62539071@distinct-quail.rooster465.autos:443?sni=distinct-quail.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#@V2ray_Collector
