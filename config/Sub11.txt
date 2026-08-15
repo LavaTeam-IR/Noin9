@@ -213,3 +213,8 @@ vless://88335b0c-1929-4f76-b87f-6e28831dfb7e@Chess.com:443?path=%2F&security=tls
 vless://daa34529-5219-4323-d26a-2c395b25a56d@185.126.236.181:2052?path=%2F&security=none&encryption=none&host=www.icloud.com&type=ws#https%3A%2F%2Ft.me%2Fv2rayNG_Matsuri
 vless://79dafc6f-e61b-46cf-8a3c-74f6304d230c@freesocks.work:2083?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=uwu.meowpew.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=uwu.meowpew.de5.net#https%3A%2F%2Ft.me%2Fv2rayNG_Matsuri
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#https%3A%2F%2Ft.me%2Fv2rayNG_Matsuri
+trojan://AE62539071@18.198.1.232:443?security=tls&sni=teaching-gnu.rooster465.autos&fp=chrome&type=tcp&headerType=none#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+trojan://AE62539071@18.194.130.12:443?security=tls&sni=sterling-macaw.rooster465.autos&fp=chrome&type=tcp&headerType=none#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22222?encryption=none&security=none&type=tcp&headerType=none#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388?#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388?#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
