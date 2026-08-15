@@ -420,3 +420,5 @@ vless://4c27fd46-708c-1af6-8a69-136a2bf8c847@mina-production-f048.up.railway.app
 vless://a8b5db8a-bb01-4f16-b189-9c364d665445@sys-b76e9a-0975e7-production.up.railway.app:443?encryption=none&security=tls&sni=sys-b76e9a-0975e7-production.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=sys-b76e9a-0975e7-production.up.railway.app&path=%2Fws%2Fvless%2Fa8b5db8a-bb01-4f16-b189-9c364d665445%3Fed%3D2048#M
 vless://7dd60542-4c44-46a4-89ce-68b3884b89d0@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=towndtime.global.ssl.fastly.neT.&path=%2F#M
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@217.19.122.234:9001?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc-reality&mode=gun#M
+vless://97ee39cc-cb22-42fd-9476-0c1a5f5a9621@5.75.197.25:1000?security=none&encryption=none&headerType=none&type=tcp#%40vmesskhodam
+vless://39ad12ba-914a-4aa1-a825-3ee4db7c0a52@89.167.12.115:22579?security=none&encryption=none&headerType=none&type=tcp#%40vmesskhodam
