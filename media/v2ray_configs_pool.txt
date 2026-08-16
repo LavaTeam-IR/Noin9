@@ -1,13 +1,43 @@
-آخرین آپدیت: 2026-08-16 20:28:45 UTC
+آخرین آپدیت: 2026-08-16 20:49:46 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-16T20:15:29+00:00] (id:5240645)
-https://t.me/proxy?server=kala.golgoli1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
+[2026-08-16T20:49:05+00:00] (id:5240968)
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Dronten🅿️ping:495.3ms
 ----------------------------------------
-[2026-08-16T20:15:54+00:00] (id:5240646)
-https://t.me/proxy?server=himan.dano-vaks.co.uk.&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+[2026-08-16T20:49:20+00:00] (id:5240972)
+https://t.me/proxy?server=speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 ----------------------------------------
-[2026-08-16T20:19:03+00:00] (id:5240654)
-hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52067?security=tls&obfs=salamander&obfs-password=txwr28j1lntoy0sj&insecure=0&sni=assets.gateway-stream.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:51.28ms
+[2026-08-16T20:49:22+00:00] (id:5240973)
+https://t.me/proxy?server=www.hagl1k.ir&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D
+----------------------------------------
+[2026-08-16T20:49:37+00:00] (id:5240975)
+#حمایت
+
+#Donate
+
+👇 Tron (TRC20) / Tether (TRC20) 👇
+
+TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
+
+👇 Toncoin (TON) / Tether (TON)  👇
+
+UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
+
+Admin 🆔 @M3HDIO1
+----------------------------------------
+[2026-08-16T20:49:39+00:00] (id:5240977)
+#حمایت
+
+#Donate
+
+👇 Tron (TRC20) / Tether (TRC20) 👇
+
+TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
+
+👇 Toncoin (TON) / Tether (TON)  👇
+
+UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
+
+Admin 🆔 @M3HDIO1
 ----------------------------------------
