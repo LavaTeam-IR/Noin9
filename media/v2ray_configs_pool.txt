@@ -1,14 +1,38 @@
-آخرین آپدیت: 2026-08-16 19:47:06 UTC
+آخرین آپدیت: 2026-08-16 19:59:45 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-16T19:42:27+00:00] (id:5240555)
-https://t.me/proxy?server=de.nachrichten.mistdrip.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+[2026-08-16T19:52:12+00:00] (id:5240589)
+https://t.me/proxy?server=iran-download.goaphrodite.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 ----------------------------------------
-[2026-08-16T19:43:16+00:00] (id:5240556)
-https://t.me/proxy?server=wwop.amir.dotadotnet3.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
+[2026-08-16T19:52:21+00:00] (id:5240590)
+https://t.me/proxy?server=download.brettanderson.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 ----------------------------------------
-[2026-08-16T19:45:58+00:00] (id:5240566)
+[2026-08-16T19:52:34+00:00] (id:5240591)
+https://t.me/proxy?server=api.groundfloorsolutions.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+----------------------------------------
+[2026-08-16T19:52:45+00:00] (id:5240592)
+https://t.me/proxy?server=bezan-roo.connectina.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+----------------------------------------
+[2026-08-16T19:53:41+00:00] (id:5240593)
+https://t.me/proxy?server=Strait-of-Hormuz.ir.jursdheks.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d
+----------------------------------------
+[2026-08-16T19:54:13+00:00] (id:5240594)
+https://t.me/proxy?server=iran-download.shentaichiacademy.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+----------------------------------------
+[2026-08-16T19:54:23+00:00] (id:5240595)
+https://t.me/proxy?server=download.lv426.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+----------------------------------------
+[2026-08-16T19:54:34+00:00] (id:5240596)
+https://t.me/proxy?server=app.what-ever.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+----------------------------------------
+[2026-08-16T19:54:55+00:00] (id:5240597)
+https://t.me/proxy?server=iran.fourie.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+----------------------------------------
+[2026-08-16T19:55:04+00:00] (id:5240598)
+https://t.me/proxy?server=ftp.jinxandjack.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+----------------------------------------
+[2026-08-16T19:55:09+00:00] (id:5240599)
 #حمایت
 
 #Donate
@@ -22,4 +46,19 @@ TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
 UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
+----------------------------------------
+[2026-08-16T19:55:17+00:00] (id:5240600)
+https://t.me/proxy?server=webhook.what-ever.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+----------------------------------------
+[2026-08-16T19:55:26+00:00] (id:5240601)
+https://t.me/proxy?server=Kingdom-persia.ir.hey-gardash.info.&port=1080&secret=79e344818749bd7ac519130220c25d09
+----------------------------------------
+[2026-08-16T19:55:37+00:00] (id:5240602)
+https://t.me/proxy?server=opeenhostings.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+----------------------------------------
+[2026-08-16T19:55:47+00:00] (id:5240603)
+https://t.me/proxy?server=zon-b0z.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+----------------------------------------
+[2026-08-16T19:57:24+00:00] (id:5240604)
+hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52067?security=tls&obfs=salamander&alpn=h3&obfs-password=txwr28j1lntoy0sj&insecure=0&sni=assets.gateway-stream.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:51.28ms
 ----------------------------------------
