@@ -1,52 +1,25 @@
-آخرین آپدیت: 2026-08-16 13:25:44 UTC
+آخرین آپدیت: 2026-08-16 13:52:50 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-16T13:21:10+00:00] (id:5239645)
-https://t.me/proxy?server=87.248.129.53&port=15&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+[2026-08-16T13:47:37+00:00] (id:5239718)
+https://t.me/proxy?server=imtproxy-ir.one.98.99.38-82.ir.&port=8443&secret=7hP___8QA8wwBapQB-5wCdxiaXNjb3R0aS55ZWt0YW5ldC5jb20%3D
 ----------------------------------------
-[2026-08-16T13:21:19+00:00] (id:5239646)
-https://t.me/proxy?server=87.248.129.221&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+[2026-08-16T13:47:46+00:00] (id:5239719)
+https://t.me/proxy?server=www.vip9.ir.&port=8443&secret=7mMho4GHSV36xZoDAiDCXY5tZWRpYS5zdGVhbXBvd2VyZWQuY29t
 ----------------------------------------
-[2026-08-16T13:21:29+00:00] (id:5239647)
-https://t.me/proxy?server=87.248.149.052&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+[2026-08-16T13:48:57+00:00] (id:5239722)
+https://t.me/proxy?server=team.fast--pro.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D](https://t.me/Nitro_Skybot?start=ref_cRlcKlfNgms
 ----------------------------------------
-[2026-08-16T13:21:40+00:00] (id:5239648)
-https://t.me/proxy?server=168.119.142.46&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+[2026-08-16T13:49:05+00:00] (id:5239723)
+https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/Nitro_Skybot?start=ref_cRlcKlfNgms
 ----------------------------------------
-[2026-08-16T13:23:18+00:00] (id:5239656)
-https://t.me/proxy?server=www.glowship.ir.&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+[2026-08-16T13:49:23+00:00] (id:5239724)
+https://t.me/proxy?server=media8.happtg.org&port=443&secret=7q95S8wg9wsUNra5KwGyB-JtYWduaXQucnU](https://t.me/Nitro_Skybot?start=ref_cRlcKlfNgms
 ----------------------------------------
-[2026-08-16T13:23:28+00:00] (id:5239657)
-https://t.me/proxy?server=www.189-208-55-72.ir.&port=8443&secret=ee1044048187495dfac59a030220c25cb3626973636f7474692e79656b74616e65742e636f6d
+[2026-08-16T13:49:57+00:00] (id:5239726)
+https://t.me/proxy?server=nachrichten.dripflux.ir.&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 ----------------------------------------
-[2026-08-16T13:24:00+00:00] (id:5239659)
-🔷جهت ورود به کانالV2RAY_CONFIGS_POOL  روی  این لینک کلیک کرده و درخواست عضویت ارسال بفرمایید 
-
-🔷کانال V2RAY_CONFIGS_POOLتحت حمایت بنیاد مستضعفین است ادمین کانال  زرخرید شماست حمایت نکنیا !!! بی تفاوت باش !!! بی روی خودت هم نیار 😔 
-
-#حمایت
-#Donate
-
-👇 Tron (TRC20) / Tether (TRC20) 👇
-
-TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
-
-👇 Toncoin (TON) / Tether (TON)  👇
-
-UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
-
-Admin 🆔 @M3HDIO1
-----------------------------------------
-[2026-08-16T13:24:07+00:00] (id:5239660)
-hysteria2://m3bqxk03mg221yi2@95.217.96.131:52016?security=tls&obfs=salamander&obfs-password=fsc92dsh321o5h3r&insecure=0&sni=assets.gateway-stream.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:35.44ms
-----------------------------------------
-[2026-08-16T13:24:17+00:00] (id:5239661)
-hysteria2://m3bqxk03mg221yi2@95.217.96.131:52049?security=tls&obfs=salamander&obfs-password=phos93w1zi0nj6uv&insecure=0&sni=assets.gateway-stream.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:29.14ms
-----------------------------------------
-[2026-08-16T13:24:29+00:00] (id:5239662)
-hysteria2://m3bqxk03mg221yi2@95.217.96.131:52022?security=tls&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo&insecure=0&sni=assets.gateway-stream.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:32.29ms
-----------------------------------------
-[2026-08-16T13:24:39+00:00] (id:5239663)
-hysteria2://m3bqxk03mg221yi2@95.217.96.131:52000?security=tls&obfs=salamander&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:34.64ms
+[2026-08-16T13:52:48+00:00] (id:5239734)
+https://t.me/proxy?server=api.digitalhomeservices.veilzen.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 ----------------------------------------
