@@ -1,19 +1,49 @@
-آخرین آپدیت: 2026-08-16 18:02:12 UTC
+آخرین آپدیت: 2026-08-16 18:42:19 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-16T18:01:57+00:00] (id:5240198)
-#حمایت
-
-#Donate
-
-👇 Tron (TRC20) / Tether (TRC20) 👇
-
-TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
-
-👇 Toncoin (TON) / Tether (TON)  👇
-
-UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
-
-Admin 🆔 @M3HDIO1
+[2026-08-16T18:36:52+00:00] (id:5240346)
+https://t.me/proxy?server=nick.ciaude.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+----------------------------------------
+[2026-08-16T18:37:02+00:00] (id:5240347)
+https://t.me/proxy?server=170.205.31.75&port=443&secret=95ce9bd0bf3ddee9e262e0f6e34996ad
+----------------------------------------
+[2026-08-16T18:37:16+00:00] (id:5240348)
+https://t.me/proxy?server=vagon.belotfelipo.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+----------------------------------------
+[2026-08-16T18:37:26+00:00] (id:5240349)
+https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
+----------------------------------------
+[2026-08-16T18:37:36+00:00] (id:5240350)
+https://t.me/proxy?server=bia.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+----------------------------------------
+[2026-08-16T18:37:46+00:00] (id:5240351)
+https://t.me/proxy?server=mashtibash.vafadari.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+----------------------------------------
+[2026-08-16T18:38:00+00:00] (id:5240352)
+https://t.me/proxy?server=altaria.proxy.rlwy.net&port=36704&secret=b43678d33d5a9d95e2f477361b7eb634
+----------------------------------------
+[2026-08-16T18:38:10+00:00] (id:5240353)
+https://t.me/proxy?server=65.109.217.254&port=8443&secret=dd104462821249bd7ac519130220c25d09
+----------------------------------------
+[2026-08-16T18:38:59+00:00] (id:5240354)
+https://t.me/proxy?server=www.88-93-48-3.ir.&port=8443&secret=7hBEBIGHSV36xZoDAiDCXLNtZWRpYS5zdGVhbXBvd2VyZWQuY29t
+----------------------------------------
+[2026-08-16T18:39:12+00:00] (id:5240355)
+https://t.me/proxy?server=www.33-74www.ir.&port=8443&secret=7hBEBIGHSV36xZoDAiDCXLN3d3cueWFob28uY29t
+----------------------------------------
+[2026-08-16T18:39:32+00:00] (id:5240356)
+https://t.me/proxy?server=103.75.197.28&port=443&secret=9091f27a84c8b6c4e0fe64c1649b607c
+----------------------------------------
+[2026-08-16T18:40:16+00:00] (id:5240358)
+https://t.me/proxy?server=www.1-2-3-4-5.ir.&port=8443&secret=7hYDBIGHSV36xZoDAiDCXY53d3cueWFob28uY29t
+----------------------------------------
+[2026-08-16T18:40:28+00:00] (id:5240359)
+https://t.me/proxy?server=www.veilhub.ir.&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
+----------------------------------------
+[2026-08-16T18:40:53+00:00] (id:5240360)
+https://t.me/proxy?server=www.ferivip.ir.&port=8443&secret=7mMhBIGHSV36xZoDAiDCXY5tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+----------------------------------------
+[2026-08-16T18:41:04+00:00] (id:5240361)
+https://t.me/proxy?server=www.yekaterinburg.ir.&port=8443&secret=7mMhBIGHSV36xZoDAiDCXY53d3cueWFob28uY29t
 ----------------------------------------
