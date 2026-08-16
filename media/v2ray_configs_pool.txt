@@ -1,16 +1,19 @@
-آخرین آپدیت: 2026-08-16 12:03:20 UTC
+آخرین آپدیت: 2026-08-16 12:55:28 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-16T11:26:56+00:00] (id:5239362)
-(بدون متن)
+[2026-08-16T12:49:14+00:00] (id:5239528)
+https://t.me/proxy?server=supportsystemstatus.nestxcouk.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 ----------------------------------------
-[2026-08-16T11:30:32+00:00] (id:5239365)
-https://t.me/proxy?server=media7.happtg.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
+[2026-08-16T12:49:27+00:00] (id:5239529)
+https://t.me/proxy?server=love.roseprox.xyz&port=443&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e636c6f7564666c6172652e636f6d](https://t.me/Rose_Proxy
 ----------------------------------------
-[2026-08-16T11:30:40+00:00] (id:5239366)
-(بدون متن)
+[2026-08-16T12:49:38+00:00] (id:5239530)
+https://t.me/proxy?server=love.roseprox.xyz&port=8443&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e636c6f7564666c6172652e636f6d
 ----------------------------------------
-[2026-08-16T11:30:44+00:00] (id:5239367)
-(بدون متن)
+[2026-08-16T12:50:07+00:00] (id:5239532)
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Dronten🅿️ping:65.64ms
+----------------------------------------
+[2026-08-16T12:52:58+00:00] (id:5239539)
+hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=&obfs=salamander&obfs-password=uw9b2qq5rx#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:92.98ms
 ----------------------------------------
