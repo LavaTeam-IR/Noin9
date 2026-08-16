@@ -547,3 +547,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@217.138.213.38
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@195.12.48.126:1080#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Dagenham🅿️ping:26ms
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:7.71ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@103.231.91.226:1080#👉🆔@v2ray_configs_pool📡🇦🇺®️Australia©️Sydney🅿️ping:1537ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.97.199:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.97.199:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
