@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-08-16 15:43:00 UTC
+آخرین آپدیت: 2026-08-16 15:59:05 UTC
 کانال: @vmesskhodam
 ========================================
 
@@ -26,4 +26,14 @@ https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJ
 https://t.me/proxy?server=194.60.228.22&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 ‌
 🤍@vmesskhodam
+----------------------------------------
+[2026-08-16T15:54:01+00:00] (id:10309)
+hysteria2://m3bqxk03mg221yi2@95.217.96.131:52000?security=tls&obfs=salamander&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#%40vmesskhodam
+
+hysteria2://m3bqxk03mg221yi2@95.217.96.131:52022?security=tls&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo&insecure=0&sni=assets.gateway-stream.com#%40vmesskhodam
+
+hysteria2://m3bqxk03mg221yi2@95.217.96.131:52049?security=tls&obfs=salamander&obfs-password=phos93w1zi0nj6uv&insecure=0&sni=assets.gateway-stream.com#%40vmesskhodam
+متصل و پرقدرت برای تمامی اپراتور✅
+
+🩵@vmesskhodam
 ----------------------------------------
