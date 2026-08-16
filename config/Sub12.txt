@@ -209,3 +209,4 @@ trojan://FH72359861@63.176.171.181:443?allowInsecure=1&insecure=1&security=tls&s
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bWtLZnhuZENaOWMzWUlrQUFtQU5ydGZJL21sR0p3d1Y5L0dkVlRZZ1czTT06SmF6eGlZYzNNYzV0TG4vVGUzVDU5VzZadzRaL0JQdWVwUTBWbFZEL2NaOD0@193.124.203.144:443?#Channel%20%3A%20%40Daily_Configs%20
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@104.21.41.140:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&fp=chrome&alpn=h3%2Ch2&type=ws&host=po.fastbrokencompony.com&path=%2F#Channel%20%3A%20%40Daily_Configs%20
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&fp=chrome&alpn=h3%2Ch2&type=ws&host=po.fastbrokencompony.com&path=%2F#Channel%20%3A%20%40Daily_Configs%20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYQWpkcmJJSUFOSzRtdlQwcjJ1S0xjR0M5Wk5TeHIyR3RZNVg3U1RHL2pJPQ@e1.cover20.ir:51570?type=tcp#@v2rayng3
