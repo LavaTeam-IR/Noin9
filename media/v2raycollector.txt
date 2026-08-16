@@ -1,16 +1,7 @@
-آخرین آپدیت: 2026-08-16 09:55:47 UTC
+آخرین آپدیت: 2026-08-16 10:17:31 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-08-15T20:14:51+00:00] (id:2662)
-آموزش fragment+fingerprint برای رفع فیلتر دامنه و رفع محدودیت آپلود بر روی کلودفلر (ورکر/cdn) حتی روی نت‌های محدود:
-
-Android: https://t.me/patt_channel_x/91?single
-
-Windows: https://t.me/patt_channel_x/101?single
-
-Android/Windows/Mac/iOS/Linux: Use Xray-core custom-json-config and change/add --> address, finalMask, fingerprint, cipherSuites
-----------------------------------------
 [2026-08-15T22:00:32+00:00] (id:2663)
 🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
 ❏❏❏❏❏❏❏❏❏❏❏❏❏❏
@@ -183,4 +174,18 @@ https://t.me/proxy?server=lowpressure.simbol.info&port=443&secret=7hYDAQIAAQAB_A
 https://t.me/proxy?server=bala.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 
 https://t.me/proxy?server=iran.click-master.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+----------------------------------------
+[2026-08-16T10:00:31+00:00] (id:2682)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/05/25
+🇬🇧 2026/08/16
+🕒 13:30:27
+
+🇳🇱 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇫🇮 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+
+🆔 @ZPrxy
 ----------------------------------------
