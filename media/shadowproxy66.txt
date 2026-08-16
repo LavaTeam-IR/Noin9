@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-08-16 12:55:24 UTC
+آخرین آپدیت: 2026-08-16 13:25:41 UTC
 کانال: @shadowproxy66
 ========================================
 
@@ -89,5 +89,8 @@ https://github.com/patterniha/PattNG/releases/tag/2.3.4-P21
 ‏PattNG یک جایگزین عالی برای v2rayNG  https://github.com/patterniha/v2rayNG  https://github.com/patterniha/PattNG/releases/tag/2.3.4-P21 توضیحات و نحوه کار
 ----------------------------------------
 [2026-08-16T12:37:05+00:00] (id:16626)
+‏PattNG یک جایگزین عالی برای v2rayNG  https://github.com/patterniha/v2rayNG  https://github.com/patterniha/PattNG/releases/tag/2.3.4-P21 توضیحات و نحوه کار
+----------------------------------------
+[2026-08-16T13:13:41+00:00] (id:16628)
 ‏PattNG یک جایگزین عالی برای v2rayNG  https://github.com/patterniha/v2rayNG  https://github.com/patterniha/PattNG/releases/tag/2.3.4-P21 توضیحات و نحوه کار
 ----------------------------------------
