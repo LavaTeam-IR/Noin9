@@ -1,20 +1,23 @@
-آخرین آپدیت: 2026-08-16 21:30:12 UTC
+آخرین آپدیت: 2026-08-16 21:48:54 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-16T21:25:42+00:00] (id:5241095)
-https://t.me/proxy?server=p6f2a1b3-e8c4-471f-b5a6-9c2d8e7b1a4f-b5c6-d7e8.space&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
+[2026-08-16T21:40:37+00:00] (id:5241142)
+https://t.me/proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 ----------------------------------------
-[2026-08-16T21:25:42+00:00] (id:5241096)
-https://t.me/proxy?server=qadim.zhigool.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ
+[2026-08-16T21:40:40+00:00] (id:5241144)
+https://t.me/proxy?server=run.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 ----------------------------------------
-[2026-08-16T21:25:42+00:00] (id:5241097)
-https://t.me/proxy?server=mashti.just-money.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+[2026-08-16T21:40:42+00:00] (id:5241145)
+https://t.me/proxy?server=www.wwwjom.ir.&port=443&secret=ee1701186abd0ea60123192e26434f91a57777772e7961686f6f2e636f6d
 ----------------------------------------
-[2026-08-16T21:25:44+00:00] (id:5241098)
-https://t.me/proxy?server=p5b1c4e9-a3f2-4b7d-8c1a-d9e2f5a4c3b1-e6f7-8a9b.space&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
+[2026-08-16T21:40:42+00:00] (id:5241146)
+https://t.me/proxy?server=8897a77all.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 ----------------------------------------
-[2026-08-16T21:25:44+00:00] (id:5241099)
+[2026-08-16T21:40:42+00:00] (id:5241148)
+https://t.me/proxy?server=genuismind.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+----------------------------------------
+[2026-08-16T21:40:45+00:00] (id:5241149)
 #حمایت
 
 #Donate
@@ -29,34 +32,7 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-16T21:25:44+00:00] (id:5241100)
-#حمایت
-
-#Donate
-
-👇 Tron (TRC20) / Tether (TRC20) 👇
-
-TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
-
-👇 Toncoin (TON) / Tether (TON)  👇
-
-UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
-
-Admin 🆔 @M3HDIO1
-----------------------------------------
-[2026-08-16T21:26:18+00:00] (id:5241102)
-https://t.me/proxy?server=chai.mikham.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-----------------------------------------
-[2026-08-16T21:26:18+00:00] (id:5241103)
-https://t.me/proxy?server=https.ddns-cdnco.co.uk.&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-----------------------------------------
-[2026-08-16T21:26:21+00:00] (id:5241104)
-https://t.me/proxy?server=jadid.zhigool.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-----------------------------------------
-[2026-08-16T21:26:23+00:00] (id:5241105)
-https://t.me/proxy?server=bastani.mikham.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-----------------------------------------
-[2026-08-16T21:27:16+00:00] (id:5241111)
+[2026-08-16T21:40:45+00:00] (id:5241150)
 #حمایت
 
 #Donate
