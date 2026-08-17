@@ -1,8 +1,8 @@
-آخرین آپدیت: 2026-08-17 14:07:00 UTC
+آخرین آپدیت: 2026-08-17 14:40:41 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-17T14:01:06+00:00] (id:5246848)
+[2026-08-17T14:32:40+00:00] (id:5246982)
 #حمایت
 
 #Donate
@@ -17,7 +17,13 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T14:01:06+00:00] (id:5246849)
+[2026-08-17T14:33:06+00:00] (id:5246983)
+https://t.me/proxy?server=qodratii.mnbtm.li&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+----------------------------------------
+[2026-08-17T14:33:07+00:00] (id:5246984)
+https://t.me/proxy?server=qodratii.mnbtm.li&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+----------------------------------------
+[2026-08-17T14:33:41+00:00] (id:5246985)
 #حمایت
 
 #Donate
@@ -32,7 +38,22 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T14:02:22+00:00] (id:5246856)
+[2026-08-17T14:37:59+00:00] (id:5246988)
+https://t.me/proxy?server=103.104.112.8&port=5222&secret=eec8576be4484da99437c59af67c28ae447777772e6a696f2e636f6d&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T14:37:59+00:00] (id:5246989)
+https://t.me/proxy?server=155.212.217.205&port=443&secret=eedddddddddddddddddddddddddddddddd6f7a6f6e2e7275&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T14:37:59+00:00] (id:5246990)
+https://t.me/proxy?server=159.194.207.211&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T14:38:00+00:00] (id:5246991)
+https://t.me/proxy?server=65.109.176.61&port=4455&secret=104462821249bd7ac519130220c25d09&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T14:38:00+00:00] (id:5246992)
+https://t.me/proxy?server=91.228.186.238&port=2020&secret=ee89ed874f0c796718423b4c6e0b195f&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T14:38:03+00:00] (id:5246993)
 #حمایت
 
 #Donate
@@ -47,7 +68,13 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T14:03:08+00:00] (id:5246860)
+[2026-08-17T14:38:04+00:00] (id:5246994)
+https://t.me/proxy?server=lero-connect.leeroy.uz&port=443&secret=ee1ba22f84ef18417a6959788f27f3f23d6c65726f2d736974652e6c6565726f792e757a&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T14:38:04+00:00] (id:5246995)
+https://t.me/proxy?server=rootssh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T14:39:12+00:00] (id:5247000)
 #حمایت
 
 #Donate
@@ -61,31 +88,4 @@ TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
 UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
-----------------------------------------
-[2026-08-17T14:05:27+00:00] (id:5246861)
-https://t.me/proxy?server=77.90.63.2&port=443&secret=ee8dd986e1d1ea297bdb58db4b5e369af57777772e676f6f676c652e636f6d
-----------------------------------------
-[2026-08-17T14:05:30+00:00] (id:5246862)
-https://t.me/proxy?server=rootssh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-----------------------------------------
-[2026-08-17T14:05:32+00:00] (id:5246863)
-#حمایت
-
-#Donate
-
-👇 Tron (TRC20) / Tether (TRC20) 👇
-
-TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
-
-👇 Toncoin (TON) / Tether (TON)  👇
-
-UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
-
-Admin 🆔 @M3HDIO1
-----------------------------------------
-[2026-08-17T14:05:33+00:00] (id:5246864)
-https://t.me/proxy?server=goat.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-----------------------------------------
-[2026-08-17T14:05:35+00:00] (id:5246865)
-https://t.me/proxy?server=tg.mishka.me&port=2302&secret=2084c7e58d8213296a3206da70356c81
 ----------------------------------------
