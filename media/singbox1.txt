@@ -1,34 +1,7 @@
-آخرین آپدیت: 2026-08-17 20:49:22 UTC
+آخرین آپدیت: 2026-08-17 21:13:28 UTC
 کانال: @singbox1
 ========================================
 
-[2026-08-16T11:57:49+00:00] (id:5395)
-Argo bridge
-پل آرگو
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwVzcuOgjAYQOF36VaTwZbRYOICkCFFvKAJArtCufwKVKtU
-YeK7q/uT7/wjlcsbiBbNJ2N0YX0tGEdzlPfeI2sMLcUbldp0
-Ss8O+LY3JJGHk4jCFrwnJ9Zv0lSTzD13MTbuFB6QuUbPP/1m
-GQxFsFigMbpB2bJ7J/MPu3YCm1oH3WwLX2hLns1C67gqceDr
-VFmaLlUo6ahzh+ex4UrWJpgzCC8FoVUsyFWVPG73QFglnJ8d
-S6VfOydMXEGKv1X03b3eSMFE+w==
------END ARGO VPN BRIDGE BLOCK-----
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzEkOgjAAQNG7dKsLrUPAxIVBxFaLJTVo2ZVJi1hMmazG
-u8v25+V/QZfpWlYKrKZj8BKmrEQKViAzuE+e9iSGfhc7aIke
-rjw6+BNdMYyuSJ4kbjLPNmIWauH1LYd2g2Qvk6Glg/e3wScP
-1mswBrW8KdG0Ohu2xOUOCpwwJfWF7kqCbIurSJnFaZGk9Yu6
-xNrCYs784oDPHomtHt03VBfLKnpyHeRsBBUjXU5piFjJ413J
-9rLVecu0wZfzG/z+eypGGA==
------END ARGO VPN BRIDGE BLOCK-----
-
-پل آرگو وی پی ان‌متصل
-
-دانلود برنامه آرگو 
-
-#پل_آرگو
-@proxy_kafee
-----------------------------------------
 [2026-08-16T17:46:19+00:00] (id:5397)
 #openvpn
 #کانفیگ #config
@@ -197,4 +170,20 @@ https://t.me/proxy?server=192.153.57.59&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjR
 حتما آپدیت کنید از گوگل پلی ❤️‍🔥
 
 خطا retry داد ۴ الی ۵ بزنید روی retry وصل میشه 🌹
+----------------------------------------
+[2026-08-17T21:01:28+00:00] (id:5415)
+#openvpn
+#کانفیگ #config
+#فیلترشکن
+کانفیگ open vpn 😈
+
+دانلود فایل برنامه open vpn
+
+دانلود برای آیفون 
+
+حتما آپدیت کنید از گوگل پلی ❤️‍🔥
+
+خطا retry داد ۴ الی ۵ بزنید روی retry وصل میشه 🌹
+
+شب بخیر 💥
 ----------------------------------------
