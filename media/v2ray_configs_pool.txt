@@ -1,8 +1,8 @@
-آخرین آپدیت: 2026-08-17 04:24:31 UTC
+آخرین آپدیت: 2026-08-17 05:07:22 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-17T04:19:46+00:00] (id:5243540)
+[2026-08-17T05:03:54+00:00] (id:5243737)
 #حمایت
 
 #Donate
@@ -17,22 +17,16 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T04:20:38+00:00] (id:5243546)
-#حمایت
-
-#Donate
-
-👇 Tron (TRC20) / Tether (TRC20) 👇
-
-TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
-
-👇 Toncoin (TON) / Tether (TON)  👇
-
-UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
-
-Admin 🆔 @M3HDIO1
+[2026-08-17T05:04:08+00:00] (id:5243738)
+https://t.me/proxy?server=89.34.230.97.orvenda.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
 ----------------------------------------
-[2026-08-17T04:20:49+00:00] (id:5243550)
+[2026-08-17T05:06:34+00:00] (id:5243742)
+https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+----------------------------------------
+[2026-08-17T05:06:34+00:00] (id:5243743)
+https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+----------------------------------------
+[2026-08-17T05:06:37+00:00] (id:5243744)
 #حمایت
 
 #Donate
