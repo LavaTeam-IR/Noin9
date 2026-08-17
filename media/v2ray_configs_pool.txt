@@ -1,11 +1,20 @@
-آخرین آپدیت: 2026-08-17 11:14:36 UTC
+آخرین آپدیت: 2026-08-17 11:43:05 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-17T11:13:58+00:00] (id:5245883)
-https://t.me/proxy?server=151.115.166.124&port=8880&secret=eenegydjvxrfgrmcimjdcq&&channel=@baicai_dev
+[2026-08-17T11:42:03+00:00] (id:5246057)
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52005?alpn=h3&fm=%7B%22udp%22:%5B%7B%22settings%22:%7B%22password%22:%22xurzv3qedv07k4f0%22%7D,%22type%22:%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=xurzv3qedv07k4f0&security=tls&sni=assets.gateway-stream.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:30.11ms
 ----------------------------------------
-[2026-08-17T11:13:59+00:00] (id:5245884)
+[2026-08-17T11:42:04+00:00] (id:5246059)
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52019?alpn=h3&fm=%7B%22udp%22:%5B%7B%22settings%22:%7B%22password%22:%223edox66dvnvwdyop%22%7D,%22type%22:%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=3edox66dvnvwdyop&security=tls&sni=assets.gateway-stream.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:33.32ms
+----------------------------------------
+[2026-08-17T11:42:07+00:00] (id:5246060)
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?alpn=h3&fm=%7B%22udp%22:%5B%7B%22settings%22:%7B%22password%22:%22d6pv15sghiq1onts%22%7D,%22type%22:%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=d6pv15sghiq1onts&security=tls&sni=assets.gateway-stream.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:32.08ms
+----------------------------------------
+[2026-08-17T11:42:07+00:00] (id:5246062)
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52018?alpn=h3&fm=%7B%22udp%22:%5B%7B%22settings%22:%7B%22password%22:%2253cgqwhojoxri5lr%22%7D,%22type%22:%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=53cgqwhojoxri5lr&security=tls&sni=#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:30.33ms
+----------------------------------------
+[2026-08-17T11:42:10+00:00] (id:5246063)
 #حمایت
 
 #Donate
@@ -19,37 +28,4 @@ TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
 UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
-----------------------------------------
-[2026-08-17T11:14:01+00:00] (id:5245885)
-https://t.me/proxy?server=204.168.164.176&port=443&secret=dd79e7010200010007f0030386e24c3add&&channel=@baicai_dev
-----------------------------------------
-[2026-08-17T11:14:01+00:00] (id:5245886)
-https://t.me/proxy?server=2.26.224.222&port=443&secret=ee1383189f50c19aeef12ba0b5884e051d706f6c616e642e786f6d6f647a2e666974&&channel=@baicai_dev
-----------------------------------------
-[2026-08-17T11:14:01+00:00] (id:5245887)
-https://t.me/proxy?server=194.60.228.44&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ&&channel=@baicai_dev
-----------------------------------------
-[2026-08-17T11:14:01+00:00] (id:5245888)
-https://t.me/proxy?server=7xmr.proto.mnbtm.li&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ&&channel=@baicai_dev
-----------------------------------------
-[2026-08-17T11:14:05+00:00] (id:5245889)
-https://t.me/proxy?server=beam.whitelist.cyou&port=443&secret=ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75&&channel=@baicai_dev
-----------------------------------------
-[2026-08-17T11:14:06+00:00] (id:5245890)
-https://t.me/proxy?server=dispiration.expect.qualified.satisfied.separating.wapozavr.com&port=24748&secret=eec65b1a51fde9226bb6a5522108915e0f647a656e2e7275&&channel=@baicai_dev
-----------------------------------------
-[2026-08-17T11:14:11+00:00] (id:5245893)
-https://t.me/proxy?server=uniqe.golabkashan.info&port=443&secret=1603010200010001fc030386e24c3add&&channel=@baicai_dev
-----------------------------------------
-[2026-08-17T11:14:11+00:00] (id:5245894)
-https://t.me/proxy?server=www.ban.ops.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add&&channel=@baicai_dev
-----------------------------------------
-[2026-08-17T11:14:11+00:00] (id:5245895)
-https://t.me/proxy?server=wwww.hezhin.ww.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add&&channel=@baicai_dev
-----------------------------------------
-[2026-08-17T11:14:12+00:00] (id:5245896)
-https://t.me/proxy?server=wwwwwwww.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add&&channel=@baicai_dev
-----------------------------------------
-[2026-08-17T11:14:16+00:00] (id:5245897)
-https://t.me/proxy?server=yastatic.co.uk&port=443&secret=ee4d529b445ca1cfa716b340ef99877570727a796d68702e79617374617469632e6e6574&&channel=@baicai_dev
 ----------------------------------------
