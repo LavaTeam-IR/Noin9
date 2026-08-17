@@ -1,11 +1,8 @@
-آخرین آپدیت: 2026-08-17 10:18:24 UTC
+آخرین آپدیت: 2026-08-17 10:52:32 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-17T10:15:00+00:00] (id:5245561)
-hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?sni=&obfs=salamander&obfs-password=uw9b2qq5rx#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:63.88ms
-----------------------------------------
-[2026-08-17T10:15:06+00:00] (id:5245564)
+[2026-08-17T10:46:47+00:00] (id:5245720)
 #حمایت
 
 #Donate
@@ -20,7 +17,7 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T10:17:05+00:00] (id:5245570)
+[2026-08-17T10:47:54+00:00] (id:5245721)
 #حمایت
 
 #Donate
@@ -35,6 +32,18 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T10:17:43+00:00] (id:5245571)
-https://t.me/proxy?server=116.202.246.219&port=8443&secret=104462821249bd7ac519130220c25d09
+[2026-08-17T10:52:04+00:00] (id:5245732)
+#حمایت
+
+#Donate
+
+👇 Tron (TRC20) / Tether (TRC20) 👇
+
+TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
+
+👇 Toncoin (TON) / Tether (TON)  👇
+
+UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
+
+Admin 🆔 @M3HDIO1
 ----------------------------------------
