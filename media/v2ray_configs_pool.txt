@@ -1,8 +1,11 @@
-آخرین آپدیت: 2026-08-17 17:13:35 UTC
+آخرین آپدیت: 2026-08-17 17:46:28 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-17T17:07:34+00:00] (id:5247802)
+[2026-08-17T17:14:28+00:00] (id:5247845)
+https://t.me/proxy?server=p7c3a1b2-d4e5-f6a7-b8c9-d0e1f2a3b4c5-1a2b-3c4d.space&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
+----------------------------------------
+[2026-08-17T17:14:54+00:00] (id:5247850)
 #حمایت
 
 #Donate
@@ -17,7 +20,7 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T17:10:12+00:00] (id:5247806)
+[2026-08-17T17:16:18+00:00] (id:5247851)
 #حمایت
 
 #Donate
@@ -32,7 +35,7 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T17:12:02+00:00] (id:5247811)
+[2026-08-17T17:17:24+00:00] (id:5247853)
 #حمایت
 
 #Donate
@@ -47,33 +50,18 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T17:12:57+00:00] (id:5247812)
-#حمایت
-
-#Donate
-
-👇 Tron (TRC20) / Tether (TRC20) 👇
-
-TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
-
-👇 Toncoin (TON) / Tether (TON)  👇
-
-UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
-
-Admin 🆔 @M3HDIO1
+[2026-08-17T17:19:47+00:00] (id:5247857)
+https://t.me/proxy?server=93.113.230.218&port=443&secret=4772827e920fc13e1fd29c7ccda1a459
 ----------------------------------------
-[2026-08-17T17:13:05+00:00] (id:5247818)
-#حمایت
-
-#Donate
-
-👇 Tron (TRC20) / Tether (TRC20) 👇
-
-TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
-
-👇 Toncoin (TON) / Tether (TON)  👇
-
-UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
-
-Admin 🆔 @M3HDIO1
+[2026-08-17T17:20:39+00:00] (id:5247858)
+https://t.me/proxy?server=k1.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+----------------------------------------
+[2026-08-17T17:20:42+00:00] (id:5247859)
+https://t.me/proxy?server=j1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+----------------------------------------
+[2026-08-17T17:21:17+00:00] (id:5247860)
+چند لحظه صبر کن
+----------------------------------------
+[2026-08-17T17:21:19+00:00] (id:5247861)
+چند لحظه صبر کن
 ----------------------------------------
