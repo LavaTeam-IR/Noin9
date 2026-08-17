@@ -1,8 +1,8 @@
-آخرین آپدیت: 2026-08-17 06:23:04 UTC
+آخرین آپدیت: 2026-08-17 07:30:11 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-17T06:15:12+00:00] (id:5244117)
+[2026-08-17T07:28:44+00:00] (id:5244545)
 #حمایت
 
 #Donate
@@ -17,22 +17,7 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T06:19:41+00:00] (id:5244125)
-#حمایت
-
-#Donate
-
-👇 Tron (TRC20) / Tether (TRC20) 👇
-
-TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
-
-👇 Toncoin (TON) / Tether (TON)  👇
-
-UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
-
-Admin 🆔 @M3HDIO1
-----------------------------------------
-[2026-08-17T06:21:42+00:00] (id:5244130)
+[2026-08-17T07:29:51+00:00] (id:5244551)
 #حمایت
 
 #Donate
