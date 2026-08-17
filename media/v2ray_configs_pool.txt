@@ -1,20 +1,50 @@
-آخرین آپدیت: 2026-08-17 11:43:05 UTC
+آخرین آپدیت: 2026-08-17 12:01:39 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-17T11:42:03+00:00] (id:5246057)
-hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52005?alpn=h3&fm=%7B%22udp%22:%5B%7B%22settings%22:%7B%22password%22:%22xurzv3qedv07k4f0%22%7D,%22type%22:%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=xurzv3qedv07k4f0&security=tls&sni=assets.gateway-stream.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:30.11ms
+[2026-08-17T11:59:26+00:00] (id:5246171)
+#حمایت
+
+#Donate
+
+👇 Tron (TRC20) / Tether (TRC20) 👇
+
+TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
+
+👇 Toncoin (TON) / Tether (TON)  👇
+
+UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
+
+Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T11:42:04+00:00] (id:5246059)
-hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52019?alpn=h3&fm=%7B%22udp%22:%5B%7B%22settings%22:%7B%22password%22:%223edox66dvnvwdyop%22%7D,%22type%22:%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=3edox66dvnvwdyop&security=tls&sni=assets.gateway-stream.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:33.32ms
+[2026-08-17T12:00:33+00:00] (id:5246172)
+hy2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?sni=nl1.noesissite.ru#👉🆔@v2ray_configs_pool📡🇧🇷®️Brazil©️Aparecida de Goiânia🅿️ping:58.41ms
 ----------------------------------------
-[2026-08-17T11:42:07+00:00] (id:5246060)
-hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?alpn=h3&fm=%7B%22udp%22:%5B%7B%22settings%22:%7B%22password%22:%22d6pv15sghiq1onts%22%7D,%22type%22:%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=d6pv15sghiq1onts&security=tls&sni=assets.gateway-stream.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:32.08ms
+[2026-08-17T12:00:44+00:00] (id:5246175)
+#حمایت
+
+#Donate
+
+👇 Tron (TRC20) / Tether (TRC20) 👇
+
+TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
+
+👇 Toncoin (TON) / Tether (TON)  👇
+
+UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
+
+Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T11:42:07+00:00] (id:5246062)
-hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52018?alpn=h3&fm=%7B%22udp%22:%5B%7B%22settings%22:%7B%22password%22:%2253cgqwhojoxri5lr%22%7D,%22type%22:%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=53cgqwhojoxri5lr&security=tls&sni=#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:30.33ms
+[2026-08-17T12:00:45+00:00] (id:5246176)
+https://t.me/proxy?server=1.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 ----------------------------------------
-[2026-08-17T11:42:10+00:00] (id:5246063)
+[2026-08-17T12:00:45+00:00] (id:5246177)
+https://t.me/proxy?server=fast.barhousefarm.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169
+----------------------------------------
+[2026-08-17T12:00:45+00:00] (id:5246178)
+https://t.me/proxy?server=21.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+----------------------------------------
+[2026-08-17T12:01:03+00:00] (id:5246180)
 #حمایت
 
 #Donate
