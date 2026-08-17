@@ -1,8 +1,11 @@
-آخرین آپدیت: 2026-08-17 10:52:32 UTC
+آخرین آپدیت: 2026-08-17 11:14:36 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-17T10:46:47+00:00] (id:5245720)
+[2026-08-17T11:13:58+00:00] (id:5245883)
+https://t.me/proxy?server=151.115.166.124&port=8880&secret=eenegydjvxrfgrmcimjdcq&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T11:13:59+00:00] (id:5245884)
 #حمایت
 
 #Donate
@@ -17,33 +20,36 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T10:47:54+00:00] (id:5245721)
-#حمایت
-
-#Donate
-
-👇 Tron (TRC20) / Tether (TRC20) 👇
-
-TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
-
-👇 Toncoin (TON) / Tether (TON)  👇
-
-UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
-
-Admin 🆔 @M3HDIO1
+[2026-08-17T11:14:01+00:00] (id:5245885)
+https://t.me/proxy?server=204.168.164.176&port=443&secret=dd79e7010200010007f0030386e24c3add&&channel=@baicai_dev
 ----------------------------------------
-[2026-08-17T10:52:04+00:00] (id:5245732)
-#حمایت
-
-#Donate
-
-👇 Tron (TRC20) / Tether (TRC20) 👇
-
-TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
-
-👇 Toncoin (TON) / Tether (TON)  👇
-
-UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
-
-Admin 🆔 @M3HDIO1
+[2026-08-17T11:14:01+00:00] (id:5245886)
+https://t.me/proxy?server=2.26.224.222&port=443&secret=ee1383189f50c19aeef12ba0b5884e051d706f6c616e642e786f6d6f647a2e666974&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T11:14:01+00:00] (id:5245887)
+https://t.me/proxy?server=194.60.228.44&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T11:14:01+00:00] (id:5245888)
+https://t.me/proxy?server=7xmr.proto.mnbtm.li&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T11:14:05+00:00] (id:5245889)
+https://t.me/proxy?server=beam.whitelist.cyou&port=443&secret=ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T11:14:06+00:00] (id:5245890)
+https://t.me/proxy?server=dispiration.expect.qualified.satisfied.separating.wapozavr.com&port=24748&secret=eec65b1a51fde9226bb6a5522108915e0f647a656e2e7275&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T11:14:11+00:00] (id:5245893)
+https://t.me/proxy?server=uniqe.golabkashan.info&port=443&secret=1603010200010001fc030386e24c3add&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T11:14:11+00:00] (id:5245894)
+https://t.me/proxy?server=www.ban.ops.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T11:14:11+00:00] (id:5245895)
+https://t.me/proxy?server=wwww.hezhin.ww.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T11:14:12+00:00] (id:5245896)
+https://t.me/proxy?server=wwwwwwww.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add&&channel=@baicai_dev
+----------------------------------------
+[2026-08-17T11:14:16+00:00] (id:5245897)
+https://t.me/proxy?server=yastatic.co.uk&port=443&secret=ee4d529b445ca1cfa716b340ef99877570727a796d68702e79617374617469632e6e6574&&channel=@baicai_dev
 ----------------------------------------
