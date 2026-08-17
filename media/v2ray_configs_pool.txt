@@ -1,8 +1,8 @@
-آخرین آپدیت: 2026-08-17 23:12:05 UTC
+آخرین آپدیت: 2026-08-17 23:37:14 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-17T23:02:13+00:00] (id:5247992)
+[2026-08-17T23:30:11+00:00] (id:5248063)
 #حمایت
 
 #Donate
@@ -17,10 +17,7 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T23:06:24+00:00] (id:5247996)
-https://t.me/proxy?server=www.vipd.ir.&port=8443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
-----------------------------------------
-[2026-08-17T23:06:27+00:00] (id:5247997)
+[2026-08-17T23:30:12+00:00] (id:5248064)
 #حمایت
 
 #Donate
@@ -35,27 +32,9 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T23:11:17+00:00] (id:5248001)
-https://t.me/proxy?server=tr.proxy.doctor-alan.ir&port=8953&secret=e1b3cbaa71370e36667a29efb7c4a1e8
+[2026-08-17T23:31:26+00:00] (id:5248070)
+چند لحظه صبر کن
 ----------------------------------------
-[2026-08-17T23:11:17+00:00] (id:5248002)
-https://t.me/proxy?server=iran-download.shentaichiacademy.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
-----------------------------------------
-[2026-08-17T23:11:29+00:00] (id:5248005)
-#حمایت
-
-#Donate
-
-👇 Tron (TRC20) / Tether (TRC20) 👇
-
-TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
-
-👇 Toncoin (TON) / Tether (TON)  👇
-
-UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
-
-Admin 🆔 @M3HDIO1
-----------------------------------------
-[2026-08-17T23:12:04+00:00] (id:5248007)
-https://t.me/proxy?server=freeconnect.lol&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+[2026-08-17T23:31:30+00:00] (id:5248074)
+چند لحظه صبر کن
 ----------------------------------------
