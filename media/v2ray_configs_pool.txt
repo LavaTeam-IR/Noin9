@@ -1,8 +1,20 @@
-آخرین آپدیت: 2026-08-17 16:15:12 UTC
+آخرین آپدیت: 2026-08-17 16:49:08 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-17T16:11:22+00:00] (id:5247494)
+[2026-08-17T16:46:45+00:00] (id:5247697)
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52029?security=tls&obfs=salamander&obfs-password=v8h63irhnay97090&insecure=0&sni=assets.gateway-stream.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:50.74ms
+----------------------------------------
+[2026-08-17T16:46:50+00:00] (id:5247701)
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52029?security=tls&obfs=salamander&obfs-password=v8h63irhnay97090&insecure=0&sni=assets.gateway-stream.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:50.74ms
+----------------------------------------
+[2026-08-17T16:46:55+00:00] (id:5247707)
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52029?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=v8h63irhnay97090&insecure=0&sni=#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:50.74ms
+----------------------------------------
+[2026-08-17T16:47:00+00:00] (id:5247710)
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52029?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=v8h63irhnay97090&insecure=0&sni=#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:50.74ms
+----------------------------------------
+[2026-08-17T16:47:01+00:00] (id:5247711)
 #حمایت
 
 #Donate
@@ -17,10 +29,40 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T16:13:14+00:00] (id:5247498)
-https://t.me/proxy?server=193.104.198.0&port=443&secret=dd40aa72a0f79e4f3b2be25dd56e07de72
+[2026-08-17T16:47:02+00:00] (id:5247712)
+#حمایت
+
+#Donate
+
+👇 Tron (TRC20) / Tether (TRC20) 👇
+
+TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
+
+👇 Toncoin (TON) / Tether (TON)  👇
+
+UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
+
+Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T16:14:25+00:00] (id:5247512)
+[2026-08-17T16:48:38+00:00] (id:5247713)
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52057?security=tls&obfs=salamander&alpn=h3&obfs-password=auw7lhtk2kxyq4g9&insecure=0&sni=assets.gateway-stream.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:34.4ms
+----------------------------------------
+[2026-08-17T16:48:42+00:00] (id:5247714)
+#حمایت
+
+#Donate
+
+👇 Tron (TRC20) / Tether (TRC20) 👇
+
+TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
+
+👇 Toncoin (TON) / Tether (TON)  👇
+
+UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
+
+Admin 🆔 @M3HDIO1
+----------------------------------------
+[2026-08-17T16:49:06+00:00] (id:5247716)
 #حمایت
 
 #Donate
