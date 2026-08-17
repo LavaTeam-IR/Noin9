@@ -1,8 +1,8 @@
-آخرین آپدیت: 2026-08-17 12:01:39 UTC
+آخرین آپدیت: 2026-08-17 13:00:11 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-17T11:59:26+00:00] (id:5246171)
+[2026-08-17T12:58:55+00:00] (id:5246459)
 #حمایت
 
 #Donate
@@ -17,10 +17,7 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T12:00:33+00:00] (id:5246172)
-hy2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?sni=nl1.noesissite.ru#👉🆔@v2ray_configs_pool📡🇧🇷®️Brazil©️Aparecida de Goiânia🅿️ping:58.41ms
-----------------------------------------
-[2026-08-17T12:00:44+00:00] (id:5246175)
+[2026-08-17T12:59:44+00:00] (id:5246475)
 #حمایت
 
 #Donate
@@ -35,16 +32,7 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T12:00:45+00:00] (id:5246176)
-https://t.me/proxy?server=1.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-----------------------------------------
-[2026-08-17T12:00:45+00:00] (id:5246177)
-https://t.me/proxy?server=fast.barhousefarm.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169
-----------------------------------------
-[2026-08-17T12:00:45+00:00] (id:5246178)
-https://t.me/proxy?server=21.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-----------------------------------------
-[2026-08-17T12:01:03+00:00] (id:5246180)
+[2026-08-17T12:59:56+00:00] (id:5246476)
 #حمایت
 
 #Donate
