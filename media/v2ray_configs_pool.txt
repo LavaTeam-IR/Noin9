@@ -1,8 +1,8 @@
-آخرین آپدیت: 2026-08-17 13:43:54 UTC
+آخرین آپدیت: 2026-08-17 14:07:00 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-17T13:42:51+00:00] (id:5246745)
+[2026-08-17T14:01:06+00:00] (id:5246848)
 #حمایت
 
 #Donate
@@ -17,7 +17,7 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T13:42:51+00:00] (id:5246746)
+[2026-08-17T14:01:06+00:00] (id:5246849)
 #حمایت
 
 #Donate
@@ -32,7 +32,7 @@ UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
 ----------------------------------------
-[2026-08-17T13:43:50+00:00] (id:5246751)
+[2026-08-17T14:02:22+00:00] (id:5246856)
 #حمایت
 
 #Donate
@@ -46,4 +46,46 @@ TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
 UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
 
 Admin 🆔 @M3HDIO1
+----------------------------------------
+[2026-08-17T14:03:08+00:00] (id:5246860)
+#حمایت
+
+#Donate
+
+👇 Tron (TRC20) / Tether (TRC20) 👇
+
+TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
+
+👇 Toncoin (TON) / Tether (TON)  👇
+
+UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
+
+Admin 🆔 @M3HDIO1
+----------------------------------------
+[2026-08-17T14:05:27+00:00] (id:5246861)
+https://t.me/proxy?server=77.90.63.2&port=443&secret=ee8dd986e1d1ea297bdb58db4b5e369af57777772e676f6f676c652e636f6d
+----------------------------------------
+[2026-08-17T14:05:30+00:00] (id:5246862)
+https://t.me/proxy?server=rootssh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+----------------------------------------
+[2026-08-17T14:05:32+00:00] (id:5246863)
+#حمایت
+
+#Donate
+
+👇 Tron (TRC20) / Tether (TRC20) 👇
+
+TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
+
+👇 Toncoin (TON) / Tether (TON)  👇
+
+UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
+
+Admin 🆔 @M3HDIO1
+----------------------------------------
+[2026-08-17T14:05:33+00:00] (id:5246864)
+https://t.me/proxy?server=goat.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+----------------------------------------
+[2026-08-17T14:05:35+00:00] (id:5246865)
+https://t.me/proxy?server=tg.mishka.me&port=2302&secret=2084c7e58d8213296a3206da70356c81
 ----------------------------------------
