@@ -1,70 +1,16 @@
-آخرین آپدیت: 2026-08-17 21:41:28 UTC
+آخرین آپدیت: 2026-08-17 21:59:49 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-08-17T17:14:28+00:00] (id:5247845)
-https://t.me/proxy?server=p7c3a1b2-d4e5-f6a7-b8c9-d0e1f2a3b4c5-1a2b-3c4d.space&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
-----------------------------------------
-[2026-08-17T17:14:54+00:00] (id:5247850)
-#حمایت
-
-#Donate
-
-👇 Tron (TRC20) / Tether (TRC20) 👇
-
-TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
-
-👇 Toncoin (TON) / Tether (TON)  👇
-
-UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
-
-Admin 🆔 @M3HDIO1
-----------------------------------------
-[2026-08-17T17:16:18+00:00] (id:5247851)
-#حمایت
-
-#Donate
-
-👇 Tron (TRC20) / Tether (TRC20) 👇
-
-TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
-
-👇 Toncoin (TON) / Tether (TON)  👇
-
-UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
-
-Admin 🆔 @M3HDIO1
-----------------------------------------
-[2026-08-17T17:17:24+00:00] (id:5247853)
-#حمایت
-
-#Donate
-
-👇 Tron (TRC20) / Tether (TRC20) 👇
-
-TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
-
-👇 Toncoin (TON) / Tether (TON)  👇
-
-UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T
-
-Admin 🆔 @M3HDIO1
-----------------------------------------
-[2026-08-17T17:19:47+00:00] (id:5247857)
-https://t.me/proxy?server=93.113.230.218&port=443&secret=4772827e920fc13e1fd29c7ccda1a459
-----------------------------------------
-[2026-08-17T17:20:39+00:00] (id:5247858)
-https://t.me/proxy?server=k1.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
-----------------------------------------
-[2026-08-17T17:20:42+00:00] (id:5247859)
-https://t.me/proxy?server=j1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
-----------------------------------------
-[2026-08-17T17:21:17+00:00] (id:5247860)
-چند لحظه صبر کن
-----------------------------------------
 [2026-08-17T17:21:19+00:00] (id:5247861)
 چند لحظه صبر کن
 ----------------------------------------
 [2026-08-17T18:21:25+00:00] (id:5247862)
 دویست کانفیگ را چک کردم 177 کانفیگ آشغال بود اعصابم ریخت بهم😡 به همین جهت کد را متوقف کردم ردیفش کنم
+----------------------------------------
+[2026-08-17T21:55:23+00:00] (id:5247863)
+https://t.me/proxy?server=fagati.dotadotnet2.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
+----------------------------------------
+[2026-08-17T21:59:32+00:00] (id:5247880)
+https://t.me/proxy?server=admetrics.uadapp.meshzen.ir&port=443&secret=ee1603010200010001fc030386e24c3add7777772e73616d73756e672e636f6d
 ----------------------------------------
