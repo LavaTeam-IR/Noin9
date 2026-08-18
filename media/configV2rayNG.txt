@@ -1,31 +1,7 @@
-آخرین آپدیت: 2026-08-18 03:07:46 UTC
+آخرین آپدیت: 2026-08-18 03:55:15 UTC
 کانال: @configV2rayNG
 ========================================
 
-[2026-06-10T17:50:47+00:00] (id:18752)
-https://play.google.com/store/apps/details?id=it.colucciweb.vpnclientpro
-----------------------------------------
-[2026-06-24T14:26:22+00:00] (id:18935)
-📱 WG Tunnel 5.3.0 بروزرسانی جدید منتشر شد
-
-https://github.com/wgtunnel/android/releases/tag/5.3.0
-
-نسخه مخصوص گوشی های جدید
-👇👇👇👇👇👇
-https://github.com/wgtunnel/android/releases/download/5.3.0/wgtunnel-standalone-v5.3.0-arm64.apk
-
-نسخه مخصوص گوشی های قدیمی
-👇👇👇👇👇👇
-
-https://github.com/wgtunnel/android/releases/download/5.3.0/wgtunnel-standalone-v5.3.0-armv7.apk
-
-کانفیگ های رایگان برنامه WG Tunnel
-👇👇👇👇👇👇
-
-https://t.me/ConfigV2rayNG/18657
-
-https://t.me/ConfigV2rayNG/18227
-----------------------------------------
 [2026-06-28T03:02:06+00:00] (id:18957)
 📌 راهنمای فعال کردن Fragment
 اگر در اتصال VPN مشکل دارید یا می‌خواهید کیفیت اتصال بهتری داشته باشید، می‌توانید Fragment را با مقادیر زیر فعال کنید. (مخصوصا برای ایرانسلی‌ها)
