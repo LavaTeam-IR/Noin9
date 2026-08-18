@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-08-18 20:00:12 UTC
+آخرین آپدیت: 2026-08-18 20:31:47 UTC
 کانال: @azadi_az_inja_migzare
 ========================================
 
@@ -122,4 +122,151 @@ Android: https://t.me/patt_channel_x/91?single
 Windows: https://t.me/patt_channel_x/101?single
 
 Android/Windows/Mac/iOS/Linux: Use Xray-core custom-json-config and change/add --> address, finalMask, fingerprint, cipherSuites
+----------------------------------------
+[2026-08-18T20:03:18+00:00] (id:10395)
+🚀 CoreForge Build آپدیت جدید منتشر شد  
+
+https://testflight.apple.com/join/DRkT6zny
+
+این نسخه یکی از بزرگ‌ترین آپدیت‌های CoreForge تا امروز محسوب میشه.
+
+از Build 90 تا Build 100 طی حدود ۲۰ روز:
+
+• 214 Commit
+• بیش از 411 فایل تغییر کرده
+• بیش از 86,000 خط کد جدید اضافه شده
+• چند Engine و Protocol جدید از پایه اضافه شده
+• بخش بزرگی از سیستم Connection، Routing، Failover و Config Management بازطراحی شده
+
+### 🧩 پروتکل‌ها و Engineهای جدید
+
+🔹 OpenVPN
+
+* پشتیبانی مستقیم از فایل‌های .ovpn
+* UDP و TCP
+* AES-GCM / AEAD
+* AES-CBC برای بعضی سرویس‌های قدیمی‌تر
+* TLS-Crypt
+* Multi-Remote / Multi-Address
+* Username / Password
+* Client Certificate
+* OpenVPN Subscription
+* پشتیبانی بهتر از ProtonVPN، VPNGate، SoftEther و کانفیگ‌های مشابه
+
+🔹 Tailscale
+
+* اتصال مستقیم به Tailnet
+* انتخاب Exit Node
+* MagicDNS
+* مدیریت Account داخل CoreForge
+* امکان اتصال به Exit Node حتی بدون انتخاب Config معمولی
+
+🔹 Cloudflare WARP / MASQUE
+
+* WARP به‌عنوان یک Outbound واقعی
+* MASQUE روی HTTP/2 و HTTP/3
+* امکان استفاده داخل Chain
+* WARP Endpoint Scanner برای پیدا کردن Endpoint بهتر
+* تست Endpoint با handshake واقعی MASQUE، نه فقط TCP Ping
+
+🔹 mKCP
+
+* پشتیبانی از mKCP مربوط به Xray
+* همه Header Typeهای اصلی
+* قابل استفاده با VLESS و Trojan
+
+🔹 ECH
+Encrypted ClientHello حالا به صورت واقعی داخل CoreForge اجرا میشه و برای بعضی Transportها از جمله Hysteria2 هم اضافه شده.
+
+### ⚡ Load Balancer و Failover
+
+Load Balancer فقط اسم نیست و حالا Connectionها واقعاً بین Nodeهای انتخاب‌شده مدیریت میشن.
+
+همچنین:
+
+* Config فعال داخل برنامه نمایش داده میشه
+* Exit IP بعد از تغییر Node آپدیت میشه
+* Dead Server Detection سریع‌تر شده
+* Backup Node از قبل آماده نگه داشته میشه
+* اگر Config فعلی از کار بیفته، CoreForge می‌تونه بدون Disconnect کامل به Backup منتقل بشه
+* Backup Pool بعد از Failover دوباره پر میشه
+
+### 🌐 Routing
+
+سیستم Routing هم تغییر زیادی کرده:
+
+* Routing Profile شبیه Shadowrocket
+* Rule Actions
+* Iran Direct Preset
+* Iran 2026 Rules
+* category-ir
+* Import کردن Routing Rules از فایل
+* Fragment به‌عنوان Routing Target
+
+### 📂 Configs و Subscriptionها
+
+مدیریت Configها تقریباً کامل بازطراحی شده:
+
+* Swipe برای Ping / Edit / Share / Delete
+* Drag & Drop برای مرتب کردن Sectionها
+* Groupهای Local
+* Bulk Actions
+* forge:// Chain Links
+* Tap-to-Ping-and-Connect
+* Import QR Code از داخل عکس
+* Subscription Folder
+* Rename / Reorder / Export
+* Auto Update جداگانه برای هر Subscription
+* Plan Status
+* تقویم شمسی
+
+مشکل فایل‌های OpenVPN بزرگ هم برطرف شده؛ برای مثال اگر یک فایل شامل ده‌ها یا صدها Profile باشه، دیگه همه‌ی اون‌ها به‌عنوان یک Config خراب Import نمیشن و Profileها جدا میشن.
+
+### 🔧 Fixهای مهم
+
+در این نسخه تعداد زیادی Bug مهم هم برطرف شده، از جمله:
+
+* Crash روی تعداد زیاد Config
+* مشکل Import بعضی لینک‌های VMessAEAD
+* مشکل gRPC پشت Cloudflare
+* مشکل XHTTP که Connect می‌شد ولی Traffic عبور نمی‌کرد
+* مشکل REALITY و extra
+* اصلاح UUIDهای VLESS
+* Lag شدید Config List
+* Writeهای اضافی Keychain
+* آپدیت نشدن Connection Details بعد از Failover
+* UDP برای VMess، Shadowsocks و SOCKS
+* UDP Associate برای Trojan
+* gRPC MultiMode
+* pinnedPeerCertSha256
+* PattNG Fragment / Cipher Suite / Unsafe Fingerprint
+
+### 📱 iPad و UI
+
+* پشتیبانی بهتر از Stage Manager
+* Split View
+* Resizable Window
+* تغییرات Liquid Glass
+* اصلاح Light Mode
+* بهبود Tab Bar و Headerها
+
+---
+
+⚠️ نکته مهم درباره Build
+
+این نسخه تغییرات خیلی زیادی داشته و طبیعتاً ۱۰۰٪ تضمین نمی‌کنیم که تمام قابلیت‌های جدید روی تمام Serverها، ISPها و Configها بدون مشکل کار کنند.
+
+بعضی قابلیت‌ها هنوز در مرحله‌ی تست واقعی توسط کاربران هستن و ممکنه روی یک Server عالی کار کنن ولی روی Server یا Network دیگه Fail بشن.
+
+به‌خصوص قابلیت‌های جدیدی مثل:
+
+Tailscale / WARP / OpenVPN / ECH / Chainهای پیچیده / بعضی حالت‌های VLESS و REALITY
+
+هنوز نیاز به تست گسترده روی Serverها و اینترنت‌های مختلف دارن.
+
+پس اگر چیزی Connect نشد یا Connect شد ولی Traffic نداشت، حتماً گزارش کنید و در صورت امکان Config، Log و نوع اینترنت رو هم بفرستید.
+
+Build بیشتر از اینکه «نسخه نهایی بدون باگ» باشه، یک جهش بزرگ برای CoreForge ـه و Feedback شما مستقیم روی Fixهای نسخه‌های بعدی تأثیر می‌ذاره. 🛠️
+
+CoreForge Build ⚒️
 ----------------------------------------
