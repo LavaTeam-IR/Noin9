@@ -371,3 +371,5 @@ trojan://AE62539071@47.128.147.181:443?fp=chrome&sni=rich-mule.rooster465.autos#
 trojan://AE62539071@13.229.94.200:443?fp=chrome&sni=massive-terrapin.rooster465.autos#%F0%9F%8E%8858@oneclickvpnkeys
 trojan://AE62539071@47.129.157.81:443?fp=chrome&sni=noted-bass.rooster465.autos#%F0%9F%8E%8859@oneclickvpnkeys
 trojan://AE62539071@54.169.117.161:443?fp=chrome&sni=simple-rodent.rooster465.autos#%F0%9F%8E%8860@oneclickvpnkeys
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.235.95:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.235.95:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
