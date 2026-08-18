@@ -1,42 +1,7 @@
-آخرین آپدیت: 2026-08-18 05:40:23 UTC
+آخرین آپدیت: 2026-08-18 06:01:09 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-08-17T12:32:21+00:00] (id:2720)
-obfs4 69.12.83.253:9130 450D8006DE986E9811731A6547D4992207834F5F cert=v8H45ACJPMENo6xqWi53EFW3Knmuy6kCeDx9NIkEOn36zM6rkfwsgZmsbweYmdfwd6y9BA iat-mode=0
-obfs4 84.38.64.242:80 9FF3A220663997FDA707D85B3EF2DAC499B35150 cert=wHA3ovYq7rG/5UdW/7pSL5IHVofT2GhddvmpjWtOz91+2OKEUwehcGZj0wKXx4V+f12OCA iat-mode=0
-obfs4 83.218.168.152:8597 5212A7840247D061D7205EC248AB6B82AB0A1473 cert=y3lFtIVG2dd79aBCFpjkrp/TwWOR6lQk+ptykwJ+znyxRcO3ta4EmJGZMVhIUNzk2iWhYA iat-mode=0
-obfs4 97.115.78.217:3786 F5D28C8C3A00D29A1A8818E83634437CF8218F69 cert=1hCcsSORiGRDt/0+9t2kPjBbuNpT5/LU0kngNY7AhTb/2bXC41zhfQffzoNxDtLye4SmDA iat-mode=0
-obfs4 37.228.129.14:443 F22EA4D4530E91B7A2EB54A98C48F64F96D20203 cert=dGEfhAYDgGI406I5iIjS0x/M8CvGw4YdMyEorRCy4/Xa1nt7n3bWN2e9z6nJoa1FqIzoHA iat-mode=0
-obfs4 194.5.98.39:12567 30705BD6BAF861944F87232B1574BF35D930E9E0 cert=7eX8jAgpSsUzmuZ0lQF0Ilwrn/+w2fn5NjFB4P5456rN4WQoIiCuEn/W++LgbhjLpiIUCw iat-mode=0
-obfs4 130.255.77.28:443 AC329E26B54FC17A217CC02D7BCC8C86A0F68D39 cert=909S5gdS6az7NwbnmGpfdew8aNge/FCrS6EyddYKp0hRkEplG/mdsWApui153XNbe400vA iat-mode=0
-obfs4 85.93.216.115:38450 EABAC676BC1826280249FAFB13A3C08002315D3D cert=+NnG9o3hIXJA49HqG3dEQ0d0PocO8FFFd19Sa+vupP3Z5d71f7S6dfJ9YVjfV0O5TUj3NQ iat-mode=0
-obfs4 82.149.227.123:443 1B000C5FB918CABE101C5E59BF3154FF9FB425E0 cert=5LxN1ihJQMYcPrQaNaek+bYbivvfZJTFpFhhNPUHEWHRxxrDd8UGu6AagC7sEUYK6yhqUg iat-mode=0
-سرور جدید🇺🇸🇩🇪🇳🇱🇫🇮🇦🇹🇳🇴🇱🇺
-
-لینک دانلود گوگل پلی
-
-لینک دانلود گیتهاب
-
-نحوه اتصال 1 | 2
-
-تنظیمات اتصال
-----------------------------------------
-[2026-08-17T14:00:33+00:00] (id:2721)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/05/26
-🇬🇧 2026/08/17
-🕒 17:30:27
-
-🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇺🇸 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇹🇷 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-
-🆔 @ZPrxy
-----------------------------------------
 [2026-08-17T15:21:02+00:00] (id:2722)
 در این ریپازیتوری می‌تونید نسخه ی بدون تبلیغ و یا بدون محدودیت بعضی از اپ های اندروید رو پیدا کنید که با Morphe پچ شده و با گیتهاب اکشن بیلد گرفته شده 
 https://github.com/RookieEnough/Morphe-AutoBuilds/releases/tag/latest
@@ -176,4 +141,36 @@ https://github.com/RookieEnough/Morphe-AutoBuilds/releases/tag/latest
 ----------------------------------------
 [2026-08-18T04:00:44+00:00] (id:2739)
 (بدون متن)
+----------------------------------------
+[2026-08-18T05:58:17+00:00] (id:2740)
+obfs4 45.90.161.174:8080 D1897721C00C652677BE4A804CFCEAE9E8D9645D cert=T7EBXRCSYLMZo7Ug8N+B2Vz1ZosS1grzUqaWmVGkzkqqgsk+gbVc+tF3Xu5gf2S1AQgSfw iat-mode=0
+obfs4 89.234.140.172:9003 39C29EE2B5D3AB87701ED139139C658273BEE191 cert=WdkZ9ft4N40vM7Ai3mz71BVMUyTuBdj1lZpL+aWBj56JdUuZ87plQ5hR7G5xoj0c8mgIPw iat-mode=0
+obfs4 107.189.7.185:443 503EB70C30120C72988B47087C720B582B6AB135 cert=C9aZnJRqK1pkHH6VRi78lTNvaBX/nhUvOFh30oPE7RGpvkgSnrACmrF82gU+RdT2D/S5Og iat-mode=0
+obfs4 84.213.105.188:7624 6A50307917846EC5EC98C001E2883A65A9D57792 cert=ohIyHfgk96Inza0BtJkz5eNcvq9frX+vE+UrV5Kh2NVLjH9k3tfWXMkXLjtDAAv+31dxNA iat-mode=0
+obfs4 93.55.227.71:49002 7E59CD3DA76A403665ED162243327E6AE255411C cert=esmauWoeuHcn3h5BdWG7MjmaXJo6I6OObCHIcdY5dC46UCC6cOD+OrBL2tj/3+u5+4pEbg iat-mode=0
+obfs4 79.7.195.173:25658 9A2B7493025187AD1700A8F197564C302A833A9E cert=OhrGEg4w8HMCslwvbHcn1hIkX/qtstdDNkja+cZSVXvIJCu2YkLDYZo6YHoeIh7w90NlHQ iat-mode=0
+obfs4 141.156.198.249:8671 9486E39394190EEF4774F5063F394F8125A02941 cert=HbfvRQR3z85p9GUMdafMdVjgYbiLdh/WaQ+nOBeVw21iDtWrR3Nn1H0MVWm7iwLxv5A2BA iat-mode=0
+obfs4 5.9.122.242:20132 A0329253C08BAA072F923BF00F2E9CEBBE0B0162 cert=nfmTZXNl2FDOG7xK1cFxB6NfOGiUQQBrrPgphV9afzXvj+s+b+e5uOBfIuUh5gWNbnp7Gg iat-mode=0
+obfs4 5.78.86.213:443 48ED1ADF017C0B084A7829331A413F5C36E220C5 cert=zr9om3XBXXqlKjJbTZz9p+5LRX7E6uHI8RH3vfWjoFcm9lSrq9SAWN40C7eFI7exeO8jXw iat-mode=0
+سرور جدید🇺🇸🇩🇪🇫🇷🇮🇹🇱🇺🇳🇴
+
+لینک دانلود گوگل پلی
+
+لینک دانلود گیتهاب
+
+نحوه اتصال 1 | 2
+
+تنظیمات اتصال
+----------------------------------------
+[2026-08-18T06:00:26+00:00] (id:2741)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/05/27
+🇬🇧 2026/08/18
+🕒 09:30:17
+
+🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ
+
+🆔 @ZPrxy
 ----------------------------------------
