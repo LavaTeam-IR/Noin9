@@ -48,3 +48,5 @@ vless://afd63042-1c62-472f-9b56-5904d71e44d1@us.trxlnsnet.ir:443?security=realit
 vless://afd63042-1c62-472f-9b56-5904d71e44d1@de.trxlnsnet.ir:443?security=reality&encryption=none&pbk=SaMFOixEvpRj18sFAi-knccGo5_1KT2x6EwUMeGx00c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=aaea1528e22abe1a#%40outline_ir
 vless://afd63042-1c62-472f-9b56-5904d71e44d1@kh.trxlnsnet.ir:443?security=reality&encryption=none&pbk=SaMFOixEvpRj18sFAi-knccGo5_1KT2x6EwUMeGx00c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=aaea1528e22abe1a#%40outline_ir
 vless://afd63042-1c62-472f-9b56-5904d71e44d1@au.trxlnsnet.ir:443?security=reality&encryption=none&pbk=SaMFOixEvpRj18sFAi-knccGo5_1KT2x6EwUMeGx00c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=aaea1528e22abe1a#%40outline_ir
+vless://1f35c4eb-e4fa-5a62-b0e1-b557983b34c7@132.243.207.38:4443?security=reality&encryption=none&pbk=wg5YJMYIcqRU9X9U54TRzKIIw5aUyxIEI3tL_jck5WU&fp=firefox&spx=%2FYYVijy2UjvDxoyh&type=grpc&sni=www.vk.com&sid=44#@V2ray_Collector
+trojan://AE62539071@15.237.214.103:443?sni=tough-hermit.rooster465.autos&path=/#@V2ray_Collector
