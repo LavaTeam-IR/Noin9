@@ -1,23 +1,7 @@
-آخرین آپدیت: 2026-08-19 19:56:22 UTC
+آخرین آپدیت: 2026-08-19 20:29:16 UTC
 کانال: @azadi_az_inja_migzare
 ========================================
 
-[2026-08-02T11:56:52+00:00] (id:10376)
-سابهای پابلیک کانال جاویدنامان ایران
-
-با ذکر منبع میتوانید این سابها را در کانالها و گروههای خودتون به اشتراک بگذارید و ما را در  فراهم آوردن دسترسی تعداد بیشتری از مردم ایران به اینترنت آزاد یاری کنید.
-
-#پاینده_ایران #جاوید_شاه
-
-https://raw.githubusercontent.com/JavidnamanIran-at-Telegram/x-ray_sub/refs/heads/main/x-ray_sub.txt
-
-https://cf.iranhope.org/sub/javidnamaniran_telegram_0715/db9e05c451677536c6ffb8a65c4f4d6f
-
-سینگ باکس هیستریا۲ پورت هاپ
-به آخرین ورژن سینگ باکس نیاز دارید
-
-https://raw.githubusercontent.com/JavidnamanIran-at-Telegram/sing-box_sub/refs/heads/main/sing-box_sub.txt
-----------------------------------------
 [2026-08-02T15:47:29+00:00] (id:10377)
 هیچ‌کس این چنین به ستیز با مردم برنخاسته بود ...
 
@@ -269,4 +253,14 @@ Tailscale / WARP / OpenVPN / ECH / Chainهای پیچیده / بعضی حالت�
 Build بیشتر از اینکه «نسخه نهایی بدون باگ» باشه، یک جهش بزرگ برای CoreForge ـه و Feedback شما مستقیم روی Fixهای نسخه‌های بعدی تأثیر می‌ذاره. 🛠️
 
 CoreForge Build ⚒️
+----------------------------------------
+[2026-08-19T20:14:28+00:00] (id:10396)
+PattNG 2.3.4-P27
+
+تغیییرات v2rayNG:
+اضافه شدن cipherSuites و فینگرپرینت unsafe در تنظیمات و شیرلینک (برای متد fragment+fingerprint)
+تغییرات Xray-core:
+امکان اتصال به کانفیگ‌های غیر رمزنگاری شده برای آدرس‌های عمومی در VLESS و TROJAN
+
+https://github.com/patterniha/PattNG
 ----------------------------------------
