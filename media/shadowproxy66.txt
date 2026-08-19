@@ -1,13 +1,7 @@
-آخرین آپدیت: 2026-08-19 08:58:45 UTC
+آخرین آپدیت: 2026-08-19 09:35:34 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-08-16T20:08:05+00:00] (id:16647)
-برای راحتی تبدیل کانفیگها طبق شرایطی که گفته شده کانفیگ‌های پشت کلودفلر (Worker / CDN / Pages)   که از TLS استفاده می‌کنن ( VLESS یا Trojan با TLS، و گاهی Reality). کانفیگهای پنل bpb و...  http://hidden-node.github.io/proxy-builder روی بخش Fragment + Fingerprint…
-----------------------------------------
-[2026-08-16T21:36:34+00:00] (id:16648)
-(بدون متن)
-----------------------------------------
 [2026-08-16T21:37:55+00:00] (id:16649)
 📶 141 کانفیگ V2ray تست شده با نت مخابرات🟤
 
@@ -94,4 +88,24 @@ V2rayNg -V2flyNg -V2rayTun -Happ -npv
 V2rayNg -V2flyNg -V2rayTun -Happ -npv
 
 🔅@ShadowProxy66
+----------------------------------------
+[2026-08-19T09:34:38+00:00] (id:16667)
+(بدون متن)
+----------------------------------------
+[2026-08-19T09:34:59+00:00] (id:16668)
+1.PROXY 2.PROXY 3.PROXY
+4.PROXY 5.PROXY 6.PROXY
+7.PROXY 8.PROXY 9.PROXY
+10.PROXY11.PROX12.PROXY
+13.PROXY14.PROXY15.PROXY
+16.PROXY17.PROXY18.PROXY
+19.PROXY20.PROXY21.PROXY
+22.PROXY23.PROXY24.PROXY
+25.PROXY26.PROXY27.PROXY
+28.PROXY29.PROXY30.PROXY
+31.PROXY32.PROXY33.PROXY
+34.PROXY35.PROXY36.PROXY
+37.PROXY38.PROXY39.PROXY
+40.PROXY41.PROXY42.PROXY
+43.PROXY44.PROXY45.PROXY
 ----------------------------------------
