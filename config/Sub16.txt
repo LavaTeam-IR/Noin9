@@ -418,3 +418,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWYyMjZiNzcyNmY0ZDRjYjVjNzJmZTNiNTcwNTBmMA@
 vless://fa0f1a88-70d9-45b2-a51d-c56cc252cd6d@107.172.243.149:8443?security=reality&encryption=none&pbk=VJwBthRcBwhGwneFMFK-9IsC-TbEgs7ZvIVn2bg6oQo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=services.digitaleast.mobi&sid=f444#Channel%20%3A%20%40proxy_kafee%20
 ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#Channel%20%3A%20%40proxy_kafee%20
 vless://302c2e89-6f2d-4500-90ce-26d075c7e84f@66.78.40.202:443?security=reality&encryption=none&pbk=8zJkTehTmhmgKWUIj-CyJP4gtMjNxLgBxPjHC1wwW3A&headerType=none&fp=chrome&spx=%2Fb46a29a208a37d1&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=61#Channel%20%3A%20%40proxy_kafee%20
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.242.1:443?security=reality&type=tcp&allowInsecure=1&sni=eu-central.cendora.ru&fp=edge&flow=xtls-rprx-vision&sid=00bca5982f82d083&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI#@V2ray_Collector
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?sni=russiapower.accesscam.org#@V2ray_Collector
