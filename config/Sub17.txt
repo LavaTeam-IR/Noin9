@@ -527,3 +527,5 @@ vless://55ce9e09-5208-541a-29f2-15c35394b168@69.46.46.18:443?path=%2Fws%2F55ce9e
 vless://6f719ff5-cb04-4e94-b982-0bd94ba49d94@usi.mobileemdad.top:443?encryption=none&type=tcp&security=reality&headerType=none&sni=delivery.mp.microsoft.com&fp=qq&insecure=1&allowInsecure=1&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d#🎑
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=qq&type=tcp&sni=deepl.com&sid=a8ae#♌🇫🇷FR
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.217.128:22223?security=none&encryption=none&headerType=none&type=tcp#🌄🇫🇷FR
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.181.226:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.181.226:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
