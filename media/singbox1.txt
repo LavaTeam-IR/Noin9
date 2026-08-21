@@ -1,21 +1,7 @@
-آخرین آپدیت: 2026-08-21 05:54:13 UTC
+آخرین آپدیت: 2026-08-21 06:26:21 UTC
 کانال: @singbox1
 ========================================
 
-[2026-08-19T15:18:39+00:00] (id:5437)
-#openvpn
-#کانفیگ #config
-#فیلترشکن
-کانفیگ open vpn 😈
-
-دانلود فایل برنامه open vpn
-
-دانلود برای آیفون 
-
-حتما آپدیت کنید از گوگل پلی ❤️‍🔥
-
-خطا retry داد ۴ الی ۵ بزنید روی retry وصل میشه 🌹
-----------------------------------------
 [2026-08-19T16:48:24+00:00] (id:5439)
 دانلود برنامه از گوگل پلی
 دانلود اپلیکیشن wg
@@ -176,5 +162,17 @@ Pass 🔐 : joker
 https://t.me/proxy?server=216.203.20.121&port=8080&secret=vshsJGsgKdnhsKenbsYrbbxhdYsbdb2LanndgsfdhAAAAeee
 https://t.me/proxy?server=asperin.info.206-197-43.ir.&port=8443&secret=ee1044048187495dfac59a030220c25cb3626973636f7474692e79656b74616e65742e636f6d
 
+@proxy_kafee
+----------------------------------------
+[2026-08-21T06:11:41+00:00] (id:5458)
+https://raw.githubusercontent.com/SeyedNG/proxy/refs/heads/main/configs/fragment_fingerprint.txt#vpn
+
+درود صبح آدینه همه بخیر❤️
+
+ساب هیدیفای . ویتوری.nvp tunell  استفاده کنید
+#v2box #v2ry
+#nvp_tunell
+#زن_زندگی_آزادی
+#مرد_میهن_آبادی
 @proxy_kafee
 ----------------------------------------

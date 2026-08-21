@@ -45,3 +45,6 @@ vless://20595050-84c7-40e6-b9e3-cf90c99f8a4c@81.177.214.150:443?encryption=none&
 vless://15e83ced-7544-422e-863d-deafe29a1dbe@2.26.224.100:8444?encryption=none&fp=&mode=auto&path=%2Fxh&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&security=reality&sid=635a76c25a4b1820&sni=www.amd.com&type=xhttp#%F0%9F%8D%A528@oneclickvpnkeys
 vless://af412668-578c-4296-bc8c-8fac6a8d9003@72.56.243.125:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#%F0%9F%8D%A529@oneclickvpnkeys
 trojan://EQ30679154@pretty-mollusk.rooster465.autos:443#%F0%9F%8D%A530@oneclickvpnkeys
+trojan://PQ05174892@18.199.174.201:443?sni=casual-quail.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#@V2ray_Collector
+vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&sid=4e9b0c2d1a3f5768&sni=as.tunnelx.space#@V2ray_Collector
+vmess://eyJhZGQiOiJub2RlLnNvY2tzNS5rZG5zLmZyIiwiYWlkIjoiMCIsImhvc3QiOiJzbWFsbGVyLWluZGVwZW5kZW50bHktYmFsbC1taWwudHJ5Y2xvdWRmbGFyZS5jb20iLCJpZCI6IjM2ZGJhODNjLTViMTAtNDhhYS1hZWUzLTZkODU3OTBhOWJmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii8zNmRiYTgzYy01YjEwLTQ4YWEtYWVlMy02ZDg1NzkwYTliZjMtdm0iLCJwb3J0IjoiNDQzIiwicHMiOiJAVjJyYXlfQ29sbGVjdG9yIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
