@@ -186,3 +186,6 @@ trojan://telegram-id-directvpn@35.157.241.124:22222?allowInsecure=0&sni=trojan.b
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.67.215.220:443?security=tls&sni=vi.ylks.link&type=ws&path=/#@v2ray_configs_pools-join-us-on-Telegram
 trojan://telegram-id-privatevpns@13.50.45.4:22222?allowInsecure=0#@v2ray_configs_pools-join-us-on-Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDc0NzUxNC1mYjE0LTRmMzEtODM5MC1lMWYwNDUzZWZmNmQ@jp2.mhw7e2.online:20014#@v2ray_configs_pools
+vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&security=reality&sid=4014ce9b0d82ad9d&sni=www.bing.com&type=tcp#Telegram:@v2rayng3
+vless://80c83a71-185b-459a-9503-1de94f5b515a@176.65.140.210:58761?security=none&encryption=mlkem768x25519plus.native.0rtt.1tRra7JiahYSDxX_pIp2PyFQFnzFKhKfTesX6cbEnRY&headerType=none&type=tcp#%40vmesskhodam
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.254:10000?security=none&encryption=none&headerType=none&type=tcp#%40vmesskhodam
