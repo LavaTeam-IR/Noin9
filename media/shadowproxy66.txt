@@ -1,10 +1,7 @@
-آخرین آپدیت: 2026-08-22 07:02:26 UTC
+آخرین آپدیت: 2026-08-22 07:39:32 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-08-20T14:49:56+00:00] (id:16710)
-117-Npv-@ShadowProxy66.npvtsub
-----------------------------------------
 [2026-08-20T17:04:22+00:00] (id:16712)
 (بدون متن)
 ----------------------------------------
@@ -72,4 +69,35 @@ clash-380-config.yaml
 🪧(فایل رو باز کنید محتویات رو کپی کنید و در کلاینت مورد نظر پیست کنید وصل نشد کلاینتهای دیگه تست کنید)
 
 🔅@ShadowProxy66
+----------------------------------------
+[2026-08-22T07:24:10+00:00] (id:16730)
+(بدون متن)
+----------------------------------------
+[2026-08-22T07:24:41+00:00] (id:16731)
+☑️ Telegram Proxy
+
+1. PROXY 2. PROXY 3. PROXY
+4. PROXY 5. PROXY 6. PROXY
+7. PROXY 8. PROXY 9. PROXY
+10.PROXY11.PROXY12.PROXY
+13.PROXY14.PROXY15.PROXY
+16.PROXY17.PROXY18.PROXY
+19.PROXY20.PROXY21.PROXY
+22.PROXY23.PROXY24.PROXY
+25.PROXY26.PROXY27.PROXY
+28.PROXY29.PROXY30.PROXY
+31.PROXY32.PROXY33.PROXY
+34.PROXY35.PROXY36.PROXY
+37.PROXY38.PROXY39.PROXY
+40.PROXY41.PROXY42.PROXY
+43.PROXY44.PROXY45.PROXY
+46.PROXY47.PROXY48.PROXY
+49.PROXY50.PROXY51.PROXY
+52.PROXY53.PROXY54.PROXY
+55.PROXY56.PROXY57.PROXY
+58.PROXY59.PROXY60.PROXY
+
+🔳پروکسی تلگرام متصل باهمه اپراتورها
+
+🔘 @ShadowProxy66
 ----------------------------------------
