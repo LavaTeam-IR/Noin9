@@ -1,27 +1,7 @@
-آخرین آپدیت: 2026-08-22 05:48:43 UTC
+آخرین آپدیت: 2026-08-22 06:14:42 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-08-21T12:07:01+00:00] (id:2845)
-Argo Bridge
-پل آرگو
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwVzEuOgjAAANC7dKuLAqKpiQvs4EwbPlaMIjuKRYryEWoJ
-Try7un7J+wdadL1sarA0pqBNx1uTnsESiJEOWYUgNwPNMZmT
-qys9TJ9JTM0kJjKUdEjiW5tWqj5HdslN+PWBWxSSsoHBT4DA
-FPTyUqfq0YlP6bsMk010Whz83BVs/VvCbB8iiexjFx20uhca
-GWEO68F/WGSGHek0TrtrFR3nE6a5iQ22se9F71QLlquieAZ/
-W+FZ2OO9cVmtwOsNMMVDNA==
------END ARGO VPN BRIDGE BLOCK-----
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwVzNtugjAAANB/6etMBixcauIDdGy2CgSVcXlrGSEdtmih
-Alv27+rzSc4fuDVq4L0Ea3MFLnQ59/QbrEGzkKkW0GBWfGMI
-O7gL+R6R36ogVlVgnnAiS/mlKjEqym1dFenTJ/ZGDPzTG/F7
-DMEKDLyVdNSqeZRRmCGcokYHr/vUyuHJUYHfLeerLYRTjMOO
-4oircnFymyIYdlOLW3/oo/mzpmR+2ZYf3ejqU8aC3LSlfzx4
-SbQVXg2lZqbrbcD/HXh/Q6c=
------END ARGO VPN BRIDGE BLOCK-----
-----------------------------------------
 [2026-08-21T14:00:19+00:00] (id:2846)
 🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
 ❏❏❏❏❏❏❏❏❏❏❏❏❏❏
@@ -213,4 +193,17 @@ obfs4 89.147.108.95:443 4655C6A50194893F5CE83994D382E2B52AF6E1FD cert=PEq2efij43
 نحوه اتصال 1 | 2
 
 تنظیمات اتصال
+----------------------------------------
+[2026-08-22T06:00:17+00:00] (id:2865)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/05/31
+🇬🇧 2026/08/22
+🕒 09:30:14
+
+🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
+🇫🇷 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇬🇧 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
+
+🆔 @ZPrxy
 ----------------------------------------
