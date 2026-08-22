@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-08-22 21:37:08 UTC
+آخرین آپدیت: 2026-08-22 21:55:40 UTC
 کانال: @shadowproxy66
 ========================================
 
@@ -66,7 +66,7 @@ PattNG -V2rayNg -V2rayTun -Happ -npv
 📲 ios:
 Streisand ‐Shadowrocket $ -NapsternetV -v2box -Karing
 🖥Windows:
-V2rayN -Throne -Karing -husi -NetMod
+PattN -V2rayN -Throne -Karing -husi -NetMod
 
 🔅@ShadowProxy66
 ----------------------------------------
