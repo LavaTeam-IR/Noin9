@@ -373,3 +373,13 @@ vless://34c09c60-3fed-4ed6-9dbc-a9f0e488aaa2@pro.awexco.shop:2082?security=reali
 vless://34c09c60-3fed-4ed6-9dbc-a9f0e488aaa2@pro1.awexio.ir:2086?security=reality&encryption=none&fm=%7B%22tcp%22%3A%5B%5D%2C%22udp%22%3A%5B%5D%2C%22quicParams%22%3A%7B%7D%7D&pbk=FdedLVqgh4rCCzYydDap0cmzOuhnw2hdwpj0C4G1sjU&host=delivery.mp.microsoft.com&headerType=http&fp=edge&type=tcp&sni=support-shield.nvidia.nl&sid=b91fc778714c36a6#♈
 vless://cda947c9-8f3c-c6e7-3b07-1f249f27ea4f@69.46.46.20:443?path=%2Fws%2Fcda947c9-8f3c-c6e7-3b07-1f249f27ea4f&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pasm-production-b250.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=pasm-production-b250.up.railway.app#🌌🇺🇸US
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.211.42:22222?encryption=none&security=none&type=tcp#🪁🇩🇪DE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNV00yTg@83.171.225.55:8388#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20IDF%2C%20France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8319#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjZhYTFiYTE0YWYzZjFh@38.60.255.97:11201#%F0%9F%87%B9%F0%9F%87%B7%20Istanbul%2C%2034%2C%20T%C3%BCrkiye
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.22.178:50099#%F0%9F%87%B9%F0%9F%87%BC%20New%20Taipei%20City%2C%20NWT%2C%20Taiwan
+ss://YWVzLTI1Ni1nY206ZW5STE40M0dYMEVjdE54eg@137.184.99.120:443#%F0%9F%87%BA%F0%9F%87%B8%20North%20Bergen%2C%20NJ%2C%20United%20States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#%F0%9F%87%A8%F0%9F%87%A6%20QC%2C%20Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw%2C%2014%2C%20Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@193.42.38.209:1080#%F0%9F%87%BA%F0%9F%87%B8%20Seattle%2C%20WA%2C%20United%20States
