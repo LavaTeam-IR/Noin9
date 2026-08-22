@@ -189,3 +189,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDc0NzUxNC1mYjE0LTRmMzEtODM5MC1lMWYwNDUzZWZ
 vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&security=reality&sid=4014ce9b0d82ad9d&sni=www.bing.com&type=tcp#Telegram:@v2rayng3
 vless://80c83a71-185b-459a-9503-1de94f5b515a@176.65.140.210:58761?security=none&encryption=mlkem768x25519plus.native.0rtt.1tRra7JiahYSDxX_pIp2PyFQFnzFKhKfTesX6cbEnRY&headerType=none&type=tcp#%40vmesskhodam
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.254:10000?security=none&encryption=none&headerType=none&type=tcp#%40vmesskhodam
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?security=tls&sni=t-netplus-4vx.pages.dev&type=ws&host=t-netplus-4vx.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#@v2ray_configs_pools-join-us-on-Telegram
+trojan://361f238c-ed2a-418d-8c1d-45d6f0e8abe2@unlk2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:443?allowInsecure=1&sni=unlk2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen#@v2ray_configs_pools-join-us-on-Telegram
+vless://8bf2d75b-2bfc-4aef-a73b-5ea3c6b5783e@104.17.148.22:8443?security=tls&sni=support.37bsjwiowiejjejisjejEejbkss--dbjd37bdka--bc.shOp.&type=ws&host=support.37bsjwiowiejjejisjejEejbkss--dbjd37bdka--bc.shOp.&path=%2F&fp=chrome&alpn=http/1.1#@v2ray_configs_pools-join-us-on-Telegram
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU@43.201.6.50:80#@v2ray_configs_pools
