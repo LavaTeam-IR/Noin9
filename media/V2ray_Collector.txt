@@ -1,21 +1,7 @@
-آخرین آپدیت: 2026-08-22 16:16:25 UTC
+آخرین آپدیت: 2026-08-22 16:44:30 UTC
 کانال: @V2ray_Collector
 ========================================
 
-[2026-08-17T06:58:30+00:00] (id:1386)
-Finland 🇫🇮
-hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.79:8443/?sni=grape-power-pl.ddnsguru.com#@V2ray_Collector
-
-Switzerland 🇨🇭
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.132:8080?sni=grape-turbo-fr.roxa.org#@V2ray_Collector
-
-Kazakhstan 🇰🇿
-hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.221:8443?security=tls&sni=borat-hopp.bumbleshrimp.com#@V2ray_Collector
-
-🔸 Official source: @V2ray_Collector
-
-#FreeVPN #Proxy #V2Ray
-----------------------------------------
 [2026-08-18T10:46:37+00:00] (id:1391)
 (بدون متن)
 ----------------------------------------
