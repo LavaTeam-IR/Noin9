@@ -1,45 +1,7 @@
-آخرین آپدیت: 2026-08-23 03:36:59 UTC
+آخرین آپدیت: 2026-08-23 04:21:01 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-08-22T12:00:24+00:00] (id:2874)
-(بدون متن)
-----------------------------------------
-[2026-08-22T12:44:01+00:00] (id:2875)
-Argo bridge
-پل آرگو
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzcuOgjAYQOF36RYToIuJNXEBDNZWgXQyI8qOUjA/XjC1
-3DqZdx/2J9/5RUOt39A90cZfoVc537tSoQ2qZz5WD+JJnA4y
-Yh/sFsMx4rY4c1ycGWTAJ7nfmQKL/oKJYTBCRcmsljb9FLYR
-2y1aoTdcn6Xpdb2QSSwiFvgn8sqGdc5P088Ft19CEZr2mUPi
-VtFHrgnrGz9ho28CCA3sbqH1XBpOnZb8QK/ON3WGSrk8Tlud
-BK28lzb3Zhssu79/I8xDVg==
------END ARGO VPN BRIDGE BLOCK-----
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwVzE0TgUAYAOD/stccUkJmHGrR7A5LGLO6tQlv6WOlbVrj
-v+P8zDxvpNJnA1WJZsMBquP+UcUXNENpT7ukcE1hMSUwGZN8
-CWtMdcSpFXECW6BNUj6yc1HfBTiZsMy/d8KmJskqky2Yiwao
-gVsZv9pn+is3yxAT/2S3UqqDlsku9NscL+S+F7nB+6niYSRT
-Iy6ircv8K3jgaVUGOzL2AqZZcllNpk2n+XVE2uDmSGZDjd3h
-saiCveHN5+jzBaOkREs=
------END ARGO VPN BRIDGE BLOCK-----
-----------------------------------------
-[2026-08-22T14:00:18+00:00] (id:2876)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/05/31
-🇬🇧 2026/08/22
-🕒 17:30:15
-
-🏳️ ᴘʀᴏxʏ | 🇧🇷 ᴘʀᴏxʏ | 🇨🇦 ᴘʀᴏxʏ | 🇧🇷 ᴘʀᴏxʏ
-🇷🇺 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇳🇱 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-
-🆔 @ZPrxy
-----------------------------------------
 [2026-08-22T15:22:41+00:00] (id:2877)
 نسل جدید پروکسی فعلا روی تلگرام دسکتاپ.
 
@@ -163,4 +125,20 @@ https://github.com/patterniha/PattN
 🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
 
 🆔 @ZPrxy
+----------------------------------------
+[2026-08-23T04:00:17+00:00] (id:2894)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/06/01
+🇬🇧 2026/08/23
+🕒 07:30:14
+
+🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+
+🆔 @ZPrxy
+----------------------------------------
+[2026-08-23T04:00:24+00:00] (id:2896)
+(بدون متن)
 ----------------------------------------
