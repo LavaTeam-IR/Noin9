@@ -197,3 +197,6 @@ vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.66:443?security=reality&e
 vless://2b092ee6-5e4b-0032-8236-a46bec9393fd@185.137.232.194:443?mode=auto&path=%2Fassets&security=reality&encryption=none&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&fp=firefox&type=xhttp&sni=aispir.ru&sid=8ba6e72ee60667f6#%40vmesskhodam
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.221.49:22223?encryption=none&security=none&type=tcp#OurChannel : @DirectVPN
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.221.49:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
+vless://XpnTeam-33@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40vmesskhodam
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@188.114.97.4:8443?path=%&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#%40vmesskhodam
+vless://fc7f5780-4c4e-11f1-a3f8-b58432c62d9c@jsv-ir.randino.ir:443?security=reality&encryption=none&pbk=fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=aparat.com&sid=f373df45a687eaff#%40vmesskhodam
