@@ -1,26 +1,7 @@
-آخرین آپدیت: 2026-08-24 19:39:52 UTC
+آخرین آپدیت: 2026-08-24 20:02:18 UTC
 کانال: @iP_CF
 ========================================
 
-[2026-08-22T18:14:11+00:00] (id:11145)
-(بدون متن)
-----------------------------------------
-[2026-08-22T18:15:27+00:00] (id:11146)
-☑️ Telegram Proxy
-
-1. PROXY 2. PROXY 3. PROXY
-4. PROXY 5. PROXY 6. PROXY
-7. PROXY 8. PROXY 9. PROXY
-10.PROXY11.PROXY12.PROXY
-13.PROXY14.PROXY15.PROXY
-16.PROXY17.PROXY18.PROXY
-19.PROXY20.PROXY21.PROXY
-22.PROXY23.PROXY24.PROXY
-25.PROXY26.PROXY27.PROXY
-28.PROXY29.PROXY30.PROXY
-
-🔳 پروکسی تلگرام متصل باهمه اپراتورها
-----------------------------------------
 [2026-08-22T20:02:00+00:00] (id:11147)
 (بدون متن)
 ----------------------------------------
@@ -177,4 +158,21 @@ adblock-resources → کامیت جدید
 #OxiDe
 🤍  More : @IP_CF
 🤍  Group : @IP_CF_GROUP
+----------------------------------------
+[2026-08-24T19:58:23+00:00] (id:11165)
+(بدون متن)
+----------------------------------------
+[2026-08-24T19:58:41+00:00] (id:11166)
+1.PROXY 2.PROXY 3.PROXY
+4.PROXY 5.PROXY 6.PROXY
+7.PROXY 8.PROXY 9.PROXY
+10.PROXY11.PROXY12.PROXY
+13.PROXY14.PROXY15.PROXY
+16.PROXY17.PROXY18.PROXY
+19.PROXY20.PROXY21.PROXY
+22.PROXY23.PROXY24.PROXY
+25.PROXY26.PROXY27.PROXY
+28.PROXY29.PROXY30.PROXY
+
+♦️  پروکسی تلگرام متصل باهمه اپراتورها
 ----------------------------------------
