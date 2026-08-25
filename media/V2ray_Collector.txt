@@ -1,21 +1,7 @@
-آخرین آپدیت: 2026-08-25 11:49:32 UTC
+آخرین آپدیت: 2026-08-25 12:18:38 UTC
 کانال: @V2ray_Collector
 ========================================
 
-[2026-08-19T18:58:46+00:00] (id:1396)
-Sweden 🇸🇪
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us54.mechvpn.online:443?alpn=h3&sni=us54.mechvpn.online#@V2ray_Collector
-
-Romania 🇷🇴
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.164:8443?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#@V2ray_Collector
-
-Netherlands 🇳🇱
-hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?sni=gorbachev-new-th.kvnfreetest.uk#@V2ray_Collector
-
-🔸 Official source: @V2ray_Collector
-
-#FreeVPN #Proxy #V2Ray
-----------------------------------------
 [2026-08-20T19:03:19+00:00] (id:1399)
 Poland 🇵🇱
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?sni=admin.wwwinternetvideo.click#@V2ray_Collector
