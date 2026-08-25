@@ -1,21 +1,7 @@
-آخرین آپدیت: 2026-08-25 10:54:05 UTC
+آخرین آپدیت: 2026-08-25 11:18:21 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-08-24T16:14:00+00:00] (id:2962)
-این 𝗔𝗥𝗭𝗗𝗢𝗡 رو آپدیت کردم
-
-هر ۱۵ دقیقه قیمت دلار و تتر و طلا میفرسته و قیمت تتر تو صرافیا ایرانی
-https://t.me/arzdon/38533
-
-هر یک ساعت قیمت همه چی با هم میفرسته
-https://t.me/arzdon/38543
-
-روزی یبارم قیمت ماشین 
-https://t.me/arzdon/38540
-
-𝗔𝗥𝗭𝗗𝗢𝗡
-----------------------------------------
 [2026-08-24T18:00:15+00:00] (id:2963)
 🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
 ❏❏❏❏❏❏❏❏❏❏❏❏❏❏
@@ -186,4 +172,23 @@ https://t.me/proxy?server=molavi.masnavi.info&port=443&secret=ee1603010200010001
 🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
 
 🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-08-25T11:09:02+00:00] (id:2982)
+Argo bridge
+پل آرگو
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eNoNzMFugjAYAOB36XUepAtMTDgoQykBls7gkFtpK/udBUehWBbffd6/fH/IyF5D
+16K1s0A3Zq8dE2iNpE0mrvxljXNTh8QjPxGkYTJXZYKrksAHJIrFx57jZjxhfyAw
+Ad/7Vjxt/k7nMw0CtEAampYNYy+fZRYVIQk7JaiuvCkvXFeZ2o2thvbtNb2XQprv
+8nL6LH4tpbvzbQPRZvyqDhBn+Cpe9MrxajYfuPRtujW6GbJUATWjw5zivuMBevwD
+qLdFWQ==
+-----END ARGO VPN BRIDGE BLOCK-----
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzLsOgjAUANB/6aoDkghi4mCANJdYFeMDupUCelFbU5CX
+8d91Pzkf0hamRq3IcjYlLzE8tMjJkhRD1MmnZ2X2ts18cOAe
+4saPRp5ENk8AdxgpQXuTU/lOba8B7FBSb8j/dhvEYxmvVmRK
+arwq0bxN8S9ZmPoQ+72pQIrAKPtglbV1ZonoH/BU+/m+dibW
+0dAXNW7CFmUHtzU0spoLbkKheXHiuIgvs83l6B5SJZluYXRw
+ouUgK8bI9weZX0Tn
+-----END ARGO VPN BRIDGE BLOCK-----
 ----------------------------------------
