@@ -1,10 +1,7 @@
-آخرین آپدیت: 2026-08-26 14:27:25 UTC
+آخرین آپدیت: 2026-08-26 15:59:55 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-08-26T04:01:02+00:00] (id:3009)
-(بدون متن)
-----------------------------------------
 [2026-08-26T05:24:24+00:00] (id:3010)
 Telegram Proxy
 
@@ -183,4 +180,24 @@ https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v1.0.0
 🇺🇸 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
 
 🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-08-26T15:01:01+00:00] (id:3029)
+Argo bridge
+پل آرگو
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzMuOgjAUANB/6VYTgUSlJi5IRbjM2AkzPoAdhQK1gA5W
+sBj/Xfcn54l63t3EpUUrc4quqa4vaY5WiOtgyBpsMIv2jMAC
+pCu+STAmUWAlEYgfETxYu1Ws2d1jCysQg8g8rPOPpZtwLML1
+Gk3RTZRtqu4d/5Q7NyYQEihnUo6/ZoUxx1nkN/Y10sr2DXU6
+Wq656Ty8X8iYl44DlUNLk+BD6NlLerRTCUo19Vknnvbr4ms+
+HiYVFP2D/g3/DL3eU3xEEA==
+-----END ARGO VPN BRIDGE BLOCK-----
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwVzd1ugjAYgOF76elM6BQ1mHiAWE0bBzJUfs4KUv2mQC0r
+Fc3ufXr+5nmfqCtVC02NZp8DJHl/bfgRzVDZM1NUDs6Hfpd7
+dEIvBDYee2QJG2YJhQCY4rGENHF1Xh0wBQPF2umPr9Zfhg8R
+zudogFo41fxXq/JFfpHQo15sjcfrCTv72N6NFoEsbnutcIol
+8Td6m+jAuJWqb7WdubBIv7f33bQU1zv7iSPC8r3lGBFZo0as
+OjtuFRO2JPzDmPfu7x9On0PQ
+-----END ARGO VPN BRIDGE BLOCK-----
 ----------------------------------------
