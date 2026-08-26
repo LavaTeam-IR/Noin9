@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-08-26 10:56:52 UTC
+آخرین آپدیت: 2026-08-26 11:28:01 UTC
 کانال: @vpn_tehran
 ========================================
 
@@ -20,4 +20,7 @@
 ----------------------------------------
 [2026-08-25T13:23:47+00:00] (id:7249)
 ✅ تست شده با ایرانسل
+----------------------------------------
+[2026-08-26T11:02:45+00:00] (id:7251)
+💠 کانفیگ جدید رایگان  vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MCIsInBzIjoiQFZwbl9UZ…
 ----------------------------------------
