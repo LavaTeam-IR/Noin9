@@ -1,10 +1,7 @@
-آخرین آپدیت: 2026-08-26 11:57:38 UTC
+آخرین آپدیت: 2026-08-26 12:49:13 UTC
 کانال: @Daily_Configs
 ========================================
 
-[2026-08-23T07:47:11+00:00] (id:4553)
-‌مناسب برای: ✈️▶️📷🕊📞 🪐    ✔️ ALL-Networks vless://1ab3d304-568e-4d0b-b347-24038012fc10@www.speedtest.net:443?mode=auto&path=%2Fengineering%2F465426-self-healing-roman-concrete-featured&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=mlkem768x25519plus.…
-----------------------------------------
 [2026-08-23T08:39:28+00:00] (id:4554)
 🪙 1.00 USDT = 195,483 toman 💔
 ----------------------------------------
