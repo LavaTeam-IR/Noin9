@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-08-27 00:39:18 UTC
+آخرین آپدیت: 2026-08-27 10:30:57 UTC
 کانال: @proxy_kafee
 ========================================
 
@@ -64,4 +64,18 @@ tg://proxy?server=93.113.230.218&port=442&secret=40f9db94c7426b64b2069e32406cad6
 @proxy_kafee
 
 #وایگارد
+----------------------------------------
+[2026-08-27T06:20:45+00:00] (id:46033)
+پروکسی✅✅✅
+
+tg://proxy?server=216.203.20.121&port=8080&secret=vshsJGsgKdnhsKenbsYrbbxhdYsbdb2LanndgsfdhAAAAeee
+
+tg://proxy?server=www.381-012.ir.&port=443&secret=ee1044048187495dfac59a030220c25cb37777772e7961686f6f2e636f6d
+
+tg://proxy?server=www.bazbaran-batrane.ir.&port=8443&secret=7hYDBIGHSV36xZoDAiDCXY5tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+@mon_proxys
+
+صبح بخیر ♥️
+
+@proxy_kafee
 ----------------------------------------
