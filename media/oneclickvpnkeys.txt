@@ -1,25 +1,7 @@
-آخرین آپدیت: 2026-08-28 04:30:40 UTC
+آخرین آپدیت: 2026-08-28 16:52:56 UTC
 کانال: @oneclickvpnkeys
 ========================================
 
-[2026-08-27T06:27:52+00:00] (id:26266)
-{"remarks":"@oneclickvpnkeys - 3","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"129.121.95.159","port":443,"users":[{"id":"f6190ff2-864c-46cf-ac16-93908c069b75","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"ws","security":"tls","wsSettings":{"path":"/connect","headers":{"Host":"129.121.95.159"}},"tlsSettings":{"allowInsecure":false,"serverName":"129.121.95.159","fingerprint":"chrome","show":false}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
-----------------------------------------
-[2026-08-27T06:29:08+00:00] (id:26267)
-{"remarks":"@oneclickvpnkeys - 4","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"157.173.7.200","port":443,"users":[{"id":"64774bd8-3116-4eaa-a046-5ea4fc230b81","level":8,"encryption":"none","flow":"xtls-rprx-vision"}]}]},"streamSettings":{"network":"tcp","security":"reality","tcpSettings":{"header":{"type":"none"}},"realitySettings":{"allowInsecure":true,"serverName":"node-fra02.rkitman.ru","show":false,"publicKey":"8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU","shortId":"88d9dc52ef39c8bd"}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
-----------------------------------------
-[2026-08-27T06:29:08+00:00] (id:26268)
-{"remarks":"@oneclickvpnkeys - 5","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"129.121.95.159","port":443,"users":[{"id":"f6190ff2-864c-46cf-ac16-93908c069b75","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"ws","security":"tls","wsSettings":{"path":"/connect","headers":{"Host":"129.121.95.159"}},"tlsSettings":{"allowInsecure":false,"serverName":"129.121.95.159","fingerprint":"chrome","show":false}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
-----------------------------------------
-[2026-08-27T11:56:45+00:00] (id:26272)
-🇮🇷 File for app:
-
-➡️ Singbox (Android)
-➡️ Singbox (iOS)
-➡️ Singbox (Windows)
-
-🐎@oneclickvpnkeys
-----------------------------------------
 [2026-08-27T15:20:44+00:00] (id:26274)
 Gaming configs
 Files for app:
@@ -49,4 +31,51 @@ https://ogy.de/oneclickvpnkeys-free-sub
 ----------------------------------------
 [2026-08-27T20:16:34+00:00] (id:26287)
 😴
+----------------------------------------
+[2026-08-28T05:38:31+00:00] (id:26289)
+🩷🩷🩷🩷🩷🩷 🩷🩷🩷🩷
+ 🤩 @oneclickvpnkeys
+----------------------------------------
+[2026-08-28T08:04:28+00:00] (id:26294)
+‼️Following updates are done to the bak-file:
+- inactive servers/groups are removed
+- new group #🍏@vcpbak with 63 servers is created
+➖➖➖➖➖➖➖➖
+⭐️63 servers⭐️
+➖➖➖➖➖➖➖➖
+🟢To be able to use it just restore bak-file from below
+
+🇷🇺 Обновление бэкапа
+-нерабочие удалены и добавлены 63 новых серверов
+/восстанавливаем бэкап файлом снизу
+➖➖➖➖➖➖➖➖
+Password/Пароль:  
+🔥 @vcpbak 
+➖➖➖➖➖➖➖➖
+‼️if password doesn't match?🎃
+-check typing
+-install latest original version from play store
+➖➖➖➖➖➖➖➖ 
+💚@vcpbak
+----------------------------------------
+[2026-08-28T08:09:43+00:00] (id:26295)
+پروکسی تلگرام
+
+پروکسی . پروکسی . پروکسی
+پروکسی . پروکسی . پروکسی
+پروکسی . پروکسی . پروکسی
+پروکسی . پروکسی . پروکسی
+پروکسی . پروکسی . پروکسی
+پروکسی . پروکسی . پروکسی
+پروکسی . پروکسی . پروکسی
+پروکسی . پروکسی . پروکسی
+پروکسی . پروکسی . پروکسی
+پروکسی . پروکسی . پروکسی
+پروکسی . پروکسی . پروکسی
+پروکسی . پروکسی . پروکسی
+پروکسی . پروکسی . پروکسی
+پروکسی . پروکسی . پروکسی
+پروکسی . پروکسی . پروکسی
+
+@oneclickvpnkeys
 ----------------------------------------

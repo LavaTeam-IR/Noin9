@@ -1,89 +1,7 @@
-آخرین آپدیت: 2026-08-28 04:29:50 UTC
+آخرین آپدیت: 2026-08-28 16:52:12 UTC
 کانال: @ShadowsocksM
 ========================================
 
-[2026-08-12T13:14:37+00:00] (id:15116)
-📢 TGLock
-بروزرسانی جدید 
- v2.0.0-beta.8
-
- دور زدن محدودیت تلگرام بدون VPN! 🔓
-
-اگه فقط هدفتون اینه که تلگرام بدون فیلترشکن روی ویندوز، مک یا لینوکس کار کنه، پروژه TGLock می‌تونه براتون جالب باشه.
-
-✨ ویژگی‌ها:
-
-✅ فقط با یک کلیک فعال میشه.
-
-✅ بدون VPN، بدون سرور شخصی و بدون اشتراک.
-
-✅ ترافیک تلگرام رو داخل WebSocket (HTTPS) می‌فرسته تا برای ISP مثل ترافیک عادی وب دیده بشه.
-
-✅ فقط روی تلگرام کار می‌کنه و سرعت بقیه اینترنت رو تغییر نمیده.
-
-✅ متن‌باز (Open Source) و نوشته شده با Rust.
-
-✅ پشتیبانی از Windows، macOS و Linux.
-
-⚠️ محدودیت‌ها:
-
-❌ برای اندروید و iOS اپلیکیشن نداره.
-
-❌ تماس صوتی و تصویری تلگرام رو دور نمی‌زنه، چون فقط ترافیک TCP رو مدیریت می‌کنه.
-
-❌ روی YouTube، Instagram، Discord، ChatGPT و بقیه برنامه‌ها هیچ تأثیری نداره.
-
-💡 داخل شبکه خونه هم می‌تونید حالت LAN رو فعال کنید تا گوشی و دستگاه‌های دیگه از همون کامپیوتر برای اتصال تلگرام استفاده کنن.
-
-💻 آپدیت نسخه v2.0.0-beta.8 (Latest)
-
-⚙️ تغییرات جدید:
-
-🔹 از این به بعد اگر دسترسی از طریق شبکه محلی (LAN) فعال باشه، آدرس اتصال برای دستگاه‌های دیگه مستقیم روی صفحه اصلی نمایش داده میشه؛ مثلاً:
-"192.168.1.7:1080"
-
-فقط کافیه روش بزنید تا همون لحظه کپی بشه.
-
-❗ قبلاً خیلی‌ها چون این آدرس رو نمی‌دیدن، به اشتباه "127.0.0.1" رو وارد می‌کردن. در حالی که این آدرس فقط به خود همون دستگاه اشاره می‌کنه؛ یعنی اگه داخل یه گوشی دیگه یا شبیه‌ساز واردش کنید، به کامپیوتر شما وصل نمیشه و طبیعتاً اتصال هم برقرار نخواهد شد.
-
-📥 دانلود آخرین نسخه (v2.0.0-beta.8):
-https://github.com/by-sonic/tglock/releases/tag/v2.0.0-beta.8
-
-📂 سورس پروژه:
-https://github.com/by-sonic/tglock
-
-#اوپن_سورس
-
-.
-🛡️ نکته امنیتی
-چون این پروژه رایگانه، فایل نصبش امضای دیجیتال (Code Signing) نداره؛ به همین خاطر ممکنه Windows SmartScreen یا بعضی آنتی‌ویروس‌ها بهش هشدار بدن. توسعه‌دهنده خودش این موضوع رو توضیح داده و حتی روش بررسی صحت فایل (SHA256)، لاگ GitHub Actions و امکان کامپایل از سورس رو هم قرار داده تا لازم نباشه کورکورانه اعتماد کنید.
-پست آپدیت شد
-----------------------------------------
-[2026-08-12T13:15:07+00:00] (id:15117)
-Webtunnel Slipnet
-
-slipnet-enc://AaQQB9qxBCa7WT05fVRecOPZHZ9FoySvQcr+w55A5wrbnvZVfjykfqi8BcS/L8R17koIaSG2MAZq+J6n3Os1mzG3aGjG8H7h3XQsSndfKcI2fxZY/kAe6+R371f5/oGIRN/NxCxYitPaE8u+BdnotxPa+daxzO54efFDsv2bHfx3QprxDmFstAjqIO6d0kkb6cbHAZol7rbEkdCd96UnMwmd6EOqiCb4fOGrz5f3wfDLoOPEa4BERG2b9mzUZ4ZFNg/xXb5ZgTODyTdYSam3EZSXHNzZtIVnSzXXOU69+2mN1Qv1I0H4UGB13y/YAGXZ76eLDDkB4VuMS478nDzPex1hOj9R5Q1sHXKT8DDhD0nwOcDLW5sbYLfye60rdcYSnkLs6SlwkctmXrf7p9IxvI5Ad82ZwMZbRlvZY6nIIsWNwD+z26jeGhMuvZ7OGJ9E81A6kDHUtU7/opbQqLFRC95d7CYnVwJKsA6xbbWQkwXZX0r6075/4ThgrxJdy1A/t/ZCdnE8ZTTGh7RKbIF538xS5/APUsEoje89WVE0yuazJ2NFzKbNpjlRW+A9zn1393qhbqwPYqwzxOboVPjQP2xKBQN6SyUSpGHK2OQyFwTW6qYUIUPx7hAyAk9uS6i0EtgBkVHfk51+u5uOsqC3PgjROLCkH2Y7IyYCc2yvgUplv+UIQBSxS6/p10WlRRz6A6ST/Lj3YAY63TgehkL8lClbDzAqqw5GEL1IbbXGFZUg/zUlVb+aR9C40C/PBtEFl2FyhysNI5mDsr56wQ3YjEucndSxsiFrl9REE+Pvpvx4oXIpYxoX54zOm17LPRJCj92/BYWfdOSmb5aanEkv5VPgiqYSFqADZzuvxG2B8atAL+dZnssk3OyH5UzRHcI5IUI5LTNAvRNpagxhX6RND9h6QkArbv3fxor7tROXg5yoswd+6NgWIwBKh6LMbup0OxF57AvpEb8JdIXmd9ASuINmMCZ/TRAdARrPvHj6e9QivxJKyv9oa0Zh
-----------------------------------------
-[2026-08-12T13:15:27+00:00] (id:15118)
-Argo bridge
-پل ارگو
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzMFugjAAANB/6VUPwBCDCQeDrLRRTI1O5q2ldWttwVAp
-FrN/n/eX9wJO9FZ2LViFc3CnXneUgxUQHo+NSQMWVY7lKEG3
-Qm5zPF1qHF1qJPcSPzm8x/x8MMKg4TtKH0iOsoGp529fbch0
-JVkG5sDKn5Y+hl68211xyhEUbEkbVSXx2XaOVFCp0hLmiSa8
-F8Yw5WDSWqv4aS2Ldfh7XcDPcTn6spyCeDF4SjCr9dds89TH
-sHAfSmjXo7AJMvD3D93XRqA=
------END ARGO VPN BRIDGE BLOCK-----
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzN1ugjAYANB36TWJBRGsiRcTkbVWHTix5a5Upo3uExXk
-Z/Hd5/3J+UPP4v4wV0AT20Kl6i5XdUATVHSs0b8E5876mQfU
-o+fQ8ID1mWBOJqjZGGYrJwENupYOqahpjI5Id3jb9Tzuf+Lp
-FFnoYY6gqvpevMtVKAMaB3ve6hQLSQaKw3dp1/k2hGUJctNn
-w9Ot8+bH3hNp6CYNPX0sdwmOYPaJyW1rRyueNPwMhRpj35Ut
-G7WuP6rE5atesBS9/gE3lUMN
------END ARGO VPN BRIDGE BLOCK-----
-----------------------------------------
 [2026-08-14T05:36:22+00:00] (id:15120)
 (بدون متن)
 ----------------------------------------
@@ -180,4 +98,28 @@ https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedoto
 بدین صورت سیستم فیلترینگ فکر میکنه با یک بازدید عادی از سایت طرف هست و این پروکسی ها دیرتر فیلتر میشن، حداقل تا آپدیت شدن سیستم فیلترینگ و شناسایی الگوهای این نوع پروکسی های جدید.
 
 تلگرام هنوز مستنداتی برای راه اندازی این نوع پروکسی ها منتشر نکرده بنابراین تا اون زمان امکان تست و راه اندازی اونها وجود نداره.
+----------------------------------------
+[2026-08-28T09:40:37+00:00] (id:15136)
+Channel name was changed to «MR Shadowsocks M»
+----------------------------------------
+[2026-08-28T09:56:10+00:00] (id:15140)
+@MR Shadowsocks M
+----------------------------------------
+[2026-08-28T09:58:05+00:00] (id:15141)
+این vpn
+اوپن سورس هست
+نصب کنید
+ببین اوکی هستید
+
+📥 دریافت نسخه جدید:
+https://github.com/Floxu1/UAC-SNI-Spoofer-Android/releases/tag/2.0.3
+
+💻 گیت‌هاب پروژه:
+https://github.com/Floxu1/UAC-SNI-Spoofer-Android
+----------------------------------------
+[2026-08-28T09:58:05+00:00] (id:15142)
+آموزش تصویری استفاده از اپلیکیشن UAC Sni Spoofer Android
+----------------------------------------
+[2026-08-28T13:05:29+00:00] (id:15143)
+V2ray
 ----------------------------------------

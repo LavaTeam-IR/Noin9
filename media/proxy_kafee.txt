@@ -1,72 +1,7 @@
-آخرین آپدیت: 2026-08-28 04:30:42 UTC
+آخرین آپدیت: 2026-08-28 16:52:57 UTC
 کانال: @proxy_kafee
 ========================================
 
-[2026-08-26T21:40:17+00:00] (id:46030)
-دانلود برنامه از گوگل پلی
-دانلود اپلیکیشن wg
-
-(آموزش گذاشتن فایل در برنامه) اول ذخیره کنید بعد داخل برنامه اجرا کنید
-
-اگر وصل نشد رو اینجا کلیک کنید 
-
-@proxy_kafee
-
-#وایگارد
-----------------------------------------
-[2026-08-27T06:20:45+00:00] (id:46033)
-پروکسی✅✅✅
-
-tg://proxy?server=216.203.20.121&port=8080&secret=vshsJGsgKdnhsKenbsYrbbxhdYsbdb2LanndgsfdhAAAAeee
-
-tg://proxy?server=www.381-012.ir.&port=443&secret=ee1044048187495dfac59a030220c25cb37777772e7961686f6f2e636f6d
-
-tg://proxy?server=www.bazbaran-batrane.ir.&port=8443&secret=7hYDBIGHSV36xZoDAiDCXY5tZWRpYS5zdGVhbXBvd2VyZWQuY29t
-@mon_proxys
-
-صبح بخیر ♥️
-
-@proxy_kafee
-----------------------------------------
-[2026-08-27T12:11:13+00:00] (id:46036)
-#openvpn
-#کانفیگ #config
-#فیلترشکن
-کانفیگ open vpn 😈
-
-دانلود فایل برنامه open vpn
-
-دانلود برای آیفون 
-
-حتما آپدیت کنید از گوگل پلی ❤️‍🔥
-
-خطا retry داد ۴ الی ۵ بزنید روی retry وصل میشه 🌹
-----------------------------------------
-[2026-08-27T14:16:09+00:00] (id:46039)
-Argo bridge 
-#پل_آرگو 
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzMFugjAYAOB36VUTpYoREw8MyPIXBBsnAW8tLVtFq4EW
-U5a9+7x/+X7RKPtBPTTaeXP0ZO72YALtkHTk1dyDJcf5yCPY
-QJeoLCLTpSL4UoEqFOkENpqvhGMramscGFAv1XwGTrx9HtOp
-pfs9mqNBfWtmbC/f7SGpI6CxHdP7osz8cj3RMsG+2/iFd01r
-Q3oFkOCmy27RAvd5HsJPCB86dqdOflmrsyI8n7bTVbTGa2dc
-caiWkqXHIcbr7Zmiv39I+0R2
------END ARGO VPN BRIDGE BLOCK-----
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzF8TgTAAAPDvslfuytCZOw/dJBstOVr1Fk0mif5aznfn
-/Xe/D2hFWcniAeajIXjG6l7ECZgDoWh3zpF+gqw9YWKQzJJb
-TPsooDAKiHQl7QX3s9ieNCFENZGdPNtIJX/Lll5/8RYLMASV
-TB9x3ZTiXzpWiImHR0aR6wdcG+9dONYHyTp9NehqPRvfSXjk
-+iqtlkf+3rCyI1eT6bPVBSpVmrUmTI6CfMe3t9nN2dsDrc0s
-d0qZSYw20yD4/gBIIEMd
------END ARGO VPN BRIDGE BLOCK-----
-پل آرگو وی پی ان‌متصل
-
-دانلود برنامه آرگو 
-
-@proxy_kafee
-----------------------------------------
 [2026-08-27T16:23:46+00:00] (id:46040)
 بکاپ کلاینت⚜️VPN Client Pro
 سرورهای🇹🇷🇩🇪🇧🇷🇷🇺🇬🇧🇪🇸🇰🇷🇵🇸🇺🇸🇨🇦🇸🇪🇺🇦🇩🇰🇫🇮🇦🇲🇵🇹
@@ -109,4 +44,51 @@ Pass 🔐 : joker
 حتما آپدیت کنید از گوگل پلی ❤️‍🔥
 
 خطا retry داد ۴ الی ۵ بزنید روی retry وصل میشه 🌹
+----------------------------------------
+[2026-08-28T10:03:34+00:00] (id:46057)
+پروکسی پایدار ✅✅
+
+tg://proxy?server=world-mordak.maraton-co.info.&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+@proxy_kafee
+----------------------------------------
+[2026-08-28T10:20:42+00:00] (id:46060)
+#openvpn
+#کانفیگ #config
+#فیلترشکن
+کانفیگ open vpn 😈
+
+دانلود فایل برنامه open vpn
+
+دانلود برای آیفون 
+
+حتما آپدیت کنید از گوگل پلی ❤️‍🔥
+
+خطا retry داد ۴ الی ۵ بزنید روی retry وصل میشه 🌹
+----------------------------------------
+[2026-08-28T13:29:46+00:00] (id:46066)
+Argo VPN 
+#پل_آرگو پل آرگو
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwVzM1ugjAAAOB36RWTdQo4TDy1nbThRyYLrLdCCWsFMaVI
+xOzdp+cv+R7g1phRDRewe1+Bq7h3g5BgB5o7m+s+gNU6uVWI
++vRMVITYwku25iVVqWK9PHDFN1coTt7Ey+zlc7VhkOoBJjgJ
+wAqMqr0IO5nmWcbkG9EMnbVHit83lJAT9sOoZqGudT4iF2cW
+OiJMm0LmpneOXy1tD8ViI3eKtySNO/kZdF5OPby1H5mdiBGy
+9LGjf4wzL+4e/P0D04lCOw==
+-----END ARGO VPN BRIDGE BLOCK-----
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzNtugjAYAOB36bUJyAYOE25WyGwVgSkZcEcpwo9yGId2
+Zdm7z/sv3y8S5ThB36H9doOGXD36nKM9KhWVRWvrzDgLholF
+7h6cMF2zhBpZQiAAaqbt51IYvEnb+5Ia9kxAQvFhK/70Zzda
+b5HjoA2aoOryeRnLZ+t7MSYRJu9cZ8JqpKYf3J9hktCbwSHs
+xjXxWX0cqFaLh4AsMitSXX1faPYcVJo+fne1Cl4vWHFirWH9
+5s5hXLDm64UcdzL2HPT3D641RgA=
+-----END ARGO VPN BRIDGE BLOCK-----
+
+پل آرگو وی پی ان‌متصل
+
+دانلود برنامه آرگو 
+
+@proxy_kafee
 ----------------------------------------
