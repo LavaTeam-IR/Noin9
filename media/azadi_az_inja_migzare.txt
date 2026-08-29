@@ -1,10 +1,7 @@
-آخرین آپدیت: 2026-08-28 16:52:29 UTC
+آخرین آپدیت: 2026-08-29 00:46:23 UTC
 کانال: @azadi_az_inja_migzare
 ========================================
 
-[2026-08-06T23:25:59+00:00] (id:10378)
-https://www.youtube.com/watch?v=VYfQePhgEUU
-----------------------------------------
 [2026-08-07T13:19:50+00:00] (id:10379)
 https://youtu.be/filwdiPKN90?si=O-hvgeNw43t4BUmR
 ----------------------------------------
@@ -269,4 +266,30 @@ https://raw.githubusercontent.com/JavidnamanIran-at-Telegram/x-ray_sub/refs/head
 به آخرین ورژن سینگ باکس نیاز دارید
 
 https://raw.githubusercontent.com/JavidnamanIran-at-Telegram/sing-box_sub/refs/heads/main/sing-box_sub.txt
+----------------------------------------
+[2026-08-28T23:29:50+00:00] (id:10398)
+این اپها را دریابید.........
+
+نسخه موبایل
+
+https://github.com/WhiteDNS/WhiteAestherMobile/releases/tag/v1.2.3
+
+نسخه دسکتاپ
+
+https://github.com/WhiteDNS/WhiteAesther/releases/tag/v1.6.0
+
+آموزشها
+
+نسخه دسکتاپ
+
+https://t.me/whitedns/1641
+
+https://t.me/whitedns/1645
+
+آموزش تغییر لوکیشن با Exit Chain
+داخل اپ‌های WhiteVPN و WhiteAesther 🔥
+
+واسه gemini و بقیه AI هایی ک نیاز دارین عالیه
+
+https://youtu.be/yx-jFqv9pYM?si=VuY0qqm5qbFUJOO6
 ----------------------------------------
