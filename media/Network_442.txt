@@ -1,26 +1,7 @@
-آخرین آپدیت: 2026-08-31 15:24:08 UTC
+آخرین آپدیت: 2026-08-31 20:55:08 UTC
 کانال: @Network_442
 ========================================
 
-[2026-08-21T07:43:59+00:00] (id:18135)
-Check out "SuperVPN Pro"
-https://play.google.com/store/apps/details?id=com.jrzheng.supervpnpayment
-----------------------------------------
-[2026-08-21T07:44:26+00:00] (id:18136)
-Check out "SuperVPN Pro" https://play.google.com/store/apps/details?id=com.jrzheng.supervpnpayment
-----------------------------------------
-[2026-08-21T07:45:08+00:00] (id:18137)
-برای گیم هم پینگ ۸۰ کال آف میده ، باقی بازی ها مثل کلش کلنز رویال که آب خوردن
-----------------------------------------
-[2026-08-21T07:46:02+00:00] (id:18138)
-پیدا کردن آی‌پی لوکیشن که در حال حاضر وصل هستید 
-
-What Is My IP Location? IP Address & Location Finder
-https://www.iplocation.net/
-----------------------------------------
-[2026-08-21T07:46:50+00:00] (id:18139)
-پیدا کردن آی‌پی لوکیشن که در حال حاضر وصل هستید     What Is My IP Location? IP Address & Location Finder https://www.iplocation.net/
-----------------------------------------
 [2026-08-21T07:47:33+00:00] (id:18140)
 دوستان یه سایت سبک براتون قرار دادم . که لوکیشن‌ آیپی فیلتر شکنی که وصل هستید نشون میده  مثال اتوماتیک وصل شدین میخواهید ببینید کدوم کشور وصله اینجا راحت نشون میده   یا اصلا هر کانفیگ سرور اتصال گرفتید، دقیق آی‌پی لوکیشن نشان میده
 ----------------------------------------
@@ -71,4 +52,91 @@ The earlier you start, the bigger the rewards!
 [2026-08-30T14:10:09+00:00] (id:18154)
 ارتفاع سیلاب نپال 😱
 Nepal
+----------------------------------------
+[2026-08-31T16:53:24+00:00] (id:18155)
+(بدون متن)
+----------------------------------------
+[2026-08-31T16:53:25+00:00] (id:18156)
+Server.intra👇
+
+برای وارد کردن دی‌ان‌اس ابتدا به بخش تنظیمات بروید. سپس گزینه SELECT DNS OVER HTTPS SERVER را انتخاب کنید. صفحه دیگری برای شما باز می‌شود و در دومین بخش یعنی CUSTOM SERVER URL آدرس دی‌ان‌اس را وارد کنید. 
+
+دی‌ان‌اس‌های پیشنهادی برای ایرانسل
+https://ipv4-zepto-mci-1.edge.nextdns.io/dns-query
+https://dns.controld.com/
+https://170.176.145.150/
+https://zepto-sto-1.edge.nextdns.io
+https://nsc.torgues.net/dns-query
+https://jp-kix2.doh.sb/
+https://ipv4-zepto-mci-1.edge.nextdns.io/
+https://zepto-sto-1.edge.nextdns.io/
+https://dns.gi.co.id/dns-query
+https://xmission-slc-1.edge.nextdns.io/dns-query
+
+دی‌ان‌اس‌های پیشنهادی برای همراه اول و مخابرات
+https://xtom-osa-1.edge.nextdns.io/
+https://dns.aa.net.uk/dns-query
+https://nsc.torgues.net/
+https://xmission-slc-1.edge.nextdns.io/dns-query
+https://xtom-osa-1.edge.nextdns.io/dns-query
+https://cloudflare-dns.com/dns-query
+https://170.176.145.150/
+https://dns.gi.co.id/dns-query
+https://dns.google/dns-query
+https://dns.melalandia.tk/dns-query
+
+دی‌ان‌اس‌های پیشنهادی برای رایتل
+https://dns.quad9.net/dns-query
+https://ipv4-zepto-mci-1.edge.nextdns.io/dns-query
+https://170.176.145.150/
+https://jp-kix2.doh.sb/
+https://zepto-sto-1.edge.nextdns.io
+https://res-acst3.absolight.net/
+https://dns.melalandia.tk/dns-query
+https://cloudflare-dns.com/dns-query
+https://xtom-osa-1.edge.nextdns.io/
+https://dns.aa.net.uk/dns-query
+
+@Network_442
+----------------------------------------
+[2026-08-31T16:53:25+00:00] (id:18157)
+Check out "Intra"
+https://play.google.com/store/apps/details?id=app.intra
+
+@Network_442
+----------------------------------------
+[2026-08-31T16:53:25+00:00] (id:18158)
+کد سرویس  intra  روش قرار دادن پست بعدی 
+
+🇬🇧
+
+https://uk-lon.doh.sb/dns-query
+
+ 
+🇩🇪
+
+https://de-dus.doh.sb/dns-query
+
+🇸🇬
+
+https://sg-sin.doh.sb/dns-query
+
+@Network_442
+----------------------------------------
+[2026-08-31T16:53:25+00:00] (id:18159)
+کد سرویس  intra  روش قرار دادن پست بعدی 
+
+🇬🇧
+
+https://uk-lon.doh.sb/dns-query
+
+🇩🇪
+
+https://de-dus.doh.sb/dns-query
+
+🇸🇬
+
+https://sg-sin.doh.sb/dns-query
+
+@Network_442
 ----------------------------------------

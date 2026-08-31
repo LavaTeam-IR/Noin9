@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-08-31 15:24:53 UTC
+آخرین آپدیت: 2026-08-31 20:55:39 UTC
 کانال: @V2ray_Collector
 ========================================
 
@@ -13,6 +13,16 @@
 hysteria2://wrSuBorIlf@hys9.wba-pn.ru:443?insecure=1&sni=hys9.wba-pn.ru#@V2ray_Collector
 
 ✨ More keys, more chances to connect. Subscribe to @OutlineReleasedKey for extra updates.
+
+🔸 Official source: @V2ray_Collector
+
+#FreeVPN #Proxy #V2Ray
+----------------------------------------
+[2026-08-31T16:30:36+00:00] (id:1436)
+1 · 🇳🇱 Netherlands · Hysteria2
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.140:8443?sni=grape-turbo-fr.roxa.org#@V2ray_Collector
+
+🤝 Two channels, more useful keys. Subscribe to @OutlineReleasedKey and enjoy both feeds.
 
 🔸 Official source: @V2ray_Collector
 
