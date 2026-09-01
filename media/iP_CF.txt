@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-09-01 14:56:14 UTC
+آخرین آپدیت: 2026-09-01 18:08:30 UTC
 کانال: @iP_CF
 ========================================
 
@@ -151,4 +151,62 @@ Sing-Box:Throne | NekoRay (Matsuri) | Hiddify
 ----------------------------------------
 [2026-08-31T18:38:13+00:00] (id:11215)
 (بدون متن)
+----------------------------------------
+[2026-09-01T15:05:13+00:00] (id:11221)
+(بدون متن)
+----------------------------------------
+[2026-09-01T15:08:10+00:00] (id:11222)
+🔥 کلاینت‌های ساخته‌شده بر پایه هسته Aether
+
+‏Aether یه هستهٔ سبک و قدرتمند برای دور زدن فیلترینگ‌های سنگین هست که توسط CluvexStudio ساخته شده. چند تا کلاینت گرافیکی و موبایل روش توسعه پیدا کردند و از قابلیت‌های این هسته استفاده می‌کنند.
+
+📱 اندروید:
+• WhiteAestherMobile →
+https://github.com/WhiteDNS/WhiteAestherMobile/releases
+
+• AetherST →
+https://github.com/immaghzbad/AetherST/releases
+
+• Aethery →
+https://github.com/ZethRise/Aethery/releases
+
+• Aethon →
+https://github.com/hamvex/AetherGUI/releases
+
+• Aether Mobile →
+https://github.com/QW-AI-Code/Aether/releases
+
+• GRoute (چندموتوره) →
+https://github.com/SuOracle/GRoute/releases
+
+• mlmvpn (چندموتوره) →
+https://github.com/mlmvpn/mlmvpn_android/releases
+
+• MSN-GUARD (هسته مشابه) →
+https://github.com/mbm110/MSN-GUARD/releases
+
+💻 ویندوز:
+• AetherST →
+https://github.com/immaghzbad/AetherST/releases
+
+• WhiteAesther →
+https://github.com/WhiteDNS/WhiteAesther/releases
+
+• Aether-GUI →
+https://github.com/MatinSenPai/Aether-GUI/releases
+
+• Aethon →
+https://github.com/hamvex/AetherGUI/releases
+
+• Aether Desktop →
+https://github.com/QW-AI-Code/Aether_Desktop/releases
+
+• mlmvpn →
+https://github.com/mlmvpn/mlmvpn_windows/releases
+
+📌 هسته اصلی:
+[CluvexStudio/Aether]
+https://github.com/CluvexStudio/Aether
+
+متصل با همه اپراتورها
 ----------------------------------------
