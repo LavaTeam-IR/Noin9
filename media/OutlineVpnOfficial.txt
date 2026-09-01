@@ -1,5 +1,253 @@
-آخرین آپدیت: 2026-09-01 00:19:20 UTC
+آخرین آپدیت: 2026-09-01 05:20:21 UTC
 کانال: @OutlineVpnOfficial
 ========================================
 
-[پیامی یافت نشد یا کانال خصوصی/نامعتبر است]
+[2023-04-22T17:05:01+00:00] (id:1614)
+#Notifications April 22, 2023 - 11:30 UTC: Now there is disruption in Netherlands servers premium services for Iranians. The technical team of the Outline community is investigating and following up on the problem. Dear users, thank you for your cooperation.…
+----------------------------------------
+[2023-05-08T13:20:20+00:00] (id:1637)
+#Notifications
+We would like to inform you that due to successive DDos attacks originating from Iran to clusters in United kingdom, Netherlands and Germany, with the aim of disrupting and disabling the Outline network, there has been a decrease in the quality and disconnection of the service of some users in the past hours. Technical experts are working full time to investigate and fix the problem. We apologize for this inconvenience. We will notify you again when the problem is completely resolved and the network returns to normal, and the period of disruption will be returned to the time of the premium services contract. Thank you for your patience, dear users.
+Respectfully
+Outline Network Support Team
+
+#اطلاعیه
+به اطلاع می رسانیم به علت حملات پی در پی DDos از مبدا ایران به کلاستر های انگلیس، هلند و آلمان، با هدف ایجاد اختلال و از کار انداختن شبکه Outline، در ساعات گذشته کاهش کیفیت و قطعی اتصال در سرویس برخی از کاربران به وجود آمده است. کارشناسان فنی به طور تمام وقت در حال بررسی و رفع مشکل هستند. بابت این ناراحتی از شما پوزش می خواهیم. ما در زمان رفع کامل مشکل و بازگشت شبکه به حالت عادی مجددا اطلاع خواهیم داد و همچنین بازه زمانی اختلال به زمان قرارداد سرویس های پریمیوم بازگشت داده خواهد شد. از صبوری شما کاربران گرامی سپاسگزاریم.
+با احترام
+تیم پشتیبانی شبکه اوت لاین
+
+@OutlineVpnOfficial
+@OutlineVpnBot
+----------------------------------------
+[2023-05-09T19:40:44+00:00] (id:1638)
+#Notifications We would like to inform you that due to successive DDos attacks originating from Iran to clusters in United kingdom, Netherlands and Germany, with the aim of disrupting and disabling the Outline network, there has been a decrease in the quality…
+----------------------------------------
+[2023-05-10T11:30:31+00:00] (id:1639)
+#Notifications Hello again to Outline users in Iran We have received many messages in the past day and we are aware of the importance of Outline services in Iran. Many users have reported that no alternative tool works to bypass internet censorship in Iran…
+----------------------------------------
+[2023-06-05T04:30:01+00:00] (id:1689)
+♾  Outline Premium Speed Test
+
+🔴 From: Iran (Irancell)
+😄 To: Outline Premium Network
+
+✍️ Ping: < 300ms
+🫥 Bandwidth: > 200Mb/s
+
+☑️Buy from: @OutlineVpnBot
+
+🧡@OutlineVpnPremium
+----------------------------------------
+[2023-06-05T04:30:01+00:00] (id:1690)
+♾  Outline Premium Speed Test
+
+🔴 From: Iran (IR-MCI)
+😄 To: Outline Premium Network
+
+✍️ Ping: < 300ms
+🫥 Bandwidth: > 200Mb/s
+
+☑️Buy from: @OutlineVpnBot
+
+🧡@OutlineVpnPremium
+----------------------------------------
+[2023-06-05T04:30:09+00:00] (id:1691)
+هم اکنون کلید دسترسی پریمیوم برای ایرانیان در دسترس است. خرید با ارز دیجیتال از طریق @OutlineVpnBot امکان پذیر است.
+
+The premium access key is now available for Iranians. Purchases with cryptocurrency are possible via @OutlineVpnBot .
+----------------------------------------
+[2023-09-11T11:01:23+00:00] (id:1822)
+💬 #Notifications
+Hello dear users 👋
+We hope you have a good day.
+We want to inform you that we have prepared new servers that will be available with higher quality and speed. We will publish a new access key daily at 12:00 UTC with a maximum data limit of 4.00TB for free on the website and telegram channel. Russian, Chinese and Iranian users should note that Outline may be restricted by political authorities in their country. So users who are having trouble connecting to Outline access keys, we suggest you try @v2Line.
+Thanks for accompanying us. ❤️
+Outline Network Team
+
+✍️✍️✍️✍️✍️✍️✍️✍️✍️
+
+Russian:
+💬 #Уведомления
+Здравствуйте, дорогие пользователи 👋
+Мы надеемся, что у вас хороший день.
+Хотим сообщить вам, что мы подготовили новые серверы , которые будут доступны с более высоким качеством и скоростью . Мы будем публиковать новый ключ доступа ежедневно в 12:00 UTC с максимальным лимитом данных 4,00 ТБ бесплатно на сайте и в Telegram-канале . Пользователи из России, Китая и Ирана должны иметь в виду, что Outline может быть ограничен политическими властями в их стране. Поэтому пользователям, у которых возникают проблемы с подключением к ключам доступа Outline, мы предлагаем попробовать @v2Line.
+ Спасибо, что сопровождали нас.❤️
+Сетевая команда Outline
+
+✍️✍️✍️✍️✍️✍️✍️✍️✍️
+
+Chinese:
+💬 #通知
+亲爱的用户大家好 👋
+我们希望您度过愉快的一天。
+我们想通知您，我们已经准备了新的服务器，将以更高的质量和速度提供。我们将在世界标准时间每天 12:00在网站和电报频道免费发布新的访问密钥，最大数据限制为4.00TB 。俄罗斯、中国和伊朗用户应注意，Outline 可能受到其所在国家政治当局的限制。因此，无法连接到 Outline 访问键的用户，我们建议您尝试 @v2Line.
+感谢您陪伴我们。 ❤️
+大纲网络团队
+
+✍️✍️✍️✍️✍️✍️✍️✍️✍️
+
+Persian:
+💬 #اطلاعیه
+سلام خدمت کاربران عزیز 👋
+امیدواریم روز خوبی داشته باشید.
+می خواهیم به اطلاع شما برسانیم که سرورهای جدیدی را آماده کرده ایم که با کیفیت و سرعت بالاتری در دسترس خواهند بود. ما روزانه یک کلید دسترسی جدید را در ساعت 12:00 UTC با حداکثر محدودیت داده 4.00 ترابایت به صورت رایگان در وب سایت و کانال تلگرام منتشر خواهیم کرد. کاربران روسی، چینی و ایرانی باید توجه داشته باشند که Outline ممکن است توسط مقامات سیاسی در کشورشان محدود شود. بنابراین کاربرانی که در اتصال به کلیدهای دسترسی Outline مشکل دارند، پیشنهاد می کنیم @v2Line را امتحان کنید.
+ممنون که ما را همراهی کردید. ❤️
+تیم شبکه Outline
+
+🧡 @OutlineVpnOfficial
+----------------------------------------
+[2023-09-16T12:00:53+00:00] (id:1835)
+💬 #Notifications Hello dear users 👋 We hope you have a good day. We want to inform you that we have prepared new servers that will be available with higher quality and speed. We will publish a new access key daily at 12:00 UTC with a maximum data limit of…
+----------------------------------------
+[2023-09-20T12:00:06+00:00] (id:1844)
+(بدون متن)
+----------------------------------------
+[2023-09-22T17:30:02+00:00] (id:1851)
+Dear users, you can boost the Outline community channel by updating your Telegram to the latest version. Click on the link below.
+
+t.me/OutlineVpnOfficial?boost
+----------------------------------------
+[2023-11-08T12:01:41+00:00] (id:1974)
+(بدون متن)
+----------------------------------------
+[2024-01-04T12:00:06+00:00] (id:2039)
+🏅 Outline VPN Premium
+🇮🇷 Available for #Iranian Users
+
+⚡ Service Features:
+● Static IP
+● Unlimited bandwidth
+● Unlimited number of devices / users
+● Dedicated network for Iranian users
+● Secure and encrypted connection
+● No user tracking
+● P2P support
+● Shadowsocks protocol
+● Support for third-party software such as v2ray and shadowrocket
+
+⭐️ Buy only from @OutlineVpnBot
+💰 Payment with cryptocurrencies
+
+🧡@OutlineVpnPremium
+English ● Русский ● فارسی
+----------------------------------------
+[2024-05-12T18:30:27+00:00] (id:2215)
+🇺🇳 Outline #Global Service is now available for all worldwide users with the following server locations:
+
+1. Amsterdam - Netherlands 🇳🇱
+2. Frankfurt - Germany 🇩🇪
+3. London - United Kingdom 🇬🇧
+4. Paris - France 🇫🇷
+5. Istanbul - Turkey 🇹🇷
+6. Dubai - UAE 🇦🇪
+7. Manassas - USA 🇺🇸
+
+⚡ Service Features:
+
+⛓ Static IP
+🔋 Unlimited Bandwidth
+📲 Unlimited Device 
+⬇️ Supporting v2ray Clients
+
+📣 We are proud to announce that the global premium service is available from today. This service is optimized for users around the world.
+
+💡 Note: Global service is not suitable for #Iranian and #Russian users, these users must use the premium service for Iran and Russia.
+
+💰 Fast, secure and anonymous payment with cryptocurrencies.
+
+⭐️ Buy only from @OutlineVpnBot
+
+Sincerely
+Outline Network Support Team
+🧡@OutlineVpnPremium
+English ● Русский ● فارسی
+----------------------------------------
+[2024-05-28T18:30:13+00:00] (id:2255)
+❤️ Help us improve the @OutlineVpnOfficial channel
+
+✨ Why Boost?
+
+1. Exclusive Content: Get access to premium posts, insider information, and early releases.
+
+2. Special Perks: Enjoy members-only benefits, including giveaways, special mentions, and much more!
+
+3. Enhanced Experience: Help us improve the quality and variety of our content with your support.
+
+🚀 Boost Us Now
+🚀 [t.me/boost/OutlineVpnOfficial]
+
+🧡@OutlineVpnOfficial
+----------------------------------------
+[2024-07-19T07:30:31+00:00] (id:2368)
+#alert ⚠️
+
+Dear Users,
+Hello
+
+We hope you are having a great day.
+
+Unfortunately, we encounter cases daily where users report that they have paid money to unknown and unrelated individuals for subscriptions or premium services.
+
+We have repeatedly stated that we do not have any sales representatives in any country. Please be aware that none of our managers or experts will initiate a conversation with you or send you a message. If someone contacts you and claims to be a representative of Outline or v2Line, please be assured that they are scammers! Block and report them immediately.
+
+As the first independent and volunteer-based Outline community, we offer all our paid and premium services exclusively through the bot @OutlineVpnBot, and there are no other bots or accounts for buying and selling.
+
+The only official support account is @OutlineSupportTeam, and there are no other valid IDs.
+
+Please exercise caution and avoid making any payments to individuals who claim to be our representatives.
+
+Respectfully,
+Outline Network Support Team
+🧡@OutlineVpnPremium
+🧡@OutlineVpnBot
+English ● Русский ● فارسی
+----------------------------------------
+[2024-08-25T16:30:24+00:00] (id:2446)
+📣 #news
+
+Pavel Durov, the founder of Telegram, was arrested at a French airport. People around the world have trended the hashtag #FreeDurov on social media to support his freedom. We also support this movement and hope Durov is released as soon as possible.
+
+Respectfully,
+Outline Community
+🧡 t.me/outlinevpnofficial
+🧡 t.me/outlinevpnpremium
+----------------------------------------
+[2024-10-15T05:30:32+00:00] (id:2482)
+#announcement
+Limitations and problems of Outline free services
+
+Dear Users,
+Greetings,
+
+We hope you have spent pleasant moments.
+
+We would like to inform you that, unfortunately, some of the free access keys in your country may have been restricted or blocked by local authorities, or server may have already gone offline. If you experience such issues, we recommend trying the @v2Line service, which we have developed.
+
+However, if you require private and high-speed access keys for Outline or v2ray, you can use the Outline Premium service. Premium Outline services can be purchased via @OutlineVpnBot. For confidentiality reasons, payments are currently only accepted in cryptocurrency.
+
+Please note that we do not have any other sales representatives, and all premium services are exclusively sold through the aforementioned bot. Please refrain from purchasing or making payments to unknown individuals, bots, websites, or unofficial software.
+
+For any further inquiries regarding the Outline Premium service, feel free to contact our support team at @OutlineSupportTeam.
+
+Best regards,
+Outline Community Support Team
+🧡 t.me/outlinevpnofficial
+🧡 t.me/outlinevpnpremium
+English ● Русский ● فارسی
+----------------------------------------
+[2024-11-15T07:30:02+00:00] (id:2518)
+[v2Line VPN | v2Ray Proxy Pool]
+
+● Free
+● Secure
+● Multi-Protocol
+
+Support for Android, iOS, Windows, 
+Linux and macOS.
+
+Join now:
+https://t.me/+eY9qeRSF_WZhNzk5
+----------------------------------------
+[2025-10-07T23:35:03+00:00] (id:2724)
+(بدون متن)
+----------------------------------------
