@@ -1,5 +1,13 @@
-آخرین آپدیت: 2026-09-02 14:01:33 UTC
+آخرین آپدیت: 2026-09-02 17:50:33 UTC
 کانال: @free4allVPN
 ========================================
 
-[پیامی یافت نشد یا کانال خصوصی/نامعتبر است]
+[2026-01-05T08:35:51+00:00] (id:1324)
+We built a free AI bot that’s funded by a donation. It has generous rate limits, meaning you will not hit the limit unless you’re abusing it with dozens of prompts a minute.
+
+It currently doesn’t support image generation, vision and audio processing but we are currently working to support that in near future.
+
+you can access it at @freeaismart_bot and feel free to share it with your friends and families.
+
+Edit: I forgot to mention. We built it to be useful for most users. So it doesn’t use just one cheap model. Your prompt is classified and directed to a relevant model for processing. For example: if you ask something like “what AI model is this?”, the prompt will be classified as “Easy” and will use a lightweight and efficient model. More complex prompts are processed by larger, more expensive and more intelligent models.
+----------------------------------------

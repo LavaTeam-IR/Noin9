@@ -1,5 +1,203 @@
-آخرین آپدیت: 2026-09-02 14:06:06 UTC
+آخرین آپدیت: 2026-09-02 17:50:45 UTC
 کانال: @ShadowsocksM
 ========================================
 
-[پیامی یافت نشد یا کانال خصوصی/نامعتبر است]
+[2026-08-30T11:02:30+00:00] (id:15148)
+🛡 نسخه‌ی 2.0.4 اپلیکیشن UAC SNI Spoofer منتشر شد
+
+در این نسخه تمرکز اصلی روی اضافه شدن موتور جدید Tor با WebTunnel و بهبود تجربه استفاده در نسخه تلویزیون بوده است.
+
+تغییرات نسخه جدید:
+
+🔹 اضافه شدن موتور Tor با پشتیبانی از WebTunnel برای ایجاد مسیرهای جدید اتصال.
+
+🔹 اضافه شدن قابلیت انتخاب خروجی Tor و انتخاب کشور موردنظر برای اتصال.
+
+🔹 در نسخه تلویزیون، پشتیبانی کامل از ریموت کنترل و کلیدهای D-pad اضافه شده و تمام بخش‌های برنامه با کنترل تلویزیون هماهنگ شده‌اند.
+
+🔹 اضافه شدن دکمه QR در بخش کانفیگ ها برای اسکن و انتقال سریع کانفیگ‌های موبایل به لیست کانفیگ‌های تلویزیون.
+
+🔹 بهبود تجربه کاربری در تلویزیون و استفاده راحت‌تر با ریموت کنترل.
+
+🔹 رفع برخی باگ‌های گزارش‌شده و بهبود پایداری کلی برنامه.
+
+━━━━━━━━━━━━━━━━━━
+ویدیوی آموزش استفاده : https://t.me/UacSniSpoofer/94
+
+📥 دریافت نسخه جدید:
+https://github.com/Floxu1/UAC-SNI-Spoofer-Android/releases/tag/2.0.4
+
+💻 گیت‌هاب پروژه:
+https://github.com/Floxu1/UAC-SNI-Spoofer-Android
+
+📢 کانال:
+t.me/UacSniSpoofer
+----------------------------------------
+[2026-08-30T11:02:30+00:00] (id:15149)
+t.me/UacSniSpoofer
+----------------------------------------
+[2026-08-31T10:33:37+00:00] (id:15152)
+ساب لینک های قابل استفاده در اکثر کلاینت ها 
+
+4n0nymou3
+https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs_tested.txt#4n0nymou3
+arshiacomplus
+https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html#arshiacomplus
+roosterkid
+https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt#roosterkid
+Shadowmere
+https://shadowmere.xyz/api/b64sub#shadowmere
+ShadowException
+https://raw.githubusercontent.com/ShadowException/VPN/refs/heads/main/configs/VPN-cat#shadowexception
+zieng2
+https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt#zieng2
+v2freehub
+https://raw.githubusercontent.com/v2FreeHub/v2hub-configs/refs/heads/main/Sub-AutoUpdate#v2freehub
+prominbro
+https://raw.githubusercontent.com/prominbro/sub/refs/heads/main/212.txt#prominbro
+keyfreetee
+https://raw.githubusercontent.com/free1zona/Keyfreetee/refs/heads/main/razlo4ka7#keyfreetee
+Igareck 
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt#igareck
+Proxy collector
+https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt#Proxy Collector
+harvester
+https://raw.githubusercontent.com/luxxuria/harvester/main/speed_tested.txt#harvester
+Ln2Ray 
+https://raw.githubusercontent.com/IranianCypherpunks/Xray/main/Sub#Ln2Ray
+JavidnamanIran
+https://raw.githubusercontent.com/JavidnamanIran-at-Telegram/x-ray_sub/refs/heads/main/x-ray_sub.txt#JavidnamanIran
+─────────────────
+ساب لینک های سینگ باکس 
+
+4n0nymou3
+https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs_tested.json#4n0nymou3
+Kevin Zakarian 
+https://free1.vpny.net:2096/sub/Kevin-US-KAN?format=json
+Kevin Zakarian
+https://free2.vpny.net:2096/sub/Kevin-US-NYC?format=jso﻿n
+JavidnamanIran
+https://raw.githubusercontent.com/JavidnamanIran-at-Telegram/sing-box_sub/refs/heads/main/sing-box_sub.txt#JavidnamanIran
+─────────────────
+ساب لینک های کلش
+
+4n0nymou3
+https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/clash_configs_tested.yaml#4n0nymou3
+10ium
+https://raw.githubusercontent.com/10ium/free-config/refs/heads/main/free-mihomo-sub/Multi__Country__RulePlus.yaml
+─────────────────
+فرگمنت-فینگرپرینت قابل استفاده در کلاینت 
+PattN💻   ,   PattNG 📱
+Patterniha
+https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt#patterniha
+─────────────────
+سرورلس (دی ان اس برای یوتیوب و...)
+
+Patterniha
+https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main/Subscription/Serverless-for-Iran.json#Patterniha
+GFW-Slayer
+https://raw.githubusercontent.com/voidr3aper-anon/GFW-slayer/main/configs/regional/iran/serverless-iran-friendly.json#GFW-Slayer
+─────────────────
+کانفیگ با لوکیشن دلخواه
+
+https://arshiacomplus.github.io/V2rayExtractor-page/
+
+https://fa.v2nodes.com
+
+https://shadowmere.xyz/
+
+https://openproxylist.com
+----------------------------------------
+[2026-08-31T15:23:04+00:00] (id:15153)
+یکی از جدید ترین vpn ها 
+سرعت عالی 
+مناسب تلگرام و اینستاگرام و وب گردی
+گیت هاب پروژه 👇👇
+
+https://github.com/mbm110/MSN-GUARD
+----------------------------------------
+[2026-08-31T16:09:40+00:00] (id:15154)
+گوشی های جدید
+----------------------------------------
+[2026-08-31T16:12:00+00:00] (id:15156)
+پروژه FCAE VPN یک کلاینت VPN مبتنی بر Aether است که به‌صورت خودکار مسیرهای قابل اتصال به شبکه WARP کلودفلر را پیدا میکند و یک تونل رمزنگاری‌شده ایجاد میکند.
+
+از MASQUE، WireGuard و WARP-in-WARP پشتیبانی میکند و برای Windows، Linux، macOS و Android رابط گرافیکی دارد.
+
+https://github.com/FCFlenkchy/FCAE_VPN
+----------------------------------------
+[2026-08-31T16:12:00+00:00] (id:15157)
+(بدون متن)
+----------------------------------------
+[2026-08-31T16:12:00+00:00] (id:15158)
+(بدون متن)
+----------------------------------------
+[2026-08-31T16:12:29+00:00] (id:15159)
+🔰نسخه جدید Se7en Pro منتشر شد
+
+⭐️ تغییرات نسخه 1.0.3:
+◾️بهبود طراحی UI برنامه
+◾️اضافه شدن قابلیت Kill Switch
+◾️امکان اتصال با متود Psiphon / Tor Over Warp
+◾️بهبود تانل برنامه و اضافه شدن قابلیت Split Tunnel
+◾️اضافه شدن متود های جدید برای اتصال (Tor - Aether و...)
+◾️امکان آپدیت هسته های Tor - Aether و نصب داخل خود برنامه
+◾️رفع یه سری از باگ های گزارش شده و...
+
+📥 دانلود نسخه جدید:
+✅ (32bit) - (64bit) - GitHub
+
+⚠️ در صورتی که مشکل و باگی مشاهده کردید داخل کامنت ها اطلاع بدید در آپدیت های آینده برطرف بشه
+
+➰➰➰➰➰
+#️⃣ #vpn #windows
+🆔 @King_Network7
+----------------------------------------
+[2026-08-31T19:07:38+00:00] (id:15160)
+دوستانی که روی این اپ متصل نمی شوند،
+
+پروتکل رو داخل این قسمت تغییر دهید
+----------------------------------------
+[2026-09-02T05:26:03+00:00] (id:15161)
+📱 NekoBox+ آپدیت شد | v1.4.2-92
+
+یه آپدیت کوچیک ولی کاربردی 👌
+
+🔧 تغییرات:
+• چند باگ مربوط به رابط کاربری برطرف شد
+• مشکل کرش فوری هسته هنگام فعال‌کردن h2mux رفع شد
+
+اگه با فعال کردن h2mux نِکو‌باکس براتون سریع می‌پرید، این نسخه رو تست کنید. 🔥
+
+#NekoBoxPlus
+----------------------------------------
+[2026-09-02T05:26:03+00:00] (id:15162)
+(بدون متن)
+----------------------------------------
+[2026-09-02T05:27:40+00:00] (id:15167)
+⚠️ اصلاحیه 
+
+ نسخهٔ ۱.۲.۷ منتشر شد
+اگر نسخهٔ ۱.۲.۶ را نصب کرده‌اید، لطفاً به‌روزرسانی کنید.
+🐞 مشکل چه بود
+در نسخهٔ ۱٫۲٫۶، اگر پروتکل را روی وارپ‌در‌وارپ می‌گذاشتید و دکمهٔ اتصال را می‌زدید، برنامه بسته می‌شد.
+بقیهٔ پروتکل‌ها سالم بودند. فقط وارپ‌در‌وارپ.
+🔧 چرا این اتفاق افتاد
+در نسخهٔ ۱٫۲٫۶ یک باگ قدیمی را رفع کردیم که باعث می‌شد روی وارپ‌در‌وارپ مرورگرها باز نشوند. برای آن رفع، اندازهٔ بسته‌ها را به عددی تغییر دادیم که این تونل واقعاً می‌تواند حمل کند.
+ولی آن عدد از حداقلی که پروتکل IPv6 لازم دارد کمتر بود، و اندروید این حداقل را اجباری می‌کند. نتیجه‌اش این شد که ساختن تونل رد می‌شد و برنامه بسته می‌شد.
+یعنی رفع ما مشکل بدتری ساخت: قبلش وصل می‌شد و مرورگر کار نمی‌کرد، بعدش اصلاً وصل نمی‌شد.
+بابت این اشتباه عذرخواهی می‌کنیم.
+✅ در نسخهٔ ۱٫۲٫۷
+حالا وقتی تونل نتواند IPv6 را حمل کند، برنامه آن را روشن نمی‌کند به‌جای اینکه بسته شود.
+نتیجهٔ عملی: وارپ‌در‌وارپ فقط با IPv4 کار می‌کند. این محدودیت واقعی این تونل است، نه چیزی که بشود دورش زد.
+هم اتصال درست کار می‌کند و هم مرورگرها باز می‌شوند.
+به‌جز این، هیچ چیز دیگری نسبت به ۱٫۲٫۶ عوض نشده. تمام قابلیت‌هایی که در پست قبلی گفتیم سر جایشان هستند.
+⬇️ دانلود
+https://github.com/WhiteDNS/WhiteAestherMobile/releases/latest
+
+▫️ arm64-v8a — تقریباً همهٔ گوشی‌های ۲۰۱۷ به بعد 
+▫️ armeabi-v7a — گوشی‌های قدیمی‌تر 
+▫️ universal — اگر مطمئن نیستید
+نیازی به حذف برنامه نیست؛ روی نسخهٔ قبلی نصب می‌شود و تنظیماتتان می‌ماند.
+@whitedns
+----------------------------------------
