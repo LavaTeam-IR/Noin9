@@ -1,32 +1,7 @@
-آخرین آپدیت: 2026-09-02 05:42:17 UTC
+آخرین آپدیت: 2026-09-02 09:56:01 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-08-31T07:50:53+00:00] (id:16867)
-(بدون متن)
-----------------------------------------
-[2026-08-31T07:51:03+00:00] (id:16868)
-☑️ Telegram Proxy
-
-1.PROXY 2.PROXY 3.PROXY
-4.PROXY 5.PROXY 6.PROXY
-7.PROXY 8.PROXY 9.PROXY
-10.PROXY11.PROXY12.PROXY
-13.PROXY14.PROXY15.PROXY
-16.PROXY17.PROXY18.PROXY
-19.PROXY20.PROXY21.PROXY
-22.PROXY23.PROXY24.PROXY
-25.PROXY26.PROXY27.PROXY
-28.PROXY29.PROXY30.PROXY
-31.PROXY32.PROXY33.PROXY
-34.PROXY35.PROXY36.PROXY
-37.PROXY38.PROXY39.PROXY
-40.PROXY41.PROXY42.PROXY
-43.PROXY44.PROXY45.PROXY
-
-🔳پروکسی تلگرام متصل باهمه اپراتورها
-🔘 @ShadowProxy66
-----------------------------------------
 [2026-08-31T08:31:08+00:00] (id:16869)
 (بدون متن)
 ----------------------------------------
@@ -116,4 +91,29 @@ https://github.com/patterniha/PattNG/releases/tag/2.3.6-P36
 🪧(فایل رو باز کنید محتویات رو کپی کنید و در کلاینت مورد نظر پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید)
 
 🔅@ShadowProxy66
+----------------------------------------
+[2026-09-02T08:43:20+00:00] (id:16887)
+(بدون متن)
+----------------------------------------
+[2026-09-02T08:43:39+00:00] (id:16888)
+1.PROXY 2.PROXY 3.PROXY
+4.PROXY 5.PROXY 6.PROXY
+7.PROXY 8.PROXY 9.PROXY
+10.PROXY11.PROX12.PROXY
+13.PROXY14.PROXY15.PROXY
+16.PROXY17.PROXY18.PROXY
+19.PROXY20.PROXY21.PROXY
+22.PROXY23.PROXY24.PROXY
+25.PROXY26.PROXY27.PROXY
+28.PROXY29.PROXY30.PROXY
+31.PROXY32.PROXY33.PROXY
+34.PROXY35.PROXY36.PROXY
+37.PROXY38.PROXY39.PROXY
+40.PROXY41.PROXY42.PROXY
+43.PROXY44.PROXY45.PROXY
+46.PROXY47.PROXY48.PROXY
+49.PROXY50.PROXY51.PROXY
+52.PROXY53.PROXY54.PROXY
+55.PROXY56.PROXY57.PROXY
+58.PROXY59.PROXY60.PROXY
 ----------------------------------------
