@@ -1,106 +1,7 @@
-آخرین آپدیت: 2026-09-04 04:28:37 UTC
+آخرین آپدیت: 2026-09-04 08:59:38 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-09-03T12:51:01+00:00] (id:3300)
-Amnezia VPN , WG Tunnel
-
-[Interface]
-PrivateKey = OGQXlIheGKKotCwHdkBgopYXj/VgHAdOMZxky+mQM1M=
-Address = 100.64.87.135/32
-DNS = 198.18.0.1,198.18.0.2
-Jc = 4
-Jmin = 40
-Jmax = 70
-S1 = 0
-S2 = 0
-S3 = 0
-S4 = 0
-H1 = 1
-H2 = 2
-H3 = 3
-H4 = 4
-I1 = <b 0x494e56495445207369703a626f624062696c6f78692e636f6d205349502f322e300d0a5669613a205349502f322e302f55445020706333332e61746c616e74612e636f6d3b6272616e63683d7a39684734624b3737366173646864730d0a4d61782d466f7277617264733a2037300d0a546f3a20426f62203c7369703a626f624062696c6f78692e636f6d3e0d0a46726f6d3a20416c696365203c7369703a616c6963654061746c616e74612e636f6d3e3b7461673d313932383330313737340d0a43616c6c2d49443a20613834623463373665363637313040706333332e61746c616e74612e636f6d0d0a435365713a2033313431353920494e564954450d0a436f6e746163743a203c7369703a616c69636540706333332e61746c616e74612e636f6d3e0d0a436f6e74656e742d547970653a206170706c69636174696f6e2f7364700d0a436f6e74656e742d4c656e6774683a20300d0a0d0a>
-I2 = <b 0x5349502f322e302031303020547279696e670d0a5669613a205349502f322e302f55445020706333332e61746c616e74612e636f6d3b6272616e63683d7a39684734624b3737366173646864730d0a546f3a20426f62203c7369703a626f624062696c6f78692e636f6d3e0d0a46726f6d3a20416c696365203c7369703a616c6963654061746c616e74612e636f6d3e3b7461673d313932383330313737340d0a43616c6c2d49443a20613834623463373665363637313040706333332e61746c616e74612e636f6d0d0a435365713a2033313431353920494e564954450d0a436f6e74656e742d4c656e6774683a20300d0a0d0a>
-
-[Peer]
-PublicKey = KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
-Endpoint = 91.148.240.208:51820
-AllowedIPs = 0.0.0.0/0
-----------------------------------------
-[2026-09-03T14:01:02+00:00] (id:3301)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/06/12
-🇬🇧 2026/09/03
-🕒 17:30:58
-
-🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🇬🇧 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇷🇺 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-09-03T14:16:01+00:00] (id:3302)
-Amnezia VPN, WG Tunnel 
-
-[Interface]
-PrivateKey = kK/DhxAUbX/Cr0n2sSEl/LEiZS8d4uXTMqMbea5OrUc=
-Address = 172.16.0.2/32
-DNS = 1.1.1.1, 1.0.0.1
-Jc = 6
-Jmin = 10
-Jmax = 50
-I1 = <r 2><b 0x858000010001000000000669636c6f756403636f6d0000010001c00c000100010000105a00044d583737>
-
-[Peer]
-PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-Endpoint = 8.34.70.110:955
-AllowedIPs = 0.0.0.0/0
-PersistentKeepalive = 25
-•••••••••••••••••••••••
-[Interface]
-PrivateKey = kK/DhxAUbX/Cr0n2sSEl/LEiZS8d4uXTMqMbea5OrUc=
-Address = 2606:4700:110:84b5:5c59:34e5:c03e:56bb/128
-DNS = 2606:4700:4700::1111, 2606:4700:4700::1001
-Jc = 6
-Jmin = 10
-Jmax = 50
-I1 = <r 2><b 0x858000010001000000000669636c6f756403636f6d0000010001c00c000100010000105a00044d583737>
-
-[Peer]
-PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-Endpoint = [2606:4700:d1:0:105c:21aa:7151:363a]:2408
-AllowedIPs = ::/0
-PersistentKeepalive = 25
-----------------------------------------
-[2026-09-03T15:14:12+00:00] (id:3303)
-معرفی اپ موبایل livdub! 🚀
-
-اپ livdub این امکان رو بهتون میده که نه تنها هر صدایی که از گوشیتون درحال پخش هست رو به زبان خودتون بشنوید، علاوه بر اون٬ میتونید صدای محیط اطرافتون رو هم توی هدفون برای خودتون دوبله شده بشنوید.
-
-دقیقا مثل افزونه، کلید Gemini خودتون رو از Google تنظیم میکنید و میتونید از livdub استفاده کنید. 
-
-📲 قابلیت دوبله صدای در حال پخش از گوشی٬ مشابه افزونه هست. در زمان شروع دوبله میتونید کل صفحه یا یک اپ خاص رو به livdub بدید که براتون دوبله کنه.
-
-🎧 قابلیت دوبله صدای محیط کاملا جدیده و ندیدم به این شکل جایی اجرا شده باشه. تصور کنید چیزی مثل اون گوشی‌هایی که مهمانان در سازمان ملل میذارن به گوششون تا صحبت ها رو به زبان خودشون بشنوند! میکروفون گوشی رو بگذارید جایی که صدا هست (مثلا کنار تلویزیون یا در محیط کارتون)٬ هدفون رو هم بذارید توی گوشتون و دوبله رو شروع کنید.
-
-اینجا میتونید بیشتر دربارش بخونید:
-http://livdub.com
-
-و از گوگل پلی نصبش کنید 👇
-https://play.google.com/store/apps/details?id=com.livdub.android&referrer=utm_source%3Dlivdub_x%26utm_medium%3Dpost%26utm_campaign%3Dandroid_app&utm_source=livdub_x&utm_medium=post&utm_campaign=android_app
-----------------------------------------
-[2026-09-03T15:14:48+00:00] (id:3304)
-پ.ن. اپ livdub رایگان هست و روزانه دقایق بیشتری نسبت به افزونه بهتون میده! برای قابلیت‌های بیشتر و استفاده نامحدود میتونید از «پلاس» استفاده کنید. اگر از قبل «پلاس» داشتید میتونید روی اپ هم فعالش کنید. یا روی خود گوشی از طریق Google Play پلاس رو بگیرید.
-
-پ.ن. فعلا اپ اندروید آماده شده که اینجا پستش کردم. برای iOS هم دیگه داره آماده میشه و به زودی براش پست جدا مینویسم
-----------------------------------------
-[2026-09-03T16:00:52+00:00] (id:3306)
-(بدون متن)
-----------------------------------------
 [2026-09-03T16:01:07+00:00] (id:3307)
 🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
 ❏❏❏❏❏❏❏❏❏❏❏❏❏❏
@@ -203,4 +104,105 @@ https://play.google.com/store/apps/details?id=com.livdub.android&referrer=utm_so
 🇷🇺 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
 
 🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-04T05:22:19+00:00] (id:3320)
+(بدون متن)
+----------------------------------------
+[2026-09-04T05:56:02+00:00] (id:3321)
+Telegram Proxy
+
+https://t.me/proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=my-iran.dinocol.co.uk.&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+https://t.me/proxy?server=kurd.tryzub-it.co.uk.&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+https://t.me/proxy?server=turk.dasy2k1.co.uk.&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+https://t.me/proxy?server=for-iran.tryzub-it.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+https://t.me/proxy?server=rootssh2.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=mashti.just-money.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=bfesedv.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=jadid.zhigool.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=65.109.208.75&port=4466&secret=dd114562821249bd7ac519130220c25d08
+
+https://t.me/proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=davande.ir.kjhsdjhads.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=eshkal-nadare.vasledada.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=185.84.156.45&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7
+
+https://t.me/proxy?server=beer.crona-extra.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=bedo-bedo.ir.kjhsdjhads.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=yarypple.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=Jet-motor.iran.proxy.ir.kkhfkasfhkasdx.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=168.119.101.44&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+https://t.me/proxy?server=evo.foriran.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+
+https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=195.201.216.142&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+https://t.me/proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=ir.makkers.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+https://t.me/proxy?server=qadim.zhigool.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=116.202.189.213&port=8443&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=faq.slamawna.info&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7
+
+https://t.me/proxy?server=iranian.billblog.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+----------------------------------------
+[2026-09-04T06:01:01+00:00] (id:3322)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/06/13
+🇬🇧 2026/09/04
+🕒 09:30:58
+
+🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇫🇷 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-04T08:00:54+00:00] (id:3324)
+(بدون متن)
+----------------------------------------
+[2026-09-04T08:01:03+00:00] (id:3325)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/06/13
+🇬🇧 2026/09/04
+🕒 11:31:00
+
+🇬🇧 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇬🇧 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
+🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-04T08:22:02+00:00] (id:3326)
+(بدون متن)
 ----------------------------------------

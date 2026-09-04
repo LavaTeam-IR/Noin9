@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-09-04 04:28:53 UTC
+آخرین آپدیت: 2026-09-04 09:00:00 UTC
 کانال: @shadowproxy66
 ========================================
 
@@ -101,4 +101,24 @@ https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/all_c
 🪧(فایل رو باز کنید محتویات رو کپی کنید و در کلاینت مورد نظر پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید)
 
 🔅@ShadowProxy66
+----------------------------------------
+[2026-09-04T07:26:58+00:00] (id:16927)
+(بدون متن)
+----------------------------------------
+[2026-09-04T07:27:45+00:00] (id:16928)
+1.PROXY 2.PROXY 3.PROXY
+4.PROXY 5.PROXY 6.PROXY
+7.PROXY 8.PROXY 9.PROXY
+10.PROXY11.PROXY12.PROXY
+13.PROXY14.PROXY15.PROXY
+16.PROXY17.PROXY18.PROXY
+19.PROXY20.PROXY21.PROXY
+22.PROXY23.PROXY24.PROXY
+25.PROXY26.PROXY27.PROXY
+28.PROXY29.PROXY30.PROXY
+31.PROXY32.PROXY33.PROXY
+34.PROXY35.PROXY36.PROXY
+37.PROXY38.PROXY39.PROXY
+40.PROXY41.PROXY42.PROXY
+43.PROXY44.PROXY45.PROXY
 ----------------------------------------
