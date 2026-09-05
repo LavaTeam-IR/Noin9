@@ -1,18 +1,7 @@
-آخرین آپدیت: 2026-09-05 05:28:24 UTC
+آخرین آپدیت: 2026-09-05 09:14:37 UTC
 کانال: @proxy_kafee
 ========================================
 
-[2026-09-03T08:17:00+00:00] (id:46174)
-🛑ناتوانی حکومت در کنترل بازار... 
-
-پروکسی✅
-
-tg://proxy?server=116.203.227.55&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
-
-tg://proxy?server=159.69.16.55&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
-
-✍ joker new
-----------------------------------------
 [2026-09-03T11:02:18+00:00] (id:46177)
 🔴 وزیر دفاع اسرائیل؛کاتس:
 
@@ -108,4 +97,13 @@ tg://proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f68cef86ba
 حتما آپدیت کنید از گوگل پلی ❤️‍🔥
 
 خطا retry داد ۴ الی ۵ بزنید روی retry وصل میشه 🌹
+----------------------------------------
+[2026-09-05T07:13:09+00:00] (id:46194)
+🛑ظاهراً آمریکا یه نفتکش ایرانی رو زده
+
+tg://proxy?server=212.74.39.170&port=8080&secret=vshsJGsgKdnhsKenbsYrbbxhdYsbdb2LanndgsfdhAAAAeee
+
+tg://proxy?server=216.203.20.121&port=8080&secret=vshsJGsgKdnhsKenbsYrbbxhdYsbdb2LanndgsfdhAAAAeee
+
+@proxy_kafee
 ----------------------------------------
