@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-09-05 15:37:01 UTC
+آخرین آپدیت: 2026-09-05 17:35:42 UTC
 کانال: @V2ray_Collector
 ========================================
 
@@ -17,4 +17,14 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.140:8443?sni=grape
 ----------------------------------------
 [2026-09-04T10:48:41+00:00] (id:1449)
 (بدون متن)
+----------------------------------------
+[2026-09-05T16:31:23+00:00] (id:1454)
+1 · 🇳🇱 Netherlands · Hysteria2
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.132:8443?sni=grape-turbo-fr.roxa.org#@V2ray_Collector
+
+📌 Save a second source before you need it. Join @OutlineReleasedKey for regular keys.
+
+🔸 Official source: @V2ray_Collector
+
+#FreeVPN #Proxy #V2Ray
 ----------------------------------------
