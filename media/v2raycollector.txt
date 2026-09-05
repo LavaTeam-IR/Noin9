@@ -1,69 +1,7 @@
-آخرین آپدیت: 2026-09-05 19:26:40 UTC
+آخرین آپدیت: 2026-09-05 21:29:55 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-09-05T07:33:33+00:00] (id:3356)
-📦 WhiteDNS Tools — Downloads
-━━━━━━━━━━━━━━━━━━
-📱 WhiteAesther
-• Mobile:
-https://github.com/WhiteDNS/WhiteAestherMobile/releases
-• Desktop:
-https://github.com/WhiteDNS/WhiteAesther/releases
-━━━━━━━━━━━━━━━━━━
-🛡 WhiteVPN
-• Mobile:
-https://github.com/WhiteDNS/WhiteVPN/releases
-• Desktop:
-https://github.com/WhiteDNS/WhiteVPN-Desktop/releases
-━━━━━━━━━━━━━━━━━━
-🌐 WhiteDNS — مناسب دوران قطعی
-• Android:
-https://github.com/WhiteDNS/WhiteDNS-Android/releases/tag/1.6.0
-• Desktop:
-https://github.com/WhiteDNS/WhiteDNS-Desktop/releases
-━━━━━━━━━━━━━━━━━━
-🔎 WhiteDNS Clean IP + Resolver Finder
-• Desktop & Mobile:
-https://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases
-━━━━━━━━━━━━━━━━━━
-🍎 CoreForge VPN + DNS — iOS
-• TestFlight:
-https://testflight.apple.com/join/DRkT6zny
-━━━━━━━━━━━━━━━━━━
-🎓 آموزش‌ها
-🔗 آموزش Exit Chain برای WhiteAesther و WhiteVPN
-https://youtu.be/yx-jFqv9pYM
-🛡 آموزش کامل WhiteVPN
-https://www.youtube.com/watch?v=tm0ls3r4ppw
-📱 آموزش کامل WhiteAesther
-https://www.youtube.com/watch?v=cRfqxbDY1Dg&t=1s
-🌐 آموزش کامل WhiteDNS
-https://www.youtube.com/watch?v=tz8cj7HzHVI
-🍎 آموزش کامل CoreForge
-https://www.youtube.com/watch?v=filwdiPKN90
-🔎 آموزش کامل اسکنر WhiteDNS
-https://www.youtube.com/watch?v=N5hKuWXp37w
-━━━━━━━━━━━━━━━━━━
-@whitedns
-
-·:¨༺ @BlueKnight_Net ༻¨:·
-----------------------------------------
-[2026-09-05T08:00:47+00:00] (id:3357)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/06/14
-🇬🇧 2026/09/05
-🕒 11:30:44
-
-🇸🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇨🇦 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇺🇸 ᴘʀᴏxʏ | 🇫🇷 ᴘʀᴏxʏ
-🇸🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇺🇸 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
 [2026-09-05T08:00:53+00:00] (id:3359)
 (بدون متن)
 ----------------------------------------
@@ -159,4 +97,20 @@ https://www.youtube.com/watch?v=N5hKuWXp37w
 🇫🇮 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ
 
 🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-05T20:00:50+00:00] (id:3376)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/06/14
+🇬🇧 2026/09/05
+🕒 23:30:47
+
+🇫🇮 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇷🇺 ᴘʀᴏxʏ | 🇨🇦 ᴘʀᴏxʏ | 🇨🇦 ᴘʀᴏxʏ | 🇨🇦 ᴘʀᴏxʏ
+🇳🇱 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-05T20:00:53+00:00] (id:3378)
+(بدون متن)
 ----------------------------------------
