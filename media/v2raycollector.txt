@@ -1,30 +1,7 @@
-آخرین آپدیت: 2026-09-06 05:30:29 UTC
+آخرین آپدیت: 2026-09-06 09:37:39 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-09-05T14:05:35+00:00] (id:3367)
-(بدون متن)
-----------------------------------------
-[2026-09-05T14:05:35+00:00] (id:3368)
-(بدون متن)
-----------------------------------------
-[2026-09-05T14:05:35+00:00] (id:3369)
-(بدون متن)
-----------------------------------------
-[2026-09-05T14:05:36+00:00] (id:3370)
-(بدون متن)
-----------------------------------------
-[2026-09-05T16:00:47+00:00] (id:3371)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/06/14
-🇬🇧 2026/09/05
-🕒 19:30:44
-
-🇷🇺 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
 [2026-09-05T16:00:54+00:00] (id:3373)
 (بدون متن)
 ----------------------------------------
@@ -117,4 +94,122 @@
 ----------------------------------------
 [2026-09-06T04:00:53+00:00] (id:3386)
 (بدون متن)
+----------------------------------------
+[2026-09-06T06:00:46+00:00] (id:3387)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/06/15
+🇬🇧 2026/09/06
+🕒 09:30:43
+
+🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-06T06:03:29+00:00] (id:3388)
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzMFugjAYAOB36XUmamfMasJBscBfZrVsSyq3QhkWHSAW
+Glj27vP+5ftFQ9E9TFOjzXKGWjXeGqXRBhUjc/kPWWSYD5kP
+a7hS8+6zKZUMpxLM0TB3rpnJcdmfMbFgnMlDMuqn5XsxfQvP
+QzP0MGWtbN8Vz/JAv3wQe7AXzj/wPVy3uXbz5NPJy0pMPAoD
+3i7qAdt0dyBBsBMCSqmzpov6Y0KpfBPZS0srBxArvkxP8eu2
+0jZScXUiQ0I99PcPV3lDdQ==
+-----END ARGO VPN BRIDGE BLOCK------
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzMFugjAAANB/6VUPwBCDCQeDrLRRTI1O5q2ldWttwVAp
+FrN/n/eX9wJO9FZ2LViFc3CnXneUgxUQHo+NSQMWVY7lKEG3
+Qm5zPF1qHF1qJPcSPzm8x/x8MMKg4TtKH0iOsoGp529fbch0
+JVkG5sDKn5Y+hl68211xyhEUbEkbVSXx2XaOVFCp0hLmiSa8
+F8Yw5WDSWqv4aS2Ldfh7XcDPcTn6spyCeDF4SjCr9dds89TH
+sHAfSmjXo7AJMvD3D93XRqA=
+-----END ARGO VPN BRIDGE BLOCK-----
+وصل نشد،کلیردیتا کنید بعد از پل استفاده کنید و اگه پل از کار افتاد یا وصل نشد ،از ربات پل اختصاصی بگیرید)
+
+@ArgoVPNbot
+
+حالت شبکه عمومی هم متصله
+
+﻿
+آخرین نسخه ارگو
+
+دانلود از گوگل پلی
+
+نحوه اتصال
+
+تنظیمات اولیه
+
+کایلا
+----------------------------------------
+[2026-09-06T08:00:49+00:00] (id:3389)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/06/15
+🇬🇧 2026/09/06
+🕒 11:30:46
+
+🇷🇺 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇸🇪 ᴘʀᴏxʏ | 🇨🇦 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ
+🇵🇭 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
+🇺🇸 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-06T08:00:53+00:00] (id:3391)
+(بدون متن)
+----------------------------------------
+[2026-09-06T08:06:01+00:00] (id:3392)
+Telegram Proxy
+
+https://t.me/proxy?server=my-iran.vingardium.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+https://t.me/proxy?server=bedo-bedo.ir.kjhsdjhads.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=bfesedv.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=my-iran.dinocol.co.uk.&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+https://t.me/proxy?server=Jet-motor.iran.proxy.ir.kkhfkasfhkasdx.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=mashti.just-money.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=iranian.billblog.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+https://t.me/proxy?server=ir.makkers.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+https://t.me/proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=for-iran.tryzub-it.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=eshkal-nadare.vasledada.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=195.201.216.142&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+https://t.me/proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=116.202.189.213&port=8443&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=qadim.zhigool.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+
+https://t.me/proxy?server=1.pugfhtrdyted.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=beer.crona-extra.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=evo.foriran.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=turk.dasy2k1.co.uk.&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+https://t.me/proxy?server=Stand-For-Iran.ir.mausjakaqd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=kurd.tryzub-it.co.uk.&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+https://t.me/proxy?server=rootssh2.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09
 ----------------------------------------
