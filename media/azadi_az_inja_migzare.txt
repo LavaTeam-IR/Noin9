@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-09-06 13:06:57 UTC
+آخرین آپدیت: 2026-09-06 16:12:34 UTC
 کانال: @azadi_az_inja_migzare
 ========================================
 
@@ -310,4 +310,10 @@ https://play.google.com/store/apps/details?id=io.nekohasekai.sfa&pcampaignid=web
 [2026-09-06T04:09:01+00:00] (id:10406)
 👑 More configs are coming .......🔹
 Stay tuned❗️
+----------------------------------------
+[2026-09-06T15:27:03+00:00] (id:10407)
+همگی اینو تست کنید با اخرین نسخه سینگ باکس
+همه جوره تست کنید با اپهای مختلفی که روزمره استفاده میکنید مثل اینستا ایکس هوش مصنوعی  یوتیوب و غیره
+
+https://raw.githubusercontent.com/JavidnamanIran-at-Telegram/sing-box_sub/refs/heads/main/test1.txt
 ----------------------------------------
