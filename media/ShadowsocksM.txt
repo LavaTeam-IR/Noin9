@@ -1,100 +1,7 @@
-آخرین آپدیت: 2026-09-06 00:56:32 UTC
+آخرین آپدیت: 2026-09-06 05:30:07 UTC
 کانال: @ShadowsocksM
 ========================================
 
-[2026-08-31T10:33:37+00:00] (id:15152)
-ساب لینک های قابل استفاده در اکثر کلاینت ها 
-
-4n0nymou3
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs_tested.txt#4n0nymou3
-arshiacomplus
-https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html#arshiacomplus
-roosterkid
-https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt#roosterkid
-Shadowmere
-https://shadowmere.xyz/api/b64sub#shadowmere
-ShadowException
-https://raw.githubusercontent.com/ShadowException/VPN/refs/heads/main/configs/VPN-cat#shadowexception
-zieng2
-https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt#zieng2
-v2freehub
-https://raw.githubusercontent.com/v2FreeHub/v2hub-configs/refs/heads/main/Sub-AutoUpdate#v2freehub
-prominbro
-https://raw.githubusercontent.com/prominbro/sub/refs/heads/main/212.txt#prominbro
-keyfreetee
-https://raw.githubusercontent.com/free1zona/Keyfreetee/refs/heads/main/razlo4ka7#keyfreetee
-Igareck 
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt#igareck
-Proxy collector
-https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt#Proxy Collector
-harvester
-https://raw.githubusercontent.com/luxxuria/harvester/main/speed_tested.txt#harvester
-Ln2Ray 
-https://raw.githubusercontent.com/IranianCypherpunks/Xray/main/Sub#Ln2Ray
-JavidnamanIran
-https://raw.githubusercontent.com/JavidnamanIran-at-Telegram/x-ray_sub/refs/heads/main/x-ray_sub.txt#JavidnamanIran
-─────────────────
-ساب لینک های سینگ باکس 
-
-4n0nymou3
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs_tested.json#4n0nymou3
-Kevin Zakarian 
-https://free1.vpny.net:2096/sub/Kevin-US-KAN?format=json
-Kevin Zakarian
-https://free2.vpny.net:2096/sub/Kevin-US-NYC?format=jso﻿n
-JavidnamanIran
-https://raw.githubusercontent.com/JavidnamanIran-at-Telegram/sing-box_sub/refs/heads/main/sing-box_sub.txt#JavidnamanIran
-─────────────────
-ساب لینک های کلش
-
-4n0nymou3
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/clash_configs_tested.yaml#4n0nymou3
-10ium
-https://raw.githubusercontent.com/10ium/free-config/refs/heads/main/free-mihomo-sub/Multi__Country__RulePlus.yaml
-─────────────────
-فرگمنت-فینگرپرینت قابل استفاده در کلاینت 
-PattN💻   ,   PattNG 📱
-Patterniha
-https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt#patterniha
-─────────────────
-سرورلس (دی ان اس برای یوتیوب و...)
-
-Patterniha
-https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main/Subscription/Serverless-for-Iran.json#Patterniha
-GFW-Slayer
-https://raw.githubusercontent.com/voidr3aper-anon/GFW-slayer/main/configs/regional/iran/serverless-iran-friendly.json#GFW-Slayer
-─────────────────
-کانفیگ با لوکیشن دلخواه
-
-https://arshiacomplus.github.io/V2rayExtractor-page/
-
-https://fa.v2nodes.com
-
-https://shadowmere.xyz/
-
-https://openproxylist.com
-----------------------------------------
-[2026-08-31T15:23:04+00:00] (id:15153)
-یکی از جدید ترین vpn ها 
-سرعت عالی 
-مناسب تلگرام و اینستاگرام و وب گردی
-گیت هاب پروژه 👇👇
-
-https://github.com/mbm110/MSN-GUARD
-----------------------------------------
-[2026-08-31T16:09:40+00:00] (id:15154)
-گوشی های جدید
-----------------------------------------
-[2026-08-31T16:12:00+00:00] (id:15156)
-پروژه FCAE VPN یک کلاینت VPN مبتنی بر Aether است که به‌صورت خودکار مسیرهای قابل اتصال به شبکه WARP کلودفلر را پیدا میکند و یک تونل رمزنگاری‌شده ایجاد میکند.
-
-از MASQUE، WireGuard و WARP-in-WARP پشتیبانی میکند و برای Windows، Linux، macOS و Android رابط گرافیکی دارد.
-
-https://github.com/FCFlenkchy/FCAE_VPN
-----------------------------------------
-[2026-08-31T16:12:00+00:00] (id:15157)
-(بدون متن)
-----------------------------------------
 [2026-08-31T16:12:00+00:00] (id:15158)
 (بدون متن)
 ----------------------------------------
@@ -207,5 +114,54 @@ https://youtu.be/ibLRpv_luj4
 و کلی آپشن خفن دیگه ✅️
 ----------------------------------------
 [2026-09-05T19:10:38+00:00] (id:15171)
+(بدون متن)
+----------------------------------------
+[2026-09-06T03:58:18+00:00] (id:15172)
+فیلترشکن متن‌باز و رایگان دیفیکس اطلاع‌رسانی کرده که امکان تغییر زبان رو در گزینه Diagnostics & Experiments مربوط به بخش "ترجیحات" این‌برنامه قرار داده و حالا کاربرانی که به چینی، روسی و فارسی صحبت می‌کنن، می‌تونن DefyxVPN رو به زبان مورد نظرشون تغییر بدن.
+البته این‌بروزرسانی بصورت آزمایشی از طریق گیت‌هاب در دسترسه و بزودی از طریق استور هم در دسترس قرار می‌گیره.
+
+👉 github.com/UnboundTechCo/defyxVPN/releases
+----------------------------------------
+[2026-09-06T03:58:18+00:00] (id:15173)
+(بدون متن)
+----------------------------------------
+[2026-09-06T04:11:04+00:00] (id:15174)
+پروژه FCAE VPN یک کلاینت VPN مبتنی بر Aether است که به‌صورت خودکار مسیرهای قابل اتصال به شبکه WARP کلودفلر را پیدا میکند و یک تونل رمزنگاری‌شده ایجاد میکند.
+
+از MASQUE، WireGuard و WARP-in-WARP پشتیبانی میکند و برای Windows، Linux، macOS و Android رابط گرافیکی دارد.
+
+https://github.com/FCFlenkchy/FCAE_VPN
+----------------------------------------
+[2026-09-06T04:11:04+00:00] (id:15175)
+FCAE VPN v1.2.9
+----------------------------------------
+[2026-09-06T04:40:36+00:00] (id:15176)
+📦 NekoBox+ v1.4.2-93 منتشر شد
+
+نسخه جدید NekoBox+ با مجموعه‌ای از اصلاحات در بخش XHTTP، OpenVPN، Routing، TUN و رابط کاربری منتشر شد.
+
+🔹 به‌روزرسانی XHTTP
+پچ‌ها و اصلاحات جدید XHTTP که توسط Starifly انجام شده، به این نسخه منتقل شده‌اند.
+
+🔹 رفع مشکل اجرای OpenVPN
+مشکل Startup در برخی پروفایل‌های OpenVPN برطرف شده است.
+
+🔹 اصلاح Routing و DNS Rule
+مشکلی که در آن قرار گرفتن شرط‌های Domain و IP در یک Rule مسیریابی باعث غیرفعال شدن DNS Rule می‌شد، برطرف شده است.
+
+🔹 بهبود مدیریت TUN
+در هنگام Reconnect یا تغییر پروفایل، رابط TUN دیگر بی‌دلیل از ابتدا ایجاد نمی‌شود؛ این تغییر می‌تواند روند جابه‌جایی بین پروفایل‌ها و اتصال مجدد را روان‌تر کند.
+
+🔹 رفع مشکلات رابط کاربری
+چندین باگ و ایراد جزئی در UI برطرف شده است.
+
+🔹 به‌روزرسانی Go
+نسخه مورد استفاده از زبان/Runtime Go نیز به نسخه جدیدتر ارتقا پیدا کرده است.
+
+🛠️ این نسخه بیشتر روی پایداری، مدیریت TUN، Routing و رفع باگ‌های نسخه‌های قبلی تمرکز دارد.
+
+ #NekoBoxPlus
+----------------------------------------
+[2026-09-06T04:41:00+00:00] (id:15177)
 (بدون متن)
 ----------------------------------------
