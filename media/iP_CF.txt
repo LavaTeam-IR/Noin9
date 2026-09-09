@@ -1,16 +1,7 @@
-آخرین آپدیت: 2026-09-09 13:50:20 UTC
+آخرین آپدیت: 2026-09-09 17:21:31 UTC
 کانال: @iP_CF
 ========================================
 
-[2026-09-05T17:57:48+00:00] (id:11248)
-V2rayNG Android Version: 2.3.7
-----------------------------------------
-[2026-09-06T09:16:40+00:00] (id:11254)
-(بدون متن)
-----------------------------------------
-[2026-09-06T09:17:43+00:00] (id:11255)
-(بدون متن)
-----------------------------------------
 [2026-09-06T09:17:51+00:00] (id:11256)
 📦 NekoBox+ v1.4.2-93 منتشر شد
 
@@ -129,4 +120,129 @@ GIVE2026
 
 🤍  More : @IP_CF
 🤍  Group : @IP_CF_GROUP
+----------------------------------------
+[2026-09-09T14:22:15+00:00] (id:11271)
+(بدون متن)
+----------------------------------------
+[2026-09-09T14:23:10+00:00] (id:11272)
+لیست بروز شده کلاینت‌های اجرا کننده  V2Ray  ,  Sing box , Clash و ....
+
+🤖   Android
+
+- - -   Mihomo (YAML)
+
+▫️  BettBox
+▫️  FlClash
+▫️  FlClashX
+▫️  Clash Mi
+▫️  Clash Meta
+- - - - - - - - - - - - - - -
+▫️  SKIPI
+▫️  PattNG
+▫️  LxBox
+▫️  Etonify
+
+▫️  v2rayV
+▫️  v2rayNG
+▫️  v2RayTun
+
+▫️  INCY
+▫️  Karing
+▫️  Exclave
+▫️  Hiddify
+▫️  Husi
+▫️  Happ
+▫️  Olcng
+▫️  TeapodStream
+▫️  WINGSV  —  Samsung One UI
+▫️  Oblivion
+
+🍏   iOS
+
+▫️  Happ Global
+▫️  Happ Rus
+▫️  Shadowrocket
+▫️  Nyanpasu
+▫️  Stash
+▫️  INCY
+▫️  Karing
+▫️  V2Box
+▫️  v2RayTun
+▫️  Streisand
+▫️  NpvTunnel
+▫️  Hiddify
+▫️  FlClash
+▫️  FlClashX
+▫️  Clash Mi
+▫️  Throne
+▫️  Oblivion
+
+💻   Windows
+
+▫️  Ninety
+▫️  BettBox
+
+▫️  Clash Verge Rev
+▫️  SlothClash
+▫️  Koala Clash
+▫️  FlClash
+▫️  FlClashX
+▫️  Clash Mi
+▫️  Clash Party
+
+▫️  v2RayN
+▫️  v2RayTun
+
+▫️  Happ
+▫️  INCY
+▫️  Karing
+▫️  Hiddify
+▫️  Nyanpasu
+▫️  MEMENTO
+▫️  Nekoray
+▫️  Nekoray  —  Win7
+▫️  Throne
+▫️  Oblivion
+▫️  VeilBox
+
+💻   MacOS
+
+▫️  BettBox
+▫️  Clash Verge Rev
+▫️  SlothClash
+▫️  Koala Clash
+▫️  FlClash
+▫️  FlClashX
+▫️  Clash Mi
+▫️  Nyanpasu
+▫️  INCY
+▫️  Karing
+▫️  Happ
+▫️  v2RayN
+▫️  v2RayTun
+▫️  Hiddify  —  MacOS Intel
+▫️  Hiddify  —  MacOS M1
+▫️  Streisand  —  MacOS M1
+▫️  Nekoray
+▫️  Oblivion
+----------------------------------------
+[2026-09-09T14:24:00+00:00] (id:11273)
+لیست بروز شده کلاینت‌های اجرا کننده  V2Ray  ,  Sing box , Clash و ....   🤖   Android  - - -   Mihomo (YAML)  ▫️  BettBox ▫️  FlClash ▫️  FlClashX ▫️  Clash Mi ▫️  Clash Meta - - - - - - - - - - - - - - - ▫️  SKIPI ▫️  PattNG ▫️  LxBox ▫️  Etonify  ▫️  v2rayV…
+----------------------------------------
+[2026-09-09T16:01:00+00:00] (id:11274)
+(بدون متن)
+----------------------------------------
+[2026-09-09T16:02:29+00:00] (id:11275)
+1.PROXY 2.PROXY 3.PROXY
+4.PROXY 5.PROXY 6.PROXY
+7.PROXY 8.PROXY 9.PROXY
+10.PROXY11.PROXY12.PROXY
+13.PROXY14.PROXY15.PROXY
+16.PROXY17.PROXY18.PROXY
+19.PROXY20.PROXY21.PROXY
+22.PROXY23.PROXY24.PROXY
+25.PROXY26.PROXY27.PROXY
+28.PROXY29.PROXY30.PROXY
+
+⚡️ پروکسی تلگرام متصل باهمه اپراتورها
 ----------------------------------------
