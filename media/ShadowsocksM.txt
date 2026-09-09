@@ -1,13 +1,7 @@
-آخرین آپدیت: 2026-09-09 09:26:59 UTC
+آخرین آپدیت: 2026-09-09 13:50:00 UTC
 کانال: @ShadowsocksM
 ========================================
 
-[2026-09-06T03:58:18+00:00] (id:15172)
-فیلترشکن متن‌باز و رایگان دیفیکس اطلاع‌رسانی کرده که امکان تغییر زبان رو در گزینه Diagnostics & Experiments مربوط به بخش "ترجیحات" این‌برنامه قرار داده و حالا کاربرانی که به چینی، روسی و فارسی صحبت می‌کنن، می‌تونن DefyxVPN رو به زبان مورد نظرشون تغییر بدن.
-البته این‌بروزرسانی بصورت آزمایشی از طریق گیت‌هاب در دسترسه و بزودی از طریق استور هم در دسترس قرار می‌گیره.
-
-👉 github.com/UnboundTechCo/defyxVPN/releases
-----------------------------------------
 [2026-09-06T03:58:18+00:00] (id:15173)
 (بدون متن)
 ----------------------------------------
@@ -123,4 +117,15 @@ Oblivion
 ----------------------------------------
 [2026-09-08T20:14:03+00:00] (id:15191)
 Gool
+----------------------------------------
+[2026-09-09T13:37:55+00:00] (id:15192)
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eNoNzNsOgiAAANB/4bW2yG6zrQdvFUxD5lrlfAGlAhErzWatf6/3s/MBnXg0sjZg
+OR6CG+t1zQqwBKLHr7yyIbd2HffQHJWBDD38To/YSo9IEokNn2iVV+sqrP4mQQ0y
+bpcbKomiMJrAFRiCRl4Ma58P8S+j4OQh6uNspItpcr1nowu1sYLJmJ1DwTUJYNHH
+tt8mFDuWUEYdXujqEJqXZDrobou4VLUbNZC1Myol5Pt6v42D3p0X3NUbx0rB9wfx
+H0Rg
+-----END ARGO VPN BRIDGE BLOCK-----
+
+پل متصل و پر سرعت
 ----------------------------------------

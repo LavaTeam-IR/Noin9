@@ -1,164 +1,7 @@
-آخرین آپدیت: 2026-09-09 09:27:27 UTC
+آخرین آپدیت: 2026-09-09 13:50:22 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-09-08T16:01:02+00:00] (id:3468)
-(بدون متن)
-----------------------------------------
-[2026-09-08T16:51:03+00:00] (id:3469)
-Telegram Proxy
-
-https://t.me/proxy?server=mt.best-moz.info&port=25565&secret=dd79e344818749bd7ac519130220c25d09
-
-https://t.me/proxy?server=jadid.zhigool.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=Hamrah.mci.ir.pugfhtrdyted.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=kurd.tryzub-it.co.uk.&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-
-https://t.me/proxy?server=mashti.just-money.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=idiot.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=116.202.189.213&port=8443&secret=dd79e344818749bd7ac519130220c25d09
-
-https://t.me/proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=reyhoon.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=naro.guguli.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=my-iran.vingardium.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-
-https://t.me/proxy?server=qadim.zhigool.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=rootssh2.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09
-
-https://t.me/proxy?server=for-iran.tryzub-it.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-
-https://t.me/proxy?server=ir.esdata.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-
-https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=1.pugfhtrdyted.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=beer.crona-extra.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=bala.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-
-https://t.me/proxy?server=185.84.156.45&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7
-
-https://t.me/proxy?server=khazar.sea.ir.pugfhtrdyted.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=Strait-of-Hormuz.ir.jursdheks.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=ir.makkers.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-
-https://t.me/proxy?server=ir.grumpyoldmen.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-
-https://t.me/proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=eshkal-nadare.vasledada.info&port=8443&secret=1603010200010001fc030386e24c3add
-
-https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=iranian.billblog.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-
-https://t.me/proxy?server=195.201.216.142&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-
-https://t.me/proxy?server=turk.dasy2k1.co.uk.&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-
-https://t.me/proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09
-
-https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=persian.gulf.ir.olsjddhf.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-----------------------------------------
-[2026-09-08T20:00:59+00:00] (id:3471)
-(بدون متن)
-----------------------------------------
-[2026-09-08T20:13:24+00:00] (id:3472)
-بلاخره آپدیت کلاینت منتشر شد.
-
-هسته شو تغییر دادم و Aether‌ آوردیم.
-MASQUE H3/H2
-Warp/gool
-پشتیبانی می‌کنه قابلیت Chain هم داره با سایفون.
-برای شرایط سخت خیلی کار شده که راحت متصل بشید
-(حالت اسکن و Obfuscation رو تغییر بدید)
-
-نزدیک یکی دو ماه فقط توسعش طول کشید :))
-
-- و سایفون فورک خودم direct (مستقیم) + cdn fronting هم داره مانند کلاینت شیر و خورشید.
-
-کاملا بازنویسی شده و برای دسکتاپ هم تستشو انجام بدیم ریلیز میکنیم. 🙏❤️
-
-https://github.com/bepass-org/oblivion/releases/tag/v8
-گوگل پلی:
-https://play.google.com/store/apps/details?id=org.bepass.oblivion
-(ممکنه هنوز آپدیت اعمال نشده باشه پس بهتره از گیت هاب دانلود کنید)
-
-کسایی که منتظر اپ بودن از این استفاده کنید. تا حد ممکن ساده نگه داشتیم راحت باشید.
-----------------------------------------
-[2026-09-08T22:00:51+00:00] (id:3473)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/06/18
-🇬🇧 2026/09/09
-🕒 01:30:48
-
-🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇵🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇬🇧 ᴘʀᴏxʏ
-🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇹🇷 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-09-09T00:00:51+00:00] (id:3474)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/06/18
-🇬🇧 2026/09/09
-🕒 03:30:48
-
-🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇫🇮 ᴘʀᴏxʏ | 🇬🇧 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇨🇦 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-09-09T00:01:00+00:00] (id:3476)
-(بدون متن)
-----------------------------------------
-[2026-09-09T02:01:09+00:00] (id:3477)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/06/18
-🇬🇧 2026/09/09
-🕒 05:31:06
-
-🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-09-09T04:00:38+00:00] (id:3478)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/06/18
-🇬🇧 2026/09/09
-🕒 07:30:35
-
-🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
 [2026-09-09T04:00:59+00:00] (id:3480)
 (بدون متن)
 ----------------------------------------
@@ -257,4 +100,73 @@ Simurgh Extension
 
 کانال تلگرام : My GitHub
 لینک دانلود : firefox - Google Chrome
+----------------------------------------
+[2026-09-09T09:53:52+00:00] (id:3487)
+(بدون متن)
+----------------------------------------
+[2026-09-09T09:54:01+00:00] (id:3488)
+233
+----------------------------------------
+[2026-09-09T09:57:50+00:00] (id:3489)
+(بدون متن)
+----------------------------------------
+[2026-09-09T10:00:10+00:00] (id:3490)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/06/18
+🇬🇧 2026/09/09
+🕒 13:30:07
+
+🇷🇺 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇬🇧 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-09T12:00:10+00:00] (id:3492)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/06/18
+🇬🇧 2026/09/09
+🕒 15:30:06
+
+🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇵🇱 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
+🇵🇱 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇳🇱 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-09T12:01:00+00:00] (id:3494)
+(بدون متن)
+----------------------------------------
+[2026-09-09T12:34:24+00:00] (id:3495)
+(بدون متن)
+----------------------------------------
+[2026-09-09T12:34:25+00:00] (id:3496)
+(بدون متن)
+----------------------------------------
+[2026-09-09T12:34:25+00:00] (id:3497)
+(بدون متن)
+----------------------------------------
+[2026-09-09T13:38:02+00:00] (id:3498)
+🚀 آموزش کامل NotebookLM در فقط ۸ دقیقه! 🤯
+اگه دنبال یه ابزار هوش مصنوعی هستی که بتونه برای مقاله، تحقیق، پروژه و مطالعه کمکت کنه، این ویدیو رو از دست نده! 🔥
+توی این آموزش از صفر تا صد NotebookLM رو بررسی کردم و در کمتر از ۸ دقیقه مهم‌ترین قابلیت‌هاش رو یاد می‌گیریم؛ از وارد کردن منابع و تحلیل اطلاعات گرفته تا قابلیت‌های جذاب هوش مصنوعی برای کار با مطالب.
+📚 مناسب برای:
+▫️ دانشجوها
+▫️ مقاله‌نویسی و تحقیق
+▫️ انجام پروژه
+▫️ مطالعه و خلاصه‌سازی
+▫️ کار با منابع و فایل‌ها
+⏱️ فقط ۸ دقیقه وقت بذار و NotebookLM رو کامل یاد بگیر!
+🎬 ویدیو جدید موب آموز:
+👇👇👇
+https://youtu.be/mOe9dtFmB44
+https://youtu.be/mOe9dtFmB44
+
+لطفا لایک فراموش نشه اگر گزینه HYPE رو زیر ویدیو دید یادتون نره که روش کلیک کنید ! 😘
+
+@mobamoz_Channel 💋
 ----------------------------------------
