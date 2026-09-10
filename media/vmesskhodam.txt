@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-09-10 17:09:02 UTC
+آخرین آپدیت: 2026-09-10 19:40:29 UTC
 کانال: @vmesskhodam
 ========================================
 
@@ -8,4 +8,18 @@ hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?secu
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#%40vmesskhodam
 
 🤍@vmesskhodam
+----------------------------------------
+[2026-09-10T19:04:01+00:00] (id:10500)
+tg://proxy?server=reyhoon.shambelile.co.uk&port=8443&secret=104462821249bd7ac519130220c25d09
+
+tg://proxy?server=km.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=64.111.92.112&port=8080&secret=vshsJGsgKdnhsKenbsYrbbxhdYsbdb2LanndgsfdhAAAAeeeddeeddee
+
+https://t.me/proxy?server=teranhavaei.charkhofalak.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
+
+https://t.me/proxy?server=ir.engematica.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+
+tg://proxy?server=8992.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+🤍﻿@vmesskhodam
 ----------------------------------------
