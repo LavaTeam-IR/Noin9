@@ -1,14 +1,7 @@
-آخرین آپدیت: 2026-09-11 06:20:15 UTC
+آخرین آپدیت: 2026-09-11 11:33:29 UTC
 کانال: @vmessorg
 ========================================
 
-[2026-08-26T21:27:34+00:00] (id:9734)
-hysteria2://mdq80x0xv9wt7520@giftcard.gateway-stream.com:52046?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#dc-udp-%F0%9F%87%AF%F0%9F%87%B5%20Japan-Tokyo
-
-hysteria2://mdq80x0xv9wt7520@giftcard.gateway-stream.com:52050?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#dc-udp-%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-Amsterdam
-
-hysteria2://mdq80x0xv9wt7520@giftcard.gateway-stream.com:52001?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#dc-udp-%F0%9F%87%A6%F0%9F%87%B7%20Argentina-Buenos%20Aires
-----------------------------------------
 [2026-08-27T11:09:38+00:00] (id:9735)
 hysteria2://zvxywxoorgqk3fzb@giftcard.gateway-stream.com:52000?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#dc-udp-%F0%9F%87%A6%F0%9F%87%B1%20Albania-Tirana
 
@@ -216,6 +209,22 @@ Location: 🇩🇪🇳🇱
 📱 Channel: @Vmessorg 💠
 ----------------------------------------
 [2026-09-09T11:06:44+00:00] (id:9764)
+📌 تمام اپراتور ها
+
+🛡 4 کانفیگ فول پرسرعت ویژه دانلود و وب گردی
+
+Protocol : 🛜
+
+Location: 🇩🇪
+
+💠آموزش استفاده برای اندروید: لینک
+💠آموزش استفاده برای آیفون: لینک
+💻 دانلود از پلی استور: لینک
+📱 دانلود از اپ استور: لینک
+
+📱 Channel: @Vmessorg 💠
+----------------------------------------
+[2026-09-11T11:20:00+00:00] (id:9765)
 📌 تمام اپراتور ها
 
 🛡 4 کانفیگ فول پرسرعت ویژه دانلود و وب گردی
