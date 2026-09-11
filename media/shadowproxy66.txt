@@ -1,27 +1,7 @@
-آخرین آپدیت: 2026-09-11 21:13:28 UTC
+آخرین آپدیت: 2026-09-11 23:17:07 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-09-10T08:41:55+00:00] (id:17021)
-FlClash v0.8.97
-نسخه جدید کلاینت
-
-لینک دانلود از وبسایت
-https://flclash.cc/en/download
-لینک دانلود از گیتهاب
-https://github.com/chen08209/FlClash/releases/tag/v0.8.97
-تغییرات:
-Features
-• Rework the app UI and refresh the localization
-• Rework the app layer and window handling, and add proxy authentication
-• Rework the desktop runners, packaging, and native build
-• Rework the Android VPN service and lifecycle handling
-• Rework the desktop plugins and add the Helper service and Rust bridge
-• Rework the core IPC and process lifecycle
-آموزش استفاده
-آموزش ساخت لینک ساب
-🫆 @ShadowProxy66
-----------------------------------------
 [2026-09-10T08:45:11+00:00] (id:17031)
 (بدون متن)
 ----------------------------------------
@@ -113,4 +93,7 @@ PattNG_2.3.8-P45 Android
 🔁بقیه اپراتورها خودشون تست کنند
 🪧(فایل رو باز کنید محتویات رو کپی کنید و در کلاینت مورد نظر پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید اگه وصل نشد کلاینتهای دیگه تست کنید)
 🔅@ShadowProxy66
+----------------------------------------
+[2026-09-11T21:15:21+00:00] (id:17051)
+https://t.me/ShadowProxy66
 ----------------------------------------
