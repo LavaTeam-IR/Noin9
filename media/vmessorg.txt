@@ -1,16 +1,7 @@
-آخرین آپدیت: 2026-09-11 18:31:46 UTC
+آخرین آپدیت: 2026-09-11 21:13:41 UTC
 کانال: @vmessorg
 ========================================
 
-[2026-08-27T11:09:38+00:00] (id:9735)
-hysteria2://zvxywxoorgqk3fzb@giftcard.gateway-stream.com:52000?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#dc-udp-%F0%9F%87%A6%F0%9F%87%B1%20Albania-Tirana
-
-hysteria2://zvxywxoorgqk3fzb@giftcard.gateway-stream.com:52001?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#dc-udp-%F0%9F%87%A6%F0%9F%87%B7%20Argentina-Buenos%20Aires
-
-hysteria2://zvxywxoorgqk3fzb@giftcard.gateway-stream.com:52008?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#dc-udp-%F0%9F%87%A7%F0%9F%87%AA%20Belgium-Brussels
-
-hysteria2://zvxywxoorgqk3fzb@giftcard.gateway-stream.com:52019?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#dc-udp-%F0%9F%87%A8%F0%9F%87%BE%20Cyprus-Nicosia
-----------------------------------------
 [2026-08-27T17:36:34+00:00] (id:9737)
 📌 تمام اپراتور ها
 
@@ -228,6 +219,22 @@ Location: 🇩🇪
 📌 تمام اپراتور ها
 
 🛡 4 کانفیگ فول پرسرعت ویژه دانلود و وب گردی
+
+Protocol : 🛜
+
+Location: 🇩🇪
+
+💠آموزش استفاده برای اندروید: لینک
+💠آموزش استفاده برای آیفون: لینک
+💻 دانلود از پلی استور: لینک
+📱 دانلود از اپ استور: لینک
+
+📱 Channel: @Vmessorg 💠
+----------------------------------------
+[2026-09-11T20:50:45+00:00] (id:9766)
+📌 تمام اپراتور ها
+
+🛡 کانفیگ فول پرسرعت ویژه دانلود و وب گردی
 
 Protocol : 🛜
 
