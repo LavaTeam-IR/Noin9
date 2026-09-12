@@ -1,74 +1,7 @@
-آخرین آپدیت: 2026-09-12 13:07:48 UTC
+آخرین آپدیت: 2026-09-12 16:16:22 UTC
 کانال: @Network_442
 ========================================
 
-[2026-08-31T16:53:25+00:00] (id:18156)
-Server.intra👇
-
-برای وارد کردن دی‌ان‌اس ابتدا به بخش تنظیمات بروید. سپس گزینه SELECT DNS OVER HTTPS SERVER را انتخاب کنید. صفحه دیگری برای شما باز می‌شود و در دومین بخش یعنی CUSTOM SERVER URL آدرس دی‌ان‌اس را وارد کنید. 
-
-دی‌ان‌اس‌های پیشنهادی برای ایرانسل
-https://ipv4-zepto-mci-1.edge.nextdns.io/dns-query
-https://dns.controld.com/
-https://170.176.145.150/
-https://zepto-sto-1.edge.nextdns.io
-https://nsc.torgues.net/dns-query
-https://jp-kix2.doh.sb/
-https://ipv4-zepto-mci-1.edge.nextdns.io/
-https://zepto-sto-1.edge.nextdns.io/
-https://dns.gi.co.id/dns-query
-https://xmission-slc-1.edge.nextdns.io/dns-query
-
-دی‌ان‌اس‌های پیشنهادی برای همراه اول و مخابرات
-https://xtom-osa-1.edge.nextdns.io/
-https://dns.aa.net.uk/dns-query
-https://nsc.torgues.net/
-https://xmission-slc-1.edge.nextdns.io/dns-query
-https://xtom-osa-1.edge.nextdns.io/dns-query
-https://cloudflare-dns.com/dns-query
-https://170.176.145.150/
-https://dns.gi.co.id/dns-query
-https://dns.google/dns-query
-https://dns.melalandia.tk/dns-query
-
-دی‌ان‌اس‌های پیشنهادی برای رایتل
-https://dns.quad9.net/dns-query
-https://ipv4-zepto-mci-1.edge.nextdns.io/dns-query
-https://170.176.145.150/
-https://jp-kix2.doh.sb/
-https://zepto-sto-1.edge.nextdns.io
-https://res-acst3.absolight.net/
-https://dns.melalandia.tk/dns-query
-https://cloudflare-dns.com/dns-query
-https://xtom-osa-1.edge.nextdns.io/
-https://dns.aa.net.uk/dns-query
-
-@Network_442
-----------------------------------------
-[2026-08-31T16:53:25+00:00] (id:18157)
-Check out "Intra"
-https://play.google.com/store/apps/details?id=app.intra
-
-@Network_442
-----------------------------------------
-[2026-08-31T16:53:25+00:00] (id:18158)
-کد سرویس  intra  روش قرار دادن پست بعدی 
-
-🇬🇧
-
-https://uk-lon.doh.sb/dns-query
-
- 
-🇩🇪
-
-https://de-dus.doh.sb/dns-query
-
-🇸🇬
-
-https://sg-sin.doh.sb/dns-query
-
-@Network_442
-----------------------------------------
 [2026-08-31T16:53:25+00:00] (id:18159)
 کد سرویس  intra  روش قرار دادن پست بعدی 
 
@@ -141,4 +74,10 @@ Channel photo updated
 ----------------------------------------
 [2026-09-11T12:12:26+00:00] (id:18176)
 اگر در برنامه ویندسکرایب رو لوکیشن بهترین منطقه جوابگو نبود یکی از کشورهارو اتصال بگیرید و از سرعت مناسب نهایت استفاده را ببرید 😜🛸 🌎    @Network_442
+----------------------------------------
+[2026-09-12T15:52:52+00:00] (id:18177)
+یه مانوری رو وایگارد دوباره بریم اگر سرعت اوکی داد و اتصال موفق براتون اشتراک میذاریم حتما
+----------------------------------------
+[2026-09-12T16:02:59+00:00] (id:18178)
+(بدون متن)
 ----------------------------------------
