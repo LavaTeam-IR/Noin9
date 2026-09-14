@@ -1,7 +1,17 @@
-آخرین آپدیت: 2026-09-14 13:40:04 UTC
+آخرین آپدیت: 2026-09-14 18:52:44 UTC
 کانال: @V2ray_Collector
 ========================================
 
 [2026-09-10T10:46:59+00:00] (id:1471)
 (بدون متن)
+----------------------------------------
+[2026-09-14T16:31:22+00:00] (id:1486)
+1 · 🇩🇪 Germany · Hysteria2
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443?insecure=1&security=tls&sni=hopp-germany-new.ddnsguru.com#@V2ray_Collector
+
+⚙️ Different networks need different routes. Explore more configs in @OutlineReleasedKey.
+
+🔸 Official source: @V2ray_Collector
+
+#FreeVPN #Proxy #V2Ray
 ----------------------------------------
