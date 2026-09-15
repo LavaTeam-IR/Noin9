@@ -1,10 +1,7 @@
-آخرین آپدیت: 2026-09-15 10:10:28 UTC
+آخرین آپدیت: 2026-09-15 15:00:08 UTC
 کانال: @V2ray_Collector
 ========================================
 
-[2026-09-10T10:46:59+00:00] (id:1471)
-(بدون متن)
-----------------------------------------
 [2026-09-14T16:31:22+00:00] (id:1486)
 1 · 🇩🇪 Germany · Hysteria2
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443?insecure=1&security=tls&sni=hopp-germany-new.ddnsguru.com#@V2ray_Collector
@@ -14,4 +11,18 @@ hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443?insecure=1&s
 🔸 Official source: @V2ray_Collector
 
 #FreeVPN #Proxy #V2Ray
+----------------------------------------
+[2026-09-15T10:47:38+00:00] (id:1489)
+(بدون متن)
+----------------------------------------
+[2026-09-15T12:32:55+00:00] (id:1491)
+⚠️ COMMUNITY DROP correction
+
+We got this one wrong — 🇩🇪 Germany actually won the vote with 78% (7 votes).
+
+We mistakenly published 🇳🇱 Netherlands instead.
+
+Sorry about that ❤️
+
+Here are the 3 Germany configs you actually voted for 👇
 ----------------------------------------
