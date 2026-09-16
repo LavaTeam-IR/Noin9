@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-09-16 06:51:15 UTC
+آخرین آپدیت: 2026-09-16 12:14:15 UTC
 کانال: @V2ray_Collector
 ========================================
 
@@ -25,4 +25,25 @@ We mistakenly published 🇳🇱 Netherlands instead.
 Sorry about that ❤️
 
 Here are the 3 Germany configs you actually voted for 👇
+----------------------------------------
+[2026-09-16T10:49:05+00:00] (id:1495)
+(بدون متن)
+----------------------------------------
+[2026-09-16T11:52:14+00:00] (id:1496)
+🏆 COMMUNITY DROP
+
+Hysteria2 won · 50% · 4 votes
+
+1 · 🇩🇪 Germany · Hysteria2
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443/?sni=hopp-germany-new.ddnsguru.com#@V2ray_Collector
+
+2 · 🇷🇴 Romania · Hysteria2
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?sni=hopp-romania-new.roxa.org&insecure=0#@V2ray_Collector
+
+3 · 🇷🇺 Russian Federation · Hysteria2
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?__rand=0ecd69ef&nonce=tD8kF12l&nonce=iUDyoHCM&freeinternet=kizyak_vpn1789083500465&__rand=a18e9b5a&_t=75d6f8a3&descriptions=_3c5078&freeinternet=kizyak_vpn1789127837636&burmalda=64213e9e&seq=you_are_beautiful0331&burmalda=e38d0808&_t=1cbf46ff&seq=you_are_beautiful8266&descriptions=_99b604&up-mbps=0&insecure=false&burmalda=ddc45f42&_t=79bb8b6d&__rand=3917c39b&burmalda=fddc9090&_t=edac7201&__rand=18b36c69&descriptions=_a903fa&seq=you_are_beautiful3866&burmalda=fc34551f&_t=fbf5ff61&freeinternet=kizyak_vpn1789063501328&__rand=4a7809f0&descriptions=_ff2ce9&descriptions=_4b801f&_t=326bee45#@V2ray_Collector
+
+🔸 Official source: @V2ray_Collector
+
+#FreeVPN #Proxy #V2Ray
 ----------------------------------------
