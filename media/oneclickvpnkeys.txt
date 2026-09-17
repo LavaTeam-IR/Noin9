@@ -1,16 +1,7 @@
-آخرین آپدیت: 2026-09-17 10:22:11 UTC
+آخرین آپدیت: 2026-09-17 15:07:01 UTC
 کانال: @oneclickvpnkeys
 ========================================
 
-[2026-09-16T15:35:33+00:00] (id:26647)
-🇮🇷 File for app:
-
-➡️ Singbox (Android)
-➡️ Singbox (iOS)
-➡️ Singbox (Windows)
-
-🐎@oneclickvpnkeys
-----------------------------------------
 [2026-09-16T15:39:06+00:00] (id:26648)
 🇮🇷 File for app:
 
@@ -54,4 +45,31 @@ https://ogy.de/oneclickvpnkeys-free-sub
 ➡️ Singbox (Windows)
 
 🐎@oneclickvpnkeys
+----------------------------------------
+[2026-09-17T10:56:41+00:00] (id:26663)
+🇮🇷 Files for app:
+
+➡️ Npv Tunnel (Android)
+
+🐎@oneclickvpnkeys
+----------------------------------------
+[2026-09-17T11:00:44+00:00] (id:26665)
+🤖 Популярные AI-сервисы без лишней наценки.
+ChatGPT · Claude · Grok · Midjourney и другие AI-сервисы.
+
+Удобное оформление, понятные условия, гарантия и быстрый доступ к нужному продукту.
+🌐 Keyszi.com
+Реклама
+----------------------------------------
+[2026-09-17T11:04:09+00:00] (id:26666)
+(بدون متن)
+----------------------------------------
+[2026-09-17T12:50:09+00:00] (id:26668)
+Next posts are for apps:  📶 v2rayng, Streisand or Happ
+more configs here:
+➡️ SUB 🇷🇺🇮🇷🇹🇲🇨🇳
+fragment👇fragment 👇
+----------------------------------------
+[2026-09-17T12:50:34+00:00] (id:26669)
+{"remarks":"🐒@oneclickvpnkeys ","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","listen":"127.0.0.1","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls","quic"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"xnforo.ir","port":2087,"users":[{"id":"c75775e9-cf53-47b6-9d1d-29c3a46633fd","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"xhttp","security":"tls","xhttpSettings":{"path":"/GoRbEh","host":"ratatouille.rahmatokaduie.ir","mode":"auto","extra":{"mode":"auto","xPaddingBytes":"1-1","xPaddingObfsMode":true,"xPaddingKey":"ctx","xPaddingHeader":"x-grpc-context","xPaddingMethod":"tokenish","sessionIDPlacement":"header","sessionIDKey":"Idempotency-Key","seqPlacement":"header","seqKey":"Upload-Offset","sessionPlacement":"header","sessionKey":"Idempotency-Key"}},"tlsSettings":{"allowInsecure":false,"serverName":"ratatouille.rahmatokaduie.ir","alpn":["h2","http/1.1","h3"],"show":false}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]},"queryStrategy":"UseIPv4"},"routing":{"domainStrategy":"AsIs","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
 ----------------------------------------
