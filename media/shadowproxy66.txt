@@ -1,10 +1,7 @@
-آخرین آپدیت: 2026-09-19 14:40:31 UTC
+آخرین آپدیت: 2026-09-19 17:27:28 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-09-18T03:44:07+00:00] (id:17135)
-(بدون متن)
-----------------------------------------
 [2026-09-18T03:44:28+00:00] (id:17136)
 PattNG 2.3.8-P50
 
@@ -79,4 +76,25 @@ PattNG_2.3.8-P50_x86_64.apk
 52.PROXY53.PROXY54.PROXY
 55.PROXY56.PROXY57.PROXY
 58.PROXY59.PROXY60.PROXY
+----------------------------------------
+[2026-09-19T17:09:18+00:00] (id:17155)
+☑️ TELEGRAM WEB PROXY
+
+🇩🇪@ShadowProxy66
+https://t.me/webproxy?server=max-speed.co.uk&secret=84738086f0aa4f0c4f4b977e9d0b254e
+
+🇳🇱@ShadowProxy66
+https://t.me/webproxy?server=web.zainet.tech&secret=fa488bdb4af55a669012cfaff5bf2328
+
+🇳🇱@ShadowProxy66
+https://t.me/webproxy?server=webtg-1.stepavpn.ru&secret=ddc99839390b5db85d6f2160864e74c001
+
+🇳🇱@ShadowProxy66
+https://t.me/webproxy?server=rnd.tirel.top&secret=b0bfb76c2fa6afb7970c89607679f7a0
+
+🇫🇮@ShadowProxy66
+https://t.me/webproxy?server=fiwebpps.yearnings.ru&secret=d48469efaa56e717893a3773f4f2de45
+
+🔘برای استفاده باید آخرین نسخه تلگرام نصب داشته باشید
+🫆@ShadowProxy66
 ----------------------------------------
