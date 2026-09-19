@@ -1,93 +1,7 @@
-آخرین آپدیت: 2026-09-19 06:34:25 UTC
+آخرین آپدیت: 2026-09-19 11:28:02 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-09-18T16:00:19+00:00] (id:3835)
-(بدون متن)
-----------------------------------------
-[2026-09-18T16:00:51+00:00] (id:3836)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/06/27
-🇬🇧 2026/09/18
-🕒 19:30:46
-
-🇫🇷 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
-🇳🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇫🇷 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-09-18T16:14:03+00:00] (id:3837)
-Amnezia Vpn, WG Tunnel 
-
-[Interface]
-PrivateKey = 4KOsnASfmeH1LuJDmFbSwejL1AHmMOa1DLEp4CiFGHA=
-Address = 10.2.0.2/32, 2a07:b944::2:2/128
-DNS = 10.2.0.1, 2a07:b944::2:1
-MTU = 1420
-S1 = 0
-S2 = 0
-S3 = 0
-S4 = 0
-Jc = 3
-Jmin = 1
-Jmax = 3
-H1 = 1
-H2 = 2
-H3 = 3
-H4 = 4
-I1 = <b 0x494e56495445207369703a626f624062696c6f78692e636f6d205349502f322e300d0a5669613a205349502f322e302f55445020706333332e61746c616e74612e636f6d3b6272616e63683d7a39684734624b3737366173646864730d0a4d61782d466f7277617264733a2037300d0a546f3a20426f62203c7369703a626f624062696c6f78692e636f6d3e0d0a46726f6d3a20416c696365203c7369703a616c6963654061746c616e74612e636f6d3e3b7461673d313932383330313737340d0a43616c6c2d49443a20613834623463373665363637313040706333332e61746c616e74612e636f6d0d0a435365713a2033313431353920494e564954450d0a436f6e746163743a203c7369703a616c69636540706333332e61746c616e74612e636f6d3e0d0a436f6e74656e742d547970653a206170706c69636174696f6e2f7364700d0a436f6e74656e742d4c656e6774683a20300d0a0d0a>
-I2 = <b 0x5349502f322e302031303020547279696e670d0a5669613a205349502f322e302f55445020706333332e61746c616e74612e636f6d3b6272616e63683d7a39684734624b3737366173646864730d0a546f3a20426f62203c7369703a626f624062696c6f78692e636f6d3e0d0a46726f6d3a20416c696365203c7369703a616c6963654061746c616e74612e636f6d3e3b7461673d313932383330313737340d0a43616c6c2d49443a20613834623463373665363637313040706333332e61746c616e74612e636f6d0d0a435365713a2033313431353920494e564954450d0a436f6e74656e742d4c656e6774683a20300d0a0d0a>
-
-[Peer]
-PublicKey = GdVK8Ws3Zn65hDwau9lnhrCJhr8MtK9Tm2CvFL6WeCM=
-Endpoint = 185.100.234.7:51820
-AllowedIPs = 0.0.0.0/0, ::/0
-----------------------------------------
-[2026-09-18T16:14:03+00:00] (id:3838)
-Amnezia Vpn , WG Tunnel
-
-[Interface]
-PrivateKey = 4KOsnASfmeH1LuJDmFbSwejL1AHmMOa1DLEp4CiFGHA=
-Address = 10.2.0.2/32, 2a07:b944::2:2/128
-DNS = 10.2.0.1, 2a07:b944::2:1
-MTU = 1420
-S1 = 0
-S2 = 0
-S3 = 0
-S4 = 0
-Jc = 3
-Jmin = 1
-Jmax = 3
-H1 = 1
-H2 = 2
-H3 = 3
-H4 = 4
-I1 = <b 0x494e56495445207369703a626f624062696c6f78692e636f6d205349502f322e300d0a5669613a205349502f322e302f55445020706333332e61746c616e74612e636f6d3b6272616e63683d7a39684734624b3737366173646864730d0a4d61782d466f7277617264733a2037300d0a546f3a20426f62203c7369703a626f624062696c6f78692e636f6d3e0d0a46726f6d3a20416c696365203c7369703a616c6963654061746c616e74612e636f6d3e3b7461673d313932383330313737340d0a43616c6c2d49443a20613834623463373665363637313040706333332e61746c616e74612e636f6d0d0a435365713a2033313431353920494e564954450d0a436f6e746163743a203c7369703a616c69636540706333332e61746c616e74612e636f6d3e0d0a436f6e74656e742d547970653a206170706c69636174696f6e2f7364700d0a436f6e74656e742d4c656e6774683a20300d0a0d0a>
-I2 = <b 0x5349502f322e302031303020547279696e670d0a5669613a205349502f322e302f55445020706333332e61746c616e74612e636f6d3b6272616e63683d7a39684734624b3737366173646864730d0a546f3a20426f62203c7369703a626f624062696c6f78692e636f6d3e0d0a46726f6d3a20416c696365203c7369703a616c6963654061746c616e74612e636f6d3e3b7461673d313932383330313737340d0a43616c6c2d49443a20613834623463373665363637313040706333332e61746c616e74612e636f6d0d0a435365713a2033313431353920494e564954450d0a436f6e74656e742d4c656e6774683a20300d0a0d0a>
-
-[Peer]
-PublicKey = 3XROzgS72QDRKE3Z2XcnppVNFPaLFCeSRDmsCe6EGws=
-Endpoint = 149.34.251.138:51820
-AllowedIPs = 0.0.0.0/0, ::/0
-----------------------------------------
-[2026-09-18T18:00:14+00:00] (id:3839)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/06/27
-🇬🇧 2026/09/18
-🕒 21:30:11
-
-🇩🇰 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇭🇰 ᴘʀᴏxʏ
-🇳🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇫🇮 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
 [2026-09-18T20:00:15+00:00] (id:3840)
 🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
 ❏❏❏❏❏❏❏❏❏❏❏❏❏❏
@@ -162,6 +76,110 @@ AllowedIPs = 0.0.0.0/0, ::/0
 🕒 09:30:10
 
 🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-19T08:00:15+00:00] (id:3854)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/06/28
+🇬🇧 2026/09/19
+🕒 11:30:11
+
+🇳🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
+🇺🇸 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-19T08:00:18+00:00] (id:3856)
+(بدون متن)
+----------------------------------------
+[2026-09-19T08:03:02+00:00] (id:3857)
+(بدون متن)
+----------------------------------------
+[2026-09-19T09:52:02+00:00] (id:3858)
+Telegram Proxy
+
+https://t.me/proxy?server=ssd-hdd-nvme.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=vizhzhzhzhzh.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=habib-lisanser.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=team-daemi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=asli-orginal-daemi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=karbar123456.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=jedi-migi.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=atr.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=rond-hamrahaval.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=khanda-makoni.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=zenon.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=borujerd-tehran-esfahan.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=manager-add.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=nostalgi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=khobi-alhamdolelah.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=portal.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=talfighi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=mosabeghe.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=last-of-you.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=ghasam-be-shab.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=chalesh.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=mashti-khan.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=daemi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=nakoshimon-jomong.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=vasle-sho-binam.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=nakhand-mesvak-gerone.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=felan-by.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=vasle-daii.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=join-in-play.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=mashti-khobi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=range-sal.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=id466.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=flat.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=haji-jan.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
+----------------------------------------
+[2026-09-19T10:00:15+00:00] (id:3859)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/06/28
+🇬🇧 2026/09/19
+🕒 13:30:13
+
+🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇳🇱 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
 
 🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
 ----------------------------------------
