@@ -1,12 +1,7 @@
-آخرین آپدیت: 2026-09-20 11:54:48 UTC
+آخرین آپدیت: 2026-09-20 15:07:12 UTC
 کانال: @V2RayNG_CaFe
 ========================================
 
-[2026-09-16T15:55:18+00:00] (id:4253)
-کانفیگ نپستر متصل ✅
-
-🪩 @V2RayNG_Cafe
-----------------------------------------
 [2026-09-16T16:20:18+00:00] (id:4254)
 کانفیگ نپستر متصل ✅
 
@@ -101,4 +96,14 @@ https://t.me/proxy?server=me.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMC
 [2026-09-19T20:38:45+00:00] (id:4273)
 •کانفیگ آیپی ثابت بدون اختلال و قطعی گیگی ۵ تومن ؛ برای خرید پیام بدید . 🤍
 @V2rayCafe_Support
+----------------------------------------
+[2026-09-20T14:53:00+00:00] (id:4275)
+tg://proxy?server=setsevwodpx.freexpaths.com.tr&port=443&secret=eec4e8c93197b8dcea099964fab6213a73736574736576776f6470782e667265657870617468732e636f6d2e7472
+
+tg://proxy?server=setsevwodpx.freexpaths.com.tr&port=443&secret=ee298e8b88eb36f37f332b8907ab2663f2736574736576776f6470782e667265657870617468732e636f6d2e7472
+
+tg://proxy?server=setsevwodpx.freexpaths.com.tr&port=443&secret=eefbd97e5c412b0ea326945b540dd6d3ed736574736576776f6470782e667265657870617468732e636f6d2e7472
+
+tg://proxy?server=setsevwodpx.freexpaths.com.tr&port=443&secret=eebead184b5dcfc74adb1182044a6bd5e7736574736576776f6470782e667265657870617468732e636f6d2e7472
+🪩 @V2RayNG_Cafe
 ----------------------------------------
