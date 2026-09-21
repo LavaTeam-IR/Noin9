@@ -1,28 +1,7 @@
-آخرین آپدیت: 2026-09-21 00:31:35 UTC
+آخرین آپدیت: 2026-09-21 05:22:26 UTC
 کانال: @configV2rayNG
 ========================================
 
-[2026-06-24T14:26:22+00:00] (id:18935)
-📱 WG Tunnel 5.7.2 بروزرسانی جدید منتشر شد
-
-https://github.com/wgtunnel/android/releases/tag/5.7.2
-
-نسخه مخصوص گوشی های جدید
-👇👇👇👇👇👇
-https://github.com/wgtunnel/android/releases/download/5.7.2/wgtunnel-standalone-v5.7.2-arm64.apk
-
-نسخه مخصوص گوشی های قدیمی
-👇👇👇👇👇👇
-
-https://github.com/wgtunnel/android/releases/download/5.7.2/wgtunnel-standalone-v5.7.2-armv7.apk
-
-کانفیگ های رایگان برنامه WG Tunnel
-👇👇👇👇👇👇
-
-https://t.me/ConfigV2rayNG/18657
-
-https://t.me/ConfigV2rayNG/18227
-----------------------------------------
 [2026-06-28T03:02:06+00:00] (id:18957)
 📌 راهنمای فعال کردن Fragment
 اگر در اتصال VPN مشکل دارید یا می‌خواهید کیفیت اتصال بهتری داشته باشید، می‌توانید Fragment را با مقادیر زیر فعال کنید. (مخصوصا برای ایرانسلی‌ها)
@@ -130,5 +109,8 @@ https://github.com/2dust/v2rayN/releases/tag/7.24.4
 VPN Client Pro v2.20.02 Mod.apk
 ----------------------------------------
 [2026-09-18T05:58:05+00:00] (id:20225)
-📱 WG Tunnel 5.7.2 بروزرسانی جدید منتشر شد   https://github.com/wgtunnel/android/releases/tag/5.7.2    نسخه مخصوص گوشی های جدید 👇👇👇👇👇👇 https://github.com/wgtunnel/android/releases/download/5.7.2/wgtunnel-standalone-v5.7.2-arm64.apk  نسخه مخصوص گوشی های قدیمی…
+📱 WG Tunnel 5.7.3 بروزرسانی جدید منتشر شد   https://github.com/wgtunnel/android/releases/tag/5.7.3    نسخه مخصوص گوشی های جدید 👇👇👇👇👇👇 https://github.com/wgtunnel/android/releases/download/5.7.3/wgtunnel-standalone-v5.7.3-arm64.apk  نسخه مخصوص گوشی های قدیمی…
+----------------------------------------
+[2026-09-21T01:45:21+00:00] (id:20258)
+ubmVsIGlkOiBAQ29uZmlnVjJSYXlORyDwn4e68J+HuCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 ----------------------------------------
