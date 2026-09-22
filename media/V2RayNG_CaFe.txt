@@ -1,22 +1,7 @@
-آخرین آپدیت: 2026-09-22 12:08:13 UTC
+آخرین آپدیت: 2026-09-22 16:54:50 UTC
 کانال: @V2RayNG_CaFe
 ========================================
 
-[2026-09-17T12:16:15+00:00] (id:4262)
-پروکسی متصل:
-tg://proxy?server=www.sinlx.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
-
-tg://proxy?server=www.sinlx.ir.&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
-tg://proxy?server=www.digikallamall.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
-
-tg://proxy?server=www.digikallamall.ir.&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
-tg://proxy?server=myapi.gigicalla.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
-
-tg://proxy?server=45.74.158.168&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
-🪩 @V2RayNG_Cafe
-----------------------------------------
 [2026-09-19T08:40:30+00:00] (id:4265)
 کانفیگ نپستر متصل ✅
 
@@ -104,5 +89,10 @@ https://t.me/proxy?server=49.13.93.223&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRue
 [2026-09-22T11:11:02+00:00] (id:4283)
 کانفیگ نپستر متصل ✅
 
+🪩 @V2RayNG_Cafe
+----------------------------------------
+[2026-09-22T12:44:04+00:00] (id:4284)
+قوی 🔥
+tg://proxy?server=www.digikallamall.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
 🪩 @V2RayNG_Cafe
 ----------------------------------------
