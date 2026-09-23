@@ -1,56 +1,7 @@
-آخرین آپدیت: 2026-09-23 00:58:30 UTC
+آخرین آپدیت: 2026-09-23 05:37:57 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-09-22T12:00:17+00:00] (id:3959)
-(بدون متن)
-----------------------------------------
-[2026-09-22T12:00:20+00:00] (id:3960)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/06/31
-🇬🇧 2026/09/22
-🕒 15:30:17
-
-🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇺🇸 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇺🇸 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-09-22T14:00:32+00:00] (id:3961)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/06/31
-🇬🇧 2026/09/22
-🕒 17:30:28
-
-🇩🇪 ᴘʀᴏxʏ | 🇦🇹 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
-🇮🇹 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇫🇷 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇭🇰 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-09-22T14:42:02+00:00] (id:3962)
-WARNING ⚠️ 
-The Central Bank has presented installing an “internal root certificate” on customers’ devices as one way to continue banking services.
-
-But the issue is not merely eliminating warnings in internet banking. If this trust is established at the level of the entire device, it could affect more than just the bank’s website and, under specific circumstances, create the conditions for monitoring encrypted communications.
-
-A browser considers a website’s certificate valid when its chain of trust leads back to a trusted root authority. If a user adds an internal root certificate to the operating system, the device may also recognize certificates issued by that same authority for other websites as valid.
-
-The danger arises when that authority issues a fake certificate for a website and an attacker is able to position themselves in the traffic path. In such circumstances, the browser may trust the intermediary without displaying the usual warning, while a man-in-the-middle attack could enable the communication to be decrypted.
-
-Installing a root certificate by itself does not mean that eavesdropping will occur; the main issue is the broad discretion granted to that authority.
-
-There is, of course, a lower-risk approach: the banking app could trust an internal authority only for its own services and domains, without changing the trust store for the entire device.
-
-That raises the central question about the Central Bank’s proposal: to resolve disruptions to banking services, why should trust in a new authority potentially be extended to communications outside the banking system as well?
-----------------------------------------
 [2026-09-22T14:53:49+00:00] (id:3963)
 🔴آخرین تیر برای تبدیل ایران به کره‌شمالی
 
@@ -159,4 +110,50 @@ https://github.com/yastorovsky/MehrON
 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
 
 🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-23T02:00:13+00:00] (id:3978)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/01
+🇬🇧 2026/09/23
+🕒 05:30:10
+
+🏳️ ᴘʀᴏxʏ | 🇫🇷 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-23T04:00:15+00:00] (id:3979)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/01
+🇬🇧 2026/09/23
+🕒 07:30:12
+
+🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-23T04:00:18+00:00] (id:3981)
+(بدون متن)
+----------------------------------------
+[2026-09-23T05:34:37+00:00] (id:3982)
+پل و کانفیگ "Argo VPN"
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzLsOgjAUANB/6aoDkghi4mCANJdYFeMDupUCelFbU5CX
+8d91Pzkf0hamRq3IcjYlLzE8tMjJkhRD1MmnZ2X2ts18cOAe
+4saPRp5ENk8AdxgpQXuTU/lOba8B7FBSb8j/dhvEYxmvVmRK
+arwq0bxN8S9ZmPoQ+72pQIrAKPtglbV1ZonoH/BU+/m+dibW
+0dAXNW7CFmUHtzU0spoLbkKheXHiuIgvs83l6B5SJZluYXRw
+ouUgK8bI9weZX0Tn
+-----END ARGO VPN BRIDGE BLOCK-----
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eNoNzdFugjAUgOF36S0mU5qRYeKF1o60EwjGKJDdnAKaswl1hcLQ+O5y/+f7H6Sv
+TIu6IcvFjNxgvGooyZJUoxyK2p8rN+oVE5745bhj8p6n0s1TgTHKpgx8WgT7Fk7c
+Zq7fCRywCPyxnPpom9zPyWpFZqTFSwOdNdXEhjxhgjX1YA+ey5nNuq855IMDJ/r9
+5tStUuLqQWE/Y3XkSLeHNa5DFvykpWOi3Yj9hzbv1PzFFkJtkmxBRddLuB3/z7ra
+XKbf8wWZVkXe
+-----END ARGO VPN BRIDGE BLOCK-----
 ----------------------------------------
