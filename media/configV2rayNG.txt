@@ -1,32 +1,20 @@
-آخرین آپدیت: 2026-09-24 00:29:33 UTC
+آخرین آپدیت: 2026-09-24 05:14:31 UTC
 کانال: @configV2rayNG
 ========================================
 
-[2026-06-08T00:27:50+00:00] (id:18689)
-نسخه جدید TheFeed منتشر شد (نسخه 0.24.0)
-
-اپ دفید خبرخوان چنل های تلگرام در زمان قطعی نت هست
-
-در نسخه جدید نیاز به اضافه کردن کانفیگ هم ندارید و توی خود برنامه به صورت آماده وجود داره
-
-از قسمت «دیدن کانال های دلخواه» هم میتونید چنل مورد نظرتونو اضافه کنید و پستاشو ببینید
-----------------------------------------
-[2026-06-08T00:31:13+00:00] (id:18692)
-توی برنامش یه قسمت داره (Browse Channels) میتونید چنلای دلخواهتون رو اضافه کنید و پستای اون چنلارو ببینید
-----------------------------------------
 [2026-06-24T14:26:22+00:00] (id:18935)
-📱 WG Tunnel 5.7.3 بروزرسانی جدید منتشر شد
+📱 WG Tunnel 5.7.4 بروزرسانی جدید منتشر شد
 
-https://github.com/wgtunnel/android/releases/tag/5.7.3
+https://github.com/wgtunnel/android/releases/tag/5.7.4
 
 نسخه مخصوص گوشی های جدید
 👇👇👇👇👇👇
-https://github.com/wgtunnel/android/releases/download/5.7.3/wgtunnel-standalone-v5.7.3-arm64.apk
+https://github.com/wgtunnel/android/releases/download/5.7.4/wgtunnel-standalone-v5.7.4-arm64.apk
 
 نسخه مخصوص گوشی های قدیمی
 👇👇👇👇👇👇
 
-https://github.com/wgtunnel/android/releases/download/5.7.3/wgtunnel-standalone-v5.7.3-armv7.apk
+https://github.com/wgtunnel/android/releases/download/5.7.4/wgtunnel-standalone-v5.7.4-armv7.apk
 
 کانفیگ های رایگان برنامه WG Tunnel
 👇👇👇👇👇👇
@@ -138,9 +126,9 @@ https://github.com/2dust/v2rayN/releases/tag/7.24.4
 
 🔹در نتیجه، اگر حواستان به غیرفعال‌کردن تمدید خودکار نباشد، بسته می‌تواند دوباره و حتی چندباره تمدید شود؛ هزینهٔ آن نیز بسته به نوع سیم‌کارت، از شارژ کسر یا در قبض شما محاسبه خواهد شد.
 ----------------------------------------
-[2026-09-17T23:38:50+00:00] (id:20224)
+[2026-09-24T03:12:39+00:00] (id:20274)
 VPN Client Pro v2.20.02 Mod.apk
 ----------------------------------------
-[2026-09-18T05:58:05+00:00] (id:20225)
-📱 WG Tunnel 5.7.3 بروزرسانی جدید منتشر شد   https://github.com/wgtunnel/android/releases/tag/5.7.3    نسخه مخصوص گوشی های جدید 👇👇👇👇👇👇 https://github.com/wgtunnel/android/releases/download/5.7.3/wgtunnel-standalone-v5.7.3-arm64.apk  نسخه مخصوص گوشی های قدیمی…
+[2026-09-24T03:19:35+00:00] (id:20275)
+📱 WG Tunnel 5.7.4 بروزرسانی جدید منتشر شد   https://github.com/wgtunnel/android/releases/tag/5.7.4    نسخه مخصوص گوشی های جدید 👇👇👇👇👇👇 https://github.com/wgtunnel/android/releases/download/5.7.4/wgtunnel-standalone-v5.7.4-arm64.apk  نسخه مخصوص گوشی های قدیمی…
 ----------------------------------------
