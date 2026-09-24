@@ -1,30 +1,7 @@
-آخرین آپدیت: 2026-09-24 10:05:06 UTC
+آخرین آپدیت: 2026-09-24 14:58:45 UTC
 کانال: @ShadowsocksM
 ========================================
 
-[2026-09-06T09:36:25+00:00] (id:15185)
-🔄 نسخه MLMVPN v1.2.32 منتشر شد!
-
-🔆مهم‌ترین تغییرات:
-💥 رفع کرش‌های گزارش‌شده کاربران
-⚡️ رفع کرش صفحه V2Ray و بهبود مدیریت نودها
-🔗 پشتیبانی بهتر از کانفیگ‌های REALITY
-📡 بهبود دانلودِ آپدیت در شرایط مختلف و محدودیت اینترنت
-
-📂 بهبود ورود کانفیگ‌های JSON و فایل‌های اشتراک
-📏 تنظیم و بهینه‌سازی MTU از تنظیمات نرم افزار برای تمام روش‌های اتصال
-
-🌍 بهبود لیست سرورها و سنجش کشورهای Psiphon
-🤖 بهبود سازگاری با Android 7 و 8
-
-✨ بهبودهای متعدد در پایداری و عملکرد برنامه
-
-📱 نسخه MLMVPN v1.2.32 — پایدارتر، سریع‌تر، بهتر 💙
-
-⚡️جهت دانلود نسخه جدید وارد نسخه فعلی برنامه که دارید بشید، از تنظیمات به بخش بروزرسانی بروید، یا مستقیم از زیر همین پست دانلود کنید
-
-🆔
-----------------------------------------
 [2026-09-06T09:36:26+00:00] (id:15186)
 (بدون متن)
 ----------------------------------------
@@ -157,4 +134,23 @@ caiWkqXHIcbr7Zmiv39I+0R2
 مراقب این نوع هک باشید! 
 یه صفحه جعلی شبیه Cloudflare میگه برای تأیید ربات نبودن، Win + R رو باز کن و Ctrl + V بزن.
 چون شبیه تأییدیه‌های معمول کلودفلره، ممکنه طبق عادت انجامش بدید، اما در واقع دارید یه دستور مخرب رو اجرا می‌کنید.
+----------------------------------------
+[2026-09-24T10:57:04+00:00] (id:15205)
+پل Argo VPN
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzMFugjAYAOB36XUmamfMasJBscBfZrVsSyq3QhkWHSAW
+Glj27vP+5ftFQ9E9TFOjzXKGWjXeGqXRBhUjc/kPWWSYD5kP
+a7hS8+6zKZUMpxLM0TB3rpnJcdmfMbFgnMlDMuqn5XsxfQvP
+QzP0MGWtbN8Vz/JAv3wQe7AXzj/wPVy3uXbz5NPJy0pMPAoD
+3i7qAdt0dyBBsBMCSqmzpov6Y0KpfBPZS0srBxArvkxP8eu2
+0jZScXUiQ0I99PcPV3lDdQ==
+-----END ARGO VPN BRIDGE BLOCK-----
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzNtugjAYAOB36bUJyAYOE25WyGwVgSkZcEcpwo9yGId2
+Zdm7z/sv3y8S5ThB36H9doOGXD36nKM9KhWVRWvrzDgLholF
+7h6cMF2zhBpZQiAAaqbt51IYvEnb+5Ia9kxAQvFhK/70Zzda
+b5HjoA2aoOryeRnLZ+t7MSYRJu9cZ8JqpKYf3J9hktCbwSHs
+xjXxWX0cqFaLh4AsMitSXX1faPYcVJo+fne1Cl4vWHFirWH9
+5s5hXLDm64UcdzL2HPT3D641RgA=
+-----END ARGO VPN BRIDGE BLOCK-----
 ----------------------------------------
