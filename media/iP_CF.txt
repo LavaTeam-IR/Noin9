@@ -1,10 +1,7 @@
-آخرین آپدیت: 2026-09-25 15:09:46 UTC
+آخرین آپدیت: 2026-09-25 19:14:42 UTC
 کانال: @iP_CF
 ========================================
 
-[2026-09-22T14:21:10+00:00] (id:11341)
-(بدون متن)
-----------------------------------------
 [2026-09-22T14:21:48+00:00] (id:11342)
 PattNG 2.3.9-P52
 
@@ -188,4 +185,77 @@ https://t.me/webproxy?server=proxy.rutubevideo.com&secret=dd7343d1c53018a7d4640d
 https://t.me/webproxy?server=webtg-1.stepavpn.ru&secret=ddc99839390b5db85d6f2160864e74c001
 
 https://t.me/webproxy?server=web.shmelproxy.top&secret=dd05f548574d4e77a9d068a60933c8ba1c
+----------------------------------------
+[2026-09-25T15:45:06+00:00] (id:11361)
+(بدون متن)
+----------------------------------------
+[2026-09-25T15:45:12+00:00] (id:11362)
+📌تعدادی از سرویس‌های ایمیل امن، دائمی و رایگان :
+
+1️⃣Proton Mail
+https://proton.me/mail
+
+2️⃣Tuta Mail
+https://tuta.com/mail
+
+3️⃣Mailfence
+https://mailfence.com
+
+4️⃣Disroot
+https://disroot.org
+
+5️⃣Riseup Mail
+https://riseup.net/en/email
+
+6️⃣Aster Mail
+https://astermail.org
+
+7️⃣Cock li
+https://cock.li
+
+8️⃣Mailo
+https://www.mailo.com
+
+9️⃣Systemli Mail
+https://www.systemli.org/en/service/mail/
+
+🔟Autistici/Inventati
+https://www.autistici.org
+
+❌در بعضی سرویس‌ها، در صورت غیرفعال بودن طولانی مدت اکانت، ایمیل حذف خواهد شد.
+----------------------------------------
+[2026-09-25T15:50:57+00:00] (id:11363)
+(بدون متن)
+----------------------------------------
+[2026-09-25T15:51:29+00:00] (id:11364)
+(بدون متن)
+----------------------------------------
+[2026-09-25T15:52:06+00:00] (id:11365)
+🚀 چند ساب رایگان و آپدیت V2Ray
+مناسب برای V2rayNG • Hiddify • NekoBox و سایر کلاینت‌های سازگار 🔥
+1️⃣ SS44 GOLD 🇮🇷
+
+تست‌شده و بهینه‌شده برای اتصال بهتر
+https://raw.githubusercontent.com/ZendanTeam/SS44-sub/main/SS44-gold.txt
+2️⃣ Morpheus – BEST ⚡️
+
+شامل مجموعه‌ای از کانفیگ‌های تست‌شده
+https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/best.txt
+3️⃣ Morpheus – IRAN 🇮🇷
+
+شامل Reality، VLESS و پروتکل‌های جدیدتر
+https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/iran.txt
+4️⃣ EbraSha – ALL 🌐
+
+ترکیبی از VLESS، VMess، Trojan، SS و سایر پروتکل‌ها
+https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt
+5️⃣ Bllare – ALL 📡
+
+ساب عمومی شامل کانفیگ‌های اپراتورهای مختلف
+https://raw.githubusercontent.com/Bllare/V2ray-Configs/main/ALL.txt
+
+🔄 ساب‌ها به‌صورت خودکار توسط پروژه‌های مربوطه به‌روزرسانی می‌شوند؛ فقط لینک را در بخش Subscription برنامه اضافه و Update کنید.
+
+⚠️ کانفیگ‌های عمومی ممکن است هر لحظه قطع یا تغییر کنند و برای فعالیت‌های حساس توصیه نمی‌شوند.
+🆔 @IP_CF
 ----------------------------------------
