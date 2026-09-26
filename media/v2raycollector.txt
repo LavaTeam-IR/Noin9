@@ -1,81 +1,7 @@
-آخرین آپدیت: 2026-09-26 17:55:49 UTC
+آخرین آپدیت: 2026-09-26 20:34:42 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-09-26T04:01:01+00:00] (id:4072)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/04
-🇬🇧 2026/09/26
-🕒 07:30:58
-
-🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-09-26T05:02:02+00:00] (id:4073)
-(بدون متن)
-----------------------------------------
-[2026-09-26T06:01:03+00:00] (id:4074)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/04
-🇬🇧 2026/09/26
-🕒 09:31:00
-
-🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🇫🇷 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇫🇷 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-09-26T07:43:02+00:00] (id:4075)
-Telegram Proxy
-
-https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09
-
-https://t.me/proxy?server=ir.esdata.info&port=8443&secret=104462821249bd7ac519130220c8dd09
-
-https://t.me/proxy?server=khaterate.2nafare.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
-
-https://t.me/socks?server=46.224.141.30&port=443
-
-https://t.me/proxy?server=esteghlal.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
-https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=79e344818749bd7ac519130220c25d09
-
-https://t.me/proxy?server=wolverhampton.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
-https://t.me/proxy?server=sefid.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
-https://t.me/proxy?server=shenzar-sahel.dashtodaman.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
-
-https://t.me/proxy?server=65.109.54.139&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
-https://t.me/proxy?server=me.foltmeingop.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09
-
-https://t.me/proxy?server=nontanori.noshabekoka.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
-
-https://t.me/proxy?server=ghavi.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
-https://t.me/proxy?server=bad.nisti.co.uk&port=8880&secret=EERighJJvXrFGRMCIMJdCQ%3D%3D
-
-https://t.me/proxy?server=95.216.1.253&port=3443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-
-https://t.me/proxy?server=77.238.224.220&port=15&secret=eeNEgYdJvXrFGRMCIMJdCQAA
-
-https://t.me/proxy?server=140.233.187.219&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-
-https://t.me/proxy?server=permiiium.lavazemi2.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
-
-https://t.me/proxy?server=adam.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=163.5.31.210&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-
-https://t.me/proxy?server=87.248.129.6&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-
-https://t.me/proxy?server=163.5.31.214&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-----------------------------------------
 [2026-09-26T08:01:07+00:00] (id:4077)
 (بدون متن)
 ----------------------------------------
@@ -202,6 +128,36 @@ PersistentKeepalive = 25
 🕒 19:31:06
 
 🇳🇱 ᴘʀᴏxʏ | 🇫🇷 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇷 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-26T18:01:02+00:00] (id:4093)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/04
+🇬🇧 2026/09/26
+🕒 21:30:59
+
+🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇸🇬 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-26T20:00:51+00:00] (id:4095)
+(بدون متن)
+----------------------------------------
+[2026-09-26T20:01:02+00:00] (id:4096)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/04
+🇬🇧 2026/09/26
+🕒 23:30:59
+
+🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇳🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇺🇸 ᴘʀᴏxʏ | 🇬🇧 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
 
 🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
 ----------------------------------------
