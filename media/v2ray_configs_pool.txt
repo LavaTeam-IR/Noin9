@@ -1,46 +1,7 @@
-آخرین آپدیت: 2026-09-26 00:44:35 UTC
+آخرین آپدیت: 2026-09-26 05:33:29 UTC
 کانال: @v2ray_configs_pool
 ========================================
 
-[2026-09-25T07:41:19+00:00] (id:5249462)
-چارت داره برخلاف روند پیش میره نمیشه ریسک کرد
-
-تغییر ماهیت ابی رنگ  باید روند صعودی ادامه پیدا کند الان دقیقا برعکس شده
-
-شکست ساختار ابی  رنگ باید روند صعودی ادامه پیدا کند الان دقیقا برعکس شده
-
-تغییر ماهیت قرمز رنگ  باید روند نزولی ادامه پیدا کند الان دقیقا برعکس شده
-
-سیگنال نگیری بهتر از اینه که استاپ بخوری
-----------------------------------------
-[2026-09-25T07:46:50+00:00] (id:5249464)
-روند طبیعی این شکلیه
-
-شکست ساختار قرمز(BOS) رنگ روند نزولی ادامه پیدا کرده
-
-تغییر ماهیت(choch) ابی رنگ   روند صعودی ادامه پیدا کرده
-
-تغییر ماهیت(choch) قرمز رنگ   روند نزولی ادامه پیدا کرده
-
-شکست ساختار قرمز(BOS) رنگ روند نزولی ادامه پیدا کرده
-----------------------------------------
-[2026-09-25T07:47:12+00:00] (id:5249465)
-اگر به تازگی به جمع ما اضافه شدی به این پست رجوع کن
-
-بنده از گرفتاری مردم (مشکل اینترنت) نمیتوانم برای خودم پول 💷بسازم به همین جهت کانفیگ فروشی #ندارم و با فروش کانفیگ #مخالفم
-
-این کانال تبلیغات ندارد لطفا جهت تبلیغ صرافی پیام ارسال نکنید
-----------------------------------------
-[2026-09-25T07:57:18+00:00] (id:5249466)
-بای بزن
-----------------------------------------
-[2026-09-25T07:57:27+00:00] (id:5249467)
-Xau
-
-Buy
-
-Enter:4278/4279
-----------------------------------------
 [2026-09-25T07:57:28+00:00] (id:5249468)
 Stop:4276
 ----------------------------------------
@@ -92,6 +53,44 @@ SL 4305
 BIGGEST BULL RUN EVER STARTING SOON 🚀
 ----------------------------------------
 [2026-09-25T13:45:52+00:00] (id:5249483)
+اگر به تازگی به جمع ما اضافه شدی به این پست رجوع کن
+
+بنده از گرفتاری مردم (مشکل اینترنت) نمیتوانم برای خودم پول 💷بسازم به همین جهت کانفیگ فروشی #ندارم و با فروش کانفیگ #مخالفم
+
+این کانال تبلیغات ندارد لطفا جهت تبلیغ صرافی پیام ارسال نکنید
+----------------------------------------
+[2026-09-26T01:56:24+00:00] (id:5249484)
+STEEMUSDT Long Position over Full Target😍
+----------------------------------------
+[2026-09-26T01:56:24+00:00] (id:5249485)
+SKYUSDT Long Position  Full Target😍
+
+👇👇👇👇👇
+----------------------------------------
+[2026-09-26T01:56:43+00:00] (id:5249486)
+This indicator is a comprehensive market-structure and trend-analysis system designed to give traders a clear and organized view of price action.
+
+BOS (Break of Structure) identifies the continuation of the existing market structure. A bullish BOS occurs when price breaks and closes above a significant previous swing high, while a bearish BOS occurs when price breaks and closes below a significant previous swing low. BOS can help traders recognize structural confirmation and distinguish established trend continuation from normal market fluctuations.
+
+CHOCH (Change of Character) identifies a potential shift in market structure. It appears when price breaks an important structural level in the opposite direction of the prevailing structure. A bullish CHOCH may indicate that bearish structure is losing control and that bullish conditions could be developing, while a bearish CHOCH may indicate a possible transition from bullish to bearish structure. CHOCH is therefore useful for detecting potential trend changes at an earlier stage.
+
+The Vortex Cloud provides a visual representation of trend direction, momentum, and the relationship between bullish and bearish pressure. The cloud makes changes in market conditions easier to recognize and can be used alongside market-structure signals for additional confirmation.
+
+The Supertrend is displayed directly on the price chart to clearly visualize the prevailing trend and potential trend transitions. It can help traders follow directional price movement while filtering part of the market noise.
+
+The lower-chart Ribbon provides an additional visual layer for analyzing trend direction and momentum. Changes in the Ribbon can help confirm whether market conditions are strengthening, weakening, or transitioning.
+
+By combining BOS and CHOCH market-structure analysis with Vortex Cloud, Supertrend, and the lower-chart Ribbon, this indicator provides multiple layers of technical information in a single chart. Traders can use these components together to analyze trend continuation, potential structural reversals, momentum, and overall market conditions more systematically.
+My Indicator for Sale
+💰 Price: $35
+💻 Source Code Included
+To purchase, send the word "Indicator" via private message.
+Admin 🆔 @M3hdio1
+----------------------------------------
+[2026-09-26T01:56:52+00:00] (id:5249487)
+AVAXUSDT Long Position  Full Target😍
+----------------------------------------
+[2026-09-26T01:57:15+00:00] (id:5249488)
 اگر به تازگی به جمع ما اضافه شدی به این پست رجوع کن
 
 بنده از گرفتاری مردم (مشکل اینترنت) نمیتوانم برای خودم پول 💷بسازم به همین جهت کانفیگ فروشی #ندارم و با فروش کانفیگ #مخالفم
