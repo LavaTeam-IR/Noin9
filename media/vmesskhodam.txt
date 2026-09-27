@@ -1,19 +1,7 @@
-آخرین آپدیت: 2026-09-27 12:28:41 UTC
+آخرین آپدیت: 2026-09-27 17:12:07 UTC
 کانال: @vmesskhodam
 ========================================
 
-[2026-09-24T19:36:01+00:00] (id:10608)
-tg://proxy?server=www.hosinjon.ir.&port=8443&secret=dd1603010200010001fc030386e24c3add
-
-tg://proxy?server=www.manazinjamiram.ir.&port=8443&secret=dd6321a38187495dfac59a030220c25d8e
-
-tg://proxy?server=www.servertala.ir.&port=8443&secret=dd6321a38187495dfac59a030220c25d8e
-
-tg://proxy?server=ca.dataxshop.ir&port=443&secret=79e1fd121a66fcddbd101afcfdd47df5
-
-tg://proxy?server=88.99.175.124&port=8&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q
-❤️@vmesskhodam
-----------------------------------------
 [2026-09-26T11:57:52+00:00] (id:10618)
 https://t.me/proxy?server=proxy-daemi-s2.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 

@@ -1,159 +1,7 @@
-آخرین آپدیت: 2026-09-27 12:28:11 UTC
+آخرین آپدیت: 2026-09-27 17:11:24 UTC
 کانال: @iP_CF
 ========================================
 
-[2026-09-23T18:53:57+00:00] (id:11350)
-(بدون متن)
-----------------------------------------
-[2026-09-23T19:00:01+00:00] (id:11351)
-🔥 چالش ویژه ExpressVPN
-
-🎁 اهدای ۶ اکانت یک‌ماهه ExpressVPN به ۶ نفر
-
-⚡️ مدت : 1 ماه
-⚡️ اکانت‌ها اتوشارژ
-
-📌 برای دریافت اکانت ربات را استارت کنید
-
-📌 بعد از دریافت اکانت حتما اسکرین شات را زیر پست ارسال کنید وگرنه از چالش های بعدی محروم و توسط بات بن خواهید شد
-
-◀️ لینک دریافت
-
-اتمام
-----------------------------------------
-[2026-09-24T15:05:31+00:00] (id:11352)
-معاون سازمان تنظیم مقررات و ارتباطات رادیویی گفته "حجم‌خوری نداریم و بخشی از ابهامات و برداشت‌های کاربران درباره نحوه محاسبه میزان مصرف ترافیک اینترنت، به وضعیت ثبت اطلاعات محتوای داخلی در سامانه تعرفه ترجیحی مربوط می‌شود".
-
-خلاصه: حجم خوری ندارن، ولی باقی چیزارو قول نمیدن!
-
-#OxiDe
-🤍  More : @IP_CF
-🤍  Group : @IP_CF_GROUP
-----------------------------------------
-[2026-09-24T20:13:01+00:00] (id:11353)
-(بدون متن)
-----------------------------------------
-[2026-09-24T20:13:05+00:00] (id:11354)
-◾ برنامه تغییر دی ان اس GG DNS
-
-◾ توسط این برنامه می‌توانید در یک رابط کاربری مدرن روی سیستم خود DNS ست کنید، DNS اضافه کنید، پینگ بگیرید و به خیلی از امکانات دیگر دسترسی داشته باشید. این برنامه توسط یکی از کاربران عزیز برای کانال پی‌سی گیمینگ ساخته شده است.
-
-◾ دانلود برنامه
-◾ بهترین DNS های رایگان برای شرایط کنونی اینترنت همراه با دسته‌بندی؛ قابل استفاده در تمامی پلتفرم‌ها و بازی‌ها
-
-#DNS #PC
-----------------------------------------
-[2026-09-24T20:20:46+00:00] (id:11355)
-(بدون متن)
-----------------------------------------
-[2026-09-24T20:20:57+00:00] (id:11356)
-🦊 FoxyVPN
- استفاده از Firefox VPN روی کل دستگاه
-
-اگه دنبال یه کلاینت متفاوت برای استفاده از Firefox VPN روی اندروید هستین، FoxyVPN یه پروژه متن‌باز و جالبه.
-
-FoxyVPN یک کلاینت غیررسمی برای Firefox VPNـه که با اکانت Firefox وارد می‌شه و از سرویس Mozilla Guardian برای ایجاد اتصال استفاده می‌کنه.
-
-🔹 امکانات:
-• VPN سراسری برای کل دستگاه
-• انتخاب چندین موقعیت/سرور
-• Split Tunneling
-• DNS رمزنگاری‌شده با DoH
-• Private DNS به‌صورت پیش‌فرض
-• زنجیره‌کردن پروکسی‌ها
-• حالت Proxy-only
-• بررسی IP و مسیر خروجی اتصال
-• نمایش لاگ داخل برنامه
-• تم روشن، تاریک و هماهنگ با سیستم
-
-📌 نحوه استفاده:
-
-1️⃣ اول باید یک اکانت Firefox داشته باشین. اگه ندارین، رایگان از اینجا بسازین:
-
-https://accounts.firefox.com/signup
-
-2️⃣ بعد APK برنامه رو از بخش Releases پروژه دانلود و نصب کنین:
-
-https://github.com/Vauth/FoxyVPN/releases
-
-3️⃣ داخل FoxyVPN با ایمیل و رمز همون اکانت Firefox وارد بشین.
-
-4️⃣ یک موقعیت/سرور انتخاب کنین و روی دکمه Power بزنین تا VPN فعال بشه. 🔐
-طبق توضیحات پروژه، اشتراک جداگانه‌ای برای FoxyVPN لازم نیست و برنامه از سهمیه ۵۰ گیگابایت ترافیک VPN ماهانه مربوط به اکانت Firefox استفاده می‌کنه. بعد از تمام‌شدن این سهمیه، اتصال تا ریست‌شدن سهمیه در ماه بعد متوقف می‌شه.
-📱 Android 8.0 به بالا
-
-📦 نسخه فعلی: v1.0.4
-💻 متن‌باز و نوشته‌شده با Kotlin
-
-🔗 GitHub:
-https://github.com/Vauth/FoxyVPN
-----------------------------------------
-[2026-09-24T20:23:10+00:00] (id:11357)
-(بدون متن)
-----------------------------------------
-[2026-09-24T20:23:10+00:00] (id:11358)
-🚨 تلگرام یک مدل جدید پروکسی اضافه کرده: WEB Proxy
-
-اگر اخیراً لینک‌هایی شبیه این دیدید:
-
-"t.me/webproxy?..."
-
-بدونید مربوط به قابلیت جدید WEB Proxy تلگرامه.
-
-🔹 WEB Proxy چیه؟
-
-به زبان ساده، تلگرام می‌خواد ترافیک پروکسی رو از مسیری عبور بده که بیشتر شبیه ترافیک معمولی وب و HTTPS باشه.
-
-در این روش از WebSocket امن (WSS) استفاده می‌شه تا ارتباط بین کاربر و پروکسی ظاهر عادی‌تری داشته باشه.
-
-یعنی به‌جای اینکه ارتباط پروکسی کاملاً مشخص و قابل تشخیص باشه، مسیر ارتباط تقریباً این شکلیه:
-
-📱 تلگرام
-⬇️
-🌐 HTTPS / WebSocket
-⬇️
-🔐 WEB Proxy
-⬇️
-✈️ سرور تلگرام
-
-🎯 هدف اصلی چیه؟
-
-سیستم‌های فیلترینگ و DPI فقط به آدرس سرور نگاه نمی‌کنن و می‌تونن نوع ترافیک رو هم بررسی کنن. WEB Proxy تلاش می‌کنه تشخیص اینکه این ارتباط مربوط به پروکسی تلگرامه رو سخت‌تر کنه.
-----------------------------------------
-[2026-09-24T20:23:10+00:00] (id:11359)
-🚨 تلگرام یک مدل جدید پروکسی اضافه کرده: WEB Proxy  اگر اخیراً لینک‌هایی شبیه این دیدید:  "t.me/webproxy?..."  بدونید مربوط به قابلیت جدید WEB Proxy تلگرامه.  🔹 WEB Proxy چیه؟  به زبان ساده، تلگرام می‌خواد ترافیک پروکسی رو از مسیری عبور بده که بیشتر شبیه ترافیک…
-----------------------------------------
-[2026-09-24T20:23:10+00:00] (id:11360)
-چند نمونه وب پراکسی 
-
-https://t.me/webproxy?server=newversion.my&secret=c60988954529faf7447b7ef83203a020
-
-https://t.me/webproxy?server=azirproxy.tgstar.net&secret=628e7bc8ee9c0b7cd5b1971d1f39f998
-
-https://t.me/webproxy?server=NewVersion.MY&secret=c60988954529faf7447b7ef83203a020
-
-https://t.me/webproxy?server=max-speed.co.uk&secret=84738086f0aa4f0c4f4b977e9d0b254e
-
-https://t.me/webproxy?server=free.vnespiska.win&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
-
-https://t.me/webproxy?server=webrtp.prtw.ru&secret=27abca9f854cf8f6edf5944b1f2bf1c9
-
-https://t.me/webproxy?server=b.proxy.rutubevideo.com&secret=dd7343d1c53018a7d4640d93b3c3d85bb2
-
-https://t.me/webproxy?server=web.shmelproxy.top&secret=dd05f548574d4e77a9d068a60933c8ba1c
-
-https://t.me/webproxy?server=andrew.teslaa.ru&secret=bf114d9b470c646dfc68c90b2d995cb6
-
-https://t.me/proxy?server=144.31.178.150&port=2053&secret=dd9338e65b0f20676b2b7c00d8172f9019
-
-https://t.me/webproxy?server=free.vnespiska.win&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
-
-https://t.me/webproxy?server=proxy.rutubevideo.com&secret=dd7343d1c53018a7d4640d93b3c3d85bb2
-
-https://t.me/webproxy?server=webtg-1.stepavpn.ru&secret=ddc99839390b5db85d6f2160864e74c001
-
-https://t.me/webproxy?server=web.shmelproxy.top&secret=dd05f548574d4e77a9d068a60933c8ba1c
-----------------------------------------
 [2026-09-25T15:45:06+00:00] (id:11361)
 (بدون متن)
 ----------------------------------------
@@ -285,4 +133,83 @@ TG PROXY Apps For Android
 
 #Proxy #MTProto #GitHub 
 ━━━━━━━━━━━━━━
+----------------------------------------
+[2026-09-27T13:06:19+00:00] (id:11370)
+(بدون متن)
+----------------------------------------
+[2026-09-27T13:06:57+00:00] (id:11371)
+tg://proxy?server=77.42.56.66&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+
+tg://proxy?server=93.113.230.221&port=443&secret=dd6a67ae4c2d173b4168745435cb313a39
+
+tg://proxy?server=good.cipservice.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=sd.cipservice2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=noron.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=idiot.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=new.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=me.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=rain.lavazemi2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=iro.varfootball2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=gallery.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=at.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=ai.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=gold.lavazemi4.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=run.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=91.107.154.103&port=2053&secret=ee5444bacec0a583c4ab73133c5e9a0cef7777772e636c6f7564666c6172652e636f6d
+
+tg://proxy?server=94.184.39.111&port=2020&secret=00000000000000000000000000000000
+
+🔰 تعدادی پروکسی تست شده مخصوص همه ی اپراتورها
+----------------------------------------
+[2026-09-27T13:09:30+00:00] (id:11372)
+(بدون متن)
+----------------------------------------
+[2026-09-27T13:09:35+00:00] (id:11373)
+🚀 NekoBox+ 1.4.2-97 منتشر شد
+
+تغییرات این نسخه:
+
+🔹 رفع مشکل سازگاری با Android 7 و پایین‌تر
+
+🔹 رفع مشکل Xray #6797
+در بعضی کانفیگ‌های XHTTP، وقتی اتصال TLS/Handshake به مشکل می‌خورد، ممکن بود Xray پشت‌سرهم اتصال‌های جدید ایجاد کنه و باعث مصرف غیرعادی RAM و منابع بشه. NekoBox+ برای این مشکل راهکار اضافه کرده.
+
+🔹 رفع خطای context cancelled در بعضی زنجیره‌های Amnezia و WireGuard
+
+🔹 بروزرسانی sing-box به نسخه 1.14.2
+
+📌 در کل، این نسخه بیشتر روی رفع باگ و پایداری اتصال‌ها تمرکز داره.
+----------------------------------------
+[2026-09-27T13:09:35+00:00] (id:11374)
+(بدون متن)
+----------------------------------------
+[2026-09-27T14:30:30+00:00] (id:11379)
+(بدون متن)
+----------------------------------------
+[2026-09-27T14:31:20+00:00] (id:11380)
+◾ پیدا کردن سایت ‌های رایگان استریم فیلم، سریال، انیمه و مانگا
+◾ اگر برای پیدا کردن سایت‌های مختلف استریم فیلم و سریال، انیمه، مانگا یا پخش زنده همیشه مجبورید بین چندین سایت جست‌وجو کنید، TBCPL می‌تواند این فرایند را ساده‌تر کند. TBCPL یا The Best Couch Potato List یک دایرکتوری از سایت‌های سرگرمی است که در حال حاضر بیش از 110 سایت را در 6 دسته مختلف و 16 منطقه فهرست کرده است.
+
+◾ مشاهده سایت
+
+#Streaming #Movie #Free #TBCPL
 ----------------------------------------
