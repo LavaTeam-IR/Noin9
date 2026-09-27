@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-09-27 20:09:37 UTC
+آخرین آپدیت: 2026-09-27 23:02:02 UTC
 کانال: @v2ray_configs_pools
 ========================================
 
@@ -7,4 +7,21 @@
 ----------------------------------------
 [2026-09-27T18:30:35+00:00] (id:3572)
 (بدون متن)
+----------------------------------------
+[2026-09-27T20:54:50+00:00] (id:3573)
+📲 LINIA NUMBERS
+
+Private virtual numbers for online registrations.
+
+✅ Incoming SMS in Telegram
+✅ 28-day rental
+✅ Packs up to 200 numbers
+✅ Multiple countries
+✅ USDT TRC-20 payments
+✅ Telegram support
+
+Keep your personal number private.
+
+👉 Get your number:
+https://t.me/LiniaNumbersShopBot?start=launch_telega_privacy
 ----------------------------------------
