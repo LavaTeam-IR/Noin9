@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-09-28 15:51:02 UTC
+آخرین آپدیت: 2026-09-28 21:25:31 UTC
 کانال: @V2ray_Collector
 ========================================
 
@@ -17,4 +17,14 @@ hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?security=tls&fp=chrome&alpn=h3#@V2ray
 ----------------------------------------
 [2026-09-28T10:48:51+00:00] (id:1536)
 (بدون متن)
+----------------------------------------
+[2026-09-28T16:31:09+00:00] (id:1538)
+1 · 🇵🇱 Poland · Hysteria2
+hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443?insecure=1#@V2ray_Collector
+
+💻 Give every device a backup option. Subscribe to @OutlineReleasedKey for extra configs.
+
+🔸 Official source: @V2ray_Collector
+
+#FreeVPN #Proxy #V2Ray
 ----------------------------------------
