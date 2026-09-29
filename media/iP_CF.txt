@@ -1,56 +1,7 @@
-آخرین آپدیت: 2026-09-29 06:51:43 UTC
+آخرین آپدیت: 2026-09-29 13:26:23 UTC
 کانال: @iP_CF
 ========================================
 
-[2026-09-27T13:06:19+00:00] (id:11370)
-(بدون متن)
-----------------------------------------
-[2026-09-27T13:06:57+00:00] (id:11371)
-tg://proxy?server=77.42.56.66&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-
-tg://proxy?server=93.113.230.221&port=443&secret=dd6a67ae4c2d173b4168745435cb313a39
-
-tg://proxy?server=good.cipservice.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=sd.cipservice2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=noron.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=idiot.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=new.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=me.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=rain.lavazemi2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=iro.varfootball2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=gallery.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=at.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=ai.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=gold.lavazemi4.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=run.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-tg://proxy?server=91.107.154.103&port=2053&secret=ee5444bacec0a583c4ab73133c5e9a0cef7777772e636c6f7564666c6172652e636f6d
-
-tg://proxy?server=94.184.39.111&port=2020&secret=00000000000000000000000000000000
-
-🔰 تعدادی پروکسی تست شده مخصوص همه ی اپراتورها
-----------------------------------------
-[2026-09-27T13:09:30+00:00] (id:11372)
-(بدون متن)
-----------------------------------------
 [2026-09-27T13:09:35+00:00] (id:11373)
 🚀 NekoBox+ 1.4.2-97 منتشر شد
 
@@ -125,4 +76,28 @@ https://github.com/patterniha/PattNG/releases/tag/2.3.9-P57
 #OxiDe
 🤍  More : @IP_CF
 🤍  Group : @IP_CF_GROUP
+----------------------------------------
+[2026-09-29T11:17:03+00:00] (id:11390)
+(بدون متن)
+----------------------------------------
+[2026-09-29T11:17:46+00:00] (id:11391)
+1.PROXY 2.PROXY 3.PROXY
+4.PROXY 5.PROXY 6.PROXY
+7.PROXY 8.PROXY 9.PROXY
+10.PROXY11.PROXY12.PROXY
+13.PROXY14.PROXY15.PROXY
+16.PROXY17.PROXY18.PROXY
+19.PROXY20.PROXY21.PROXY
+22.PROXY23.PROXY24.PROXY
+25.PROXY26.PROXY27.PROXY
+28.PROXY29.PROXY30.PROXY
+
+🔰 تعدادی پروکسی تلگرام برای همه ی اپراتورها
+----------------------------------------
+[2026-09-29T11:20:04+00:00] (id:11392)
+✨ 1 USDT :
+💸 253,322 toman
+💵 $1 dollar
+
+😕
 ----------------------------------------
