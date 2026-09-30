@@ -1,10 +1,7 @@
-آخرین آپدیت: 2026-09-30 01:36:11 UTC
+آخرین آپدیت: 2026-09-30 07:23:17 UTC
 کانال: @ShadowsocksM
 ========================================
 
-[2026-09-06T09:36:26+00:00] (id:15186)
-(بدون متن)
-----------------------------------------
 [2026-09-08T20:08:58+00:00] (id:15187)
 نسخه جدید Oblivion v8 منتشر شد 
 
@@ -153,4 +150,21 @@ b5HjoA2aoOryeRnLZ+t7MSYRJu9cZ8JqpKYf3J9hktCbwSHs
 xjXxWX0cqFaLh4AsMitSXX1faPYcVJo+fne1Cl4vWHFirWH9
 5s5hXLDm64UcdzL2HPT3D641RgA=
 -----END ARGO VPN BRIDGE BLOCK-----
+----------------------------------------
+[2026-09-30T04:34:41+00:00] (id:15206)
+MRGram Desktop v1.0.0
+
+Based on Telegram Desktop 7.2.9
+Features
+
+    Forward Pro built-in
+    Direct Forward built-in
+    Ghost Mode
+        Hide Online status
+        Hide Read / Seen status
+        Hide Typing status
+    Quick Proxy toggle
+    Windows x64 support
+
+https://github.com/ShadowSocksM/MRgram-Desktop/releases/tag/v1.0.0-tdesktop-7.2.9
 ----------------------------------------
