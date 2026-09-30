@@ -1,52 +1,7 @@
-آخرین آپدیت: 2026-09-30 13:58:52 UTC
+آخرین آپدیت: 2026-09-30 18:54:46 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-09-30T00:00:14+00:00] (id:4206)
-(بدون متن)
-----------------------------------------
-[2026-09-30T02:00:09+00:00] (id:4207)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/08
-🇬🇧 2026/09/30
-🕒 05:30:05
-
-🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-09-30T04:00:14+00:00] (id:4209)
-(بدون متن)
-----------------------------------------
-[2026-09-30T04:01:02+00:00] (id:4210)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/08
-🇬🇧 2026/09/30
-🕒 07:30:59
-
-🇹🇷 ᴘʀᴏxʏ | 🇹🇷 ᴘʀᴏxʏ | 🇹🇷 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇫🇷 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇹🇷 ᴘʀᴏxʏ | 🇹🇷 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-09-30T05:58:02+00:00] (id:4211)
-Web Proxy
-
-tg://webproxy?server=proxy.btb.onl&secret=c65971187df6f633ab62b21d03c4d504&bot=
-
-https://t.me/proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ&bot=
-
-tg://webproxy?server=ultrafast.blog&secret=35ed0d45ffb5299af435492606ca6717&bot=
-
-https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ&bot=
-
-https://t.me/proxy?server=good.cipservice.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ&bot=
-----------------------------------------
 [2026-09-30T06:01:02+00:00] (id:4212)
 🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
 ❏❏❏❏❏❏❏❏❏❏❏❏❏❏
@@ -186,4 +141,141 @@ https://t.me/proxy?server=love.roseprox.xyz&port=2443&secret=ee74e3501358c742b6e
 https://t.me/proxy?server=91.107.141.165&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 
 https://t.me/proxy?server=167.233.18.129&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
+----------------------------------------
+[2026-09-30T14:00:28+00:00] (id:4225)
+ایمیل موقت (fake mail)
+
+این روزها خیلی از سایت‌ها و برنامه‌ها برای ثبت‌نام، دانلود یا استفاده از امکاناتشون از شما یک آدرس ایمیل می‌خوان.
+مشکل اینجاست که بعضی سرویس‌ها ممکنه از ایمیل شما برای ارسال تبلیغات، اسپم، تحلیل رفتار کاربر یا حتی اهداف بازاریابی استفاده کنن.
+ایمیل شما یکی از اطلاعات مهمیه که می‌تونه برای ردیابی آنلاین، حملات فیشینگ یا تلاش برای نفوذ به حساب‌ها مورد استفاده قرار بگیره.
+اگر نمی‌خواید ایمیل اصلی‌تون پر از پیام‌های تبلیغاتی بشه، بهتره برای سایت‌های ناشناس، تست سرویس‌ها، دانلودها و اکانت‌های کم‌اهمیت از ایمیل موقت استفاده کنید.
+⚠️ توجه:
+از ایمیل‌های موقت برای حساب‌های مهم مثل بانک، صرافی، ایمیل اصلی، شبکه‌های اجتماعی و سرویس‌هایی که بازیابی حساب براشون مهمه استفاده نکنید.
+━━━━━━━━━━━━
+📮 معرفی۵۰ سرویس ایمیل موقت
+
+https://mail.tm
+https://atomicmail.io
+https://temp-mail.org
+https://www.guerrillamail.com
+https://10minutemail.com
+https://smailpro.com
+https://www.emailondeck.com
+https://yopmail.com
+https://mailsac.com
+https://tempr.email
+https://tempail.com
+https://www.mohmal.com
+https://www.mailinator.com
+https://dropmail.me
+https://generator.email
+https://temp-mail.io
+https://tempmail.plus
+https://burnermail.io
+https://mailnesia.com
+https://www.dispostable.com
+https://emailfake.com
+https://www.fakemail.net
+https://emaildrop.io
+https://temporarymail.com
+https://one-off.email
+https://getnada.com
+https://inboxkitten.com
+https://mailpoof.com
+https://adguard.com/en/adguard-temp-mail/overview.html
+https://www.tempinbox.xyz
+https://www.trash-mail.com
+https://www.crazymailing.com
+https://www.temp-mails.com
+https://www.mytrashmail.com
+https://www.33mail.com
+https://www.emailnator.com
+https://erine.email
+https://privatlab.com
+https://mailspeed.co
+https://mail.td
+https://internxt.com/temporary-email
+https://tempmailo.com
+https://incognitomail.com
+https://tempmail100.com
+https://tempmail365.com
+https://mail7.io
+https://spamgourmet.com
+https://byom.de/trashmails
+https://altmails.com
+https://tempmail.dev
+https://tempfastmail.com/
+━━━━━━━━━━━━
+✉️ معرفی ربات‌های ایمیل موقت تلگرام
+
+در داخل تلگرام نیز ربات هایی وجود دارد که میتوانید برای دریافت ایمیل موقت از آنها استفاده کنید
+✅ مناسب برای ثبت‌نام‌های یک‌باره
+✅ دریافت کد تأیید
+✅ تست سرویس‌ها
+✅ ساخت اکانت آزمایشی
+✅ بدون نیاز به شماره تلفن
+✅ رایگان و سریع
+🤖 ربات‌ها:
+@e2tgPM_bot
+@mailtemprobot
+@hidemail_bot
+@TapMailBBot
+@botmail_io_bot
+@temp_mail_bot
+@fakemailbot
+@etlgr_bot
+@DropmailBot
+@tmpmailbot
+@TempMail_org_bot
+@TempMailer_bot
+@smtpbot
+@SenthyBot
+@TempMailBot
+@telegaemail_bot
+----------------------------------------
+[2026-09-30T14:00:58+00:00] (id:4226)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/08
+🇬🇧 2026/09/30
+🕒 17:30:55
+
+🇷🇺 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇷 ᴘʀᴏxʏ
+🇷🇺 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ
+🇳🇱 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-30T14:42:37+00:00] (id:4227)
+(بدون متن)
+----------------------------------------
+[2026-09-30T16:00:14+00:00] (id:4229)
+(بدون متن)
+----------------------------------------
+[2026-09-30T16:00:42+00:00] (id:4230)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/08
+🇬🇧 2026/09/30
+🕒 19:30:39
+
+🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇨🇦 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-09-30T18:00:35+00:00] (id:4231)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/08
+🇬🇧 2026/09/30
+🕒 21:30:29
+
+🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇳🇱 ᴘʀᴏxʏ | 🇸🇬 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇬🇧 ᴘʀᴏxʏ
+🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
 ----------------------------------------
