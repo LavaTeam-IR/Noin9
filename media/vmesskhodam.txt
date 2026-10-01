@@ -1,25 +1,7 @@
-آخرین آپدیت: 2026-10-01 14:49:15 UTC
+آخرین آپدیت: 2026-10-01 19:55:09 UTC
 کانال: @vmesskhodam
 ========================================
 
-[2026-09-28T18:27:01+00:00] (id:10643)
-https://t.me/proxy?server=198.251.91.184&port=9443&secret=ee245cf66854d278e49ff68172334bf0
-
-https://t.me/proxy?server=94.184.39.1122.suser.ir&port=2020&secret=00000000000000000000000000000000
-
-https://t.me/proxy?server=87.248.129.6&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20
-
-https://t.me/proxy?server=adam.poolaki.co.uk&port=8443&secret=104462821249bd7ac519130220c25d09
-
-https://t.me/proxy?server=212.108.98.100.aprawood.ir&port=2020&secret=00000000000000000000000000000000
-
-https://t.me/proxy?server=gallery.talebi.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09
-
-https://t.me/proxy?server=good.cipservice.co.uk&port=2083&secret=79e344818749bd7ac519130220c25d09
-
-https://t.me/proxy?server=noron.talebi.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09
-🤍﻿@vmesskhodam
-----------------------------------------
 [2026-09-29T18:59:01+00:00] (id:10650)
 tg://proxy?server=genuismind.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 
@@ -50,5 +32,21 @@ https://t.me/proxy?server=hibf6.ir.lpfss.co.uk.i9l9.ir.&port=8443&secret=7hYDAQI
 https://t.me/proxy?server=park.monik.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=
 
 https://t.me/proxy?server=fruit.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+🤍@vmesskhodam
+----------------------------------------
+[2026-10-01T19:03:01+00:00] (id:10666)
+tg://proxy?server=194.60.228.63&port=8880&secret=dd79e344818749bd7ac519130220c25d09
+
+tg://proxy?server=194.60.228.144&port=8880&secret=79e344818749bd7ac519130220c25d09
+
+tg://proxy?server=93.113.230.221&port=443&secret=dd6a67ae4c2d173b4168745435cb313a39
+
+tg://proxy?server=93.113.230.221&port=443&secret=dd6a67ae4c2d173b4168745435cb313a39
+
+tg://proxy?server=65.21.222.229&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+tg://proxy?server=162.55.246.219&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=91.107.190.68&port=8443&secret=dd79e344818749bd7ac519130220c25d09
 🤍@vmesskhodam
 ----------------------------------------
