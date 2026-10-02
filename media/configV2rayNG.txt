@@ -1,28 +1,7 @@
-آخرین آپدیت: 2026-10-01 23:35:59 UTC
+آخرین آپدیت: 2026-10-02 02:33:13 UTC
 کانال: @configV2rayNG
 ========================================
 
-[2026-06-24T14:26:22+00:00] (id:18935)
-📱 WG Tunnel 5.7.5 بروزرسانی جدید منتشر شد
-
-https://github.com/wgtunnel/android/releases/tag/5.7.5
-
-نسخه مخصوص گوشی های جدید
-👇👇👇👇👇👇
-https://github.com/wgtunnel/android/releases/download/5.7.5/wgtunnel-standalone-v5.7.5-arm64.apk
-
-نسخه مخصوص گوشی های قدیمی
-👇👇👇👇👇👇
-
-https://github.com/wgtunnel/android/releases/download/5.7.5/wgtunnel-standalone-v5.7.5-armv7.apk
-
-کانفیگ های رایگان برنامه WG Tunnel
-👇👇👇👇👇👇
-
-https://t.me/ConfigV2rayNG/18657
-
-https://t.me/ConfigV2rayNG/18227
-----------------------------------------
 [2026-06-28T03:02:06+00:00] (id:18957)
 📌 راهنمای فعال کردن Fragment
 اگر در اتصال VPN مشکل دارید یا می‌خواهید کیفیت اتصال بهتری داشته باشید، می‌توانید Fragment را با مقادیر زیر فعال کنید. (مخصوصا برای ایرانسلی‌ها)

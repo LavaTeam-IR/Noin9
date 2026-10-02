@@ -1,43 +1,7 @@
-آخرین آپدیت: 2026-10-01 23:36:42 UTC
+آخرین آپدیت: 2026-10-02 02:34:05 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-10-01T09:19:01+00:00] (id:4251)
-پل Argo VPN
-
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eNoVzMFugjAAANB/6dmEwpwJ3qQia0UU5yIYLi0yWqjUUSiri/++7fyS9wNM1Wuh
-OrB0Z+BOrVT0CpagsmQqbz5kXmIYwgvchiJG5HHJiHfJsNgLIvMscOl5WFD72jAP
-/vvEXgjEjYLJOvHBDGhRd3QY++qv3IU5wun6EX1zWX66E3xjvHCygyaxKpyVaeox
-yIOj4GeUbvbQ+PU9xXx1GOcxJ6dtQ+xHqFsc4BYdbcQ9bZQunPI9Qd2VDVJ+RT14
-/gLt2kVt
------END ARGO VPN BRIDGE BLOCK-----
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzMEOgiAAANB/4VoHoc2irUORFpQ2a030ZonKSqwUHLb+
-Pe9v7wuM+LSyUWAJp+CV2WeT5WAJhGX9vcbODYXmRqhLH548
-EjaknKGUU3mSzCYIvvPZVScId1T28r7DNh9tuI2GIlqtwBS0
-slRZpz9iLAMvITTa4rSKFZlfA+4wVyVNibh+vOLY0ai2Dhzc
-1PgVXlxw2dNqfQjVs3sLbuLZxXB5aguyj0S3oTAQfeWda+Uq
-X2cTsYfg9wc2gUP2
------END ARGO VPN BRIDGE BLOCK-----
-----------------------------------------
-[2026-10-01T10:00:21+00:00] (id:4252)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/09
-🇬🇧 2026/10/01
-🕒 13:30:18
-
-🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇹🇷 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇬🇧 ᴘʀᴏxʏ | 🇬🇧 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-10-01T11:37:23+00:00] (id:4253)
-(بدون متن)
-----------------------------------------
 [2026-10-01T12:00:14+00:00] (id:4256)
 (بدون متن)
 ----------------------------------------
@@ -136,6 +100,34 @@ X2cTsYfg9wc2gUP2
 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇸🇰 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
 🏳️ ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-10-02T00:00:14+00:00] (id:4273)
+(بدون متن)
+----------------------------------------
+[2026-10-02T00:00:33+00:00] (id:4274)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/10
+🇬🇧 2026/10/02
+🕒 03:30:30
+
+🇳🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
+🇫🇮 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-10-02T02:00:33+00:00] (id:4275)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/10
+🇬🇧 2026/10/02
+🕒 05:30:31
+
+🇳🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
 
 🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
 ----------------------------------------
