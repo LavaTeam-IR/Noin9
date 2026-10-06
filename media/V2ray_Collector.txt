@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-10-06 07:59:53 UTC
+آخرین آپدیت: 2026-10-06 14:58:13 UTC
 کانال: @V2ray_Collector
 ========================================
 
@@ -14,4 +14,25 @@ hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.133:8443/?insecure=
 ----------------------------------------
 [2026-10-05T10:46:32+00:00] (id:1559)
 (بدون متن)
+----------------------------------------
+[2026-10-06T10:46:57+00:00] (id:1563)
+(بدون متن)
+----------------------------------------
+[2026-10-06T12:00:55+00:00] (id:1564)
+🏆 COMMUNITY DROP
+
+Hysteria2 won · 86% · 6 votes
+
+1 · 🇷🇺 Russian Federation · Hysteria2
+hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?insecure=1&security=tls&sni=srv-17e124.21freedom.net#@V2ray_Collector
+
+2 · 🇳🇱 Netherlands · Hysteria2
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.105:8443?insecure=1&sni=grape-test-italy.dynuddns.net#@V2ray_Collector
+
+3 · 🇳🇱 Netherlands · Hysteria2
+hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net#@V2ray_Collector
+
+🔸 Official source: @V2ray_Collector
+
+#FreeVPN #Proxy #V2Ray
 ----------------------------------------
