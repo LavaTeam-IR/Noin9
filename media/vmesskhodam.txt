@@ -1,20 +1,7 @@
-آخرین آپدیت: 2026-10-05 12:33:30 UTC
+آخرین آپدیت: 2026-10-06 01:29:48 UTC
 کانال: @vmesskhodam
 ========================================
 
-[2026-09-30T12:43:01+00:00] (id:10655)
-https://t.me/proxy?server=iro.varfootball2.co.uk&port=2053&secret=
-eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=hibf6.ir.lpfss.co.uk.i9l9.ir.&port=8443&secret=7hYDAQIAAQAB_AMEhuJMOt0
-
-https://t.me/proxy?server=park.monik.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=
-
-https://t.me/proxy?server=fruit.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-🤍@vmesskhodam
-----------------------------------------
 [2026-10-01T19:03:01+00:00] (id:10666)
 tg://proxy?server=194.60.228.63&port=8880&secret=dd79e344818749bd7ac519130220c25d09
 
