@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-10-06 14:58:34 UTC
+آخرین آپدیت: 2026-10-06 19:59:28 UTC
 کانال: @vmesskhodam
 ========================================
 
@@ -30,4 +30,16 @@ tg://proxy?server=93.113.230.221&port=443&secret=dd6a67ae4c2d173b4168745435cb313
 ----------------------------------------
 [2026-10-03T16:36:43+00:00] (id:10673)
 اختلال رو نتا انداختن🥲
+----------------------------------------
+[2026-10-06T19:57:01+00:00] (id:10685)
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eNoVzNtugjAAANB/6bOJtcoyTPbg8NZCUaPIJb4UW0gR2gmTUpf9u9vzSc4P6EXb
+Sa3AfDICX8zWmnEwB8ISc21cmKOwzz38hm8rGXjkmSUEZQmWO0lurKnbazw8+dGp
+cgT/3eRTAnGlYbgMXTACnSwV+3604q+kq8jDh+XCsPeMXsYmPQk14ch6xLHTKtKD
+3zOVNoFLH3y2K/U5PuAywfWeq83wSQt6cgISiSiGiQqtjwqTDvbeHrf+ds0v46L7
+AL8v/b9FQw==
+-----END ARGO VPN BRIDGE BLOCK-----
+پل آرگو وی پی ان
+
+@vmesskhodam
 ----------------------------------------
