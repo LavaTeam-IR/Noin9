@@ -1,27 +1,7 @@
-آخرین آپدیت: 2026-10-07 09:18:26 UTC
+آخرین آپدیت: 2026-10-07 16:38:54 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-10-04T18:27:47+00:00] (id:17365)
-PattNG 2.3.10-P60
-
-آپدیت جدید کلاینت
-(فورک بهینه شده مناسب نت ایران)
-
-🔗لینک دانلود نسخه جدید
-https://github.com/patterniha/PattNG/releases/tag/2.3.10-P60
-
-📍تغییرات این نسخه
-
-🔺آموزش fragment+fingerprint
-🔻آموزش استفاده از کانفیگ Aether
-🔺لینک ساب اختصاصی
-🔻پیدا کردن ایپی تمیز
-🔺آموزش زنجیره
-🔻آموزش اتصال وارپ+سایفون
-📍با Aether ipv6 متصله
-🫆@ShadowProxy66
-----------------------------------------
 [2026-10-04T20:34:35+00:00] (id:17370)
 لینک ساب سبک موقت V2ray  https://mifa.world/neon  آموزش استفاده در V2rayNg هر شب لینک تغییر میکنه لینک قبلی رو پاک کنید و لینک جدید رو وارد کنید
 ----------------------------------------
@@ -162,4 +142,30 @@ V2rayNg & Hiddify & karing & ...
 🔁بقیه اپراتورها خودشون تست کنند
 🪧(فایل رو باز کنید محتویات رو کپی کنید و در هر کلاینتی که مدنظر دارید پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید اگه وصل نشد کلاینتهای دیگه تست کنید)
 🔅@ShadowProxy66
+----------------------------------------
+[2026-10-07T10:17:24+00:00] (id:17388)
+(بدون متن)
+----------------------------------------
+[2026-10-07T10:17:45+00:00] (id:17389)
+aether://[2606:4700:d0::bc72:6244]:2371?protocol=wg&scan=balanced&ip=v6#%40ShadowProxy66
+
+aether://?protocol=gool&scan=balanced&ip=both&outer=%5B2606%3A4700%3Ad0%3A%3Aa29f%3Ac301%5D%3A878&inner=%5B2606%3A4700%3Ad0%3A%3Aa29f%3Ac001%5D%3A859#%40ShadowProxy66
+
+aether://?protocol=gool&scan=balanced&ip=v6&outer=%5B2606%3A4700%3Ad1%3A%3Abc72%3A6136%5D%3A859&inner=%5B2606%3A4700%3Ad0%3A%3Aa29f%3Ac001%5D%3A2408#%40ShadowProxy66
+
+aether://?protocol=gool&scan=balanced&ip=v6&outer=%5B2606%3A4700%3Ad1%3A%3Abc72%3A6383%5D%3A859&inner=%5B2606%3A4700%3Ad0%3A%3Abc72%3A6001%5D%3A4500#%40ShadowProxy66
+
+aether://[2606:4700:d0::a29f:c3f8]:939?protocol=wg&scan=balanced&ip=v6#%40ShadowProxy66
+
+aether://?protocol=gool&scan=balanced&ip=v6&outer=%5B2606%3A4700%3Ad0%3A%3Aa29f%3Ac001%5D%3A2408&inner=%5B2606%3A4700%3Ad0%3A%3Aa29f%3Ac301%5D%3A1701#%40ShadowProxy66
+
+aether://?protocol=gool&scan=balanced&ip=both&outer=%5B2606%3A4700%3Ad0%3A%3Abc72%3A6001%5D%3A880&inner=162.159.192.1%3A2408#%40ShadowProxy66
+
+aether://?protocol=gool&scan=balanced&ip=v4&outer=188.114.97.1%3A4500&inner=188.114.96.163%3A878#%40ShadowProxy66
+
+aether://162.159.195.184:891?protocol=wg&scan=balanced&ip=both#%40ShadowProxy66
+
+aether://188.114.99.41:987?protocol=wg&scan=balanced&ip=v4#%40ShadowProxy66
+10 کانفیگ Aether برای استفاده در کلاینت PattNg
+⭐️@ShadowProxy66
 ----------------------------------------

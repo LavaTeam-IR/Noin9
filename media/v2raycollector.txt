@@ -1,68 +1,7 @@
-آخرین آپدیت: 2026-10-07 09:18:09 UTC
+آخرین آپدیت: 2026-10-07 16:38:36 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-10-07T00:00:57+00:00] (id:4469)
-(بدون متن)
-----------------------------------------
-[2026-10-07T00:01:03+00:00] (id:4470)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/15
-🇬🇧 2026/10/07
-🕒 03:31:00
-
-🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇸🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇱🇻 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇬🇧 ᴘʀᴏxʏ | 🇨🇦 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇸🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇮🇹 ᴘʀᴏxʏ
-🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-10-07T04:01:03+00:00] (id:4471)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/15
-🇬🇧 2026/10/07
-🕒 07:31:00
-
-🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-10-07T04:01:29+00:00] (id:4473)
-(بدون متن)
-----------------------------------------
-[2026-10-07T05:30:34+00:00] (id:4474)
-(بدون متن)
-----------------------------------------
-[2026-10-07T06:01:03+00:00] (id:4475)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/15
-🇬🇧 2026/10/07
-🕒 09:31:00
-
-🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-10-07T07:33:53+00:00] (id:4476)
-(بدون متن)
-----------------------------------------
-[2026-10-07T07:33:53+00:00] (id:4477)
-(بدون متن)
-----------------------------------------
-[2026-10-07T07:33:54+00:00] (id:4478)
-(بدون متن)
-----------------------------------------
-[2026-10-07T07:33:54+00:00] (id:4479)
-(بدون متن)
-----------------------------------------
-[2026-10-07T07:33:55+00:00] (id:4480)
-(بدون متن)
-----------------------------------------
 [2026-10-07T07:33:58+00:00] (id:4481)
 (بدون متن)
 ----------------------------------------
@@ -95,4 +34,157 @@
 🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇭🇰 ᴘʀᴏxʏ
 
 🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-10-07T09:30:27+00:00] (id:4489)
+(بدون متن)
+----------------------------------------
+[2026-10-07T10:01:04+00:00] (id:4490)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/15
+🇬🇧 2026/10/07
+🕒 13:31:01
+
+🇫🇮 ᴘʀᴏxʏ | 🇺🇸 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-10-07T11:45:20+00:00] (id:4491)
+Telegram Proxy
+
+https://t.me/proxy?server=isaco.ir.setado.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=167.233.134.185&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=p71.se.clazumo.ir&port=8443&secret=ee4529f133482891e02ac55d0794371755617069322e6272616e63682e696f
+
+https://t.me/proxy?server=great.cipservice.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=94.184.32.101.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+
+https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=00iii8km7p.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=xvif.0mhku.cst.8bfy5.hif6.9pn.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=rain.lavazemi2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=login.kerfilia.info&port=6775&secret=7umk8jsddowEqNfzkSDKW25iaXNjb3R0aS55ZWt0YW5ldC5jb20
+
+https://t.me/proxy?server=p24.fi.clazumo.ir&port=8443&secret=eeb72a60da7c3c2c5f930867bf5ee31e7b617069322e6272616e63682e696f
+
+https://t.me/proxy?server=p6.tr.clazumo.ir&port=8443&secret=ee4a4664b1120dfd16788bf3b1c929532f617069322e6272616e63682e696f
+
+https://t.me/proxy?server=p10.es.clazumo.ir&port=8443&secret=ee50f88b10695246ff757816fdc8d8cff1617069322e6272616e63682e696f
+
+https://t.me/proxy?server=p4.us.clazumo.ir&port=8443&secret=ee38305936cc14aaabcf3d56bc11ce69c2617069322e6272616e63682e696f
+
+https://t.me/proxy?server=p5.nl.clazumo.ir&port=8443&secret=eef2c9c32d8038200f80621305b00eeb88617069322e6272616e63682e696f
+
+https://t.me/proxy?server=p70.us.clazumo.ir&port=8443&secret=eea8a9947e1ab0b9c30616eb087396be84617069322e6272616e63682e696f
+
+https://t.me/proxy?server=shekargah.kolbar-zahmatkesh.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
+
+https://t.me/proxy?server=great.cipservice.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=167.233.139.145&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=vasalshim.mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=ai.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=shenzar-sahel.dashtodaman.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
+
+https://t.me/proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
+
+https://t.me/proxy?server=shekargah.kolbar-zahmatkesh.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
+
+https://t.me/proxy?server=torobchesho.co.uk.&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01746f726f6263686573686f2e636f2e756b
+
+https://t.me/proxy?server=craft.malavanann.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=mangoseason8.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=are.ajjab.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=name.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=recordzan.herfeibash.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
+
+https://t.me/proxy?server=91.107.155.20&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=noon.begir.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=95.216.170.50&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+----------------------------------------
+[2026-10-07T12:01:04+00:00] (id:4492)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/15
+🇬🇧 2026/10/07
+🕒 15:31:00
+
+🇳🇱 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
+🇭🇰 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-10-07T12:01:44+00:00] (id:4494)
+(بدون متن)
+----------------------------------------
+[2026-10-07T13:30:38+00:00] (id:4495)
+(بدون متن)
+----------------------------------------
+[2026-10-07T14:01:03+00:00] (id:4496)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/15
+🇬🇧 2026/10/07
+🕒 17:31:00
+
+🇺🇸 ᴘʀᴏxʏ | 🇺🇸 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
+🇭🇰 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇳🇱 ᴘʀᴏxʏ | 🇺🇸 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-10-07T14:30:46+00:00] (id:4497)
+آموزش استفاده از پروتوکل SSTP سایت vpngate هستش 
+
+روی اندروید و ویندوز و همه Ai رو راحت باز میکنه
+• Gemini
+• ai.dev
+• Claude
+• Google Flow
+وب خودش فیلتر بود حالا اینو زدم کنارش راحتر دوس داشتید استفاده کنید
+
+🌐 https://sstp.wireconf.workers.dev/
+اینم می‌تونید استفاده کنید IPSpeed
+یکی دوتاشو تست کنید وصل میشه
+
+لینک دانلود اپ ها
+• 📱Incy
+• 📱OpenSSTP
+@ConfigWireguard
+----------------------------------------
+[2026-10-07T16:01:06+00:00] (id:4498)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/15
+🇬🇧 2026/10/07
+🕒 19:31:00
+
+🏳️ ᴘʀᴏxʏ | 🇵🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇵🇱 ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-10-07T16:01:51+00:00] (id:4500)
+(بدون متن)
 ----------------------------------------
