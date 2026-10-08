@@ -1,160 +1,7 @@
-آخرین آپدیت: 2026-10-08 07:29:34 UTC
+آخرین آپدیت: 2026-10-08 14:49:16 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-10-07T14:30:46+00:00] (id:4497)
-آموزش استفاده از پروتوکل SSTP سایت vpngate هستش 
-
-روی اندروید و ویندوز و همه Ai رو راحت باز میکنه
-• Gemini
-• ai.dev
-• Claude
-• Google Flow
-وب خودش فیلتر بود حالا اینو زدم کنارش راحتر دوس داشتید استفاده کنید
-
-🌐 https://sstp.wireconf.workers.dev/
-اینم می‌تونید استفاده کنید IPSpeed
-یکی دوتاشو تست کنید وصل میشه
-
-لینک دانلود اپ ها
-• 📱Incy
-• 📱OpenSSTP
-@ConfigWireguard
-----------------------------------------
-[2026-10-07T16:01:06+00:00] (id:4498)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/15
-🇬🇧 2026/10/07
-🕒 19:31:00
-
-🏳️ ᴘʀᴏxʏ | 🇵🇱 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇵🇱 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-10-07T16:01:51+00:00] (id:4500)
-(بدون متن)
-----------------------------------------
-[2026-10-07T18:01:05+00:00] (id:4501)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/15
-🇬🇧 2026/10/07
-🕒 21:31:00
-
-🇩🇪 ᴘʀᴏxʏ | 🇸🇬 ᴘʀᴏxʏ | 🇭🇰 ᴘʀᴏxʏ | 🇭🇰 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇭🇰 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-10-07T18:31:23+00:00] (id:4502)
-🍷درود به همه رفقا...
-بعد از محدودیت های اخیر در فیلترنت و محدود شدن بیشتر پروتوکل ها و روش های رایگان مربوط به کلودفلر و...
-تصمیم بر این گرفتم تست های مختلف طی چند روز انجام بدم و بهتون بگم چه روش هایی/اپلیکیشن هایی متصل هستند تا کمکی به شما رفقا باشه.
-
-بهترین اپلیکیشم اتصال برای همه 
-دیوایس ها(ios,android,windows) از نظر بنده:
-
-📱اپلیکیشن defyx vpn: هست،اپلیکیشن کامل و متن باز که از نظر من جای بدافزار هایی مثل جامپ جامپ که روی همه گوشیا نصبه باید از defyx استفاده کنید ویژگی xray و بروز بودن این اپ در #فیلترینگ کمک بزرگی میکنه😍
-
-لینک دانلود بر اساس سیستم عامل متفاوت:
-👽android:
-
-https://play.google.com/store/apps/details?id=de.unboundtech.defyxvpn
-
-🛍️ios:
-
-https://apps.apple.com/pk/app/defyx/id6746811872
-
-💻 windows :
-
-https://github.com/UnboundTechCo/defyxVPN/releases
-
-🤝اپلیکیشن بعدی Mahsang:
-
-بهترین روش برای اتصال به مهسا روش هایی مثل سایفون داخل اپ هست که کاملا متصله روی همه نتا فقط نیاز که برنامه رو بریزید و از بالا گزینه P و روی حالت سایفون بزارید تا متصل شید اگر اون حالت جواب نده #کانفیگ های EMS در سخت فیلترینگ هم وصله.
-
-🛒دانلود اپلکیشن Mahsang:
-
-https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG
-
-🔥اپلیکیشن white vpn:
-
-اپلیکیشن بروز با هسته های بسیار خوب و داشتن ساب پیشفرض در برنامه برای وصل شدن در شرایط سخت #فیلترنت این اپلیکیشن هم کلاینت و هم روشی برای دور زدن محدودیت ها بر مبنا dns هست:
-
-💻گیتهاب پروژه:
-
-https://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.6.10
-
-🙂روش های کلودفلر و پترینها:
-
-1️⃣روش اول:
-داخل پنل های کلودفلر(bpb) خود گزینه ECH رو فعال کنید مشکل وصل نشدن حله میشه مهم ترین پیدا کردن ip تمیز بر اساس نت هست بهترین اسکنر از نظر من:
-
-https://github.com/ashanews9776-eng/asha_scanner/releases/tag/v0.8.3
-
-https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v1.1.1
-
-2️⃣روش دوم:(استفاده از ساب رایگان پترنیها)
-پیشنهاد میشه این لینک ساب یا هر کانفیگی از نوع پروتوکل رو داخل اپ های خود پترنیها یعنی pattng/pattn بزنید اگر هم بلد نیستید میتونید از ویدیو آموزش استفاده کنید.
-
-https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt#Patterniha-F
-
-💡توجه:ممکنه بسیاری از روش های دیگه مثل وارپ(AETHER) یا حتی SERVER LESS رو نت شما کار کنه اما این بیشتر بستگی به محدودیت های اینترنت و منطقه شما داره این روش ها رو داخل این پست اشاره نکردم زیرا روی همه نتا متصل نیست و منتظر آپدیت جدید از CluvexStudio و patterniha برای هسته Aether و همچنین sni spoof میمونم و بعد از رفع مشکل معرفی میکنم.
-
-@xsfilterrnet 🙂
-----------------------------------------
-[2026-10-07T19:06:07+00:00] (id:4503)
-(بدون متن)
-----------------------------------------
-[2026-10-07T20:01:04+00:00] (id:4504)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/15
-🇬🇧 2026/10/07
-🕒 23:31:01
-
-🇺🇸 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇷 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇺🇸 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-10-07T20:01:05+00:00] (id:4506)
-(بدون متن)
-----------------------------------------
-[2026-10-07T22:01:04+00:00] (id:4507)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/16
-🇬🇧 2026/10/08
-🕒 01:31:01
-
-🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-10-08T00:00:55+00:00] (id:4509)
-(بدون متن)
-----------------------------------------
-[2026-10-08T00:01:02+00:00] (id:4510)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/16
-🇬🇧 2026/10/08
-🕒 03:31:00
-
-🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
 [2026-10-08T02:01:02+00:00] (id:4511)
 🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
 ❏❏❏❏❏❏❏❏❏❏❏❏❏❏
@@ -195,4 +42,139 @@ https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt#Patte
 🇮🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
 
 🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-10-08T08:01:03+00:00] (id:4518)
+(بدون متن)
+----------------------------------------
+[2026-10-08T08:01:04+00:00] (id:4519)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/16
+🇬🇧 2026/10/08
+🕒 11:31:00
+
+🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇷🇴 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇷🇺 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
+🇺🇸 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇫🇮 ᴘʀᴏxʏ | 🇮🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-10-08T09:30:30+00:00] (id:4520)
+(بدون متن)
+----------------------------------------
+[2026-10-08T10:01:03+00:00] (id:4521)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/16
+🇬🇧 2026/10/08
+🕒 13:31:00
+
+🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇺🇸 ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-10-08T11:44:02+00:00] (id:4522)
+(بدون متن)
+----------------------------------------
+[2026-10-08T11:44:03+00:00] (id:4523)
+(بدون متن)
+----------------------------------------
+[2026-10-08T11:44:03+00:00] (id:4524)
+(بدون متن)
+----------------------------------------
+[2026-10-08T12:01:04+00:00] (id:4525)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/16
+🇬🇧 2026/10/08
+🕒 15:31:01
+
+🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-10-08T12:01:19+00:00] (id:4527)
+(بدون متن)
+----------------------------------------
+[2026-10-08T13:30:50+00:00] (id:4528)
+(بدون متن)
+----------------------------------------
+[2026-10-08T14:01:04+00:00] (id:4529)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/16
+🇬🇧 2026/10/08
+🕒 17:31:00
+
+🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇬🇧 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-10-08T14:48:03+00:00] (id:4530)
+Telegram Proxy
+
+https://t.me/proxy?server=good.cipservice.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=digi.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=87.248.129.7&port=2053&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
+
+https://t.me/proxy?server=qadim.zhigool.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=mangoseason8.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=fruit.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=nakhand-mesvak-gerone.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=vasle-sho-binam.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=rond-hamrahaval.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=craft.malavanann.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=portal.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=flat.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=range-sal.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=web.mangoseason7.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=khanda-makoni.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=nakoshimon-jomong.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=zenon.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=vasle-daii.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
+
+https://t.me/proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=great.cipservice.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=atr.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
 ----------------------------------------
