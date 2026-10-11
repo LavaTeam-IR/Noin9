@@ -1,145 +1,7 @@
-آخرین آپدیت: 2026-10-11 06:44:37 UTC
+آخرین آپدیت: 2026-10-11 13:34:25 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-10-10T14:01:03+00:00] (id:4590)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/18
-🇬🇧 2026/10/10
-🕒 17:31:00
-
-🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-10-10T16:01:04+00:00] (id:4591)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/18
-🇬🇧 2026/10/10
-🕒 19:31:00
-
-🇺🇸 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇵🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇵🇱 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🇫🇮 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-10-10T16:05:53+00:00] (id:4593)
-(بدون متن)
-----------------------------------------
-[2026-10-10T17:14:07+00:00] (id:4594)
-🔥 معرفی PattNG؛ یک فورک خفن از V2rayNG برای اندروید! 🚀
-📱 اگه دنبال یه کلاینت متفاوت با قابلیت‌های پیشرفته هستی، این ویدیو رو از دست نده!
-💥 پروژه متن‌باز PattNG با کلی امکانات جذاب منتشر شده که بعضی از مهم‌ترین‌هاش ایناست:
-🔹 پشتیبانی از کانفیگ‌های VLESS، VMess و Shadowsocks
-🔹 افزودن کانفیگ با لینک و Subscription
-🔹 هسته قدرتمند Aether با پشتیبانی از WireGuard و MASQUE
-🔹 ترکیب‌های مختلف WARP، Psiphon و Tor
-🔹 قابلیت جذاب Chain Proxy برای ترکیب کانفیگ‌ها و ساخت زنجیره اتصال
-🔹 تنظیمات متنوع برای تجربه‌ای انعطاف‌پذیرتر در اندروید
-🎬 توی ویدیو تمام قابلیت‌های مهم این پروژه رو معرفی کردم و نحوه کار باهاش رو می‌بینیم.
-
-لینک مشاهده ویدیو در یوتیوب :
-https://youtu.be/dKx8YUrVvg8
-https://youtu.be/dKx8YUrVvg8
-
-لینک پروژه در گیت هاب : 
-https://github.com/patterniha/PattNG
-
-لطفا حمایت فراموش نشه !
-
-@mobamoz_channel
-----------------------------------------
-[2026-10-10T17:14:07+00:00] (id:4595)
-🔥 ساخت پروکسی تلگرام رایگان با Cloudflare!
-
-💻 با یک پروژه متن‌باز در GitHub، برای تلگرام Web Proxy بساز!
-
-✅ رایگان
-✅ بدون نیاز به VPS
-✅ بدون نیاز به دانش برنامه‌نویسی
-✅ آموزش قدم‌به‌قدم
-https://youtu.be/sDLXd4SFTkw
-https://youtu.be/sDLXd4SFTkw
-
-📺 ویدیوی جدید موب آموز رو ببین و امتحانش کن!
-
-لینک کیت هاب پروژه :
-https://github.com/ArasTey/TWP-CF
-📢 @mobamoz_channel
-----------------------------------------
-[2026-10-10T18:01:03+00:00] (id:4596)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/18
-🇬🇧 2026/10/10
-🕒 21:31:01
-
-🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-10-10T20:01:04+00:00] (id:4598)
-(بدون متن)
-----------------------------------------
-[2026-10-10T20:01:04+00:00] (id:4599)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/18
-🇬🇧 2026/10/10
-🕒 23:31:00
-
-🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-10-10T22:01:03+00:00] (id:4600)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/19
-🇬🇧 2026/10/11
-🕒 01:31:00
-
-🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇸🇬 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-10-11T00:01:03+00:00] (id:4602)
-(بدون متن)
-----------------------------------------
-[2026-10-11T00:01:05+00:00] (id:4603)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/19
-🇬🇧 2026/10/11
-🕒 03:31:01
-
-🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-10-11T02:01:04+00:00] (id:4604)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/07/19
-🇬🇧 2026/10/11
-🕒 05:31:00
-
-🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
 [2026-10-11T04:01:03+00:00] (id:4605)
 🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
 ❏❏❏❏❏❏❏❏❏❏❏❏❏❏
@@ -168,4 +30,210 @@ https://github.com/ArasTey/TWP-CF
 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
 
 🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-10-11T07:41:02+00:00] (id:4610)
+(بدون متن)
+----------------------------------------
+[2026-10-11T07:41:03+00:00] (id:4611)
+(بدون متن)
+----------------------------------------
+[2026-10-11T07:41:03+00:00] (id:4612)
+(بدون متن)
+----------------------------------------
+[2026-10-11T07:41:03+00:00] (id:4613)
+(بدون متن)
+----------------------------------------
+[2026-10-11T08:01:04+00:00] (id:4614)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/19
+🇬🇧 2026/10/11
+🕒 11:31:01
+
+🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇫🇮 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-10-11T08:01:06+00:00] (id:4616)
+(بدون متن)
+----------------------------------------
+[2026-10-11T09:30:34+00:00] (id:4617)
+(بدون متن)
+----------------------------------------
+[2026-10-11T10:01:08+00:00] (id:4618)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/19
+🇬🇧 2026/10/11
+🕒 13:31:04
+
+🇩🇪 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ
+🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-10-11T11:22:41+00:00] (id:4619)
+بانک ساب لینک های قدرتمند برای اتصال پرسرعت مناسب تمام اینترنت‌ها 
+
+چندین هزار کانفیگ که می‌تونه تا چند هفته کارتون راه بندازه , کانفیگ هارو اضافه کنید تست بگیرید و متصل بشید
+https://raw.githubuser…rs/refs/heads/main/sub
+https://raw.githubuser…Parse/main/splitted/ss
+https://raw.githubuser…e/main/splitted/trojan
+https://raw.githubuser…se/main/splitted/vless
+https://raw.githubuser…/main/V2RAY_BASE64.txt
+https://raw.githubuser…or/main/mixed_iran.txt
+https://raw.githubuser…or/main/vless_iran.txt
+https://raw.githubuser…ector/main/ss_iran.txt
+https://raw.githubuser…ds/main/ss_configs.txt
+https://raw.githubuser…-Config-By-EbraSha.txt
+https://raw.githubuser…main/vmess_configs.txt
+https://raw.githubuser…main/configs/Vmess.txt
+https://raw.githubuser…/configs/Hysteria2.txt
+https://raw.githubuser…in/configs/Germany.txt
+https://raw.githubuser…s/main/trojan_iran.txt
+https://raw.githubuser…s/main/sub/Mix/mix.txt
+https://raw.githubuser…ed%20States/config.txt
+https://raw.githubuser…ee/kobabi/main/sub.txt
+https://raw.githubuser…obabi/main/sub_all.txt
+https://raw.githubuser…_configs/Hysteria2.txt
+https://raw.githubuser…Protocol/hysteria2.txt
+https://raw.githubuser…ub3/main/merged_base64
+https://raw.githubuser…lit/Normal/shadowsocks
+https://raw.githubuser…n/Split/Normal/reality
+https://raw.githubuser…d/10ium_mixed_iran.txt
+https://raw.githubuser…tput_configs/Vless.txt
+https://raw.githubuser…onfigs/ShadowSocks.txt
+https://raw.githubuser…put_configs/Trojan.txt
+https://raw.githubuser…fs/heads/main/Sub1.txt
+https://raw.githubuser…fs/heads/main/Sub2.txt
+https://raw.githubuser…fs/heads/main/Sub3.txt
+https://github.com/Epo…Configs_base64_Sub.txt
+https://raw.githubuser…y-config/main/Sub1.txt
+https://raw.githubuser…y-config/main/Sub2.txt
+https://raw.githubuser…y-config/main/Sub3.txt
+https://raw.githubuser…y-config/main/Sub4.txt
+https://raw.githubuser…nOfficial#MatnOfficial
+https://raw.githubuser…main/v2ray_configs.txt
+https://raw.githubuser…ds/main/WS%2BHysteria2
+https://raw.githubuser…ram/popular_channels_1
+https://raw.githubuser…ram/popular_channels_2
+https://raw.githubuser…ads/main/subs/hysteria
+https://raw.githubuser…fs/heads/main/subs/hy2
+https://raw.githubuser…s/heads/main/speed.txt
+https://raw.githubuser…eads/main/hys-tuic.txt
+https://raw.githubuser…efs/heads/main/Reality
+https://raw.githubuser…/refs/heads/main/Vless
+https://raw.githubuser…s/main/AzadNet_iOS.txt
+https://raw.githubuser…eads/main/Proxydaemi44
+https://raw.githubuser…-full/actives_all.json
+https://raw.githubuser…y-config/main/Sub6.txt
+https://raw.githubuser…y-config/main/Sub7.txt
+https://raw.githubuser…y-config/main/Sub8.txt
+https://raw.githubuser…-Configs/main/Sub9.txt
+https://raw.githubuser…s/main/v2ray_links.txt
+ساب ها از منابع مختلف جمع اوری شدند 
+تست شده با تمامی اپراتور ها
+----------------------------------------
+[2026-10-11T11:45:24+00:00] (id:4620)
+Telegram Proxy
+
+https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1
+
+https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1
+
+https://t.me/proxy?server=torobchesho.co.uk.&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01746f726f6263686573686f2e636f2e756b
+
+https://t.me/proxy?server=craft.malavanann.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=mangoseason8.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=are.ajjab.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=name.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=recordzan.herfeibash.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
+
+https://t.me/proxy?server=91.107.155.20&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=noon.begir.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=do.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=haf.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=pnj.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=noh.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=hash.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=se.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=shsh.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=char.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1
+
+https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1
+
+https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1
+
+https://t.me/proxy?server=torobchesho.co.uk.&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01746f726f6263686573686f2e636f2e756b
+
+https://t.me/proxy?server=craft.malavanann.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=mangoseason8.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=are.ajjab.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=name.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=recordzan.herfeibash.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
+
+https://t.me/proxy?server=91.107.155.20&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=noon.begir.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=188.245.28.236&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+
+https://t.me/proxy?server=tun.nine11.art&port=2053&secret=dd85ddc8787d301a910868f385fa45cea3
+
+https://t.me/proxy?server=tun.nine11.art&port=2096&secret=dd1da0eb2f22f02e248e7d5e226d41c3a4
+
+https://t.me/proxy?server=tun.nine11.art&port=2096&secret=dde39e696c7549439cafa8829027d46960
+
+https://t.me/proxy?server=tun.nine11.art&port=2096&secret=dd9d8f4bfd2b1ec452c180d671d0e3b7fe
+
+https://t.me/proxy?server=tun.nine11.art&port=2096&secret=dd78ce219b45c37d653921ebbc44c3d431
+
+https://t.me/proxy?server=tun.nine11.art&port=2096&secret=dd27cb39a05fcb531b7e6299ed2e3ddd37
+
+https://t.me/proxy?server=tun.nine11.art&port=8443&secret=dd07aa89a114c9ec5c24fa0a771aa95ef4
+
+https://t.me/proxy?server=tun.nine11.art&port=2096&secret=dde4c0689820272956ae2eca997636588b
+----------------------------------------
+[2026-10-11T12:01:03+00:00] (id:4621)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/07/19
+🇬🇧 2026/10/11
+🕒 15:31:00
+
+🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇵🇱 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-10-11T12:01:08+00:00] (id:4623)
+(بدون متن)
+----------------------------------------
+[2026-10-11T13:30:36+00:00] (id:4624)
+(بدون متن)
 ----------------------------------------
