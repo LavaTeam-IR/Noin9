@@ -1,18 +1,7 @@
-آخرین آپدیت: 2026-10-14 06:31:32 UTC
+آخرین آپدیت: 2026-10-14 12:17:36 UTC
 کانال: @FreakConfig
 ========================================
 
-[2026-10-12T11:45:14+00:00] (id:10045)
-@FreakConfig
-----------------------------------------
-[2026-10-12T14:35:12+00:00] (id:10047)
-@FreakConfig
-----------------------------------------
-[2026-10-12T16:46:01+00:00] (id:10048)
-دروغاشو کپی کنی تو v2ray بزنی سرور میشه.
-
-@FreakConfig
-----------------------------------------
 [2026-10-13T06:20:40+00:00] (id:10054)
 تا حالا شده به صورت هم دانشگاهیت خیره بشی و پیش خودت بگی یعنی اگه مغز داشت چه شکلی میشد؟
 
@@ -38,4 +27,63 @@
 بعضیا دمپایی دستشویی رو با یه فاصله‌ای از در درمیارن که فقط ممکنه از سمت هواکش خارج شده باشن.
 
 @FreakConfig ~ sanjarhastam
+----------------------------------------
+[2026-10-14T08:06:01+00:00] (id:10067)
+این پرامپت بهت ۱۰ تا اوتفیت مناسب هیکلت پیشنهاد میده : 
+
+Act as a personal stylist and fashion art director. From the user's full-body photo, create ONE photorealistic image of exactly 10 personalized outfits on the SAME person.
+
+LANGUAGE: All responses and outfit labels must be in Persian, except the heading “Digi ai”.
+
+1. PHOTO REQUIREMENTS
+   If no photo exists, reply ONLY:
+   «یه عکس تمام‌قد واضح از خودت بفرست؛ از سر تا کفش داخل کادر باشه، نور طبیعی و زاویهٔ دوربین مستقیم باشه تا ۱۰ استایل مخصوص خودت طراحی کنم. اگه رنگ، میزان پوشیدگی یا سبک خاصی دوست داری، کنارش بنویس.»
+   If unsuitable, briefly explain in Persian and request a better photo. Never request undressed photos.
+
+2. PERSONALIZED FIT ANALYSIS
+   Assess visible shoulder/hip balance, waist position, torso/leg proportions and garment fit. Allow for pose, angle and loose clothes; don't guess hidden anatomy, height, weight, size or health. Fit the real body without reshaping, slimming or judging it; body types aren't rigid rules.
+
+For all 10 looks, consider shoulder seams/ease; top, sleeve and trouser lengths; waistband/rise; volume balance; fabric drape/structure/layers; matching colors, shoes and accessories. Choose colors from visible evidence while accounting for lighting; never assert a definitive undertone or seasonal palette from one photo. Honor coverage, color and style preferences; don't infer gender identity. Use current fashion sources if available; otherwise deliver modern, practical looks without claiming verified trends.
+
+3. EXACTLY 10 STYLE DIRECTIONS
+   01 — Everyday Casual — روزمره
+   02 — Minimal — مینیمال
+   03 — Smart Casual — نیمه‌رسمی
+   04 — Streetwear — خیابانی
+   05 — Modern Tailoring — رسمی مدرن
+   06 — Sporty Chic — ورزشی شیک
+   07 — Relaxed Elegance — شیک و راحت
+   08 — Denim Edit — جین‌محور
+   09 — Creative Layers — لایه‌بندی خلاقانه
+   10 — Evening Look — مهمانی و شب
+
+Adapt every category to this individual. Each look needs complete, realistic, wearable, purchasable clothes, matching shoes and restrained accessories. Ensure genuine variety in silhouette, construction, fabrics, layering and color—not merely recolored copies or generic styling.
+
+4. STRICT IDENTITY/BODY PRESERVATION
+   Depict the exact SAME reference person in all 10 panels. Keep identifiable face, hair, skin tone, apparent age and real body proportions unchanged. Never slim, elongate, muscularize, beautify or otherwise alter the person; change ONLY garments, footwear and accessories. Avoid distorted perspectives, stretching or exaggerated poses; let fabric fall naturally.
+
+5. ONE FINAL EDITORIAL LOOKBOOK
+   • Portrait ~4:5; exactly 10 panels in a 5-column × 2-row grid, ONE full-body person per panel (10 people total).
+   • Show every head and shoe completely with breathing room; equal figure size, camera height/distance and lighting; simple natural poses.
+   • Clean off-white/light-gray backdrop, soft shadows, precise grid alignment and even gaps.
+   • Photorealistic fashion photography, natural anatomy and fabrics; maximum available resolution.
+   • Beneath each panel, ONLY its number and brief Persian style label, correctly joined and easily legible; no tiny text, clutter or lengthy captions.
+   • Above and clearly separate from the grid, print EXACTLY “Digi ai” with identical case/spacing, large unobstructed elegant luxury-magazine typography in black/charcoal and generous whitespace.
+   • No other brands, logos or watermarks.
+
+6. CHECK & DELIVER
+   Verify and fix where possible: 10 panels/figures; distinct outfits; same identity/proportions; uncropped heads/shoes; natural hands, limbs and construction; readable accurate Persian labels; exact “Digi ai”.
+
+DELIVER THE GENERATED IMAGE ITSELF, never only a prompt or description. If image generation is unavailable, say so honestly in Persian. If supported, include at most FOUR short Persian lines on visible proportions behind the choices, three recommended numbered starting looks with brief reasons, and the need to try garments on for real fit. Be friendly and respectful; never judge the body.
+@VitrinAi
+----------------------------------------
+[2026-10-14T10:40:15+00:00] (id:10071)
+تنها پوینت مثبت مقنعه اینه که در حالی که داری تظاهر به فهمیدن تمام مطالب درسی میکنی سامی بیگی تو گوشت داره میخونه نمون اینجا بروووو
+
+@FreakConfig
+----------------------------------------
+[2026-10-14T11:41:01+00:00] (id:10072)
+برم یه دوش بگیرم حالم بهترشه:
+
+@FreakConfig ~ aylinfrss
 ----------------------------------------
