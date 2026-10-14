@@ -1,53 +1,7 @@
-آخرین آپدیت: 2026-10-14 20:48:00 UTC
+آخرین آپدیت: 2026-10-14 23:30:15 UTC
 کانال: @singbox1
 ========================================
 
-[2026-10-13T15:08:38+00:00] (id:6264)
-‌𝕏 🌈🅺🅸🅰️🅽
-
-نسخه تحت ویندوز اپلیکیشن محبوب wg-tunnel 😍
-
-https://www.wgtunnel.com/download?platform=windows
-----------------------------------------
-[2026-10-13T18:09:56+00:00] (id:6265)
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eNoNzdFugjAYQOF36e1MFIxmNfGCAWo7VocEB403QJH8G5alUrA1e/dxf/KdJxpq
-dYdOoo0zQ7+FabtCoA2qDR2rG16ULhtKn6zJTwiRTy3PqMszAkegsj6cFM9Cnbu4
-JzBCtcdGTC0LYnuNt1s0Q3doZNFrVU/kRxj75OApoXmeLz/NyazwObZ6fHgOu6Ui
-OYINRLQuH81lHlxzx4O3THD2heXQWdglqyS9zOHVWaYvi8Ybenb+Vu+VrGgfta32
-puHfPwiTRRU=
------END ARGO VPN BRIDGE BLOCK-----
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzMFugjAYAOB36XUmamfMasJBscBfZrVsSyq3QhkWHSAW
-Glj27vP+5ftFQ9E9TFOjzXKGWjXeGqXRBhUjc/kPWWSYD5kP
-a7hS8+6zKZUMpxLM0TB3rpnJcdmfMbFgnMlDMuqn5XsxfQvP
-QzP0MGWtbN8Vz/JAv3wQe7AXzj/wPVy3uXbz5NPJy0pMPAoD
-3i7qAdt0dyBBsBMCSqmzpov6Y0KpfBPZS0srBxArvkxP8eu2
-0jZScXUiQ0I99PcPV3lDdQ==
------END ARGO VPN BRIDGE BLOCK-----
-
-پل آرگو وی پی ان‌متصل
-
-دانلود برنامه آرگو 
-
-برای تمام اپراتورها 🔥
-
-@proxy_kafee
-----------------------------------------
-[2026-10-13T18:45:57+00:00] (id:6266)
-#openvpn
-#کانفیگ #config
-#فیلترشکن
-کانفیگ open vpn 😈
-
-دانلود فایل برنامه open vpn
-
-دانلود برای آیفون 
-
-حتما آپدیت کنید از گوگل پلی ❤️‍🔥
-
-خطا retry داد ۴ الی ۵ بزنید روی retry وصل میشه 🌹
-----------------------------------------
 [2026-10-14T15:08:19+00:00] (id:6273)
 کانفیگ sing box جدید 
 📱دانلود برنامه sing box
@@ -64,6 +18,20 @@ QzP0MGWtbN8Vz/JAv3wQe7AXzj/wPVy3uXbz5NPJy0pMPAoD
 ری اکشن فراموش نشه خیلی زحمت میکشیم تا شما عزیزان رایگان متصل بشید 🙏❤️
 ----------------------------------------
 [2026-10-14T19:40:14+00:00] (id:6281)
+#openvpn
+#کانفیگ #config
+#فیلترشکن
+کانفیگ open vpn 😈
+
+دانلود فایل برنامه open vpn
+
+دانلود برای آیفون 
+
+حتما آپدیت کنید از گوگل پلی ❤️‍🔥
+
+خطا retry داد ۴ الی ۵ بزنید روی retry وصل میشه 🌹
+----------------------------------------
+[2026-10-14T21:00:23+00:00] (id:6284)
 #openvpn
 #کانفیگ #config
 #فیلترشکن
