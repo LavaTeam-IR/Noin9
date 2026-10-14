@@ -1,82 +1,7 @@
-آخرین آپدیت: 2026-10-14 12:17:40 UTC
+آخرین آپدیت: 2026-10-14 17:20:32 UTC
 کانال: @Fr33C0nfig
 ========================================
 
-[2026-06-14T11:08:07+00:00] (id:1120)
-🍷لینک تمام ساب های موجود برای دسترسی رایگان به اینترنت آزاد:
-
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
-
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt
-
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt
-
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
-
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt
-
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt
-
-https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/FRAGMENT
-
-https://raw.githubusercontent.com/ShadowException/VPN/refs/heads/main/configs/VPN-cat
-
-https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/splitted-by-protocol/vless.txt
-
-https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt
-
-https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Sub2.txt
-
-https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Sub3.txt
-
-https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha.txt
-
-https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/subscriptions/all.txt
-
-https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
-
-https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt
-
-https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
-
-https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray.txt
-
-https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
-
-https://mifa.world/ss
-https://mifa.world/trojan
-https://mifa.world/hysteria
-https://mifa.world/other
-https://mifa.world/vmess
-https://mifa.world/vless
-
-پیشنهاد خودم:✅
-
-https://raw.githubusercontent.com/ThomasJasperthecat/sub/main/sublist1.txt
-
-https://raw.githubusercontent.com/masir-sefid/Sub/main/@Masir_Sefid.txt
-
-https://sub.iampedi5.live/sub/base64.txt
-
-https://sub.whitedns.one/sub/mihomo.yaml
-
-http://main.pythash.tr/FRkh99yBGCllN/01736620-2086-4c0b-a86e-52ebfe64dd12/#pythash
-
-https://raw.githubusercontent.com/masir-sefid/Sub/main/Telegram-Channel-@Masir_Sefid.txt
-
-https://c6et83fe1u99lr8j5w4s9iwik9565bqx.pages.dev/sub/fragment/g4lWgI*%40zehfoOEK?app=xray#%F0%9F%92%A6%20BPB%20Fragment
-
-https://raw.githubusercontent.com/AmyraxVPN-Main/AmyraxVPN/refs/heads/main/AmyraxVPN.txt
-
-✅لیست بروز میشود
-
-#اینترنت_برای_همه_یا_هیچکس 
-
-@fr33c0nfig 👑
-----------------------------------------
-[2026-06-14T11:09:58+00:00] (id:1121)
-🍷لینک تمام ساب های موجود برای دسترسی رایگان به اینترنت آزاد:  https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt  https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/…
-----------------------------------------
 [2026-06-14T11:10:07+00:00] (id:1122)
 اینترنت آزاد 🕊️✌🏻 pinned «🍷لینک تمام ساب های موجود برای دسترسی رایگان به اینترنت آزاد:  https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt  https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/…»
 ----------------------------------------
@@ -220,4 +145,13 @@ https://my.veilora.net/#/register
 از فردا سیمکارت های جدید تو بازارسیاه
 
 @fr33c0nfig
+----------------------------------------
+[2026-10-14T14:29:45+00:00] (id:1140)
+یه خبری اومده که قراره از امشب
+اینترنت اپراتورها ۴۰ درصد گرون‌تر شه!
+
+@fr33c0nfig
+----------------------------------------
+[2026-10-14T15:37:08+00:00] (id:1141)
+🎁 هدیه بازگشت ما به شما: ۵۰٪ تخفیف
 ----------------------------------------
