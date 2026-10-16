@@ -1,17 +1,7 @@
-آخرین آپدیت: 2026-10-16 10:05:53 UTC
+آخرین آپدیت: 2026-10-16 14:47:20 UTC
 کانال: @V2ray_Collector
 ========================================
 
-[2026-10-10T16:35:10+00:00] (id:1577)
-1 · 🇳🇱 Netherlands · Hysteria2
-hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443/?sni=tcp-reset-club.net#@V2ray_Collector
-
-🌤 Keep an alternative ready for unstable routes. Fresh configs are in @OutlineReleasedKey.
-
-🔸 Official source: @V2ray_Collector
-
-#FreeVPN #Proxy #V2Ray
-----------------------------------------
 [2026-10-12T10:47:11+00:00] (id:1583)
 (بدون متن)
 ----------------------------------------
