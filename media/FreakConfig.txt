@@ -1,23 +1,7 @@
-آخرین آپدیت: 2026-10-16 14:47:31 UTC
+آخرین آپدیت: 2026-10-16 18:27:08 UTC
 کانال: @FreakConfig
 ========================================
 
-[2026-10-15T15:50:18+00:00] (id:10091)
-قشنگترین پرامپت بچگی خودتو پارتنرت
-
-A close-up vintage-style photograph of two young children. A little boy on the right gently kisses the cheek of a little girl while holding her face with both hands, slightly squishing her cheeks. The girl looks straight at the camera with wide, expressive eyes and a surprised, playful expression. Both children have short to medium-length dark hair. The boy wears a light shirt with a textured vest, the girl wears a patterned dress. The image is sepia-toned with soft grain, low contrast, and warm brown hues. Shallow depth of field, blurred background, nostalgic and old-photo aesthetic, candid and intimate moment, early 20th-century style vibe.
-
-@VitrinAi
-----------------------------------------
-[2026-10-15T18:50:23+00:00] (id:10094)
-شب بخیر.
-@FreakConfig
-----------------------------------------
-[2026-10-16T04:36:07+00:00] (id:10095)
-صبح بخیر
-
-@FreakConfig
-----------------------------------------
 [2026-10-16T07:05:56+00:00] (id:10098)
 تسلا از ماشین جدید پرنده خودش رونمایی کرد!
 
@@ -48,4 +32,26 @@ A close-up vintage-style photograph of two young children. A little boy on the r
 هوا هوای هیچی نیست، بشین سر جات ایرانی بدبخت.
 
 @FreakConfig ~ 100jaaat
+----------------------------------------
+[2026-10-16T15:10:17+00:00] (id:10114)
+این پرامپت فرم صورتتو آنالیز می‌کنه و ۶ مدل مویی که واقعاً بهت میاد رو نشون میده.
+
+Use my uploaded photo as the exact face reference. Keep my face, facial features, skin tone, age, expression and identity exactly the same. Only change the hair.
+
+Create ONE image: a salon lookbook grid with exactly 6 panels, arranged in 2 rows of 3. No more, no fewer.
+
+Each panel shows me with a different haircut that genuinely suits my face shape and hair type. Rules:
+- All 6 haircuts must be clearly different from each other. Never repeat a haircut.
+- Show real haircuts I can ask a barber or hairdresser for, not temporary styling like buns or ponytails.
+- Vary the length: include short, medium and longer options that fit my gender.
+- Keep the same camera angle, lighting, clothes and background as my original photo in every panel.
+
+Labels: under each panel, write its number and the haircut name in clean English capital letters, like "1. CURTAIN BANGS". Each label must accurately describe the haircut shown in that panel. At the top of the image, write "DIGIAI HAIR LOOKBOOK".
+
+Square 1:1, photorealistic.
+
+@VitrinAi
+----------------------------------------
+[2026-10-16T18:10:11+00:00] (id:10118)
+@FreakConfig
 ----------------------------------------
