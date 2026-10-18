@@ -1,26 +1,7 @@
-آخرین آپدیت: 2026-10-18 00:56:03 UTC
+آخرین آپدیت: 2026-10-18 05:20:29 UTC
 کانال: @FreakConfig
 ========================================
 
-[2026-10-16T15:10:17+00:00] (id:10114)
-این پرامپت فرم صورتتو آنالیز می‌کنه و ۶ مدل مویی که واقعاً بهت میاد رو نشون میده.
-
-Use my uploaded photo as the exact face reference. Keep my face, facial features, skin tone, age, expression and identity exactly the same. Only change the hair.
-
-Create ONE image: a salon lookbook grid with exactly 6 panels, arranged in 2 rows of 3. No more, no fewer.
-
-Each panel shows me with a different haircut that genuinely suits my face shape and hair type. Rules:
-- All 6 haircuts must be clearly different from each other. Never repeat a haircut.
-- Show real haircuts I can ask a barber or hairdresser for, not temporary styling like buns or ponytails.
-- Vary the length: include short, medium and longer options that fit my gender.
-- Keep the same camera angle, lighting, clothes and background as my original photo in every panel.
-
-Labels: under each panel, write its number and the haircut name in clean English capital letters, like "1. CURTAIN BANGS". Each label must accurately describe the haircut shown in that panel. At the top of the image, write "DIGIAI HAIR LOOKBOOK".
-
-Square 1:1, photorealistic.
-
-@VitrinAi
-----------------------------------------
 [2026-10-16T18:10:11+00:00] (id:10118)
 @FreakConfig
 ----------------------------------------
@@ -58,5 +39,8 @@ Square 1:1, photorealistic.
 ----------------------------------------
 [2026-10-17T19:15:21+00:00] (id:10136)
 شب بخیر.
+@FreakConfig
+----------------------------------------
+[2026-10-18T04:58:01+00:00] (id:10138)
 @FreakConfig
 ----------------------------------------
