@@ -1,111 +1,7 @@
-آخرین آپدیت: 2026-10-19 13:59:00 UTC
+آخرین آپدیت: 2026-10-19 19:43:23 UTC
 کانال: @FreakConfig
 ========================================
 
-[2026-10-18T12:58:01+00:00] (id:10146)
-پرامپت : 
-
-Use the uploaded reference image as the exact subject.
-
-Preserve facial identity with maximum accuracy, including face shape, eyes, eyebrows, nose, lips, skin tone, hairstyle, age, facial structure, and all natural proportions. Do not alter the person’s appearance.
-
-Vintage Shadow Portrait — European Arthouse Film Edition
-
-The subject must be positioned exactly in the center of the frame.
-
-Old abandoned European apartment interior, peeling paint walls, aged wooden door, weathered textures, vintage atmosphere, authentic imperfections.
-
-The subject stands close to the wall, slightly leaning against it.
-
-Head naturally turned to the side, looking away from the camera, calm introspective expression, quiet melancholic mood.
-
-Large dramatic shadow silhouette projected onto the wall directly behind the subject.
-
-Strong late-afternoon window light entering from outside the frame, creating geometric window-shadow patterns across the wall.
-
-Room filled with subtle atmospheric haze.
-
-Blue-green volumetric haze drifting through the frame.
-Soft teal mist layer covering the left side of the frame.
-Visible dust particles floating in sunlight.
-
-Natural light bloom.
-Soft diffusion filter.
-
-Muted warm highlights.
-Cool green-gray shadows.
-Desaturated vintage palette.
-
-Kodak Portra 400 film color grading.
-European arthouse cinema aesthetic.
-Nostalgic analog mood.
-
-Low contrast.
-Lifted blacks.
-Soft highlight roll-off.
-Faded film tones.
-
-Realistic skin texture.
-Visible skin pores.
-Natural facial asymmetry.
-No beauty retouching.
-No plastic skin.
-No CGI look.
-No 3D render look.
-No fashion doll appearance.
-
-Authentic clothing wrinkles.
-Real wall imperfections.
-Natural shadow falloff.
-Organic hair strands.
-
-Raw unretouched photograph.
-Documentary photography realism.
-
-Subtle sensor noise.
-Fine analog film grain.
-Vintage lens imperfections.
-Soft focus falloff.
-Light leaks on frame edges.
-Slight vignette.
-
-Sony A7R V.
-85mm GM lens.
-f/1.4.
-Natural light.
-
-Ultra-realistic photography.
-
-Centered composition.
-Subject perfectly centered.
-Symmetrical framing.
-Negative space above the head.
-Vertical 9:16 aspect ratio.
-
-The final image should feel nostalgic, cinematic, dusty, emotional, quiet, timeless, and completely photographic.
-
-NOT CGI.
-NOT AI LOOKING.
-RAW FILM PHOTOGRAPH.
-
-European arthouse film still.
-Authentic Kodak Portra 400 photograph.
-
-✨ @VitrinAi
-----------------------------------------
-[2026-10-18T16:16:01+00:00] (id:10155)
-حس می‌کنم دعانویس‌ها تمرین‌هاشونو روی من انجام می‌دن، براشون مشق شبی چیزی‌ام.
-
-@FreakConfig
-----------------------------------------
-[2026-10-18T16:45:10+00:00] (id:10156)
-@FreakConfig
-----------------------------------------
-[2026-10-18T18:04:57+00:00] (id:10158)
-شما یادتون نمیاد یه زمانی به یکسری افراد اینترنت از ما بهترون یا «اینترنت پرو» میفروختن.
-
-@FreakConfig
-----------------------------------------
 [2026-10-18T20:23:13+00:00] (id:10159)
 معاون وزیر ارتباطات از افزایش تعداد حملات DDoS در دو روز اخیر علیه زیرساخت های ارتباطی کشور خبر داد، احتمالا دلیل اختلالات و قطعی های دو روز اخیر همین مورد می‌باشد.
 
@@ -138,4 +34,23 @@ Authentic Kodak Portra 400 photograph.
 ----------------------------------------
 [2026-10-19T13:30:02+00:00] (id:10173)
 @FreakConfig
+----------------------------------------
+[2026-10-19T14:56:29+00:00] (id:10174)
+👑 کانفیگ نامحدود یکماهه  ⚡قیمت تک کاربر نامحدود : ۱۴۹ هزارتومان   ⚡ قیمت حجمی بدون محدودیت کاربر : هر گیگ ۲ هزارتومان   🏪جهت خرید امن روی کلید زیر کلیک کنید
+----------------------------------------
+[2026-10-19T16:27:01+00:00] (id:10176)
+موتوغمو آتیش زدن
+
+@FreakConfig
+----------------------------------------
+[2026-10-19T17:49:01+00:00] (id:10178)
+یکبار که دانشگاه نرفتن رو شروع کنی نمیتونی دوباره انجامش ندی.
+
+@FreakConfig
+----------------------------------------
+[2026-10-19T19:01:29+00:00] (id:10180)
+🎁یک گیگ کانفیگ رایگان
+
+وارد ربات زیر شید و دکمه «تست رایگان» رو بزنید👇
+https://t.me/GozarXservicesBot?start=c_FreakConfig
 ----------------------------------------
