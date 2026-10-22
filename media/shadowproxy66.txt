@@ -1,29 +1,7 @@
-آخرین آپدیت: 2026-10-22 17:33:40 UTC
+آخرین آپدیت: 2026-10-22 20:45:44 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-10-22T10:13:55+00:00] (id:17577)
-1.PROXY 2.PROXY 3.PROXY
-4.PROXY 5.PROXY 6.PROXY
-7.PROXY 8.PROXY 9.PROXY
-10.PROXY11.PROXY12.PROXY
-13.PROXY14.PROXY15.PROXY
-16.PROXY17.PROXY18.PROXY
-19.PROXY20.PROXY21.PROXY
-22.PROXY23.PROXY24.PROXY
-25.PROXY26.PROXY27.PROXY
-28.PROXY29.PROXY30.PROXY
-31.PROXY32.PROXY33.PROXY
-34.PROXY35.PROXY36.PROXY
-37.PROXY38.PROXY39.PROXY
-40.PROXY41.PROXY42.PROXY
-43.PROXY44.PROXY45.PROXY
-46.PROXY47.PROXY48.PROXY
-49.PROXY50.PROXY51.PROXY
-52.PROXY53.PROXY54.PROXY
-55.PROXY56.PROXY57.PROXY
-58.PROXY59.PROXY60.PROXY
-----------------------------------------
 [2026-10-22T13:01:20+00:00] (id:17578)
 (بدون متن)
 ----------------------------------------
@@ -69,4 +47,7 @@ https://github.com/appshubcc/Bettbox/releases/tag/v1.19.7
 عملکردش بهتر از FlClash هس میتونید از منابعی که قبلا گذاشتم لینک ساب بردارید و استفاده کنید یا از کانفیگهای کلش که چنل میذارم استفاده کنید
 آموزش استفادش هم مث FlClash هستش
 @ShadowProxy66
+----------------------------------------
+[2026-10-22T20:24:10+00:00] (id:17600)
+لینک ساب سبک موقت V2ray  https://mifa.world/prime  آموزش استفاده در V2rayNg هر شب لینک تغییر میکنه لینک قبلی رو پاک کنید و لینک جدید رو وارد کنید
 ----------------------------------------
