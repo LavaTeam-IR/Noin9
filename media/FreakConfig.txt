@@ -1,36 +1,7 @@
-آخرین آپدیت: 2026-10-23 17:24:45 UTC
+آخرین آپدیت: 2026-10-23 20:34:07 UTC
 کانال: @FreakConfig
 ========================================
 
-[2026-10-22T17:52:31+00:00] (id:10233)
-با این پرامپت می‌تونی نسخه پیشیِ خودتو بسازی.
-
-Turn the person in the uploaded portrait into a real kitten: “What would this person look like as a cat?” Generate one square photograph.
-
-PERSONAL RESEMBLANCE
-Translate the person’s visible features into feline equivalents: face width into head shape, cheeks into a rounded muzzle, eye shape and spacing into feline eyes, and their expression into a matching kitten expression. Use hair color and texture to guide the coat color and fluffiness. Translate distinctive eyebrows or facial hair into subtle, plausible fur markings. Preserve visible eye color where possible. Make these choices from the individual portrait rather than using a fixed male/female template.
-
-The result must have entirely feline anatomy, with resemblance conveyed through expression, proportions, and coat markings. No human face, skin, hairstyle, beard, or human eyes pasted onto a cat.
-
-KITTEN APPEARANCE
-A very young, small, fluffy kitten with a broad rounded head, full cheeks, a short muzzle, tiny pink nose, delicate white whiskers, soft upright triangular ears, and a compact body. Short, dense, slightly tousled baby fur; natural feline proportions. Keep this same kitten type for every person, varying its features and coloring to suit the portrait. Use plausible coats such as ginger tabby with a cream muzzle and chest, or black-and-white bicolor with a white muzzle and chest. Avoid exaggerated flat faces or elongated muzzles.
-
-POSE AND COMPOSITION
-Front-facing, seated upright, with the head and upper chest visible and the lower body cropped by the bottom edge. Match the person’s expression and slight head tilt through natural kitten behavior: narrowed eyelids for a serious expression, relaxed closed eyes when appropriate, or softly open eyes for an attentive look. Place the kitten low in the frame, leaving approximately the upper half as empty blue background.
-
-BACKGROUND AND PHOTO STYLE
-A plain medium-blue fabric backdrop with subtle texture and gentle unevenness. Direct flash from slightly above and camera-left creates small eye catchlights and a soft but visible shadow behind the kitten toward the right. An informal vintage pet snapshot: noticeable fine grain, mild softness, slightly faded colors, and natural fur detail. Keep the background blue in every result.
-
-OUTPUT
-One believable kitten photograph, square 1:1, without captions.
-
-Avoid: people, human-cat hybrids, human limbs, clothing, accessories, adult cats, cartoon or anime styling, CGI, plastic fur, oversized fantasy eyes, polished studio glamour, elaborate scenery, text, logos, and watermarks.
-
-✨ @VitrinAi
-----------------------------------------
-[2026-10-22T18:18:40+00:00] (id:10234)
-(بدون متن)
-----------------------------------------
 [2026-10-23T06:03:58+00:00] (id:10238)
 صبح بخیر.
 @FreakConfig
@@ -61,4 +32,12 @@ Avoid: people, human-cat hybrids, human limbs, clothing, accessories, adult cats
 فکر کنم برنامه اینه انقدر اینترنت رو گرون کنن که دیگه آنلاین نشیم.
 
 @FreakConfig - sepehrtorabi
+----------------------------------------
+[2026-10-23T17:46:52+00:00] (id:10255)
+@FreakConfig
+----------------------------------------
+[2026-10-23T19:36:52+00:00] (id:10257)
+هنوز از ربات یگ گیگ تست رایگان نگرفتی؟
+
+ 🆓 https://t.me/GozarXservicesBot?start=c_FreakConfig
 ----------------------------------------
