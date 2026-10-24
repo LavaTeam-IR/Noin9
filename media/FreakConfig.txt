@@ -1,17 +1,7 @@
-آخرین آپدیت: 2026-10-24 14:48:01 UTC
+آخرین آپدیت: 2026-10-24 17:39:57 UTC
 کانال: @FreakConfig
 ========================================
 
-[2026-10-23T14:44:23+00:00] (id:10251)
-اگر تو بچگی خروس دنبالت نکرده بچگی خوبی داشتی‌.
-
-@FreakConfig
-----------------------------------------
-[2026-10-23T15:45:12+00:00] (id:10252)
-فکر کنم برنامه اینه انقدر اینترنت رو گرون کنن که دیگه آنلاین نشیم.
-
-@FreakConfig - sepehrtorabi
-----------------------------------------
 [2026-10-23T17:46:52+00:00] (id:10255)
 @FreakConfig
 ----------------------------------------
@@ -40,5 +30,31 @@
 @FreakConfig
 ----------------------------------------
 [2026-10-24T12:32:01+00:00] (id:10267)
+@FreakConfig
+----------------------------------------
+[2026-10-24T15:05:17+00:00] (id:10270)
+با این پرامپت میتونی ببینی اگه بینیتو عمل کنی چجوری میشه.
+
+Edit the uploaded photo to create ONE photorealistic cosmetic nose-reshaping preview of the same person. Generate the edited image directly.
+The nose MUST look visibly reshaped compared with the original. Aim for a moderate, clearly noticeable transformation that remains natural and proportionate to this specific face. Do not return an unchanged or barely altered nose.
+Adapt the changes to the visible nose: smooth a prominent bridge hump if present, refine a broad or rounded tip, moderately reduce excessive apparent width, and gently adjust a downward-pointing tip if visible. Select only changes relevant to the photograph; do not apply every modification automatically. Keep realistic nostril shapes, natural contours, and believable proportions. Avoid an extremely small, pinched, deeply scooped, or sharply upturned nose.
+Change ONLY the nose and the immediately surrounding shadows needed to integrate the edit. Preserve the exact same person, all other facial features, skin texture, expression, hairstyle, camera angle, lighting, clothing, background, and framing. Do not beautify the rest of the face.
+Before delivering, compare the original and edited nose. If the reshaping is not clearly noticeable at normal viewing size, revise the nose edit until it is visible without exaggeration.
+This is an aesthetic simulation, not a medical assessment or a prediction of an achievable surgical outcome. Do not claim to be a surgeon.
+Output one edited portrait, without a collage or text overlay. Add this short caption separately:
+
+«شبیه‌سازی ظاهری؛ نتیجهٔ واقعی جراحی ممکن است متفاوت باشد.»
+If image editing is unavailable, say so clearly instead of returning the original photo or claiming it was edited.
+
+✨ @VitrinAi
+----------------------------------------
+[2026-10-24T15:20:15+00:00] (id:10271)
+انقدر بدم میاد به یکی خوراکی تعارف میکنم میگیره.
+
+@FreakConfig
+----------------------------------------
+[2026-10-24T16:10:17+00:00] (id:10272)
+به هرچی که آخرش پی داره بدهکارم.
+
 @FreakConfig
 ----------------------------------------

@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-10-24 14:47:35 UTC
+آخرین آپدیت: 2026-10-24 17:39:29 UTC
 کانال: @iP_CF
 ========================================
 
@@ -67,4 +67,186 @@ https://emudhra.we-have-a-problem.com/
 #OxiDe
 🤍  More : @IP_CF
 🤍  Group : @IP_CF_GROUP
+----------------------------------------
+[2026-10-24T17:09:43+00:00] (id:11504)
+(بدون متن)
+----------------------------------------
+[2026-10-24T17:09:51+00:00] (id:11505)
+ساب لینک 
+#معرفی_منابع_کانفیگ
+
+https://raw.githubuser…rs/refs/heads/main/sub
+https://raw.githubuser…Parse/main/splitted/ss
+https://raw.githubuser…e/main/splitted/trojan
+https://raw.githubuser…se/main/splitted/vless
+https://raw.githubuser…/main/V2RAY_BASE64.txt
+https://raw.githubuser…or/main/mixed_iran.txt
+https://raw.githubuser…or/main/vless_iran.txt
+https://raw.githubuser…ector/main/ss_iran.txt
+https://raw.githubuser…ds/main/ss_configs.txt
+https://raw.githubuser…-Config-By-EbraSha.txt
+https://raw.githubuser…main/vmess_configs.txt
+https://raw.githubuser…main/configs/Vmess.txt
+https://raw.githubuser…/configs/Hysteria2.txt
+https://raw.githubuser…in/configs/Germany.txt
+https://raw.githubuser…s/main/trojan_iran.txt
+https://raw.githubuser…s/main/sub/Mix/mix.txt
+https://raw.githubuser…ed%20States/config.txt
+https://raw.githubuser…ee/kobabi/main/sub.txt
+https://raw.githubuser…obabi/main/sub_all.txt
+https://raw.githubuser…_configs/Hysteria2.txt
+https://raw.githubuser…Protocol/hysteria2.txt
+https://raw.githubuser…ub3/main/merged_base64
+https://raw.githubuser…lit/Normal/shadowsocks
+https://raw.githubuser…n/Split/Normal/reality
+https://raw.githubuser…d/10ium_mixed_iran.txt
+https://raw.githubuser…tput_configs/Vless.txt
+https://raw.githubuser…onfigs/ShadowSocks.txt
+https://raw.githubuser…put_configs/Trojan.txt
+https://raw.githubuser…fs/heads/main/Sub1.txt
+https://raw.githubuser…fs/heads/main/Sub2.txt
+https://raw.githubuser…fs/heads/main/Sub3.txt
+https://github.com/Epo…Configs_base64_Sub.txt
+https://raw.githubuser…y-config/main/Sub1.txt
+https://raw.githubuser…y-config/main/Sub2.txt
+https://raw.githubuser…y-config/main/Sub3.txt
+https://raw.githubuser…y-config/main/Sub4.txt
+https://raw.githubuser…nOfficial#MatnOfficial
+https://raw.githubuser…main/v2ray_configs.txt
+https://raw.githubuser…ds/main/WS%2BHysteria2
+https://raw.githubuser…ram/popular_channels_1
+https://raw.githubuser…ram/popular_channels_2
+https://raw.githubuser…ads/main/subs/hysteria
+https://raw.githubuser…fs/heads/main/subs/hy2
+https://raw.githubuser…s/heads/main/speed.txt
+https://raw.githubuser…eads/main/hys-tuic.txt
+https://raw.githubuser…efs/heads/main/Reality
+https://raw.githubuser…/refs/heads/main/Vless
+https://raw.githubuser…s/main/AzadNet_iOS.txt
+https://raw.githubuser…eads/main/Proxydaemi44
+https://raw.githubuser…-full/actives_all.json
+https://raw.githubuser…y-config/main/Sub6.txt
+https://raw.githubuser…y-config/main/Sub7.txt
+https://raw.githubuser…y-config/main/Sub8.txt
+https://raw.githubuser…-Configs/main/Sub9.txt
+https://raw.githubuser…s/main/v2ray_links.txt
+----------------------------------------
+[2026-10-24T17:11:13+00:00] (id:11506)
+🐱📂 لیست کانفیگ‌های Clash Meta
+با قوانین مخصوص ایران 
+
+🐾 مجموعه‌ای از کانفیگ‌های آماده Clash Meta که از منابع مختلف جمع‌آوری شده‌اند و برای استفاده در کلاینت‌های مبتنی بر Mihomo/Clash Meta مناسب هستند.
+
+ در Clash Meta ، Clash Verge Rev یا سایر کلاینت‌های سازگار اضافه کنید. 
+پروفایل را به‌روزرسانی کرده و بهترین نود را انتخاب کنید.
+
+⚠️ توجه: کانفیگ‌های رایگان دائماً در حال تغییر هستند و ممکن است برخی از آن‌ها در زمان استفاده از دسترس خارج شده باشند. در این صورت کافی است پروفایل دیگری را امتحان کنید.
+فایل‌های پیکربندی آماده استفاده (بخش اول):
+
+🐱 10ium/V2RayAggregator-Eternity.yml
+🐱 10ium/hin-vpn-mix.yaml
+🐱 66.42.50.118.yaml
+🐱 Barabama/nodefree.yaml
+🐱 Barabama/v2rayshare.yaml
+🐱 Ruk1ng001.yaml
+🐱 SnapdragonLee_clash_config_extra_US.yaml
+🐱 darkvpn/xray_final.yaml
+🐱 ermaozi.yaml
+🐱 firefoxmmx2.yaml
+🐱 free18.yaml
+🐱 hamedp-71/N_sub_cheker_final.yaml
+🐱 hamedp-71/Sub_Checker_Creator_final.yaml
+🐱 hamedp-71/Trojan_hp.yaml
+🐱 itsyebekhe/IR.yaml
+🐱 itsyebekhe/mix.yaml
+🐱 itsyebekhe/reality.yaml
+🐱 itsyebekhe/xhttp.yaml
+🐱 liketolivefree.yaml
+🐱 maimengmeng/500.yaml
+🐱 maimengmeng/AnyTLS.yaml
+🐱 maimengmeng/custom.yaml
+🐱 mfuu.yaml
+🐱 peasoft.list/meta.yaml
+🐱 peasoft.list/yaml
+🐱 proxypool.link.yaml
+🐱 pxypool.131433.yaml
+🐱 ripaojiedian.yaml
+🐱 roosterkid.yaml
+🐱 snakem982-clash/meta-2.yaml
+🐱 snakem982-clash/meta.yaml
+🐱 ts-sf.yaml
+🐱 tt.vg.yaml
+🐱 MatinGhanbari_v2ray-configs-super-sub.yaml
+🐱 ainita.yaml
+🐱 Telegram_Eag1e_YT.yaml
+🐱 irdevs_dns/subfreeiran_amirrankcat.yaml
+🐱 MrBihal/Meli.yaml
+🐱 danesh1118.yaml
+🐱 server_channel_pro/vpnmarket.yaml
+🐱 gheychiamoozesh/list_mix_count_500_shuffle_false_unique_false.yaml
+🐱 peweza_frank-vpl_mix.yaml
+🐱 igareck/russia_BLACK_mix.yaml
+🐱 igareck/russia_WHITE_mix.yaml
+🐱 whitedns.yaml
+🐱 10ium/HighSpeed.yaml
+🐱 10ium/V2Hub3_reality.yaml
+🐱 10ium/V2Hub3_shadowsocks.yaml
+🐱 10ium/V2Hub3_trojan.yaml
+🐱 10ium/V2Hub3_vmess.yaml
+
+#معرفی_منابع_کانفیگ 
+#ساب_لینک
+#clash
+#mihomo
+----------------------------------------
+[2026-10-24T17:11:40+00:00] (id:11507)
+بخش دوم
+
+🐱 10ium/V2Hub3_vmess.yaml
+🐱 10ium/multi-proxy-config-fetcher.yaml
+🐱 10ium/ss_iran.yaml
+🐱 10ium/trojan_iran.yaml
+🐱 10ium/vmess_iran.yaml
+🐱 FreedomGuard/Finder_configs.yaml
+🐱 ebrasha/lite.yaml
+🐱 namira.dev.yaml
+🐱 %40redfree8.yaml
+🐱 Ashkan-m.yaml
+🐱 Leon406-hysteria2.yaml
+🐱 MahsaNetConfigTopic.yaml
+🐱 NiREvil_SSTime.yaml
+🐱 ResistalProxy_server.yaml
+🐱 Surfboardv2ray/IR.yaml
+🐱 Surfboardv2ray/US.yaml
+🐱 Surfboardv2ray/ipv6.yaml
+🐱 Surfboardv2ray/mahsa.yaml
+🐱 Surfboardv2ray/random.yaml
+🐱 Surfboardv2ray/udp.yaml
+🐱 liketolivefree_sub.yaml
+🐱 muma16fx.netlify.app.yaml
+🐱 peasoft_list_raw.yaml
+🐱 qiaomenzhuanfx.netlify.app.yaml
+🐱 rb360full_Reza/2.yaml
+🐱 robin.nscl.ir.yaml
+🐱 roosterkid/V2RAY_BASE64.yaml
+🐱 shadowmere.xyz.yaml
+🐱 tristan-deng_MyNodes.yaml
+🐱 amiralter_config_lite.yaml
+🐱 arshiacomplus/v2rayExtractor_ss.yaml
+🐱 arshiacomplus/v2rayExtractor_trojan.yaml
+🐱 arshiacomplus/v2rayExtractor_vmess.yaml
+🐱 arshiacomplus/v2rayExtractor_vless.yaml
+🐱 Mahdi0024/ProxyCollector.yaml
+🐱 MhdiTaheri/V2rayCollector.yaml
+🐱 Farid-Karimi/Config_Collector.yaml
+🐱 subrostunnel_vercel_wl.yaml
+🐱 ShadowException/VPN_cat.yaml
+🐱 whoahaow/rjsxrd_bypass_all.yaml
+🐱 masir-sefid/masir_sefid.yaml
+🐱 v2hub-configs/Sub_AutoUpdate.yaml
+🐱 igareck/BLACK_VLESS_RUS_mobile.yaml
+#معرفی_منابع_کانفیگ 
+#ساب_لینک
+#clash
+#mihomo
 ----------------------------------------
