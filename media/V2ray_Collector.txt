@@ -1,25 +1,7 @@
-آخرین آپدیت: 2026-10-27 05:33:36 UTC
+آخرین آپدیت: 2026-10-27 10:54:19 UTC
 کانال: @V2ray_Collector
 ========================================
 
-[2026-10-21T12:17:45+00:00] (id:1615)
-🏆 COMMUNITY DROP
-
-Hysteria2 won · 40% · 4 votes
-
-1 · 🇳🇱 Netherlands · Hysteria2
-hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?insecure=1#@V2ray_Collector
-
-2 · 🇬🇧 United Kingdom · Hysteria2
-hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@uk-d9ca48498a.shamanapp.online:443?sni=uk.shamanapp.online&insecure=0#@V2ray_Collector
-
-3 · 🇺🇸 United States · Hysteria2
-hysteria2://4c858cccff331e64c711a199a6cb256a@clash2.deep-links.com:443/?sni=clash2.deep-links.com#@V2ray_Collector
-
-🔸 Official source: @V2ray_Collector
-
-#FreeVPN #Proxy #V2Ray
-----------------------------------------
 [2026-10-26T10:47:19+00:00] (id:1631)
 (بدون متن)
 ----------------------------------------
