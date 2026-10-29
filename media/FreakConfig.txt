@@ -1,25 +1,7 @@
-آخرین آپدیت: 2026-10-29 07:10:23 UTC
+آخرین آپدیت: 2026-10-29 14:14:37 UTC
 کانال: @FreakConfig
 ========================================
 
-[2026-10-28T07:08:43+00:00] (id:10335)
-مجلس اسراییل مگه چقدر سرده که ۱۲۰ تا کرسی می‌خواد؟ (هار هور هیر)
-
-@FreakConfig
-----------------------------------------
-[2026-10-28T08:47:01+00:00] (id:10337)
-سوالای من توی دیت:
-
-@FreakConfig
-----------------------------------------
-[2026-10-28T09:10:47+00:00] (id:10338)
-شد شد نشد میرم سر خاک مرتضی پاشایی گیتار میزنم
-
-@FreakConfig
-----------------------------------------
-[2026-10-28T11:52:01+00:00] (id:10341)
-@FreakConfig
-----------------------------------------
 [2026-10-28T14:04:02+00:00] (id:10344)
 @FreakConfig
 ----------------------------------------
@@ -42,5 +24,39 @@ https://t.me/GozarXservicesBot?start=c_FreakConfig
 @FreakConfig
 ----------------------------------------
 [2026-10-29T07:00:45+00:00] (id:10353)
+@FreakConfig
+----------------------------------------
+[2026-10-29T10:44:01+00:00] (id:10356)
+گردنت کج افتاده، دستتو بد گذاشتی یا چشمت بسته‌ست؟ این پرامپت ژستت رو کامل اصلاح میکنه و عکستو طبیعی‌تر و خوش‌فرم‌تر میسازه.
+
+Edit the uploaded photo to naturally correct awkward posture and accidental blinking. Return ONE edited photo only.
+
+Prioritize identity, realistic anatomy, minimal corrections, and preservation of the original moment. Change only clearly unintended problems; preserve intentional poses, expressions, asymmetry, and genuine physical differences. If uncertain or important details are hidden, leave them unchanged.
+
+IDENTITY
+Preserve each person’s facial features, age, skin tone and texture, eyes, hair, facial hair, body size, and proportions. No face replacement, beautification, reshaping, slimming, added muscles, makeup, or age changes. Additional portraits may clarify the matching person’s features only, especially open eyes; never copy their scene, pose, clothing, or lighting. Do not borrow features if matching is unclear.
+
+CORRECTIONS
+• Head/neck: gently correct awkward tilt, twisting, compression, or overextension together with the shoulders and torso. Keep natural neck length, connected jaw/neck/hair, intended gaze, and emotion. Relax raised shoulders without forcing symmetry.
+• Eyes: repair accidental blinking or half-closed eyes with relaxed, naturally open eyelids, consistent gaze, and preserved shape, spacing, and known iris color. Prefer an open-eye reference; otherwise reconstruct conservatively. No enlarged eyes or invented striking colors. Preserve intentional closure during sleep, laughter, or affection. Keep the mouth and smile unless distorted; do not add teeth.
+• Arms/hands: correct uncomfortable alignment with continuous shoulder–elbow–wrist anatomy, proportional hands, natural fingers, and preserved gestures/grips. Bent arms need not be straightened.
+• Torso/legs/feet: retain the original action and coordinate hip, knee, ankle, and foot adjustments. Preserve limb lengths, foreshortening, realistic balance, ground contact, and seat support. Never straighten a leg independently of its hip and knee or invent hidden limbs.
+
+CONSISTENCY
+Keep identities and limb ownership separate. Preserve interpersonal contact and contact with objects, clothing, floors, seats, and railings. Update only necessary nearby folds, shadows, and contact points. No added, duplicated, merged, or removed visible body parts.
+
+PRESERVATION
+Keep framing, aspect ratio, viewpoint, background, lighting, colors, depth of field, clothing, accessories, jewelry, logos, and readable text. Match repaired areas to original focus, grain, shadows, and skin detail. No cropping away anatomy, background replacement, unrelated additions, beauty filters, or forced straight, symmetrical, front-facing poses.
+
+Check identity, connected joints, eyes, hands, feet, balance, contact, accessories, and editing seams. The result must look like a naturally better-posed photograph of the same moment.
+
+✨ @VitrinAi
+----------------------------------------
+[2026-10-29T12:53:01+00:00] (id:10358)
+@FreakConfig
+----------------------------------------
+[2026-10-29T13:58:49+00:00] (id:10360)
+صاحب این میم امروز ۲۱ساله شد.
+
 @FreakConfig
 ----------------------------------------
