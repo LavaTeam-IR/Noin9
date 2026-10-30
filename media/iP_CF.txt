@@ -1,67 +1,7 @@
-آخرین آپدیت: 2026-10-30 09:17:49 UTC
+آخرین آپدیت: 2026-10-30 16:00:22 UTC
 کانال: @iP_CF
 ========================================
 
-[2026-10-24T17:09:51+00:00] (id:11505)
-ساب لینک 
-#معرفی_منابع_کانفیگ
-
-https://raw.githubuser…rs/refs/heads/main/sub
-https://raw.githubuser…Parse/main/splitted/ss
-https://raw.githubuser…e/main/splitted/trojan
-https://raw.githubuser…se/main/splitted/vless
-https://raw.githubuser…/main/V2RAY_BASE64.txt
-https://raw.githubuser…or/main/mixed_iran.txt
-https://raw.githubuser…or/main/vless_iran.txt
-https://raw.githubuser…ector/main/ss_iran.txt
-https://raw.githubuser…ds/main/ss_configs.txt
-https://raw.githubuser…-Config-By-EbraSha.txt
-https://raw.githubuser…main/vmess_configs.txt
-https://raw.githubuser…main/configs/Vmess.txt
-https://raw.githubuser…/configs/Hysteria2.txt
-https://raw.githubuser…in/configs/Germany.txt
-https://raw.githubuser…s/main/trojan_iran.txt
-https://raw.githubuser…s/main/sub/Mix/mix.txt
-https://raw.githubuser…ed%20States/config.txt
-https://raw.githubuser…ee/kobabi/main/sub.txt
-https://raw.githubuser…obabi/main/sub_all.txt
-https://raw.githubuser…_configs/Hysteria2.txt
-https://raw.githubuser…Protocol/hysteria2.txt
-https://raw.githubuser…ub3/main/merged_base64
-https://raw.githubuser…lit/Normal/shadowsocks
-https://raw.githubuser…n/Split/Normal/reality
-https://raw.githubuser…d/10ium_mixed_iran.txt
-https://raw.githubuser…tput_configs/Vless.txt
-https://raw.githubuser…onfigs/ShadowSocks.txt
-https://raw.githubuser…put_configs/Trojan.txt
-https://raw.githubuser…fs/heads/main/Sub1.txt
-https://raw.githubuser…fs/heads/main/Sub2.txt
-https://raw.githubuser…fs/heads/main/Sub3.txt
-https://github.com/Epo…Configs_base64_Sub.txt
-https://raw.githubuser…y-config/main/Sub1.txt
-https://raw.githubuser…y-config/main/Sub2.txt
-https://raw.githubuser…y-config/main/Sub3.txt
-https://raw.githubuser…y-config/main/Sub4.txt
-https://raw.githubuser…nOfficial#MatnOfficial
-https://raw.githubuser…main/v2ray_configs.txt
-https://raw.githubuser…ds/main/WS%2BHysteria2
-https://raw.githubuser…ram/popular_channels_1
-https://raw.githubuser…ram/popular_channels_2
-https://raw.githubuser…ads/main/subs/hysteria
-https://raw.githubuser…fs/heads/main/subs/hy2
-https://raw.githubuser…s/heads/main/speed.txt
-https://raw.githubuser…eads/main/hys-tuic.txt
-https://raw.githubuser…efs/heads/main/Reality
-https://raw.githubuser…/refs/heads/main/Vless
-https://raw.githubuser…s/main/AzadNet_iOS.txt
-https://raw.githubuser…eads/main/Proxydaemi44
-https://raw.githubuser…-full/actives_all.json
-https://raw.githubuser…y-config/main/Sub6.txt
-https://raw.githubuser…y-config/main/Sub7.txt
-https://raw.githubuser…y-config/main/Sub8.txt
-https://raw.githubuser…-Configs/main/Sub9.txt
-https://raw.githubuser…s/main/v2ray_links.txt
-----------------------------------------
 [2026-10-24T17:11:13+00:00] (id:11506)
 🐱📂 لیست کانفیگ‌های Clash Meta
 با قوانین مخصوص ایران 
@@ -339,4 +279,12 @@ https://github.com/getlantern/lantern/releases/download/v10.0.4/lantern-installe
 [2026-10-29T21:45:55+00:00] (id:11525)
 مث اینکه بایننس هک شده و چند میلیون دلار رو هواست😐😂
 #OxiDe
+----------------------------------------
+[2026-10-30T09:18:13+00:00] (id:11526)
+سخنگوی دولت در واکنش به انتقادها از افزایش قیمت اینترنت گفت بابت گران‌تر شدن تعرفه‌ها عذرخواهی نمی‌کند، اما به‌دلیل اطلاع‌رسانی ناکافی درباره این تصمیم از مردم عذرخواهی می‌کند. 😂
+مهاجرانی تأکید کرد افزایش قیمت در چارچوب یک ساختار تصمیم‌گیری شده و مسئولان باید درباره آن به مردم توضیح بدهند. /دیجیاتو
+
+#OxiDe
+🤍  More : @IP_CF
+🤍  Group : @IP_CF_GROUP
 ----------------------------------------

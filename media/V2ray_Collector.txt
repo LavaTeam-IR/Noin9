@@ -1,7 +1,28 @@
-آخرین آپدیت: 2026-10-30 09:17:59 UTC
+آخرین آپدیت: 2026-10-30 16:00:33 UTC
 کانال: @V2ray_Collector
 ========================================
 
 [2026-10-26T10:47:19+00:00] (id:1631)
 (بدون متن)
+----------------------------------------
+[2026-10-30T10:46:41+00:00] (id:1645)
+(بدون متن)
+----------------------------------------
+[2026-10-30T11:52:20+00:00] (id:1646)
+🏆 COMMUNITY DROP
+
+Hysteria2 won · 67% · 2 votes
+
+1 · 🇫🇮 Finland · Hysteria2
+hysteria2://7d43670b-6b08-45b9-8a24-8f3971abc132@153.76.194.118:8443?sni=finland.biznes.lol&alpn=h3#@V2ray_Collector
+
+2 · 🇩🇪 Germany · Hysteria2
+hysteria2://d62s7ghfehm742us@derfderf.ru:12824?sni=derfderf.ru&insecure=1#@V2ray_Collector
+
+3 · 🇳🇱 Netherlands · Hysteria2
+hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@store.blog-forme.ru:443/#@V2ray_Collector
+
+🔸 Official source: @V2ray_Collector
+
+#FreeVPN #Proxy #V2Ray
 ----------------------------------------

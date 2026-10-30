@@ -1,41 +1,7 @@
-آخرین آپدیت: 2026-10-30 09:18:09 UTC
+آخرین آپدیت: 2026-10-30 16:00:42 UTC
 کانال: @FreakConfig
 ========================================
 
-[2026-10-29T06:21:33+00:00] (id:10352)
-سرعت نتو نیار پایین من قول می‌دم آیزنکوت کامبک بزنه
-
-@FreakConfig
-----------------------------------------
-[2026-10-29T07:00:45+00:00] (id:10353)
-@FreakConfig
-----------------------------------------
-[2026-10-29T10:44:01+00:00] (id:10356)
-گردنت کج افتاده، دستتو بد گذاشتی یا چشمت بسته‌ست؟ این پرامپت ژستت رو کامل اصلاح میکنه و عکستو طبیعی‌تر و خوش‌فرم‌تر میسازه.
-
-Edit the uploaded photo to naturally correct awkward posture and accidental blinking. Return ONE edited photo only.
-
-Prioritize identity, realistic anatomy, minimal corrections, and preservation of the original moment. Change only clearly unintended problems; preserve intentional poses, expressions, asymmetry, and genuine physical differences. If uncertain or important details are hidden, leave them unchanged.
-
-IDENTITY
-Preserve each person’s facial features, age, skin tone and texture, eyes, hair, facial hair, body size, and proportions. No face replacement, beautification, reshaping, slimming, added muscles, makeup, or age changes. Additional portraits may clarify the matching person’s features only, especially open eyes; never copy their scene, pose, clothing, or lighting. Do not borrow features if matching is unclear.
-
-CORRECTIONS
-• Head/neck: gently correct awkward tilt, twisting, compression, or overextension together with the shoulders and torso. Keep natural neck length, connected jaw/neck/hair, intended gaze, and emotion. Relax raised shoulders without forcing symmetry.
-• Eyes: repair accidental blinking or half-closed eyes with relaxed, naturally open eyelids, consistent gaze, and preserved shape, spacing, and known iris color. Prefer an open-eye reference; otherwise reconstruct conservatively. No enlarged eyes or invented striking colors. Preserve intentional closure during sleep, laughter, or affection. Keep the mouth and smile unless distorted; do not add teeth.
-• Arms/hands: correct uncomfortable alignment with continuous shoulder–elbow–wrist anatomy, proportional hands, natural fingers, and preserved gestures/grips. Bent arms need not be straightened.
-• Torso/legs/feet: retain the original action and coordinate hip, knee, ankle, and foot adjustments. Preserve limb lengths, foreshortening, realistic balance, ground contact, and seat support. Never straighten a leg independently of its hip and knee or invent hidden limbs.
-
-CONSISTENCY
-Keep identities and limb ownership separate. Preserve interpersonal contact and contact with objects, clothing, floors, seats, and railings. Update only necessary nearby folds, shadows, and contact points. No added, duplicated, merged, or removed visible body parts.
-
-PRESERVATION
-Keep framing, aspect ratio, viewpoint, background, lighting, colors, depth of field, clothing, accessories, jewelry, logos, and readable text. Match repaired areas to original focus, grain, shadows, and skin detail. No cropping away anatomy, background replacement, unrelated additions, beauty filters, or forced straight, symmetrical, front-facing poses.
-
-Check identity, connected joints, eyes, hands, feet, balance, contact, accessories, and editing seams. The result must look like a naturally better-posed photograph of the same moment.
-
-✨ @VitrinAi
-----------------------------------------
 [2026-10-29T12:53:01+00:00] (id:10358)
 @FreakConfig
 ----------------------------------------
@@ -60,6 +26,24 @@ Check identity, connected joints, eyes, hands, feet, balance, contact, accessori
 ----------------------------------------
 [2026-10-30T08:15:49+00:00] (id:10370)
 صرافی بایننس توسط هکر های کره شمالی هک شد.
+
+@FreakConfig
+----------------------------------------
+[2026-10-30T10:57:52+00:00] (id:10373)
+بنده که با اولین برخورد بد میذارم میرم:
+
+@FreakConfig
+----------------------------------------
+[2026-10-30T11:44:01+00:00] (id:10374)
+@FreakConfig
+----------------------------------------
+[2026-10-30T13:19:58+00:00] (id:10376)
+مهلت ۴۸ ساعتهٔ ترامپ به ایرانیان برای برگزاری مراسم هالووین
+
+@FreakConfig
+----------------------------------------
+[2026-10-30T15:30:37+00:00] (id:10378)
+یه خبر دیدم که دیتابیس بلوبانک لو رفته، بیاید پول بذاریم روی هم بدیم به هکره که حداقل ویدیوهای احراز هویت رو پخش نکنه.
 
 @FreakConfig
 ----------------------------------------
