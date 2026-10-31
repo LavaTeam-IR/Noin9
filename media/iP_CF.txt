@@ -1,58 +1,7 @@
-آخرین آپدیت: 2026-10-31 11:02:00 UTC
+آخرین آپدیت: 2026-10-31 16:01:51 UTC
 کانال: @iP_CF
 ========================================
 
-[2026-10-24T17:11:40+00:00] (id:11507)
-بخش دوم
-
-🐱 10ium/V2Hub3_vmess.yaml
-🐱 10ium/multi-proxy-config-fetcher.yaml
-🐱 10ium/ss_iran.yaml
-🐱 10ium/trojan_iran.yaml
-🐱 10ium/vmess_iran.yaml
-🐱 FreedomGuard/Finder_configs.yaml
-🐱 ebrasha/lite.yaml
-🐱 namira.dev.yaml
-🐱 %40redfree8.yaml
-🐱 Ashkan-m.yaml
-🐱 Leon406-hysteria2.yaml
-🐱 MahsaNetConfigTopic.yaml
-🐱 NiREvil_SSTime.yaml
-🐱 ResistalProxy_server.yaml
-🐱 Surfboardv2ray/IR.yaml
-🐱 Surfboardv2ray/US.yaml
-🐱 Surfboardv2ray/ipv6.yaml
-🐱 Surfboardv2ray/mahsa.yaml
-🐱 Surfboardv2ray/random.yaml
-🐱 Surfboardv2ray/udp.yaml
-🐱 liketolivefree_sub.yaml
-🐱 muma16fx.netlify.app.yaml
-🐱 peasoft_list_raw.yaml
-🐱 qiaomenzhuanfx.netlify.app.yaml
-🐱 rb360full_Reza/2.yaml
-🐱 robin.nscl.ir.yaml
-🐱 roosterkid/V2RAY_BASE64.yaml
-🐱 shadowmere.xyz.yaml
-🐱 tristan-deng_MyNodes.yaml
-🐱 amiralter_config_lite.yaml
-🐱 arshiacomplus/v2rayExtractor_ss.yaml
-🐱 arshiacomplus/v2rayExtractor_trojan.yaml
-🐱 arshiacomplus/v2rayExtractor_vmess.yaml
-🐱 arshiacomplus/v2rayExtractor_vless.yaml
-🐱 Mahdi0024/ProxyCollector.yaml
-🐱 MhdiTaheri/V2rayCollector.yaml
-🐱 Farid-Karimi/Config_Collector.yaml
-🐱 subrostunnel_vercel_wl.yaml
-🐱 ShadowException/VPN_cat.yaml
-🐱 whoahaow/rjsxrd_bypass_all.yaml
-🐱 masir-sefid/masir_sefid.yaml
-🐱 v2hub-configs/Sub_AutoUpdate.yaml
-🐱 igareck/BLACK_VLESS_RUS_mobile.yaml
-#معرفی_منابع_کانفیگ 
-#ساب_لینک
-#clash
-#mihomo
-----------------------------------------
 [2026-10-24T17:47:02+00:00] (id:11508)
 رسما اعلام شد که جنگ رسمی تر بشه درجا اینترنت قطع میشه😐
 #OxiDe
@@ -215,6 +164,14 @@ https://github.com/getlantern/lantern/releases/download/v10.0.4/lantern-installe
 [2026-10-30T09:18:13+00:00] (id:11526)
 سخنگوی دولت در واکنش به انتقادها از افزایش قیمت اینترنت گفت بابت گران‌تر شدن تعرفه‌ها عذرخواهی نمی‌کند، اما به‌دلیل اطلاع‌رسانی ناکافی درباره این تصمیم از مردم عذرخواهی می‌کند. 😂
 مهاجرانی تأکید کرد افزایش قیمت در چارچوب یک ساختار تصمیم‌گیری شده و مسئولان باید درباره آن به مردم توضیح بدهند. /دیجیاتو
+
+#OxiDe
+🤍  More : @IP_CF
+🤍  Group : @IP_CF_GROUP
+----------------------------------------
+[2026-10-31T11:53:23+00:00] (id:11528)
+هسته ی xray آپدیت داده 2 روز پیش
+فعلا صبر میکنیم تا برنامه ها با آخرین نسخه ی هسته هماهنگ بشن..و بعد منتشر کنیم
 
 #OxiDe
 🤍  More : @IP_CF
