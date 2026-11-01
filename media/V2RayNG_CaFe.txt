@@ -1,22 +1,7 @@
-آخرین آپدیت: 2026-11-01 08:11:56 UTC
+آخرین آپدیت: 2026-11-01 15:07:14 UTC
 کانال: @V2RayNG_CaFe
 ========================================
 
-[2026-10-25T17:50:17+00:00] (id:4433)
-کانفیگ نپستر متصل ✅
-
-🪩 @V2RayNG_Cafe
-----------------------------------------
-[2026-10-25T18:10:16+00:00] (id:4434)
-کانفیگ نپستر متصل ✅
-
-🪩 @V2RayNG_Cafe
-----------------------------------------
-[2026-10-25T18:32:02+00:00] (id:4435)
-کانفیگ نپستر متصل ✅
-
-🪩 @V2RayNG_Cafe
-----------------------------------------
 [2026-10-25T20:02:01+00:00] (id:4436)
 بچها تلگرام یه باگی پیدا کرده !! 
 که یه لینک مخرب میتونه اکانتتون رو درجا دلیت کنه 
@@ -110,4 +95,31 @@ tg://proxy?server=myapi.gigicalla.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
 ----------------------------------------
 [2026-10-31T19:14:30+00:00] (id:4461)
 (بدون متن)
+----------------------------------------
+[2026-11-01T10:45:28+00:00] (id:4462)
+خب سلام عزیزان ❕
+----------------------------------------
+[2026-11-01T10:45:45+00:00] (id:4463)
+tg://proxy?server=www.sinlx.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
+
+tg://proxy?server=www.sinlx.ir.&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=www.digikallamall.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
+
+tg://proxy?server=www.digikallamall.ir.&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=www.gigimystore.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
+
+tg://proxy?server=www.gigimystore.ir.&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+tg://proxy?server=myapi.gigicalla.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
+
+tg://proxy?server=myapi.gigicalla.ir.&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+🪩 @V2RayNG_Cafe
+----------------------------------------
+[2026-11-01T12:57:42+00:00] (id:4464)
+کانفیگ نپستر متصل ✅
+
+🪩 @V2RayNG_Cafe
 ----------------------------------------
