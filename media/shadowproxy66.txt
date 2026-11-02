@@ -1,40 +1,7 @@
-آخرین آپدیت: 2026-11-02 09:40:56 UTC
+آخرین آپدیت: 2026-11-02 19:47:31 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-10-31T19:42:21+00:00] (id:17679)
-1.PROXY 2.PROXY 3.PROXY
-4.PROXY 5.PROXY 6.PROXY
-7.PROXY 8.PROXY 9.PROXY
-10.PROXY11.PROXY12.PROXY
-13.PROXY14.PROXY15.PROXY
-16.PROXY17.PROXY18.PROXY
-19.PROXY20.PROXY21.PROXY
-22.PROXY23.PROXY24.PROXY
-25.PROXY26.PROXY27.PROXY
-28.PROXY29.PROXY30.PROXY
-31.PROXY32.PROXY33.PROXY
-34.PROXY35.PROXY36.PROXY
-37.PROXY38.PROXY39.PROXY
-40.PROXY41.PROXY42.PROXY
-43.PROXY44.PROXY45.PROXY
-46.PROXY47.PROXY48.PROXY
-49.PROXY50.PROXY51.PROXY
-52.PROXY53.PROXY54.PROXY
-55.PROXY56.PROXY57.PROXY
-58.PROXY59.PROXY60.PROXY
-----------------------------------------
-[2026-11-01T05:52:02+00:00] (id:17680)
-(بدون متن)
-----------------------------------------
-[2026-11-01T05:52:36+00:00] (id:17681)
-📶 ۱۰ کانفیگ V2ray متصل با همه اپراتورها
-test
-🔅@ShadowProxy66
-----------------------------------------
-[2026-11-01T08:13:32+00:00] (id:17682)
-(بدون متن)
-----------------------------------------
 [2026-11-01T08:13:52+00:00] (id:17683)
 V2RayNG 2.3.15 Android
 (Pre-Release)
@@ -149,4 +116,22 @@ https://github.com/patterniha/PattNG/releases/tag/2.3.15-P71
 
 🔳پروکسی تلگرام متصل باهمه اپراتورها
 🔘 @ShadowProxy66
+----------------------------------------
+[2026-11-02T10:29:34+00:00] (id:17699)
+(بدون متن)
+----------------------------------------
+[2026-11-02T10:29:49+00:00] (id:17700)
+Throne for Android 2.0.5
+🔥آپدیت نسخه اندروید
+بر پایه NekoBox for Android و هسته sing-box
+https://github.com/throneproj/ThroneForAndroid/releases/tag/v2.0.5
+
+🖥برای دسکتاپ نسخه بتا منتشر شده
+Throne 1.4.0-beta.5
+نسخه جدید فورک بهینه شده کلاینت نکوری برای  ویندوز  مک  لینوکس
+
+https://github.com/throneproj/Throne/releases/tag/1.4.0-beta.5
+
+📍کانفیگ‌های فعال
+🫆@ShadowProxy66
 ----------------------------------------
