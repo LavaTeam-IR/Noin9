@@ -1,67 +1,7 @@
-آخرین آپدیت: 2026-11-03 08:41:36 UTC
+آخرین آپدیت: 2026-11-03 16:34:33 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-11-01T16:18:34+00:00] (id:17695)
-(بدون متن)
-----------------------------------------
-[2026-11-01T16:18:41+00:00] (id:17696)
-📶 ۴۰۰ کانفیگ V2ray تست شده با نت ایرانسل🟡
-🔁بقیه اپراتورها خودشون تست کنند
-🪧(فایل رو باز کنید محتویات رو کپی کنید و در هر کلاینتی که مدنظر دارید پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید اگه وصل نشد کلاینتهای دیگه تست کنید)
-🔅@ShadowProxy66
-----------------------------------------
-[2026-11-02T05:33:27+00:00] (id:17697)
-(بدون متن)
-----------------------------------------
-[2026-11-02T05:33:44+00:00] (id:17698)
-☑️ Telegram Proxy
-
-1.PROXY 2.PROXY 3.PROXY
-4.PROXY 5.PROXY 6.PROXY
-7.PROXY 8.PROXY 9.PROXY
-10.PROXY11.PROXY12.PROXY
-13.PROXY14.PROXY15.PROXY
-16.PROXY17.PROXY18.PROXY
-19.PROXY20.PROXY21.PROXY
-22.PROXY23.PROXY24.PROXY
-25.PROXY26.PROXY27.PROXY
-28.PROXY29.PROXY30.PROXY
-31.PROXY32.PROXY33.PROXY
-34.PROXY35.PROXY36.PROXY
-37.PROXY38.PROXY39.PROXY
-40.PROXY41.PROXY42.PROXY
-43.PROXY44.PROXY45.PROXY
-46.PROXY47.PROXY48.PROXY
-49.PROXY50.PROXY51.PROXY
-52.PROXY53.PROXY54.PROXY
-55.PROXY56.PROXY57.PROXY
-58.PROXY59.PROXY60.PROXY
-
-🔳پروکسی تلگرام متصل باهمه اپراتورها
-🔘 @ShadowProxy66
-----------------------------------------
-[2026-11-02T10:29:34+00:00] (id:17699)
-(بدون متن)
-----------------------------------------
-[2026-11-02T10:29:49+00:00] (id:17700)
-Throne for Android 2.0.5
-🔥آپدیت نسخه اندروید
-بر پایه NekoBox for Android و هسته sing-box
-https://github.com/throneproj/ThroneForAndroid/releases/tag/v2.0.5
-
-🖥برای دسکتاپ نسخه بتا منتشر شده
-Throne 1.4.0-beta.5
-نسخه جدید فورک بهینه شده کلاینت نکوری برای  ویندوز  مک  لینوکس
-
-https://github.com/throneproj/Throne/releases/tag/1.4.0-beta.5
-
-📍کانفیگ‌های فعال
-🫆@ShadowProxy66
-----------------------------------------
-[2026-11-02T20:22:26+00:00] (id:17703)
-(بدون متن)
-----------------------------------------
 [2026-11-02T20:22:59+00:00] (id:17704)
 📶 ۴۱۵ کانفیگ V2ray تست شده با نت همراه اول🔵
 🔁بقیه اپراتورها خودشون تست کنند
@@ -108,4 +48,18 @@ https://github.com/anonvector/SlipNet/releases/tag/v2.5.6
 ----------------------------------------
 [2026-11-03T08:12:49+00:00] (id:17707)
 (بدون متن)
+----------------------------------------
+[2026-11-03T10:55:35+00:00] (id:17715)
+(بدون متن)
+----------------------------------------
+[2026-11-03T10:55:51+00:00] (id:17716)
+آخرین نسخه whiteDNS اندروید
+https://github.com/WhiteDNS/WhiteDNS-Android/releases/latest
+----------------------------------------
+[2026-11-03T10:56:01+00:00] (id:17721)
+آخرین نسخه WhiteDNS دسکتاپ
+https://github.com/WhiteDNS/WhiteDNS-Desktop/releases/latest
+----------------------------------------
+[2026-11-03T11:23:41+00:00] (id:17723)
+کلاینت کامل برای ایفون و مک CoreForge  پشتیبانی و امکانات VLESS / VMess / Trojan / WebSocket / XHTTP / HTTP Upgrade Subscription DnsForge SOAR OpenVPN SlipNet Slipstream NaiveProxy Juicity Mieru CDN Fronting SSTP IKEv2 Wireguard &.... ‏ ‏لینک‌های نصب — TestFlight…
 ----------------------------------------
