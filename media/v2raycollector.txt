@@ -1,110 +1,7 @@
-آخرین آپدیت: 2026-11-04 01:54:12 UTC
+آخرین آپدیت: 2026-11-04 08:19:35 UTC
 کانال: @v2raycollector
 ========================================
 
-[2026-11-03T10:00:07+00:00] (id:5408)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/08/12
-🇬🇧 2026/11/03
-🕒 13:30:03
-
-🇩🇪 ᴘʀᴏxʏ | 🇸🇬 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇺🇸 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇫🇷 ᴘʀᴏxʏ | 🇳🇱 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇫🇮 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-11-03T11:45:25+00:00] (id:5409)
-✅Slipnet_Ssh🇩🇪
-
-کانفیگ ها مخصوص اپراتورهای اختلال بالا
-یکماهه و ای پی ثابت المان
-
-slipnet-enc://AUo5p+Bt4X+IaqViMgx7m4rv3lmOIZKip4rK/2DRrBUaaanzr7i/P+PG1NBXlfhJTcYTquZ3TNrf4zp+jN/p6eVI+b/OCbyUjZ0LBIRIiF27ko191Bw0iGN6U4SVAEY88YO06sarkumIdFp9mYfVzHyPAXkgHA40XcuUaYiAy9+qM3ZWp7YO3YIgtLEptwaId3CTURNJXiv/YMR40Or9bY+cz+mAA+pL71Y2wgPWqSb1ln8LkTdRaZWXwZEaplARhibVGJIJVhUCBPLATLt4CGNMYrFKenKu7ELkIjDgAmKiVq4n8q9u5X3otEZiVwbIyvy4YhQpGo+NcOhPTsytWcvWanTqCiyPfKpoEerKV+g5YrtH9Mkr88UyvN/yoToptd/hdPuKleO6B11APh1Q9UzniFQQW8Gpm/jda2bB0jIc+AUVqa9JshIiwvvyW5PwNZR8MoSvinVGKKy0MPH3h1EKnmVcLK5tLCP8ZmrUWLr28Thadt/1pe+eoCDQ9hklf3GR8Lic/EsPS7aU0XLFk+muVpI=
-slipnet-enc://AbBGYMX3TqoNaD1jCpKyfC7getWNG1GqnyEAQVOQzhd7KdUdc6+/xHVhBN/FxOk4gSN+BPcTKEylQ6Da7hHjYNDGNCNTEhH5pDrzcNXvMq1qVLTx5MRw/rbETV/DFirpOW3W3FEgprhzj4kvg8xUC+QbasYP1/9Uceo2SYcSkoAP1TZOmDtHVb7y9KE/nA3WMWH/ylUbReABodyoj/6i7OFqZHCOKql5EsdzPkELJVwCTnnVbki88HVkn3V2tRa+5vVfRdm0c+
-nxLNhDAl1a8ADI77Qo6jkkUt+iCWR3+zKMWoFgeeWiRjodoM8YUVG5NU8yzT6JxruswZ1Ydmiqlv+1932euuuUIs8WaprAiy+rRqY1jxwCKsQWI10HugjMiLX56auMgpIkshQ55YPf6ZDars/cdm8+A3a+ZYwq4QXr9xNg2HHdI2HVrsp0geAOvRkFycVaU9bHreVMufpVF2h15zVfZuenjxg66Bda/OH3H++c6GOoWszxjRBNG5GaS8c7PthzuFDJhbp2ybIBX5YSDfo=
-slipnet-enc://AX7+/aDdZ8HwQKjvZT28e/oelASXliemj5KSMfe/mV5Yw13dkMi2ySytQnktahxgy9IO8Ht4JVs/nyIvFq87omV13x0EObK81zWej/DEfdUX6jZuJx+/jz3Ztw9TZdnaZpMFWXjCJmFo6n4+9cTCLlrnpvr+5HdQDqrifREPhq20zImSUxiAGYlLIm4HtnUFAslJ0FHatmheATEAtQyC6odUlrSX5KY3ks/8yC92s9F8MOMFQpiUUG7k+XYK3noBGXxSFsmMaqXgMOEjvF8LNgcZRp9wfi6sgIqVbiqvMZCPZJ3SBXU1NsqD/AL/hxB6en6nSUSg3BAJk0+yfheX4z+9gKI1OwoYU87N6IKxUSLHv2vU2VeYLPOLikQUMYDAOl2s3hokAf6QDoPmWWnuMmpqaWNhY1V1v4bKQLMIqAxGEbGzk4tTktovF9o/FhiCPYZi77Q3kiTQjMsGFGCFb3/MqH4Giay6cA6atXwgTAFVJybT59jL6M6BIzJAFLwln+TQQFd0m98h+1AzMcr8f17fJ18=
-✅️آموزش وارد کردن کانفیگ به slipnet👇
-روی علامت ➕️کلیک کنید ⬅️ بخشImport ⬅️ کانفیگ ها ی کپی شده را جای گذاری کرده و import رو بزنید .تمام کانفیگ های لیست رو وارد کنید
-♦️گیتهاب
-
-♦️تنظیمات
-----------------------------------------
-[2026-11-03T12:00:07+00:00] (id:5410)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/08/12
-🇬🇧 2026/11/03
-🕒 15:30:03
-
-🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🇺🇸 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-11-03T12:01:00+00:00] (id:5412)
-(بدون متن)
-----------------------------------------
-[2026-11-03T13:30:59+00:00] (id:5413)
-(بدون متن)
-----------------------------------------
-[2026-11-03T14:00:07+00:00] (id:5414)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/08/12
-🇬🇧 2026/11/03
-🕒 17:30:03
-
-🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
-[2026-11-03T14:31:51+00:00] (id:5416)
-Masque-Generator
-ساخت کانفیگ WARP MASQUE برای Xray
-
-ابزار تحت وب برای تولید کانفیگ WARP با پروتکل MASQUE
-
-✨ امکانات:
-🔑 ساخت کلید جدید با یک کلیک (با چند API و تعویض خودکار هنگام ریت‌لیمیت)
-📥 ایمپورت فایل JSON ابزار usque یا روش دستی
-📱 خروجی برای Clash، v2rayNG، Happ، Streisand، Shadowrocket، MahsaNG و ...
-⚡️ انتخاب ترنسپورت H2 (TCP+TLS1.2) یا H3 (QUIC+TLS1.3)
-🌍 قوانین روتینگ ایران (سایت‌های داخلی مستقیم)
-🛡 تنظیمات SNI masking، Fragment، Noise، DNS، MTU و Keep-alive
-🚀 حالت H3-L4 برای تأخیر کمتر کلش
-📦 تولید تا ۱۰ کانفیگ همزمان، با خروجی لینک masque:// یا JSON یا فایل
-💡 نکته: حتماً آخرین نسخه‌ی Xray core و کلاینت را استفاده کنید. برای
-
-🌐 وب‌
-https://darknessshade.github.io/Masque-Generator/
-💻 گیت‌هاب
-https://github.com/DarknessShade/Masque-Generator
-در حالت Transport H2 پیشفرض برای همراه اول اوکی هست برای ایرانسل با بیشتر اندپوینت و sni ها کار میکنه
-
-@ConfigWireguard
-----------------------------------------
-[2026-11-03T16:00:07+00:00] (id:5417)
-🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-🇮🇷 1405/08/12
-🇬🇧 2026/11/03
-🕒 19:30:03
-
-🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇺🇸 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇱🇻 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ
-🇩🇪 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
-🏳️ ᴘʀᴏxʏ
-
-🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
-----------------------------------------
 [2026-11-03T16:00:59+00:00] (id:5419)
 (بدون متن)
 ----------------------------------------
@@ -168,5 +65,65 @@ https://github.com/DarknessShade/Masque-Generator
 🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
 ----------------------------------------
 [2026-11-04T00:01:00+00:00] (id:5428)
+(بدون متن)
+----------------------------------------
+[2026-11-04T02:00:06+00:00] (id:5429)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/08/13
+🇬🇧 2026/11/04
+🕒 05:30:03
+
+🇩🇪 ᴘʀᴏxʏ | 🇺🇸 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇺🇸 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-11-04T04:00:07+00:00] (id:5430)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/08/13
+🇬🇧 2026/11/04
+🕒 07:30:03
+
+🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ
+🇺🇸 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-11-04T04:00:57+00:00] (id:5432)
+(بدون متن)
+----------------------------------------
+[2026-11-04T05:30:48+00:00] (id:5433)
+(بدون متن)
+----------------------------------------
+[2026-11-04T06:00:06+00:00] (id:5434)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/08/13
+🇬🇧 2026/11/04
+🕒 09:30:03
+
+🇩🇪 ᴘʀᴏxʏ | 🇺🇦 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ | 🇺🇸 ᴘʀᴏxʏ
+🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇷🇺 ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🇺🇦 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-11-04T08:00:16+00:00] (id:5435)
+🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+🇮🇷 1405/08/13
+🇬🇧 2026/11/04
+🕒 11:30:11
+
+🇺🇸 ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇩🇪 ᴘʀᴏxʏ
+🇫🇮 ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🏳️ ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
+🇩🇪 ᴘʀᴏxʏ | 🇫🇮 ᴘʀᴏxʏ
+
+🆔 @ZPrxy | 🌐 ᴡᴇʙ ᴘʀᴏxʏ
+----------------------------------------
+[2026-11-04T08:00:55+00:00] (id:5437)
 (بدون متن)
 ----------------------------------------
