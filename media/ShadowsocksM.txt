@@ -1,10 +1,7 @@
-آخرین آپدیت: 2026-11-05 09:33:50 UTC
+آخرین آپدیت: 2026-11-05 17:36:31 UTC
 کانال: @ShadowsocksM
 ========================================
 
-[2026-10-24T04:58:12+00:00] (id:15221)
-نسخهٔ 1.6.12 برنامهٔ WhiteDNS برای اندروید منتشر شد🔥
-----------------------------------------
 [2026-10-24T08:46:07+00:00] (id:15223)
 💻 نسخهٔ 1.4.3 برنامهٔ WhiteDNS Desktop منتشر شد
 
@@ -100,4 +97,25 @@ https://t.me/vpn_proxy400
 ----------------------------------------
 [2026-11-04T16:13:26+00:00] (id:15238)
 (بدون متن)
+----------------------------------------
+[2026-11-05T14:42:44+00:00] (id:15242)
+All
+
+https://raw.githubusercontent.com/Mr-Meshky/vify/main/configs/all.txt
+
+Vless
+
+https://raw.githubusercontent.com/Mr-Meshky/vify/main/configs/vless.txt
+
+Vmess 
+
+https://raw.githubusercontent.com/Mr-Meshky/vify/main/configs/vmess.txt
+
+Shadowsocks
+
+https://raw.githubusercontent.com/Mr-Meshky/vify/main/configs/ss.txt
+
+Trojan 
+
+https://raw.githubusercontent.com/Mr-Meshky/vify/main/configs/trojan.txt
 ----------------------------------------
