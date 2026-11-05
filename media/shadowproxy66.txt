@@ -1,32 +1,7 @@
-آخرین آپدیت: 2026-11-05 17:37:12 UTC
+آخرین آپدیت: 2026-11-05 22:49:53 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-11-04T19:08:03+00:00] (id:17733)
-FlClash v0.9.3
-نسخه جدید کلاینت
-
-لینک دانلود از وبسایت
-https://flclash.cc/en/download
-لینک دانلود از گیتهاب
-https://github.com/chen08209/FlClash/releases/tag/v0.9.3
-تغییرات:
-Features
-• Merged requests and connections; quick edit lists
-• iOS 27 transitions, press and text selection; smoother pages
-• Download and install updates in the app
-• One delay test timeout; VPN crash and startup fixes
-
-Bug Fixes
-• Auto-select leaves an unusable first node at once
-• Keep selections a filter hides
-آموزش استفاده
-آموزش ساخت لینک ساب
-🫆 @ShadowProxy66
-----------------------------------------
-[2026-11-04T19:51:42+00:00] (id:17743)
-(بدون متن)
-----------------------------------------
 [2026-11-04T19:51:53+00:00] (id:17744)
 کانفیگ کلش ۱۴۳۷ سرور
 Bettbox & FlClash
@@ -70,4 +45,34 @@ aether://188.114.98.87:987?protocol=wg&scan=balanced&ip=v4#%40ShadowProxy66%E2%9
 🔁بقیه اپراتورها خودشون تست کنند
 🪧(فایل رو باز کنید محتویات رو کپی کنید و در هر کلاینتی که مدنظر دارید پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید اگه وصل نشد کلاینتهای دیگه تست کنید)
 🔅@ShadowProxy66
+----------------------------------------
+[2026-11-05T19:30:59+00:00] (id:17753)
+(بدون متن)
+----------------------------------------
+[2026-11-05T19:31:33+00:00] (id:17754)
+Throne Client (Android & Desktop)
+
+‏Throne ادامه‌دهنده پروژه‌های Nekoray و NekoBox هست. نسخه دسکتاپ و اندرویدش هسته مشترکی به اسم ThroneCore دارن که بر پایه sing-box ساخته شده.
+
+🔗لینک گیتهاب نسخه اندروید
+https://github.com/throneproj/ThroneForAndroid/releases/tag/v2.0.6
+آموزش استفاده
+
+🔗لینک گیتهاب نسخه دسکتاپ
+https://github.com/throneproj/Throne/releases/tag/1.4.0
+آموزش استفاده
+
+📍لینکهای ساب دائمی چنل
+🫆@ShadowProxy66
+----------------------------------------
+[2026-11-05T20:10:12+00:00] (id:17762)
+(بدون متن)
+----------------------------------------
+[2026-11-05T20:10:19+00:00] (id:17763)
+۲۱۵ کانفیگ متصل با همه اپراتورها
+جهت استفاده در کلاینت Throne
+
+دانلود کلاینت
+آموزش استفاده
+🫆@ShadowProxy66
 ----------------------------------------
