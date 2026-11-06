@@ -1,16 +1,7 @@
-آخرین آپدیت: 2026-11-06 10:02:14 UTC
+آخرین آپدیت: 2026-11-06 17:24:00 UTC
 کانال: @EliV2ray
 ========================================
 
-[2026-09-23T08:33:39+00:00] (id:9377)
-🔻لینک دانلود V2BOX برای اندروید از پلی استور🔻
-
-https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box
-
-🔻لینک دانلود  V2BOX برای آیفون از اپ استور🔻
-
-https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
-----------------------------------------
 [2026-09-23T08:35:45+00:00] (id:9378)
 💢 آموزش تصویری نحوه ی اتصال به ساب لینک های رایگان کانال با V2BOX
 
@@ -237,6 +228,24 @@ https://github.com/CluvexStudio/ZedSecure/releases/tag/v3.1.6
 🔻 لینک دانلود از پلی استور
 
 https://play.google.com/store/apps/details?id=com.zedsecure.vpn
+
+@ELiV2Ray
+----------------------------------------
+[2026-11-06T11:10:11+00:00] (id:9399)
+❇️ ساب لینک رایگان کانال
+✅ مناسب همه کلاینت ها 
+
+Hiddify -V2box -Karing -V2rayNG -ZedSeure
+
+🔻تعداد کانفیگ ۳۷ عدد🔻
+
+👇Click and Copy👇
+https://raw.githubusercontent.com/ELiV2-hub/ELiV2-RAY/refs/heads/main/Subscription35_ELiV2_renamed.txt
+
+❌ این ساب لینک رایگان هست و شاید با همه اپوراتور ها با سرعت خوب متصل نباشد ( تست پینگ بگیرید)
+
+❗️ کلاینت پیشنهادی V2box و ZedSeure
+❗️ آموزش اتصال 👉 کلیک کنید
 
 @ELiV2Ray
 ----------------------------------------
