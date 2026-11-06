@@ -1,17 +1,7 @@
-آخرین آپدیت: 2026-11-06 02:53:31 UTC
+آخرین آپدیت: 2026-11-06 10:03:26 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-11-04T19:51:53+00:00] (id:17744)
-کانفیگ کلش ۱۴۳۷ سرور
-Bettbox & FlClash
-Clash meta & Clash Mi
-بعد اد کردن قسمت پروفایل تست پینگ بگیرید و نوع انتخاب پروکسی رو خودکار بذارید باز هم وصل نشد از قسمت دستی سرور مناسب رو انتخاب کنید
-🫆@ShadowProxy66
-----------------------------------------
-[2026-11-04T21:00:36+00:00] (id:17745)
-(بدون متن)
-----------------------------------------
 [2026-11-04T21:01:36+00:00] (id:17746)
 📶 ۱۲۸ کانفیگ V2ray متصل با همه اپراتورها
 🪧(فایل رو باز کنید محتویات رو کپی کنید و در هر کلاینتی که مدنظر دارید پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید اگه وصل نشد کلاینتهای دیگه تست کنید)
@@ -74,5 +64,35 @@ https://github.com/throneproj/Throne/releases/tag/1.4.0
 
 دانلود کلاینت
 آموزش استفاده
+🫆@ShadowProxy66
+----------------------------------------
+[2026-11-06T08:40:59+00:00] (id:17764)
+(بدون متن)
+----------------------------------------
+[2026-11-06T08:41:08+00:00] (id:17765)
+ArgoVPN
+Version 3.2.2 (Build 6940)
+📍 نسخه جدید فیلترشکن آرگو
+♻️ لینک دانلود از گوگل پلی
+🔴 آموزش دریافت پل از ربات
+🔵 آموزش دریافت پل از وبسایت
+🟢آموزش استفاده از پروکسی http
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eJwNzN1ugjAYANB36TWJBRGsiRcTkbVWHTix5a5Upo3uExXk
+Z/Hd5/3J+UPP4v4wV0AT20Kl6i5XdUATVHSs0b8E5876mQfU
+o+fQ8ID1mWBOJqjZGGYrJwENupYOqahpjI5Id3jb9Tzuf+Lp
+FFnoYY6gqvpevMtVKAMaB3ve6hQLSQaKw3dp1/k2hGUJctNn
+w9Ot8+bH3hNp6CYNPX0sdwmOYPaJyW1rRyueNPwMhRpj35Ut
+G7WuP6rE5atesBS9/gE3lUMN
+-----END ARGO VPN BRIDGE BLOCK-----
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eNoNzMuOgjAUANB/6dqFU5xOa8KCIBnbCAhKRHc8ql55yAAtKcZ/H/cn54W07Ad4
+tmj9tUBdZupnVqI1kkZMRcOWOQ507nLCKw92rpgvqcCXlEMIwpKnuCqssirwpM6Y
+jRwmKH6ZKT8+2ETzNbJttEAD3NpsVL38tL6XuNzrj8eeRfd6LyNNm81j/jb0jyiX
+jMv99PhJOqqGsGmCbeqA52gcqjvvYoNjcotFsrLCkp5yx9eUnIFluGbJYVe3bPBt
+9P4Hf3pFCw==
+-----END ARGO VPN BRIDGE BLOCK-----
+(اگر وصل نشد کلیردیتا کنید بعد از پل استفاده کنید و اگه پل از کار افتاد یا وصل نشد طبق آموزش پل بگیرید)
+حالت شبکه عمومی هم متصله
 🫆@ShadowProxy66
 ----------------------------------------
