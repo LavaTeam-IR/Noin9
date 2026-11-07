@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-11-07 14:59:25 UTC
+آخرین آپدیت: 2026-11-07 19:18:46 UTC
 کانال: @V2ray_Collector
 ========================================
 
@@ -7,4 +7,14 @@
 ----------------------------------------
 [2026-11-07T10:48:37+00:00] (id:1673)
 (بدون متن)
+----------------------------------------
+[2026-11-07T16:30:56+00:00] (id:1675)
+1 · 🇸🇪 Sweden · Hysteria2
+hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?sni=se.mimowhat.online&insecure=1#@V2ray_Collector
+
+🔑 Your next working key may be there. Check @OutlineReleasedKey for regular updates.
+
+🔸 Official source: @V2ray_Collector
+
+#FreeVPN #Proxy #V2Ray
 ----------------------------------------
