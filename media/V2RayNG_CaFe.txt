@@ -1,22 +1,7 @@
-آخرین آپدیت: 2026-11-08 08:21:06 UTC
+آخرین آپدیت: 2026-11-08 15:24:10 UTC
 کانال: @V2RayNG_CaFe
 ========================================
 
-[2026-11-02T11:03:39+00:00] (id:4465)
-کانفیگ نپستر متصل ✅
-
-🪩 @V2RayNG_Cafe
-----------------------------------------
-[2026-11-02T11:31:02+00:00] (id:4466)
-کانفیگ نپستر متصل ✅
-
-🪩 @V2RayNG_Cafe
-----------------------------------------
-[2026-11-02T12:01:02+00:00] (id:4467)
-کانفیگ نپستر متصل ✅
-
-🪩 @V2RayNG_Cafe
-----------------------------------------
 [2026-11-02T15:29:50+00:00] (id:4468)
 کانفیگ نپستر متصل ✅
 
@@ -93,19 +78,18 @@ tg://proxy?server=myapi.gigicalla.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
 
 🪩  @V2RayNG_Cafe
 ----------------------------------------
-[2026-11-05T15:16:00+00:00] (id:4483)
-🚨🔥 تخفیف ویژه آخر هفته 🔥🚨
+[2026-11-08T13:15:26+00:00] (id:4492)
+dHJvamFuOi8vTWlUaVZQTkAxNjcuODIuNjQuNzo0NDM/cGF0aD0lMkYtLS0lNDBNaVRpVlBOLS0tJTQwTWlUaVZQTiZzZWN1cml0eT10bHMmYWxwbj1odHRwJTJGMS4xJmhvc3Q9TWlUaVZQTi0xLW1pdGl2cG4uYWMuaXImZnA9Y2hyb21lJnR5cGU9d3MmYWxsb3dJbnNlY3VyZT0xJnNuaT1jZG4uYWthbWFpLnN0ZWFtc3RhdGljLmNvbSMlNDBWMnJheU5HX0NhZmUlMjAlRjAlOUYlOTElODglRjAlOUYlOEYlQkIlMjAlRDglQjMlRDglQjElRDklODglRDglQjElMjAlRDklODclRDglQTclREIlOEMlMjAlRDglQTglREIlOEMlRDglQjQlRDglQUElRDglQjEKdHJvamFuOi8vTWlUaVZQTkAxNDYuNzUuNTcuNzo0NDM/cGF0aD0lMkYtLS0lNDBNaVRpVlBOLS0tJTQwTWlUaVZQTiZzZWN1cml0eT10bHMmYWxwbj1odHRwJTJGMS4xJmhvc3Q9TWlUaVZQTi0xLW1pdGl2cG4uYWMuaXImZnA9Y2hyb21lJnR5cGU9d3MmYWxsb3dJbnNlY3VyZT0xJnNuaT1jZG4uYWthbWFpLnN0ZWFtc3RhdGljLmNvbSMlNDBWMnJheU5HX0NhZmUlMjAlRjAlOUYlOTElODglRjAlOUYlOEYlQkIlMjAlRDglQjMlRDglQjElRDklODglRDglQjElMjAlRDklODclRDglQTclREIlOEMlMjAlRDglQTglREIlOEMlRDglQjQlRDglQUElRDglQjEKdHJvamFuOi8vTWlUaVZQTkAxOTkuMjMyLjc4LjE2MDo0NDM/cGF0aD0lMkYtLS0lNDBNaVRpVlBOLS0tJTQwTWlUaVZQTiZzZWN1cml0eT10bHMmYWxwbj1odHRwJTJGMS4xJmhvc3Q9TWlUaVZQTi0xLW1pdGl2cG4uYWMuaXImZnA9Y2hyb21lJnR5cGU9d3MmYWxsb3dJbnNlY3VyZT0xJnNuaT1jZG4uYWthbWFpLnN0ZWFtc3RhdGljLmNvbSMlNDBWMnJheU5HX0NhZmUlMjAlRjAlOUYlOTElODglRjAlOUYlOEYlQkIlMjAlRDglQjMlRDglQjElRDklODglRDglQjElMjAlRDklODclRDglQTclREIlOEMlMjAlRDglQTglREIlOEMlRDglQjQlRDglQUElRDglQjEKdmxlc3M6Ly84ZmRlYjgxOS1kZjBjLTQ1NmQtOWExZC1lM2E5OTUwZWNlNGRAMTk5LjIzMi43OC4xNTk6NDQzP3NlY3VyaXR5PXRscyZlbmNyeXB0aW9uPW5vbmUmaG9zdD1jb3B5X2F6X2NoYW5uZWxfTlVGaUxURVJfNmkuZ2xvYmFsLnNzbC5mYXN0bHkubmV0LiZ0eXBlPXdzJmFsbG93SW5zZWN1cmU9MSZzbmk9Y2RuLmFrYW1haS5zdGVhbXN0YXRpYy5jb20jJTQwVjJyYXlOR19DYWZlJTIwJUYwJTlGJTkxJTg4JUYwJTlGJThGJUJCJTIwJUQ4JUIzJUQ4JUIxJUQ5JTg4JUQ4JUIxJTIwJUQ5JTg3JUQ4JUE3JURCJThDJTIwJUQ4JUE4JURCJThDJUQ4JUI0JUQ4JUFBJUQ4JUIxCnZsZXNzOi8vOGZkZWI4MTktZGYwYy00NTZkLTlhMWQtZTNhOTk1MGVjZTRkQDE5OS4yMzIuNzguMTU5OjQ0Mz9wYXRoPSUyRiZzZWN1cml0eT10bHMmZW5jcnlwdGlvbj1ub25lJmhvc3Q9Y29weV9hel9jaGFubmVsX05VRmlMVEVSXzdpLmdsb2JhbC5zc2wuZmFzdGx5Lm5ldC4mdHlwZT13cyZhbGxvd0luc2VjdXJlPTEmc25pPWNkbi5ha2FtYWkuc3RlYW1zdGF0aWMuY29tIyU0MFYycmF5TkdfQ2FmZSUyMCVGMCU5RiU5MSU4OCVGMCU5RiU4RiVCQiUyMCVEOCVCMyVEOCVCMSVEOSU4OCVEOCVCMSUyMCVEOSU4NyVEOCVBNyVEQiU4QyUyMCVEOCVBOCVEQiU4QyVEOCVCNCVEOCVBQSVEOCVCMQp2bGVzczovLzhmZGViODE5LWRmMGMtNDU2ZC05YTFkLWUzYTk5NTBlY2U0ZEAxOTkuMjMyLjc4LjE1OTo0NDM/c2VjdXJpdHk9dGxzJmVuY3J5cHRpb249bm9uZSZob3N0PWNvcHlfYXpfY2hhbm5lbF9OVUZpTFRFUl83aS5nbG9iYWwuc3NsLmZhc3RseS5uZXQuJnR5cGU9d3MmYWxsb3dJbnNlY3VyZT0xJnNuaT1jZG4uYWthbWFpLnN0ZWFtc3RhdGljLmNvbSMlNDBWMnJheU5HX0NhZmUlMjAlRjAlOUYlOTElODglRjAlOUYlOEYlQkIlMjAlRDglQjMlRDglQjElRDklODglRDglQjElMjAlRDklODclRDglQTclREIlOEMlMjAlRDglQTglREIlOEMlRDglQjQlRDglQUElRDglQjEKdmxlc3M6Ly84ZmRlYjgxOS1kZjBjLTQ1NmQtOWExZC1lM2E5OTUwZWNlNGRAMTk5LjIzMi43OC4xNjA6NDQzP3BhdGg9JTJGJnNlY3VyaXR5PXRscyZlbmNyeXB0aW9uPW5vbmUmaG9zdD1jb3B5X2F6X2NoYW5uZWxfTlVGaUxURVJfMTBpLmdsb2JhbC5zc2wuZmFzdGx5Lm5ldC4mdHlwZT13cyZhbGxvd0luc2VjdXJlPTEmc25pPWNkbi5ha2FtYWkuc3RlYW1zdGF0aWMuY29tIyU0MFYycmF5TkdfQ2FmZSUyMCVGMCU5RiU5MSU4OCVGMCU5RiU4RiVCQiUyMCVEOCVCMyVEOCVCMSVEOSU4OCVEOCVCMSUyMCVEOSU4NyVEOCVBNyVEQiU4QyUyMCVEOCVBOCVEQiU4QyVEOCVCNCVEOCVBQSVEOCVCMQp2bGVzczovLzhmZGViODE5LWRmMGMtNDU2ZC05YTFkLWUzYTk5NTBlY2U0ZEAxOTkuMjMyLjc4LjE2MDo0NDM/c2VjdXJpdHk9dGxzJmVuY3J5cHRpb249bm9uZSZob3N0PWNvcHlfYXpfY2hhbm5lbF9OVUZpTFRFUl8xMGkuZ2xvYmFsLnNzbC5mYXN0bHkubmV0LiZ0eXBlPXdzJmFsbG93SW5zZWN1cmU9MSZzbmk9Y2RuLmFrYW1haS5zdGVhbXN0YXRpYy5jb20jJTQwVjJyYXlOR19DYWZlJTIwJUYwJTlGJTkxJTg4JUYwJTlGJThGJUJCJTIwJUQ4JUIzJUQ4JUIxJUQ5JTg4JUQ4JUIxJTIwJUQ5JTg3JUQ4JUE3JURCJThDJTIwJUQ4JUE4JURCJThDJUQ4JUI0JUQ4JUFBJUQ4JUIx
 
-💜 اینترنت پرسرعت و پایدار با قیمت استثنایی!
+🪩 @V2RayNG_Cafe
+----------------------------------------
+[2026-11-08T14:01:34+00:00] (id:4493)
+(بدون متن)
+----------------------------------------
+[2026-11-08T15:18:22+00:00] (id:4494)
+❤️ بچه‌ها، اگه از سرورهای ویتوری کانال راضی هستید و دوست دارید سرورهای بیشتری براتون راه‌اندازی کنیم، با حمایتتون بهمون انگیزه بدید!
 
-⚡ هر گیگ فقط 3٫000 تومان
+هر حمایتی از طرف شما یعنی یه قدم نزدیک‌تر به سرورهای بیشتر، امکانات بهتر و تجربه گیمینگ خفن‌تر 🔥
 
-🕰 بدون محدودیت زمان
-👤بدون محدودیت کاربر 
-🚀 اتصال پایدار و پرسرعت
-💎 مناسب استفاده روزمره، ترید و صرافی‌ها
-
-⏳ این فرصت طلایی فقط تا فرداشب اعتبار داره!
-
-💎 کیفیت بالا، قیمت مناسب؛ این آخر هفته رو از دست نده!
+دم همتون گرم که کنارمونید ❤️🫂
 ----------------------------------------
