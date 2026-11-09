@@ -1,34 +1,7 @@
-آخرین آپدیت: 2026-11-09 10:21:44 UTC
+آخرین آپدیت: 2026-11-09 20:53:06 UTC
 کانال: @v2xay
 ========================================
 
-[2026-06-22T17:40:59+00:00] (id:409)
-🔥فروش کانفیگ مناسب همه نت ها
-
-⚡️تعرفه‌ها: ( گیگی 7.900 )
-
-10 گیگ | 79T
-20 گیگ | 169T
-30 گیگ | 239T
-50 گیگ | 395T
-100 گیگ | 750T
-سرویس های نامحدود (حجم منصفانه)
-1 ماهه تک کاربر | 290T (180GB)
-3 ماهه تک کاربر | 590T (390GB)
-━━━━━━━━━━━━━━━━━━━━━━━━
-این سرویس همان کانفیگ های قبلی با ساب و چند لوکیشن هستن 
-تست هم داریم اول تست میگیرید بعد میخرین
-برای خرید به ایدی زیر پیام بدین👇
-
-➡️ @alirezab_a
-━━━━━
-@V2xay
-----------------------------------------
-[2026-07-10T14:22:43+00:00] (id:412)
-سرویس های نامحدود (حجم منصفانه)
-1 ماهه تک کاربر | 290T (180GB)
-3 ماهه تک کاربر | 590
-----------------------------------------
 [2026-07-10T14:22:49+00:00] (id:413)
 🔥شب هم چالش کانفیگ نامحدود داریم
 ساعت 22:00
@@ -76,6 +49,59 @@
 ⚡️تست رایگان هم داریم میتونید بگیرید
 برای خرید پیام بده👇
 @alirezab_a
+―――
+@v2xay
+----------------------------------------
+[2026-11-09T19:12:21+00:00] (id:431)
+🔥 اپدیت PattNG
+---
+اولی برای همه دستگاهاس
+دومی دستگاه‌های جدید ۲۰۲۰ به بالا
+سومی هم اگه گوشیتون قدیمی یا بیشتر دستگاهای ۲۰۱۹ به پایین
+---
+@v2xay
+----------------------------------------
+[2026-11-09T19:12:24+00:00] (id:434)
+🔥💥کانفیگ برای PattNG & پروکسی برای شما خوشگلا
+لوکیشن‌هاش | 🌍🇩🇪🇮🇹🇮🇷
+
+⚡️مناسب هر اپراتوری - برای کپی ی دست بزن روش⚡️
+---
+کانفیگات👇⁸ | فعالن ✅️
+aether://162.159.198.245:443?protocol=masque&scan=balanced&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto#All%20Contery%F0%9F%8C%8D%20%7C%20%40v2xay%20%28Psiphon%29
+aether://162.159.199.111:443?protocol=masque&scan=balanced&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=DE#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40v2xay%20%28Psiphon%29
+aether://162.159.199.145:443?protocol=masque&scan=balanced&ip=both&transport=h2&psiphon=chain&psiphon_mode=auto&region=IT#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20%40v2xay%20%28Psiphon%29
+aether://162.159.198.245:443?protocol=masque&scan=balanced&ip=both&transport=h2#IR%201%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20%40v2xay
+aether://162.159.199.111:443?protocol=masque&scan=balanced&ip=both&transport=h2#IR%202%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20%40v2xay
+aether://162.159.199.145:443?protocol=masque&scan=balanced&ip=both&transport=h2#IR%203%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20%40v2xay
+aether://162.159.199.168:443?protocol=masque&scan=balanced&ip=both&transport=h2#IR%204%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20%40v2xay
+aether://162.159.199.110:443?protocol=masque&scan=balanced&ip=both&transport=h2#IR%205%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20%40v2xay
+پروکسیات👇⁵⁷| فعالن ✅️
+1.PROXY 2.PROXY 3.PROXY
+4.PROXY 5.PROXY 6.PROXY
+7.PROXY 8.PROXY 9.PROXY
+10.PROXY11.PROXY12.PROXY
+13.PROXY14.PROXY15.PROXY
+16.PROXY17.PROXY18.PROXY
+19.PROXY20.PROXY21.PROXY
+22.PROXY23.PROXY24.PROXY
+25.PROXY26.PROXY27.PROXY
+31.PROXY32.PROXY33.PROXY
+34.PROXY35.PROXY36.PROXY
+37.PROXY38.PROXY39.PROXY
+40.PROXY41.PROXY42.PROXY
+43.PROXY44.PROXY45.PROXY
+46.PROXY47.PROXY48.PROXY
+49.PROXY50.PROXY51.PROXY
+52.PROXY53.PROXY54.PROXY
+55.PROXY56.PROXY57.PROXY
+58.PROXY59.PROXY60.PROXY
+❌️نکته :
+برای بار اول ممکنه تا ۱ دقیقه هم طول بکشه وصل شه ولی بعدش سریع وصل میشه
+اینم لینک برای دانلود برنامه
+―――
+ری‌اکشن‌ بیشتر کانفیگ های بیشتررر🔥
+بفرستید سمت دوستاتونممممم ❤️
 ―――
 @v2xay
 ----------------------------------------

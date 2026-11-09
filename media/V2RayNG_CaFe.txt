@@ -1,10 +1,7 @@
-آخرین آپدیت: 2026-11-09 10:21:42 UTC
+آخرین آپدیت: 2026-11-09 20:53:04 UTC
 کانال: @V2RayNG_CaFe
 ========================================
 
-[2026-11-02T20:35:49+00:00] (id:4469)
-(بدون متن)
-----------------------------------------
 [2026-11-02T20:55:39+00:00] (id:4470)
 صدا توافق میاد...
 ----------------------------------------
@@ -90,4 +87,7 @@ dHJvamFuOi8vTWlUaVZQTkAxNjcuODIuNjQuNzo0NDM/cGF0aD0lMkYtLS0lNDBNaVRpVlBOLS0tJTQw
 ----------------------------------------
 [2026-11-08T21:05:08+00:00] (id:4495)
 (بدون متن)
+----------------------------------------
+[2026-11-09T16:52:42+00:00] (id:4497)
+dHJvamFuOi8vTWlUaVZQTkAxNjcuODIuNjQuNzo0NDM/cGF0aD0lMkYtLS0lNDBNaVRpVlBOLS0tJTQwTWlUaVZQTiZzZWN1cml0eT10bHMmYWxwbj1odHRwJTJGMS4xJmhvc3Q9TWlUaVZQTi0xLW1pdGl2cG4uYWMuaXImZnA9Y2hyb21lJnR5cGU9d3MmYWxsb3dJbnNlY3VyZT0xJnNuaT1jZG4uYWthbWFpLnN0ZWFtc3RhdGljLmNvbSM…
 ----------------------------------------
