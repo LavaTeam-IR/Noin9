@@ -1,4 +1,4 @@
-آخرین آپدیت: 2026-11-10 18:31:21 UTC
+آخرین آپدیت: 2026-11-10 23:39:51 UTC
 کانال: @EliV2ray
 ========================================
 
@@ -263,7 +263,6 @@ https://github.com/patterniha/PattNG/releases
 
 👇Click and Copy👇
 https://raw.githubusercontent.com/eliv2-hub/ELiV2-RAY/refs/heads/main/Elenaaaa-ELiV2.txt
-
 ❌ این ساب لینک رایگان هست و شاید با بعضی از اپوراتور ها با سرعت بالا متصل نباشد ( تست پینگ بگیرید)
 
 ❗️ کلاینت پیشنهادی V2box و ZedSeure
