@@ -1,14 +1,7 @@
-آخرین آپدیت: 2026-11-15 14:08:12 UTC
+آخرین آپدیت: 2026-11-15 19:45:55 UTC
 کانال: @FreakConfig
 ========================================
 
-[2026-11-14T09:35:14+00:00] (id:10631)
-وضعیت:
-@FreakConfig
-----------------------------------------
-[2026-11-14T12:40:28+00:00] (id:10638)
-@FreakConfig
-----------------------------------------
 [2026-11-14T14:01:13+00:00] (id:10640)
 @FreakConfig
 ----------------------------------------
@@ -36,5 +29,20 @@
 @FreakConfig
 ----------------------------------------
 [2026-11-15T13:39:01+00:00] (id:10655)
+@FreakConfig
+----------------------------------------
+[2026-11-15T14:12:01+00:00] (id:10656)
+پرامپت دیزنی دو بعدی:
+
+Transform the provided image into classic Disney-inspired 2D animation. Preserve recognizable facial identity, hairstyle, outfit, pose, all animals, objects and composition. Use clean hand-drawn outlines, expressive faces, flowing shapes, harmonious vibrant colors and soft cel shading. Apply the same hand-drawn style consistently to the entire scene. No 3D rendering, photorealism, text or watermarks.
+
+✨ @VitrinAi
+----------------------------------------
+[2026-11-15T15:49:01+00:00] (id:10658)
+حضرت یوسف اگر میتونه وایسه پای گاز به سیب زمینی ناخنک نزنه، دختر رو که ماهم میتونیم
+
+@FreakConfig
+----------------------------------------
+[2026-11-15T16:32:01+00:00] (id:10659)
 @FreakConfig
 ----------------------------------------
