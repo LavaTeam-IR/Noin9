@@ -1,15 +1,7 @@
-آخرین آپدیت: 2026-11-16 03:00:28 UTC
+آخرین آپدیت: 2026-11-16 10:55:49 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-11-14T15:16:21+00:00] (id:17841)
-PattN v7.25.6-P42 Windows
-
-💻 نسخه جدید دسکتاپ فورک بهینه شده V2rayN مناسب نت ایران
- ویندوز مک لینوکس
-https://github.com/patterniha/PattN/releases/tag/7.25.6-P42
-@ShadowProxy66
-----------------------------------------
 [2026-11-14T15:21:37+00:00] (id:17846)
 PattNG 2.4.0-P72
 
@@ -55,4 +47,29 @@ Throne-1.4.2-windowslegacy64.zip
 5■آخرین کانفیگ اضافه شده ایپی شماست
 
 🫆@ShadowProxy66
+----------------------------------------
+[2026-11-16T06:04:50+00:00] (id:17865)
+(بدون متن)
+----------------------------------------
+[2026-11-16T06:05:16+00:00] (id:17866)
+1.PROXY 2.PROXY 3.PROXY
+4.PROXY 5.PROXY 6.PROXY
+7.PROXY 8.PROXY 9.PROXY
+10.PROXY11.PROXY12.PROXY
+13.PROXY14.PROXY15.PROXY
+16.PROXY17.PROXY18.PROXY
+19.PROXY20.PROXY21.PROXY
+22.PROXY23.PROXY24.PROXY
+25.PROXY26.PROXY27.PROXY
+28.PROXY29.PROXY30.PROXY
+31.PROXY32.PROXY33.PROXY
+34.PROXY35.PROXY36.PROXY
+37.PROXY38.PROXY39.PROXY
+40.PROXY41.PROXY42.PROXY
+43.PROXY44.PROXY45.PROXY
+46.PROXY47.PROXY48.PROXY
+49.PROXY50.PROXY51.PROXY
+52.PROXY53.PROXY54.PROXY
+55.PROXY56.PROXY57.PROXY
+58.PROXY59.PROXY60.PROXY
 ----------------------------------------
