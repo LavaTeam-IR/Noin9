@@ -1,90 +1,7 @@
-آخرین آپدیت: 2026-11-17 11:56:21 UTC
+آخرین آپدیت: 2026-11-17 20:23:31 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-11-15T16:08:12+00:00] (id:17855)
-Android Throne 2.0.7
-----------------------------------------
-[2026-11-15T16:09:08+00:00] (id:17863)
-Throne-1.4.2-windowslegacy64.zip
-----------------------------------------
-[2026-11-15T16:21:12+00:00] (id:17864)
-📍آموزش ساخت کانفیگ MASQUE/H2 با کلاینت Throne و زنجیره (چین) اون با کانفیگ V2ray و Open و یا هر کانفیگ دیگه داشتید
-
-1■ آموزش ساخت کانفیگ MASQUE/H2 که به تنهای قابل استفاده است اما ایپی ایران هس اگه به لوکیشن دیگه نیاز داشتید میتونید مراحل دیگه رو انجام بدید
-
-2■یه کانفیگ V2ray یا Open اضافه کنید مهم نیست با نت شما وصل بشه یا نشه مهم اینه که کانفیگ سالم باشه
-
-3■ اول کانفیگ MASQUE رو توی زنجیره اد کنید بعد کانفیگ V2ray یا Open و متصل شید
-
-4■اگه کانفیگ اوپن یوزر و پسورد داشت بعد اد کردن کانفیگ ، مداد رو بزنید و یوزر و پسورد مورد نیاز رو در جای خود وارد و ذخیره کنید
-
-5■آخرین کانفیگ اضافه شده ایپی شماست
-
-🫆@ShadowProxy66
-----------------------------------------
-[2026-11-16T06:04:50+00:00] (id:17865)
-(بدون متن)
-----------------------------------------
-[2026-11-16T06:05:16+00:00] (id:17866)
-1.PROXY 2.PROXY 3.PROXY
-4.PROXY 5.PROXY 6.PROXY
-7.PROXY 8.PROXY 9.PROXY
-10.PROXY11.PROXY12.PROXY
-13.PROXY14.PROXY15.PROXY
-16.PROXY17.PROXY18.PROXY
-19.PROXY20.PROXY21.PROXY
-22.PROXY23.PROXY24.PROXY
-25.PROXY26.PROXY27.PROXY
-28.PROXY29.PROXY30.PROXY
-31.PROXY32.PROXY33.PROXY
-34.PROXY35.PROXY36.PROXY
-37.PROXY38.PROXY39.PROXY
-40.PROXY41.PROXY42.PROXY
-43.PROXY44.PROXY45.PROXY
-46.PROXY47.PROXY48.PROXY
-49.PROXY50.PROXY51.PROXY
-52.PROXY53.PROXY54.PROXY
-55.PROXY56.PROXY57.PROXY
-58.PROXY59.PROXY60.PROXY
-----------------------------------------
-[2026-11-16T12:00:38+00:00] (id:17867)
-(بدون متن)
-----------------------------------------
-[2026-11-16T12:00:47+00:00] (id:17868)
-Happ v4.11.2.apk
-
-نسخه جدیدکلاینت Happ برای اجرای انواع کانفیگهای V2ray
-(اوپن سورس نیست)
-
-لینک وبسایت
-https://www.happ.su
-لینک گیتهاب
-https://github.com/Happ-proxy
-لینک دانلود اندروید از گیتهاب
-https://github.com/Happ-proxy/happ-android/releases
-لینک دانلود اندروید از گوگل‌پلی
-(حذف شده)
-https://play.google.com/store/apps/details?id=com.happproxy
-لینک دانلود نسخه آیفون
-https://apps.apple.com/us/app/happ-proxy-utility/id6504287215?platform=iphone
-لینک دانلود ویندور مک لینوکس 
-https://github.com/Happ-proxy/happ-desktop
-
-✨@ShadowProxy66
-----------------------------------------
-[2026-11-16T17:14:02+00:00] (id:17869)
-(بدون متن)
-----------------------------------------
-[2026-11-16T17:14:41+00:00] (id:17870)
-📶 ۱۴۴ کانفیگ V2ray تست شده با نت همراه اول🔵
-🔁بقیه اپراتورها خودشون تست کنند
-🪧(فایل رو باز کنید محتویات رو کپی کنید و در هر کلاینتی که مدنظر دارید پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید اگه وصل نشد کلاینتهای دیگه تست کنید)
-🔅@ShadowProxy66
-----------------------------------------
-[2026-11-16T17:20:15+00:00] (id:17871)
-144 V2ray config MCI.txt
-----------------------------------------
 [2026-11-16T17:38:53+00:00] (id:17872)
 📶 ۱۱۳ کانفیگ V2ray تست شده با نت ایرانسل🟡
 🔁بقیه اپراتورها خودشون تست کنند
@@ -118,4 +35,111 @@ https://github.com/patterniha/PattNG/releases/tag/2.4.0-P73
 🔺آموزش زنجیره
 🔻آموزش اتصال وارپ+سایفون
 🫆@ShadowProxy66
+----------------------------------------
+[2026-11-17T15:24:44+00:00] (id:17880)
+(بدون متن)
+----------------------------------------
+[2026-11-17T15:26:14+00:00] (id:17881)
+1.PROXY 2.PROXY 3.PROXY
+4.PROXY 5.PROXY 6.PROXY
+7.PROXY 8.PROXY 9.PROXY
+10.PROXY11.PROXY12.PROXY
+13.PROXY14.PROXY15.PROXY
+16.PROXY17.PROXY18.PROXY
+19.PROXY20.PROXY21.PROXY
+22.PROXY23.PROXY24.PROXY
+25.PROXY26.PROXY27.PROXY
+28.PROXY29.PROXY30.PROXY
+31.PROXY32.PROXY33.PROXY
+34.PROXY35.PROXY36.PROXY
+37.PROXY38.PROXY39.PROXY
+40.PROXY41.PROXY42.PROXY
+43.PROXY44.PROXY45.PROXY
+46.PROXY47.PROXY48.PROXY
+49.PROXY50.PROXY51.PROXY
+52.PROXY53.PROXY54.PROXY
+55.PROXY56.PROXY57.PROXY
+58.PROXY59.PROXY60.PROXY
+
+پروکسی تلگرام برای اختلال شدید بعضی شهرها
+🫆@ShadowProxy66
+----------------------------------------
+[2026-11-17T15:46:04+00:00] (id:17882)
+(بدون متن)
+----------------------------------------
+[2026-11-17T15:46:13+00:00] (id:17883)
+🔘 Psiphon VPN
+
+🔄 نسخه جدید سایفون نسخه معمولی
+
+گوگل‌پلی (اندروید)
+https://play.google.com/store/apps/details?id=com.psiphon3
+
+📍برای بقیه سیستم‌عاملها:
+
+بات تلگرام سایفون (اندروید ایفون ویندوز)
+https://t.me/Psiphon_FA_Bot
+وبسایت سایفون (اندروید ایفون مک ویندوز)
+https://psiphon.ca/fa/download.html
+----------------------------------------
+[2026-11-17T16:09:12+00:00] (id:17884)
+تعدادی پروکسی برای سایفون
+
+📍socks:
+
+192.111.138.29:4145
+199.229.254.129:4145
+184.170.245.148:4145
+72.37.216.68:4145
+199.102.105.242:4145
+74.119.144.60:4145
+192.111.137.35:4145
+192.252.215.2:4145
+95.216.45.44:10101
+65.21.252.66:10807
+192.252.208.67:14287
+198.8.94.174:39078
+
+📍http:
+
+186.101.251.197:8080
+102.244.78.61:8080
+160.19.18.243:8080
+103.179.218.90:8080
+109.224.242.251:8080
+103.147.247.83:8080
+103.186.97.193:8080
+183.178.50.58:8080
+102.244.78.61:8080
+154.73.28.89:8080
+103.160.41.8:8080
+
+🫆@ShadowProxy66
+----------------------------------------
+[2026-11-17T16:40:36+00:00] (id:17885)
+(بدون متن)
+----------------------------------------
+[2026-11-17T16:40:43+00:00] (id:17886)
+تعدادی کانفیگ webtunnel برای اختلال شدید برای کلاینت SlipNet full
+----------------------------------------
+[2026-11-17T16:45:32+00:00] (id:17887)
+(بدون متن)
+----------------------------------------
+[2026-11-17T16:45:38+00:00] (id:17888)
+کانفیک اضطراری موقت whitedns
+
+soar://eyJwcm9maWxlIjp7ImlkIjoiOTA0NDdhYzJiNzRkOTQyZDMwZWVlZDc1YTY4NTI5M2IiLCJuYW1lIjoiV2hpdGVkbnMtRW1lcmdlbmN5IENvbmZpZyIsInJlc29sdmVycyI6WyIxLjEuMS4xIiwiOC44LjguOCJdLCJzZXJ2ZXIiOnsiZG9tYWluIjoic2JjaHZxdnhqd2tjMm1obzV2MjJuYi5zb2FyLndoaXRlZG5zLmRvd25sb2FkIiwicHVibGljX2tleSI6IlgvS1E3eWx1czV5VjFST2FhZjI3MnNITmwzd3JWd2wweFNOVFVKaGFvc0k9In0sInNvYXJTZXR0aW5ncyI6eyJ0cmFuc3BvcnQiOiJhdXRvIiwiZGlzY292ZXJ5Ijp0cnVlLCJkaXNjb3ZlcnlXYW50IjoyLCJkaXNjb3ZlcnlDb25jdXJyZW5jeSI6MiwiZGlzY292ZXJ5UGFjZU1zIjoxMDAwLCJzYWZlUU5hbWUiOjEwMSwibWF4UU5hbWUiOjI1MywibWF4QW5zd2VyIjoxMjMyLCJob2xkTXMiOjUwMCwibWF4SW5mbGlnaHQiOjEyOCwibWF4UGF0aFdpbmRvdyI6MzIsIm1heFN0cmVhbXMiOjEyOCwic3RyZWFtV2luZG93S2lCIjoyNTYsInNlbmRCdWZmZXJLaUIiOjY0LCJzZXNzaW9uSWRsZVNlY29uZHMiOjkwLCJkaWFsVGltZW91dFNlY29uZHMiOjkwLCJjb3VudHJ5IjoiSVIifX0sInNjaGVtYSI6IndoaXRlZG5zLnByb2ZpbGUiLCJ2ZXJzaW9uIjoxfQ
+cottendns://eyJwcm9maWxlIjp7ImVuZ2luZSI6ImNvdHRlbmRucyIsImlkIjoiOTA0NDdhYzJiNzRkOTQyZDMwZWVlZDc1YTY4NTI5M2I6Y290dGVuIiwibmFtZSI6IldoaXRlZG5zLUVtZXJnZW5jeSBDb25maWcgwrcgQ290dGVuIiwicmVzb2x2ZXJzIjpbIjEuMS4xLjEiLCI4LjguOC44Il0sInNlcnZlciI6eyJkb21haW4iOiJjb3Quc2JjaHZxdnhqd2tjMm1obzV2MjJuYi5zb2FyLndoaXRlZG5zLmRvd25sb2FkIiwiZW5jcnlwdGlvbl9rZXkiOiJjNDQwZGViYWU5OTU2ZTg4NjdkNDkxOTk3NmQ1MjhjMWRmZWEwYTMwN2M5ZTEzMzAxYzk4ZDIxMTc0MzVlY2U5IiwiZW5jcnlwdGlvbl9tZXRob2QiOjV9fSwic2NoZW1hIjoid2hpdGVkbnMucHJvZmlsZSIsInZlcnNpb24iOjF9
+masterdns://eyJwcm9maWxlIjp7ImVuZ2luZSI6Im1hc3RlcmRucyIsImlkIjoiOTA0NDdhYzJiNzRkOTQyZDMwZWVlZDc1YTY4NTI5M2I6bWFzdGVyZG5zIiwibmFtZSI6IldoaXRlZG5zLUVtZXJnZW5jeSBDb25maWcgwrcgTWFzdGVyRE5TIiwic2VydmVyIjp7ImRvbWFpbiI6Im1kbnMtMS5zYmNodnF2eGp3a2MybWhvNXYyMm5iLnNvYXIud2hpdGVkbnMuZG93bmxvYWQiLCJlbmNyeXB0aW9uX2tleSI6Ijk0NjlhNGQ1NWY5Y2EyYWU5MzRlMWQ3ZjYwMGQzNDYxNzc4YTNmOTZhMDhlMzU4NzliNmUyMDc5MDNhOWE1OTEiLCJlbmNyeXB0aW9uX21ldGhvZCI6NX19LCJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MX0
+----------------------------------------
+[2026-11-17T18:24:40+00:00] (id:17889)
+ببخشید اولویت با مناطق و شهرهای هست که اختلال بیشتر دارن چند پست بالا برای این عزیزان بود
+----------------------------------------
+[2026-11-17T18:24:46+00:00] (id:17890)
+(بدون متن)
+----------------------------------------
+[2026-11-17T18:25:35+00:00] (id:17891)
+📶 ۱۲۷ کانفیگ V2ray متصل با همه اپراتورها
+🪧(فایل رو باز کنید محتویات رو کپی کنید و در هر کلاینتی که مدنظر دارید پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید اگه وصل نشد کلاینتهای دیگه تست کنید)
+🔅@ShadowProxy66
 ----------------------------------------
