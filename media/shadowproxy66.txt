@@ -1,68 +1,7 @@
-آخرین آپدیت: 2026-11-19 08:41:04 UTC
+آخرین آپدیت: 2026-11-19 17:39:35 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-11-17T16:09:12+00:00] (id:17884)
-تعدادی پروکسی برای سایفون
-
-📍socks:
-
-192.111.138.29:4145
-199.229.254.129:4145
-184.170.245.148:4145
-72.37.216.68:4145
-199.102.105.242:4145
-74.119.144.60:4145
-192.111.137.35:4145
-192.252.215.2:4145
-95.216.45.44:10101
-65.21.252.66:10807
-192.252.208.67:14287
-198.8.94.174:39078
-
-📍http:
-
-186.101.251.197:8080
-102.244.78.61:8080
-160.19.18.243:8080
-103.179.218.90:8080
-109.224.242.251:8080
-103.147.247.83:8080
-103.186.97.193:8080
-183.178.50.58:8080
-102.244.78.61:8080
-154.73.28.89:8080
-103.160.41.8:8080
-
-🫆@ShadowProxy66
-----------------------------------------
-[2026-11-17T16:40:36+00:00] (id:17885)
-(بدون متن)
-----------------------------------------
-[2026-11-17T16:40:43+00:00] (id:17886)
-تعدادی کانفیگ webtunnel برای اختلال شدید برای کلاینت SlipNet full
-----------------------------------------
-[2026-11-17T16:45:32+00:00] (id:17887)
-(بدون متن)
-----------------------------------------
-[2026-11-17T16:45:38+00:00] (id:17888)
-کانفیک اضطراری موقت whitedns
-
-soar://eyJwcm9maWxlIjp7ImlkIjoiOTA0NDdhYzJiNzRkOTQyZDMwZWVlZDc1YTY4NTI5M2IiLCJuYW1lIjoiV2hpdGVkbnMtRW1lcmdlbmN5IENvbmZpZyIsInJlc29sdmVycyI6WyIxLjEuMS4xIiwiOC44LjguOCJdLCJzZXJ2ZXIiOnsiZG9tYWluIjoic2JjaHZxdnhqd2tjMm1obzV2MjJuYi5zb2FyLndoaXRlZG5zLmRvd25sb2FkIiwicHVibGljX2tleSI6IlgvS1E3eWx1czV5VjFST2FhZjI3MnNITmwzd3JWd2wweFNOVFVKaGFvc0k9In0sInNvYXJTZXR0aW5ncyI6eyJ0cmFuc3BvcnQiOiJhdXRvIiwiZGlzY292ZXJ5Ijp0cnVlLCJkaXNjb3ZlcnlXYW50IjoyLCJkaXNjb3ZlcnlDb25jdXJyZW5jeSI6MiwiZGlzY292ZXJ5UGFjZU1zIjoxMDAwLCJzYWZlUU5hbWUiOjEwMSwibWF4UU5hbWUiOjI1MywibWF4QW5zd2VyIjoxMjMyLCJob2xkTXMiOjUwMCwibWF4SW5mbGlnaHQiOjEyOCwibWF4UGF0aFdpbmRvdyI6MzIsIm1heFN0cmVhbXMiOjEyOCwic3RyZWFtV2luZG93S2lCIjoyNTYsInNlbmRCdWZmZXJLaUIiOjY0LCJzZXNzaW9uSWRsZVNlY29uZHMiOjkwLCJkaWFsVGltZW91dFNlY29uZHMiOjkwLCJjb3VudHJ5IjoiSVIifX0sInNjaGVtYSI6IndoaXRlZG5zLnByb2ZpbGUiLCJ2ZXJzaW9uIjoxfQ
-cottendns://eyJwcm9maWxlIjp7ImVuZ2luZSI6ImNvdHRlbmRucyIsImlkIjoiOTA0NDdhYzJiNzRkOTQyZDMwZWVlZDc1YTY4NTI5M2I6Y290dGVuIiwibmFtZSI6IldoaXRlZG5zLUVtZXJnZW5jeSBDb25maWcgwrcgQ290dGVuIiwicmVzb2x2ZXJzIjpbIjEuMS4xLjEiLCI4LjguOC44Il0sInNlcnZlciI6eyJkb21haW4iOiJjb3Quc2JjaHZxdnhqd2tjMm1obzV2MjJuYi5zb2FyLndoaXRlZG5zLmRvd25sb2FkIiwiZW5jcnlwdGlvbl9rZXkiOiJjNDQwZGViYWU5OTU2ZTg4NjdkNDkxOTk3NmQ1MjhjMWRmZWEwYTMwN2M5ZTEzMzAxYzk4ZDIxMTc0MzVlY2U5IiwiZW5jcnlwdGlvbl9tZXRob2QiOjV9fSwic2NoZW1hIjoid2hpdGVkbnMucHJvZmlsZSIsInZlcnNpb24iOjF9
-masterdns://eyJwcm9maWxlIjp7ImVuZ2luZSI6Im1hc3RlcmRucyIsImlkIjoiOTA0NDdhYzJiNzRkOTQyZDMwZWVlZDc1YTY4NTI5M2I6bWFzdGVyZG5zIiwibmFtZSI6IldoaXRlZG5zLUVtZXJnZW5jeSBDb25maWcgwrcgTWFzdGVyRE5TIiwic2VydmVyIjp7ImRvbWFpbiI6Im1kbnMtMS5zYmNodnF2eGp3a2MybWhvNXYyMm5iLnNvYXIud2hpdGVkbnMuZG93bmxvYWQiLCJlbmNyeXB0aW9uX2tleSI6Ijk0NjlhNGQ1NWY5Y2EyYWU5MzRlMWQ3ZjYwMGQzNDYxNzc4YTNmOTZhMDhlMzU4NzliNmUyMDc5MDNhOWE1OTEiLCJlbmNyeXB0aW9uX21ldGhvZCI6NX19LCJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MX0
-----------------------------------------
-[2026-11-17T18:24:40+00:00] (id:17889)
-ببخشید اولویت با مناطق و شهرهای هست که اختلال بیشتر دارن چند پست بالا برای این عزیزان بود
-----------------------------------------
-[2026-11-17T18:24:46+00:00] (id:17890)
-(بدون متن)
-----------------------------------------
-[2026-11-17T18:25:35+00:00] (id:17891)
-📶 ۱۲۷ کانفیگ V2ray متصل با همه اپراتورها
-🪧(فایل رو باز کنید محتویات رو کپی کنید و در هر کلاینتی که مدنظر دارید پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید اگه وصل نشد کلاینتهای دیگه تست کنید)
-🔅@ShadowProxy66
-----------------------------------------
 [2026-11-17T21:45:11+00:00] (id:17892)
 📶 ۸۰ کانفیگ V2ray تست شده با نت مخابرات🤎
 🔁بقیه اپراتورها خودشون تست کنند
@@ -114,14 +53,44 @@ masterdns://eyJwcm9maWxlIjp7ImVuZ2luZSI6Im1hc3RlcmRucyIsImlkIjoiOTA0NDdhYzJiNzRk
 FlClash v0.9.4
 نسخه جدید کلاینت
 
-لینک دانلود از وبسایت
-https://flclash.cc/en/download
 لینک دانلود از گیتهاب
 https://chen08209.github.io/FlClash/#download
+
 https://github.com/chen08209/FlClash/releases/tag/v0.9.4
 تغییرات زیاده گیتهاب مطالعه کنید
 کانفیگ کلش
 آموزش استفاده
 آموزش ساخت لینک ساب
 🫆 @ShadowProxy66
+----------------------------------------
+[2026-11-19T09:14:48+00:00] (id:17904)
+(بدون متن)
+----------------------------------------
+[2026-11-19T09:15:47+00:00] (id:17905)
+کانفیگ کلش ۱۰۲۳ سرور
+Bettbox & FlClash
+Clash meta & Clash Mi
+بعد اد کردن قسمت پروفایل تست پینگ بگیرید و نوع انتخاب پروکسی رو خودکار بذارید باز هم وصل نشد از قسمت دستی سرور مناسب رو انتخاب کنید
+🫆@ShadowProxy66
+----------------------------------------
+[2026-11-19T10:33:03+00:00] (id:17906)
+clash-1023-config.yaml
+----------------------------------------
+[2026-11-19T16:17:01+00:00] (id:17908)
+🔗لینک‌های ساب دائمی و اختصاصی چنل  📍آپدیت هر ۷ ساعت  ■لینک ساب 1 https://sub.shadowproxy66.workers.dev/sub/736218dc-3cdf-4e93-bb5b-1d726418e43e#ShadowProxy66(1) ■لینک ساب 2 https://sub.shadowproxy66.workers.dev/sub/e298329f-2274-4b24-8d7c-84183c77dba8#ShadowProxy66(2)…
+----------------------------------------
+[2026-11-19T16:19:37+00:00] (id:17910)
+(بدون متن)
+----------------------------------------
+[2026-11-19T16:20:27+00:00] (id:17911)
+📶 ۱۴۰ کانفیگ V2ray تست شده با نت ایرانسل🟡
+🔁بقیه اپراتورها خودشون تست کنند
+🪧(فایل رو باز کنید محتویات رو کپی کنید و در هر کلاینتی که مدنظر دارید پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید اگه وصل نشد کلاینتهای دیگه تست کنید)
+🔅@ShadowProxy66
+----------------------------------------
+[2026-11-19T16:20:57+00:00] (id:17912)
+📶 ۱۷۶ کانفیگ V2ray تست شده با نت همراه اول🔵
+🔁بقیه اپراتورها خودشون تست کنند
+🪧(فایل رو باز کنید محتویات رو کپی کنید و در هر کلاینتی که مدنظر دارید پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید اگه وصل نشد کلاینتهای دیگه تست کنید)
+🔅@ShadowProxy66
 ----------------------------------------
