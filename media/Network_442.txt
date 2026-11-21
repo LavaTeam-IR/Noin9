@@ -1,10 +1,7 @@
-آخرین آپدیت: 2026-11-21 02:29:12 UTC
+آخرین آپدیت: 2026-11-21 10:05:30 UTC
 کانال: @Network_442
 ========================================
 
-[2026-11-16T11:34:45+00:00] (id:18483)
-https://www.apkmirror.com/apk/vpn-super-inc-2/vpn-super-unlimited-proxy/vpn-super-unlimited-proxy-2-36-0-release/
-----------------------------------------
 [2026-11-16T11:37:03+00:00] (id:18484)
 (بدون متن)
 ----------------------------------------
@@ -95,6 +92,21 @@ https://xiaomi-security.en.softonic.com/android
 App 👉 vpn super unlimited 
 
 Operator 👉 MCI 
+
+@Network_442
+----------------------------------------
+[2026-11-21T04:44:42+00:00] (id:18505)
+Vpn super unlimited 
+
+Test protocol connection 
+
+تست پروتکل ها 
+
+Ikev2 
+
+V2RAY 
+
+Super
 
 @Network_442
 ----------------------------------------
