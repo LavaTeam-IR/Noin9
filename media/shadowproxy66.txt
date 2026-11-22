@@ -1,98 +1,7 @@
-آخرین آپدیت: 2026-11-22 17:34:09 UTC
+آخرین آپدیت: 2026-11-22 22:45:43 UTC
 کانال: @shadowproxy66
 ========================================
 
-[2026-11-21T20:55:05+00:00] (id:17934)
-📶 ۲۳۰ کانفیگ V2ray تست شده با نت مخابرات🤎
-🔁بقیه اپراتورها خودشون تست کنند
-🪧(فایل رو باز کنید محتویات رو کپی کنید و در هر کلاینتی که مدنظر دارید پیست کنید تست پینگ بگیرید تایموت‌هارو حذف کنید و مابقی رو مرتب‌سازی کنید و به بهترین پینگ متصل شید اگه وصل نشد کلاینتهای دیگه تست کنید)
-🔅@ShadowProxy66
-----------------------------------------
-[2026-11-22T11:21:10+00:00] (id:17935)
-(بدون متن)
-----------------------------------------
-[2026-11-22T11:22:23+00:00] (id:17936)
-# Name = ShadowProxy66
-[Interface]
-PrivateKey = mBW+PWlJ3iAivB4W4/rh9FBz9z5ZJQdLQlOCVQwTakY=
-Address = 172.16.0.2/32, 2606:4700:110:80ce:4691:79c3:a78c:c905/128
-DNS = 8.8.8.8
-MTU = 1280
-Jc = 8
-Jmin = 79
-Jmax = 161
-S1 = 0
-S2 = 0
-S3 = 0
-S4 = 0
-H1 = 1
-H2 = 2
-H3 = 3
-H4 = 4
-I1 = <b 0xca0000000108c41d1c83387b846008ee210dab4a64b9d9004103dda7b97dcd76ad5d8bfeb3c3d88128646cd3112dfe0238f47242425fd159535859bb86778044fef3fc17a84bd80cae3537494a9d04b02ceffc9662dbb7dd53b6c41aab75ed5c5eada618208dbfe4aa2b2021e2ecfcd75646e0a50f7cdbc518da0e36700aad240b8c421008cfba377b8749288c87bd760ce9c53c2834d61c2ecf7d55d2b376bfd97a0ee4d37df30e7b1c396ea3361f09dccbac149d04b59dcaa424ba711f71405bec73ef29e07804c2761d77ac80072a84c4da52a0f4304bd1fc13f004ec69a7499694f11501365651e71a7b70b543da5b95032aabdfec97a2d4e137fe7c0921549551a378b348bc652ba7dfb0dc1f467e8d0235bffdb22e6d244074d2><r 928>
-I2 = <b 0x547260e32aac2d93c2><r 63>
-I3 = <b 0x5f7260e32aac2d93c2><r 88>
-ContentPaddingAddition = 117-119
-MaxHandshakeAttempts = 30
-KeepaliveTimeout = 17-18
-RejectAfterTime = 162-197
-RekeyAfterTime = 119-121
-RekeyTimeout = 8-9
-DisableCookies = on
-
-[Peer]
-PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-AllowedIPs = 0.0.0.0/0, ::/0
-Endpoint = 8.6.112.236:4500
-PersistentKeepalive = 25
-# Name = ShadowProxy66
-[Interface]
-PrivateKey = mBW+PWlJ3iAivB4W4/rh9FBz9z5ZJQdLQlOCVQwTakY=
-Address = 172.16.0.2/32, 2606:4700:110:80ce:4691:79c3:a78c:c905/128
-DNS = 8.8.8.8
-MTU = 1280
-Jc = 7
-Jmin = 71
-Jmax = 199
-S1 = 0
-S2 = 0
-S3 = 0
-S4 = 0
-H1 = 1
-H2 = 2
-H3 = 3
-H4 = 4
-I1 = <b 0xc0000000010870b467078f9b3a96086e0d11b2a1113fab0040fa4189d27e78a78c4cb4e7822d472da555b84f88791aefd839659eb8a5252ed2aa69449a4b8d3c55bef0a5d08f6c4745e26e57846b3679eaab674b292a017242ca6d425efe245042f6e21503c3680400a2865741a078927bd8d69b48fc4dca9fc9af345ef929a9ea29168d62429fa68fccbac16db894504a02c435910b6683c2fe566f7d716ed4dfc31902182124f55d90ab2237f73f8422a252ea7fb40b5dabf6a4dfeddf8f5394cc5b622c6310671255acee74f735f9f14c8dcd8bbde6e52678c1aa4d8fda41a5bd00fd083983ad77c1adcc2e27c06df15f6a3f21fcec7a8506751db3d0d24feb7796fc82776f9eb18db3063c06bdce3c57b815><r 940>
-I2 = <b 0x534ceb212bfafcad46><r 61>
-
-[Peer]
-PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-AllowedIPs = 0.0.0.0/0, ::/0
-Endpoint = 8.6.112.236:4500
-PersistentKeepalive = 25
-[Interface]
-PrivateKey = yFX4AUx9zukrNpt7RkeIC0hxCOQWIB+QlvQSBzvDnm0=
-Address = 172.16.0.2/32, 2606:4700:110:8c90:2f11:865e:f5ff:6aae/128
-DNS = 8.8.8.8
-MTU = 1280
-Jc = 7
-Jmin = 61
-Jmax = 83
-S1 = 0
-S2 = 0
-H1 = 1
-H2 = 2
-H3 = 3
-H4 = 4
-[Peer]
-PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-AllowedIPs = 0.0.0.0/0, ::/0
-Endpoint = 8.6.112.10:1701
-PersistentKeepalive = 25
-
-تعدادی کانفیگ وایرگارد وارپ برای کلاینت wgtunnel
-🫆@ShadowProxy66
-----------------------------------------
 [2026-11-22T11:25:45+00:00] (id:17937)
 [Interface]
 PrivateKey = 73JUfMVYvUcMc1G4NopGpDGwI5SmptwbaTakFKUv2qI=
@@ -171,4 +80,10 @@ https://github.com/Danialsamadi/v2go
 ----------------------------------------
 [2026-11-22T17:26:32+00:00] (id:17955)
 Android
+----------------------------------------
+[2026-11-22T18:29:10+00:00] (id:17965)
+Hiddify-rpm-x64.rpm
+----------------------------------------
+[2026-11-22T18:43:19+00:00] (id:17966)
+Hiddify-rpm-x64.rpm
 ----------------------------------------
