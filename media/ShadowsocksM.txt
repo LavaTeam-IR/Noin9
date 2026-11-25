@@ -1,24 +1,7 @@
-آخرین آپدیت: 2026-11-25 03:43:43 UTC
+آخرین آپدیت: 2026-11-25 13:32:15 UTC
 کانال: @ShadowsocksM
 ========================================
 
-[2026-11-18T20:12:27+00:00] (id:15288)
-🛡 فیلترشکن Se7en Pro برای ویندوز
-
-✨ قابلیت‌های کلیدی
-
-🔹 وارپ و وایرگارد (WARP / WireGuard): پشتیبانی از MASQUE، HTTP/3، سوییچ خودکار و تنظیم MTU.
-🔹 فاکسی (Foxy): تونل Fastly MASQUE با قابلیت دور زدن DPI و مدیریت چند حساب.
-🔹 لنترن و ویپ (Lantern / Veep): اتصال با انتخاب خودکار سرورهای سالم.
-🔹 شارد (SHARD): تکنیک TLS Fragmentation برای مقابله با فیلترینگ عمیق (DPI).
-🔹 سایفون (Psiphon): پشتیبانی از CDNهای کلادفلر، فستلی و آکامای.
-🔹 تور (Tor): پشتیبانی از پل‌های obfs4، Snowflake، WebTunnel و Conjure.
-🔹 سینگ‌باکس و ایکس‌ری (Sing-box / Xray): پشتیبانی از پروتکل‌های VLESS، VMess، Trojan و Shadowsocks.
-🔹 اتصالات زنجیره‌ای (Multi-hop): امکان ترکیب سرویس‌هایی مثل Tor روی WARP یا Psiphon روی V2Ray.
-
-🔗 صفحه گیتهاب پروژه
-🔗 لینک های دانلود آخرین نسخه
-----------------------------------------
 [2026-11-19T05:27:08+00:00] (id:15289)
 -----BEGIN ARGO VPN BRIDGE BLOCK-----
 eJwVzcuOgjAYQOF36VaTwZbRYOICkCFFvKAJArtCufwKVKtU
@@ -197,4 +180,15 @@ https://ant1ven0m.github.io/Bunker-Auto-Engine/
 [2026-11-23T17:55:05+00:00] (id:15307)
 نسخه جدید لنترن منتشر شده
 https://github.com/getlantern/lantern/releases/tag/v11.0.0
+----------------------------------------
+[2026-11-25T10:55:19+00:00] (id:15308)
+VLESS (200)
+VMESS (200)
+TROJAN (200)
+SS (200)
+SSR (0)
+HYSTERIA (0)
+HYSTERIA2 (200)
+TUIC (43)
+WIREGUARD (138)
 ----------------------------------------
