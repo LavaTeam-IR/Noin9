@@ -1,19 +1,7 @@
-آخرین آپدیت: 2026-11-25 13:32:15 UTC
+آخرین آپدیت: 2026-11-25 22:41:47 UTC
 کانال: @ShadowsocksM
 ========================================
 
-[2026-11-19T05:27:08+00:00] (id:15289)
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwVzcuOgjAYQOF36VaTwZbRYOICkCFFvKAJArtCufwKVKtU
-YeK7q/uT7/wjlcsbiBbNJ2N0YX0tGEdzlPfeI2sMLcUbldp0
-Ss8O+LY3JJGHk4jCFrwnJ9Zv0lSTzD13MTbuFB6QuUbPP/1m
-GQxFsFigMbpB2bJ7J/MPu3YCm1oH3WwLX2hLns1C67gqceDr
-VFmaLlUo6ahzh+ex4UrWJpgzCC8FoVUsyFWVPG73QFglnJ8d
-S6VfOydMXEGKv1X03b3eSMFE+w==
------END ARGO VPN BRIDGE BLOCK-----
-
-آرگــــــــــــــو
-----------------------------------------
 [2026-11-19T05:27:08+00:00] (id:15290)
 -----BEGIN ARGO VPN BRIDGE BLOCK-----
 eJwNzNtugjAYAOB36a0mk47DasLF1hFXJkjNFmrvykHyu9k6
@@ -191,4 +179,9 @@ HYSTERIA (0)
 HYSTERIA2 (200)
 TUIC (43)
 WIREGUARD (138)
+----------------------------------------
+[2026-11-25T18:12:19+00:00] (id:15309)
+Sub
+
+https://raw.githubusercontent.com/peweza/PUBLICSUB/refs/heads/main/PewezaVPNPubSUB
 ----------------------------------------
