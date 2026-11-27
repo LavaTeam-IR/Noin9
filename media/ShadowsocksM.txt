@@ -1,46 +1,7 @@
-آخرین آپدیت: 2026-11-27 04:48:43 UTC
+آخرین آپدیت: 2026-11-27 14:26:43 UTC
 کانال: @ShadowsocksM
 ========================================
 
-[2026-11-19T05:27:08+00:00] (id:15290)
------BEGIN ARGO VPN BRIDGE BLOCK-----
-eJwNzNtugjAYAOB36a0mk47DasLF1hFXJkjNFmrvykHyu9k6
-UGoxe3e9//Ld0Nj2AxiNlt4cnZT7NapBS9S61NZHsqhwPlaU
-hewngTVNJylSLAWDDaSm0dthV2aXHSZnBhbqFXHNw+bvfNrz
-OEZzNECn1fnSt48yS74p4xQHKsyjzi5k4JGjKMznSa77zPpF
-bwIf4EWL8tnJj+LVsm5fzbjPo+ubt+r+rk+lv+FFpZNsqrH6
-IlrQw6hcHoZtxGP0fwczlkMO
------END ARGO VPN BRIDGE BLOCK-----
-
-آرگــــــــــــــو
-----------------------------------------
-[2026-11-20T18:18:35+00:00] (id:15291)
-پروکسی تلگرام 
-
-https://t.me/proxy?server=bia.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=messi2.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=gallery.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=web.mangoseason7.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-
-https://t.me/proxy?server=731.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
-https://t.me/proxy?server=www.cloudflare.com.coldkeyw.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D
-
-https://t.me/proxy?server=pjjp1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
-
-https://t.me/proxy?server=nick.ciaude.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-----------------------------------------
 [2026-11-22T12:48:36+00:00] (id:15292)
 لینک ساب کانفیگ‌ V2ray:
 
@@ -184,4 +145,23 @@ WIREGUARD (138)
 Sub
 
 https://raw.githubusercontent.com/peweza/PUBLICSUB/refs/heads/main/PewezaVPNPubSUB
+----------------------------------------
+[2026-11-27T07:58:42+00:00] (id:15310)
+چندتا لینک اشتراک پیدا کردم براتون
+
+این یکی انگار از وی پی ان لنترن استخراج میشه
+https://lantern.darkpx.workers.dev/sub
+
+https://18.221.183.79:2096/hrrglrzl4vf706vy/lcw31cjkmofb90b7
+
+https://sub.pqtx.ir:2083/gpnsub/free-subscribation
+
+این یکی لینکش فیلترشده
+https://veneno.veneno.cyou/cars/zb022q9umyu7lb05
+
+با ورکر ترکیبشون کردم که همشو یه جا هم بتونین وارد کلاینت های مختلف کنین خروجی کلش هم داره
+https://great-mihomo-converter.leo-dream.workers.dev/mix-free-sub
+----------------------------------------
+[2026-11-27T07:59:01+00:00] (id:15311)
+https://github.com/2dust/v2rayN/releases/tag/8.0.2
 ----------------------------------------
