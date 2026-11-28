@@ -1,12 +1,7 @@
-آخرین آپدیت: 2026-11-27 22:51:02 UTC
+آخرین آپدیت: 2026-11-28 04:21:11 UTC
 کانال: @azadi_az_inja_migzare
 ========================================
 
-[2026-10-27T08:28:05+00:00] (id:10449)
-foxyvpn نسخه ویندوز
-
-https://github.com/mostafa5804/foxyvpn_windows
-----------------------------------------
 [2026-10-27T10:24:11+00:00] (id:10450)
 این واقعا عالیه الان میتونید ایکون اپ رو عوض کنید که تو ایست بازرسیها اپتون معلوم نشه
 ----------------------------------------
@@ -249,4 +244,13 @@ https://t.me/+DuYpTWnEExVmZTM6
 بعد بذارید بسته تون تموم بشه
 وقتی تموم شد و ارور تموم شدن بسته رو دیدید از master DNS استفاده کنید
 اگر DNS بازی بتونه پیدا کنه بدون خرید بسته به اینترنت وصل میشین😂
+----------------------------------------
+[2026-11-28T02:09:10+00:00] (id:10469)
+🚨 iPhone users are being hacked on a massive scale.
+
+If your iOS is even slightly outdated, all your data is at risk.
+
+Just opening a website can be enough to get you hacked.
+
+We're sending this warning to all our users on older iOS versions:
 ----------------------------------------
